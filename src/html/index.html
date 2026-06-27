@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>首页 - {{SITE_NAME}}</title>
+<meta name="description" content="{{SITE_DESCRIPTION}}">
+<link rel="canonical" href="{{SITE_URL}}/">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="首页 - {{SITE_NAME}}">
+<meta property="og:description" content="{{SITE_DESCRIPTION}}">
+<meta property="og:url" content="{{SITE_URL}}/">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:locale" content="zh_CN">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="首页 - {{SITE_NAME}}">
+<meta name="twitter:description" content="{{SITE_DESCRIPTION}}">
+</head>
+<body>
+
+<!-- HEADER -->
+
+<main class="main" id="main-content">
+  <!-- Hero Section -->
+  <section class="hero" aria-label="Site introduction">
+    <div class="hero__blob hero__blob--1" aria-hidden="true"></div>
+    <div class="hero__blob hero__blob--2" aria-hidden="true"></div>
+    <div class="container">
+      <h1 class="hero__title">
+        <span class="hero__title-accent" aria-hidden="true">&#10022;</span>
+        岁己 <span class="hero__title-en">SUI</span> Archive
+      </h1>
+      <p class="hero__subtitle">{{SITE_DESCRIPTION}}</p>
+      <p class="hero__desc">永久保存她公开发布的每一条动态、每一张图片、每一个瞬间。</p>
+    </div>
+  </section>
+
+  <!-- Year Selector -->
+  <section class="section" aria-label="Browse by year">
+    <div class="container">
+      <div id="year-tabs" class="year-tabs" role="tablist" aria-label="按年份浏览"></div>
+    </div>
+  </section>
+
+  <!-- Post List -->
+  <section class="section" aria-label="Posts">
+    <div class="container">
+      <div id="post-list" class="post-list" role="feed" aria-label="动态列表"></div>
+      <div id="scroll-sentinel" class="scroll-sentinel" aria-hidden="true"></div>
+    </div>
+  </section>
+</main>
+
+<!-- FOOTER -->
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

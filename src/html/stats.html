@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>统计 - {{SITE_NAME}}</title>
+<meta name="description" content="查看岁己SUI动态档案的统计数据，包括发布频率、图片数量、互动数据等。">
+<link rel="canonical" href="{{SITE_URL}}/stats">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="统计 - {{SITE_NAME}}">
+<meta property="og:description" content="查看岁己SUI动态档案的统计数据，包括发布频率、图片数量、互动数据等。">
+<meta property="og:url" content="{{SITE_URL}}/stats">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:locale" content="zh_CN">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="统计 - {{SITE_NAME}}">
+<meta name="twitter:description" content="查看岁己SUI动态档案的统计数据，包括发布频率、图片数量、互动数据等。">
+</head>
+<body>
+
+<!-- HEADER -->
+
+<main class="main" id="main-content">
+  <section class="section">
+    <div class="container">
+      <h1 class="section__title">统计</h1>
+      <p class="section__desc">岁己SUI动态档案的数据概览</p>
+
+      <!-- Overview Stat Cards -->
+      <div class="stat-cards" aria-label="概览统计">
+        <article class="stat-card">
+          <p class="stat-card__value" id="stat-total-posts">--</p>
+          <p class="stat-card__label">总动态数</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-card__value" id="stat-total-images">--</p>
+          <p class="stat-card__label">总图片数</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-card__value" id="stat-total-likes">--</p>
+          <p class="stat-card__label">总点赞数</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-card__value" id="stat-total-reposts">--</p>
+          <p class="stat-card__label">总转发数</p>
+        </article>
+      </div>
+
+      <!-- Activity Heatmap -->
+      <section class="section" aria-label="活跃热力图">
+        <h2 class="section__subtitle">活跃热力图</h2>
+        <div id="heatmap" class="heatmap" role="img" aria-label="发布活跃热力图"></div>
+      </section>
+
+      <!-- Charts -->
+      <section class="section" aria-label="图表">
+        <h2 class="section__subtitle">发布趋势</h2>
+        <div id="chart-posts" class="chart-container" role="img" aria-label="每月发布数量趋势图"></div>
+      </section>
+
+      <section class="section" aria-label="互动图表">
+        <h2 class="section__subtitle">互动数据</h2>
+        <div id="chart-engagement" class="chart-container" role="img" aria-label="互动数据图表"></div>
+      </section>
+    </div>
+  </section>
+</main>
+
+<!-- FOOTER -->
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

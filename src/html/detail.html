@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{POST_TITLE}} - {{SITE_NAME}}</title>
+<meta name="description" content="{{PAGE_DESCRIPTION}}">
+<link rel="canonical" href="{{CANONICAL_URL}}">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{POST_TITLE}} - {{SITE_NAME}}">
+<meta property="og:description" content="{{PAGE_DESCRIPTION}}">
+<meta property="og:url" content="{{CANONICAL_URL}}">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:locale" content="zh_CN">
+{{OG_IMAGE}}
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{POST_TITLE}} - {{SITE_NAME}}">
+<meta name="twitter:description" content="{{PAGE_DESCRIPTION}}">
+{{TWITTER_IMAGE}}
+<!-- Schema.org -->
+{{SCHEMA_JSON_LD}}
+</head>
+<body>
+
+<!-- HEADER -->
+
+<main class="main" id="main-content">
+  <article class="post-detail" itemscope itemtype="https://schema.org/SocialMediaPosting">
+    <div class="container">
+
+      <!-- Breadcrumb -->
+      <nav class="breadcrumb" aria-label="面包屑导航">
+        <ol class="breadcrumb__list">
+          <li class="breadcrumb__item"><a href="/" class="breadcrumb__link">首页</a></li>
+          <li class="breadcrumb__item breadcrumb__separator" aria-hidden="true">/</li>
+          <li class="breadcrumb__item breadcrumb__current" aria-current="page">动态详情</li>
+        </ol>
+      </nav>
+
+      <!-- Post Header -->
+      <header class="post-detail__header">
+        <time class="post-detail__date" datetime="{{PUBLISHED_AT}}" itemprop="datePublished">{{PUBLISHED_DATE_DISPLAY}}</time>
+        <p class="post-detail__meta">
+          <span class="post-detail__platform">平台: Bilibili</span>
+          <span class="post-detail__id">Post ID: {{PLATFORM_POST_ID}}</span>
+          <span class="post-detail__uuid">UUID: {{POST_UUID}}</span>
+        </p>
+      </header>
+
+      <!-- Post Text Content -->
+      <section class="post-detail__content" itemprop="articleBody">
+        <div class="post-detail__text">
+          {{POST_TEXT}}
+        </div>
+      </section>
+
+      <!-- Post Images -->
+      <section class="post-detail__images" aria-label="动态图片">
+        {{POST_IMAGES}}
+      </section>
+
+      <!-- Repost Info -->
+      <section class="post-detail__repost" aria-label="转发信息">
+        {{REPOST_INFO}}
+      </section>
+
+      <!-- Post Stats -->
+      <section class="post-detail__stats" aria-label="互动数据">
+        {{POST_STATS}}
+      </section>
+
+      <!-- Post Tags -->
+      <section class="post-detail__tags" aria-label="标签">
+        {{POST_TAGS}}
+      </section>
+
+      <!-- Source Link -->
+      <footer class="post-detail__footer">
+        <a
+          class="btn btn--outline"
+          href="{{SOURCE_URL}}"
+          target="_blank"
+          rel="noopener"
+          itemprop="url"
+        >查看原文</a>
+      </footer>
+
+      <!-- Prev / Next Navigation -->
+      <nav class="post-nav" aria-label="上一篇/下一篇">
+        {{PREV_NEXT}}
+      </nav>
+
+    </div>
+  </article>
+</main>
+
+<!-- FOOTER -->
+
+<script type="module" src="/js/post-detail.js"></script>
+</body>
+</html>

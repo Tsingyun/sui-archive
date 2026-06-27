@@ -1,0 +1,116 @@
+/* ==========================================================================
+   SUI Archive — Base Element Styles
+   Typography and default element styling with organic warmth
+   ========================================================================== */
+
+body {
+  font-family: var(--font-body);
+  color: var(--foreground);
+  background: var(--background);
+  line-height: var(--leading-normal);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ── Paper grain texture overlay ── */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  opacity: 0.03;
+  mix-blend-mode: multiply;
+  pointer-events: none;
+  z-index: 0;
+}
+
+/* ── Headings ── */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: var(--leading-tight);
+  margin-bottom: 0.5em;
+  color: var(--foreground);
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.25rem; }
+
+/* ── Paragraph ── */
+p {
+  margin-bottom: 1rem;
+  line-height: var(--leading-relaxed);
+}
+
+/* ── Links ── */
+a {
+  color: var(--primary);
+  transition: color var(--transition-normal);
+}
+
+a:hover {
+  color: #4A5C41;
+}
+
+/* ── Inline elements ── */
+strong {
+  font-weight: 700;
+}
+
+small {
+  font-size: var(--text-sm);
+}
+
+/* ── Blockquote ── */
+blockquote {
+  border-left: 3px solid var(--primary);
+  padding-left: var(--space-4);
+  margin: var(--space-6) 0;
+  font-style: italic;
+  color: var(--muted-foreground);
+}
+
+/* ── Code ── */
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  background: var(--muted);
+  padding: 0.2em 0.4em;
+  border-radius: var(--radius-sm);
+  font-size: 0.875em;
+}
+
+/* ── Highlight ── */
+mark {
+  background: rgba(93, 112, 82, 0.15);
+  color: var(--primary);
+  padding: 0.1em 0.3em;
+  border-radius: 3px;
+}
+
+/* ── Time ── */
+time {
+  color: var(--muted-foreground);
+  font-size: var(--text-sm);
+}
+
+/* ── Horizontal rule ── */
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: var(--space-8) 0;
+}
+
+/* ── Selection ── */
+::selection {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}

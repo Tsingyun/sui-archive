@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>画廊 - {{SITE_NAME}}</title>
+<meta name="description" content="浏览岁己SUI发布的所有图片，以瀑布流画廊形式呈现。">
+<link rel="canonical" href="{{SITE_URL}}/gallery">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="画廊 - {{SITE_NAME}}">
+<meta property="og:description" content="浏览岁己SUI发布的所有图片，以瀑布流画廊形式呈现。">
+<meta property="og:url" content="{{SITE_URL}}/gallery">
+<meta property="og:site_name" content="{{SITE_NAME}}">
+<meta property="og:locale" content="zh_CN">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="画廊 - {{SITE_NAME}}">
+<meta name="twitter:description" content="浏览岁己SUI发布的所有图片，以瀑布流画廊形式呈现。">
+</head>
+<body>
+
+<!-- HEADER -->
+
+<main class="main" id="main-content">
+  <section class="section">
+    <div class="container">
+      <h1 class="section__title">画廊</h1>
+      <p class="section__desc">浏览岁己SUI发布的所有图片</p>
+
+      <!-- Year Filter Tabs -->
+      <div id="gallery-year-tabs" class="year-tabs" role="tablist" aria-label="按年份筛选图片"></div>
+
+      <!-- Masonry Gallery Grid -->
+      <div id="gallery-grid" class="gallery-grid" role="list" aria-label="图片画廊"></div>
+
+      <!-- Load More -->
+      <div class="gallery-load-more" id="gallery-load-more">
+        <button class="btn btn--outline btn--lg" id="gallery-load-btn" type="button">加载更多</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<!-- FOOTER -->
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>
