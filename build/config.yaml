@@ -1,0 +1,67 @@
+# SUI Archive -- Build Configuration
+# ===================================
+# This file controls every aspect of the build pipeline.
+# See BUILD_SPEC.md section 1.4 for the full specification.
+
+site:
+  name: "岁己 SUI Archive"
+  url: "https://archive.suijisui.uk"
+  description: "虚拟主播岁己SUI的数字档案馆"
+  language: "zh-CN"
+  author: "SUI Archive Team"
+
+database:
+  path: "data/sui-archive.db"
+
+output:
+  dir: "deploy"
+  temp_dir: "_build"
+  clean_before_build: true
+
+json:
+  text_preview_length: 200
+  detail_dir: "data/detail"
+
+search:
+  enabled: true
+  max_text_length: 5000
+
+sitemap:
+  enabled: true
+  changefreq_default: "weekly"
+
+rss:
+  enabled: false
+  max_items: 50
+
+thumbnails:
+  enabled: true
+  variants:
+    - { width: 300, suffix: "w300" }
+    - { width: 600, suffix: "w600" }
+    - { width: 1200, suffix: "w1200" }
+  format: "webp"
+  quality: 80
+  gif_poster: true
+  gif_poster_width: 600
+
+pages:
+  posts_per_page: 50
+  gallery_columns: 3
+  generate_detail_pages: true
+  generate_tag_pages: true
+
+css:
+  files:
+    - variables.css
+    - reset.css
+    - base.css
+    - layout.css
+    - components.css
+    - pages.css
+    - utilities.css
+  output: "style.css"
+
+js:
+  dir: "js"
+  entry: "app.js"
