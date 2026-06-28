@@ -1,0 +1,18 @@
+name = "sui-archive-images"
+main = "worker.js"
+compatibility_date = "2024-01-01"
+
+# R2 bucket binding for image storage
+[[r2_buckets]]
+binding = "IMAGE_BUCKET"
+bucket_name = "sui-archive-images"
+
+# Route configuration — map the worker to the site's /images/* path
+# Uncomment and adjust when deploying with a custom domain route:
+# routes = [
+#   { pattern = "archive.suijisui.uk/images/*", zone_name = "suijisui.uk" }
+# ]
+
+# Optional: set environment variables for non-production environments
+# [vars]
+# ENVIRONMENT = "production"
