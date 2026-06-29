@@ -24,9 +24,14 @@ merge_and_archive.py
 media/sync_report.log
 media/*.log
 
-# Environment variables
+# Environment variables (.env is secret, .env.example is a template)
 .env
-.env.*
+.env.local
+.env.production
+!.env.example
+
+# Sync state
+.sync_failed.log
 
 # Editor
 .vscode/
