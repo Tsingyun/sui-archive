@@ -1,0 +1,28 @@
+{
+  "uuid": "86590176-b076-49f0-b087-8f2e766ef00a",
+  "platform_post_id": "845890029392756757",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-27T12:05:20+08:00",
+  "source_url": "https://t.bilibili.com/845890029392756757",
+  "plain_text": "哦哈哟学妹",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "605ea0ee-500a-41da-858c-267419c6fb0c",
+    "next_uuid": "01dd4447-bc5f-4292-8531-f665cea6b598"
+  }
+}

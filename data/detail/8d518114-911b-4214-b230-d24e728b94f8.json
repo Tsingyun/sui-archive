@@ -1,0 +1,28 @@
+{
+  "uuid": "8d518114-911b-4214-b230-d24e728b94f8",
+  "platform_post_id": "910650113213333504",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-20T00:27:32+08:00",
+  "source_url": "https://t.bilibili.com/910650113213333504",
+  "plain_text": "我在楼下等你房间灯关掉再走，快关灯睡觉吧，晚安",
+  "images": [],
+  "stats": {
+    "likes": 437,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11319b27-8299-4558-a552-f53261f2b05b",
+    "next_uuid": "77ab96a3-3999-4e66-9ccc-aaf6e5599a7f"
+  }
+}

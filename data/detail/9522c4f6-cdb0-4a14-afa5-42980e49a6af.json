@@ -1,0 +1,38 @@
+{
+  "uuid": "9522c4f6-cdb0-4a14-afa5-42980e49a6af",
+  "platform_post_id": "924671987426525188",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-04-26T19:19:34+08:00",
+  "source_url": "https://t.bilibili.com/924671987426525188",
+  "plain_text": "7:55来悠哉喝饮料看八卦回！投稿有点多我还在筛选 孩子们",
+  "images": [
+    {
+      "filename": "924671987426525188_100@repost.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 237,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "八卦回故事回！\n说点身边发生的或者听说的什么精彩刺激/好玩好笑的小故事小八卦吧\n投稿至：https://pome.vip/Gz75k7hF \n截止时间4月24日下午5点\n",
+    "source_url": "https://t.bilibili.com/922776102989987845"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77f99468-38a7-4e47-a87d-efca2ae203b0",
+    "next_uuid": "96ec32ea-d66a-46bd-90a3-d6cea07c2704"
+  }
+}

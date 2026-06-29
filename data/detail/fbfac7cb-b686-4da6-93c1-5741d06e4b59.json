@@ -1,0 +1,38 @@
+{
+  "uuid": "fbfac7cb-b686-4da6-93c1-5741d06e4b59",
+  "platform_post_id": "972975818189832212",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-09-03T23:23:06+08:00",
+  "source_url": "https://t.bilibili.com/972975818189832212",
+  "plain_text": "大家 孩子们 波比波比波 啊啊啊啊啊 对手指 打滚 泪汪汪 晚安\n",
+  "images": [
+    {
+      "filename": "972975818189832212_00@original.png",
+      "width": 2100,
+      "height": 2100,
+      "file_size": 4662617,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 455,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c73bb46f-1a4a-47c6-8773-b7320ee3a054",
+    "next_uuid": "481a9911-4618-4a49-a627-e0cf8773516b"
+  }
+}

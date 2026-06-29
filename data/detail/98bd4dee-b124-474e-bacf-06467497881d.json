@@ -1,0 +1,28 @@
+{
+  "uuid": "98bd4dee-b124-474e-bacf-06467497881d",
+  "platform_post_id": "1190823598910079011",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-14T00:43:45+08:00",
+  "source_url": "https://t.bilibili.com/1190823598910079011",
+  "plain_text": "困了你就早点睡 睡好了你就醒过来吧\n[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7d5bb7d0-74d8-451c-9f89-9c9ba7fc81c7",
+    "next_uuid": "6def91e3-ef20-463b-aa7b-77dbb8cdc8a7"
+  }
+}

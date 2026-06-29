@@ -1,0 +1,28 @@
+{
+  "uuid": "03caf156-3747-4623-964c-bf486ce0c734",
+  "platform_post_id": "894302565767839766",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-04T23:10:42+08:00",
+  "source_url": "https://t.bilibili.com/894302565767839766",
+  "plain_text": "11:40见哦[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c74641b8-2eb2-4f4e-8083-f84f09202c2b",
+    "next_uuid": "7bfd8966-a7a4-4da8-a54e-f02fa1d3230e"
+  }
+}

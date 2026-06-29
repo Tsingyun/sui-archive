@@ -1,0 +1,28 @@
+{
+  "uuid": "fd974af9-d229-4c6d-8ddb-5fb37a5eb6e5",
+  "platform_post_id": "1205665425342332935",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-24T00:37:37+08:00",
+  "source_url": "https://t.bilibili.com/1205665425342332935",
+  "plain_text": "你预判到我的晚安了吗！晚安哟",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9eeecba1-ce10-48c1-a08f-450f7bba61f2",
+    "next_uuid": "5ee0a46c-6a71-4ba0-949d-a4c576dafd8f"
+  }
+}

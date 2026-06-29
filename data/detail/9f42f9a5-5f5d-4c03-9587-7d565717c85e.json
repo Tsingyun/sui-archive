@@ -1,0 +1,28 @@
+{
+  "uuid": "9f42f9a5-5f5d-4c03-9587-7d565717c85e",
+  "platform_post_id": "1101979009190723620",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-17T14:41:22+08:00",
+  "source_url": "https://t.bilibili.com/1101979009190723620",
+  "plain_text": "昨晚直接昏睡手机是静音模式！我们3:20见啊啊啊",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ae4276d2-8b5a-41f2-97cd-97df241f857f",
+    "next_uuid": "15febbf3-7082-44e8-9515-fbc9d69dd464"
+  }
+}

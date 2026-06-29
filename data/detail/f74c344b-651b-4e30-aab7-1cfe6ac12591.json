@@ -1,0 +1,28 @@
+{
+  "uuid": "f74c344b-651b-4e30-aab7-1cfe6ac12591",
+  "platform_post_id": "787390938615906353",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-22T20:38:59+08:00",
+  "source_url": "https://t.bilibili.com/787390938615906353",
+  "plain_text": "8:48 才发现我们有十来分钟时差啊！再稍等",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1d8c7014-c7a8-4919-aa93-efb9d670bcaf",
+    "next_uuid": "d1ec2049-065b-4b48-9aff-12999b4b79fc"
+  }
+}

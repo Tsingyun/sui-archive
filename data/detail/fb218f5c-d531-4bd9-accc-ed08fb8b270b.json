@@ -1,0 +1,28 @@
+{
+  "uuid": "fb218f5c-d531-4bd9-accc-ed08fb8b270b",
+  "platform_post_id": "927271769794936837",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-03T19:28:03+08:00",
+  "source_url": "https://t.bilibili.com/927271769794936837",
+  "plain_text": "谢谢今天来的饼干岁啊啊啊啊啊啊啊！7:50来播播 今天是聊天唱歌jojo！",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2d0e595d-42d2-4280-9461-5067b6ea3b68",
+    "next_uuid": "ed3f29e9-292d-4d81-a6e5-b9f8c13e054e"
+  }
+}

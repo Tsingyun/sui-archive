@@ -1,0 +1,28 @@
+{
+  "uuid": "cccd00f1-f6ee-4aef-93d1-20e5747c83a6",
+  "platform_post_id": "1008269136405463043",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-08T01:59:12+08:00",
+  "source_url": "https://t.bilibili.com/1008269136405463043",
+  "plain_text": "你是不是有什么话要跟我说",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 120,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "882bfad8-92f4-4c76-ad0c-9e1c8fb29fde",
+    "next_uuid": "8852a17e-8cf5-482d-99f6-57b56a02038a"
+  }
+}

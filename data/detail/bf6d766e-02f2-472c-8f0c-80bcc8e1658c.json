@@ -1,0 +1,28 @@
+{
+  "uuid": "bf6d766e-02f2-472c-8f0c-80bcc8e1658c",
+  "platform_post_id": "891652768504217603",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-28T19:48:08+08:00",
+  "source_url": "https://t.bilibili.com/891652768504217603",
+  "plain_text": "我去话一说完睡着了 我马上起床",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1d37e12a-9d7a-435d-98db-6e9ab21053fc",
+    "next_uuid": "022cd574-d9ec-416f-8dc0-d371d702ead7"
+  }
+}

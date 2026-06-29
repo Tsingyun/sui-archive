@@ -1,0 +1,28 @@
+{
+  "uuid": "1b90428a-f331-4339-818f-f4edaedba262",
+  "platform_post_id": "823993860923326470",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-30T11:57:01+08:00",
+  "source_url": "https://t.bilibili.com/823993860923326470",
+  "plain_text": "早 已经被叫起来吃完午饭了 还是困zzz\n你们不会还没从床上起来吧 咦～懒",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a59b437-f58c-4821-ad5f-0b94538cee63",
+    "next_uuid": "f581f584-1a02-41c3-9bf9-3d8c2e0b0658"
+  }
+}

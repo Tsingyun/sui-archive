@@ -1,0 +1,28 @@
+{
+  "uuid": "b7c5431e-7e81-4172-a8eb-86822ea39462",
+  "platform_post_id": "928434052378132501",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-06T22:38:18+08:00",
+  "source_url": "https://t.bilibili.com/928434052378132501",
+  "plain_text": "​在吗？还记得我吗老同学？我岁己啊！哈哈，好久不见了，是这样的，我现在急用一个晚安，想找你借个晚安周转一下，不知道你方便吗",
+  "images": [],
+  "stats": {
+    "likes": 543,
+    "comments": 142,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "35c48b8d-6a59-42d6-9d6f-420097cc5b72",
+    "next_uuid": "b906d104-653d-4263-ab43-936521a50e36"
+  }
+}

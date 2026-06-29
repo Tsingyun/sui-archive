@@ -1,0 +1,28 @@
+{
+  "uuid": "df50f9db-939a-43a8-936c-09505308e2d3",
+  "platform_post_id": "1135894836922023952",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-17T00:12:06+08:00",
+  "source_url": "https://t.bilibili.com/1135894836922023952",
+  "plain_text": "差点睡着了，大夫，昨天在你这拿的晚安安眠药很好用，再给我一份吧[UPOWER_1954091502_老实]",
+  "images": [],
+  "stats": {
+    "likes": 253,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "acb51049-91f6-4a4f-97d0-cca851abf14f",
+    "next_uuid": "88d41f3c-0758-4468-8904-69caafbb1353"
+  }
+}

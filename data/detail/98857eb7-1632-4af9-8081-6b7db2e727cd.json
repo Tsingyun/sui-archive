@@ -1,0 +1,28 @@
+{
+  "uuid": "98857eb7-1632-4af9-8081-6b7db2e727cd",
+  "platform_post_id": "1154753119237701652",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-06T19:51:52+08:00",
+  "source_url": "https://t.bilibili.com/1154753119237701652",
+  "plain_text": "8:05！先那个，然后继续初见石头门\n嗯但是今天眼睛好干涩",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "13a705cc-5a12-427f-8e38-a1e35a0cd2a1",
+    "next_uuid": "09efd9ac-5abc-4684-86f3-d15ac583d650"
+  }
+}

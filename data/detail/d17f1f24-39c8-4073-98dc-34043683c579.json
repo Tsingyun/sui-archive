@@ -1,0 +1,38 @@
+{
+  "uuid": "d17f1f24-39c8-4073-98dc-34043683c579",
+  "platform_post_id": "993330930911281170",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-28T19:51:20+08:00",
+  "source_url": "https://t.bilibili.com/993330930911281170",
+  "plain_text": "今天是8点的这个！正直岁己不擅长骗怎么办",
+  "images": [
+    {
+      "filename": "993330930911281170_100@repost.jpg",
+      "width": 2741,
+      "height": 1536,
+      "file_size": 2715039,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 209,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "悠亚Yua",
+    "author_url": "https://space.bilibili.com/666726799",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f81f1805-60cc-4426-9bc7-59a9895ab96e",
+    "next_uuid": "e4ac1adc-4ae9-4492-b4c5-a3c56377afa0"
+  }
+}

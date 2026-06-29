@@ -1,0 +1,38 @@
+{
+  "uuid": "75dd8fbe-2986-4370-ae5c-917e0b959e03",
+  "platform_post_id": "801905484311298152",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-05-31T23:22:50+08:00",
+  "source_url": "https://t.bilibili.com/801905484311298152",
+  "plain_text": "🧸 岁叔？岁姐姐？岁小岁！🍼 \n🍬 六月快乐！小岁将在6.1日晚8点用可爱的声音来唱歌，请大家准时来看小岁的表演哦。\n🍬 转盘内容为往期周边/头像/长辈的叮嘱等\n\n",
+  "images": [
+    {
+      "filename": "801905484311298152_00@original.png",
+      "width": 1872,
+      "height": 1400,
+      "file_size": 1549980,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 424,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32ae99eb-328b-4a30-912b-6d06b449412c",
+    "next_uuid": "0cb6b227-1599-4279-8338-636bcdb3ec9c"
+  }
+}

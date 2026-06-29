@@ -1,0 +1,28 @@
+{
+  "uuid": "3d74c170-41e5-44f7-ba69-c08b1453d228",
+  "platform_post_id": "1040149368702763032",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-03T23:50:47+08:00",
+  "source_url": "https://t.bilibili.com/1040149368702763032",
+  "plain_text": "臭饼晚安",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fa9836a8-aeaf-4353-9e35-136dda725c80",
+    "next_uuid": "99728ef6-e85e-4377-b65a-32f068415073"
+  }
+}

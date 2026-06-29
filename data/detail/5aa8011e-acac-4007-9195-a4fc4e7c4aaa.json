@@ -1,0 +1,28 @@
+{
+  "uuid": "5aa8011e-acac-4007-9195-a4fc4e7c4aaa",
+  "platform_post_id": "824835537059708996",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-01T18:23:09+08:00",
+  "source_url": "https://t.bilibili.com/824835537059708996",
+  "plain_text": "晚十二分钟嗷 路上堵啊",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6991bd8e-ec7d-462d-95e2-0387fb6cae97",
+    "next_uuid": "1cd7506a-b398-43b2-bc42-8eb002012d71"
+  }
+}

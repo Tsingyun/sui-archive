@@ -1,0 +1,28 @@
+{
+  "uuid": "c34491e9-7275-4acb-a0cd-cc20f5350f44",
+  "platform_post_id": "1202706716846719000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-16T01:16:19+08:00",
+  "source_url": "https://t.bilibili.com/1202706716846719000",
+  "plain_text": "晚安！感觉空洞骑士还是好玩的，但是死了真的有一点点点生气😤怎么样第二次玩得看起来是不是初具人形能看出有冉冉升起之星的天赋",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ffd90152-878d-4664-b105-839ed18e5978",
+    "next_uuid": "c71f0593-8604-49fd-804b-19ccd10d0ea9"
+  }
+}

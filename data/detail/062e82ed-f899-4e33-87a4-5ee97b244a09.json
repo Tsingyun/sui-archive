@@ -1,0 +1,28 @@
+{
+  "uuid": "062e82ed-f899-4e33-87a4-5ee97b244a09",
+  "platform_post_id": "843368213564620800",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-20T16:59:24+08:00",
+  "source_url": "https://t.bilibili.com/843368213564620800",
+  "plain_text": "我去！小闪电！⚡️⚡️⚡️",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 69,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9ff8e694-62d7-42e2-8da9-305cbf835f55",
+    "next_uuid": "84414cff-848f-4bed-9d9f-c8a1b60d0595"
+  }
+}

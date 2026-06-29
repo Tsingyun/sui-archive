@@ -1,0 +1,28 @@
+{
+  "uuid": "4815b680-6128-4d1a-822e-13d699768bf8",
+  "platform_post_id": "1179693886937759763",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-15T00:54:47+08:00",
+  "source_url": "https://t.bilibili.com/1179693886937759763",
+  "plain_text": "晚安啦饼干岁。os：这个饼干岁拿着手机滑来滑去好像很舍不得岁己下播很想收到岁己的晚安的样子，看我发个晚安动态迷死他",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ddd23b2d-3c3b-40ee-b599-3cff9b7f1e67",
+    "next_uuid": "d03bfd74-73c3-4553-ba8a-2b88b1bee9b9"
+  }
+}

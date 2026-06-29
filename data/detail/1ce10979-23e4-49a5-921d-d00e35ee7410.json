@@ -1,0 +1,38 @@
+{
+  "uuid": "1ce10979-23e4-49a5-921d-d00e35ee7410",
+  "platform_post_id": "1080975133065084944",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-06-22T00:15:36+08:00",
+  "source_url": "https://t.bilibili.com/1080975133065084944",
+  "plain_text": "我晚安呢 嗯？！",
+  "images": [
+    {
+      "filename": "1080975133065084944_00@original.jpg",
+      "width": 1179,
+      "height": 884,
+      "file_size": 126804,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 357,
+    "comments": 87,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9e51443c-357a-4ed1-80d7-3ed3faaa6fa8",
+    "next_uuid": "7a4fd9cf-c818-4417-91b6-c439d41ce774"
+  }
+}

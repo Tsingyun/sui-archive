@@ -1,0 +1,28 @@
+{
+  "uuid": "28c722da-d6bc-4529-8c23-6c4e1fea6616",
+  "platform_post_id": "1143988372123942915",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-08T19:39:09+08:00",
+  "source_url": "https://t.bilibili.com/1143988372123942915",
+  "plain_text": "宝汁们8点来哟",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "81d053f1-7d7f-4248-a83c-84915b5fe171",
+    "next_uuid": "38c88716-c000-4965-9334-5a2f1ceb5d33"
+  }
+}

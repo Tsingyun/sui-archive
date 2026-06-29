@@ -1,0 +1,28 @@
+{
+  "uuid": "9ebb7f35-cccd-4894-b916-add1c328816e",
+  "platform_post_id": "711693278183948291",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-30T20:53:24+08:00",
+  "source_url": "https://t.bilibili.com/711693278183948291",
+  "plain_text": "设备突然出问题了噪音好大！解决中，可能会晚一些，实在不行只能电台随便唠唠唱唱了",
+  "images": [],
+  "stats": {
+    "likes": 504,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c940867-8f90-443a-ac6d-3e5541cc24a2",
+    "next_uuid": "542c174f-8e82-41fe-b8f2-608c2c4e767f"
+  }
+}

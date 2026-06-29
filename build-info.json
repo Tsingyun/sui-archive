@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-06-28T16:44:39Z",
+  "version": "1.0.0",
+  "duration_seconds": 21.52,
+  "site": {
+    "name": "岁己 SUI Archive",
+    "url": "https://archive.suijisui.uk"
+  },
+  "database": {
+    "total_posts": 3547,
+    "total_images": 1074,
+    "total_tags": 0,
+    "total_authors": 89,
+    "date_range": {
+      "first": "2022-08-23T12:14:59+08:00",
+      "last": "2026-06-27T00:50:58+08:00"
+    },
+    "years": [
+      2022,
+      2023,
+      2024,
+      2025,
+      2026
+    ],
+    "total_post_stats_snapshots": 3547
+  },
+  "output_files": {
+    "total_files": 7134,
+    "total_size": 33065862,
+    "by_extension": {
+      ".json": 3556,
+      ".html": 3555,
+      ".js": 19,
+      ".css": 2,
+      ".txt": 1,
+      ".xml": 1
+    }
+  }
+}

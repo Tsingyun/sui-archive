@@ -1,0 +1,28 @@
+{
+  "uuid": "7d11894e-95af-4f07-b7a0-0465d2b9e89f",
+  "platform_post_id": "1099817811764576265",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-11T18:54:49+08:00",
+  "source_url": "https://t.bilibili.com/1099817811764576265",
+  "plain_text": "吃饭吃饭！7:40来",
+  "images": [],
+  "stats": {
+    "likes": 200,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8a72c0c0-81d5-4b7b-9d94-b228f436621b",
+    "next_uuid": "371b1857-37a4-44f8-82f2-818c56351672"
+  }
+}

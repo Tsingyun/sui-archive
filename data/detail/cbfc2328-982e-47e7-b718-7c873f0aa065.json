@@ -1,0 +1,38 @@
+{
+  "uuid": "cbfc2328-982e-47e7-b718-7c873f0aa065",
+  "platform_post_id": "753502435482271833",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-21T12:54:17+08:00",
+  "source_url": "https://t.bilibili.com/753502435482271833",
+  "plain_text": "🎉1.21-1.28春节限定上舰礼物！\n\n上舰可得：【四川话春节主题音声】+旗袍徽章+1月常规舰长礼物（啾啾表情包徽章+表情包贴纸）\n\n提督可得：以上所有+亚克力立牌\n\n\n\n\n",
+  "images": [
+    {
+      "filename": "753502435482271833_00@original.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 1499594,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 257,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af0155ed-4eb1-4a1e-807f-3106eb64a817",
+    "next_uuid": "e2f5cfbf-c44c-4472-8dbe-45e0cc2555b8"
+  }
+}

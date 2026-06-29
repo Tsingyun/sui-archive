@@ -1,0 +1,28 @@
+{
+  "uuid": "cf0c38eb-31c1-43b8-8b13-f9f42575d4e4",
+  "platform_post_id": "1168539612054814726",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-12T23:30:30+08:00",
+  "source_url": "https://t.bilibili.com/1168539612054814726",
+  "plain_text": "饼干岁，当你看到这条动态时，我已经在去洗澡的路上了，我知道你应该没洗澡还在椅子上赖着，希望你别觉得和我差距太大不是一个世界的人，我还是会和你说晚安的。晚安        \n                                                                                          岁己留",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77cd04d5-81ed-43ed-b8fe-57b1dce86edc",
+    "next_uuid": "33eebfa4-f494-4582-a731-567cdadca3a0"
+  }
+}

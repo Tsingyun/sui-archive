@@ -1,0 +1,28 @@
+{
+  "uuid": "a2253853-a494-4947-8565-81614221880b",
+  "platform_post_id": "998893480486895624",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-12T19:36:52+08:00",
+  "source_url": "https://t.bilibili.com/998893480486895624",
+  "plain_text": "7:50见 今天是高质量一下+完结奇异人生",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "60d369be-d097-4413-8b85-682a793e7faa",
+    "next_uuid": "5e2b6336-ae4f-4bbe-803d-f7b798205262"
+  }
+}

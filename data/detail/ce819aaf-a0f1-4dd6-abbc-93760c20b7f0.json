@@ -1,0 +1,28 @@
+{
+  "uuid": "ce819aaf-a0f1-4dd6-abbc-93760c20b7f0",
+  "platform_post_id": "821241332340097026",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-23T01:55:48+08:00",
+  "source_url": "https://t.bilibili.com/821241332340097026",
+  "plain_text": "快跟播了5个小时的岁己说晚安 咳咳咳打雷 咳咳大家咳咳咳波比波比咳咳咳咳",
+  "images": [],
+  "stats": {
+    "likes": 480,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "30fcbebf-b99e-411e-9f4d-637ac065347e",
+    "next_uuid": "ae436ec1-8efd-47b0-b82b-e1c87f0db8bb"
+  }
+}

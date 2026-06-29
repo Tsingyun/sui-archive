@@ -1,0 +1,28 @@
+{
+  "uuid": "653b228e-a41d-4d3c-a2e7-ce36467517c2",
+  "platform_post_id": "1022274311779516436",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-14T19:46:26+08:00",
+  "source_url": "https://t.bilibili.com/1022274311779516436",
+  "plain_text": "十分钟就来！",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e0cfdcb-f393-4bc0-b545-9d0b0e577b86",
+    "next_uuid": "b54f5937-15fd-499b-8492-a32a16e0a885"
+  }
+}

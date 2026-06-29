@@ -1,0 +1,28 @@
+{
+  "uuid": "1156f013-f1e5-45d7-8486-57cb33b44e25",
+  "platform_post_id": "1030513274552057861",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-06T00:37:49+08:00",
+  "source_url": "https://t.bilibili.com/1030513274552057861",
+  "plain_text": "谢谢你陪我过生日。或许这只是平凡的一天，谢谢你赋予了这一天很多的意义，谢谢你赋予了岁己存在的意义。\n今后也，开心的一天分享给我，普通的一天也告诉描述给我吧。\n谢谢大家今天也在我的身边",
+  "images": [],
+  "stats": {
+    "likes": 517,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "098d7449-e031-4339-834f-def3eab079c5",
+    "next_uuid": "a96b3d9e-97b1-4a1f-98cd-fc0c8a17d107"
+  }
+}

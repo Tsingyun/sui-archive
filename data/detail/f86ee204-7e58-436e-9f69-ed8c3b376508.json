@@ -1,0 +1,28 @@
+{
+  "uuid": "f86ee204-7e58-436e-9f69-ed8c3b376508",
+  "platform_post_id": "742467930046857222",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-22T19:14:46+08:00",
+  "source_url": "https://t.bilibili.com/742467930046857222",
+  "plain_text": "八点不播哦，如果晚点12点？忙得差不多了可能电台一下，不一定来，不用等我[UP_1954091502_哈哈嗯]",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29ad57b0-f2a0-4e98-9763-b5aa29fa3474",
+    "next_uuid": "6b4dc661-8955-4bd9-89e9-7c9ce7ce8275"
+  }
+}

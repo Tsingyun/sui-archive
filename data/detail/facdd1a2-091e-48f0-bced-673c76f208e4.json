@@ -1,0 +1,28 @@
+{
+  "uuid": "facdd1a2-091e-48f0-bced-673c76f208e4",
+  "platform_post_id": "700397561385582616",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-08-31T10:20:15+08:00",
+  "source_url": "https://t.bilibili.com/700397561385582616",
+  "plain_text": "一万关注了！耶！🥳🥳谢谢大家！中午会投自我介绍视频，要来看哦",
+  "images": [],
+  "stats": {
+    "likes": 1090,
+    "comments": 127,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aca3af44-abb1-4107-9907-88b7e2ed4fd1",
+    "next_uuid": "1dc52394-ce69-4ba0-aef1-1c6612241505"
+  }
+}

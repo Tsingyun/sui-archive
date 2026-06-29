@@ -1,0 +1,28 @@
+{
+  "uuid": "22f3a9dc-9020-4ab6-89ff-7304c64d3323",
+  "platform_post_id": "1030804735308857344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-06T19:28:50+08:00",
+  "source_url": "https://t.bilibili.com/1030804735308857344",
+  "plain_text": "我妈一直找我聊天！🤯才有空发动态，7:40来谢谢昨天的礼物什么的！",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac6436e0-37ab-431b-ba5b-cdbc683087ec",
+    "next_uuid": "bb68b254-22f9-4657-9f02-a53905919bf0"
+  }
+}

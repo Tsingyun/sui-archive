@@ -1,0 +1,28 @@
+{
+  "uuid": "2cc492d9-ee1b-428f-8240-452b81bd871d",
+  "platform_post_id": "714609320454520865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-08T17:29:08+08:00",
+  "source_url": "https://t.bilibili.com/714609320454520865",
+  "plain_text": "大约6点有帅帅的新投稿哦！\n1 3 5 7 （ ） 11 点直播！[给心心][嘟嘟][害羞][鼓掌]",
+  "images": [],
+  "stats": {
+    "likes": 393,
+    "comments": 34,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6cccedab-8423-49b2-936d-beb9b85c3aa6",
+    "next_uuid": "9289188f-0368-4e54-813c-11e6ac038d08"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "90d73865-c715-48fd-a86e-7a27b58a8e23",
+  "platform_post_id": "797843334298075158",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-21T00:39:37+08:00",
+  "source_url": "https://t.bilibili.com/797843334298075158",
+  "plain_text": "晚安小朋友",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b61d5ae9-d852-4985-a295-4037b50e5b79",
+    "next_uuid": "cb05b172-daac-4a27-8769-b69b49e51d46"
+  }
+}

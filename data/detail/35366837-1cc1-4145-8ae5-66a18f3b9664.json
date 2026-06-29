@@ -1,0 +1,28 @@
+{
+  "uuid": "35366837-1cc1-4145-8ae5-66a18f3b9664",
+  "platform_post_id": "1073930897087004704",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-03T00:40:22+08:00",
+  "source_url": "https://t.bilibili.com/1073930897087004704",
+  "plain_text": "晚安噜[岁己收藏集表情包_羞死人了][岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d8e02e1f-0329-41be-b066-be0d03af93f7",
+    "next_uuid": "e42f9586-a008-42f8-8f5e-95bc02908335"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "uuid": "d7b796c1-7755-4c1e-8f80-adeb469c5d94",
+  "platform_post_id": "1109818338159099961",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-07T17:41:58+08:00",
+  "source_url": "https://t.bilibili.com/1109818338159099961",
+  "plain_text": "取って？",
+  "images": [
+    {
+      "filename": "1109818338159099961_100@repost.jpg",
+      "width": 2246,
+      "height": 3674,
+      "file_size": 1840903,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1109818338159099961_101@repost.jpg",
+      "width": 2246,
+      "height": 3674,
+      "file_size": 1840928,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 238,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "古明地梦",
+    "author_url": "https://space.bilibili.com/77017540",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55844ed4-c1ec-4f97-8b5d-6def8784a005",
+    "next_uuid": "3a1d2ddc-39f2-4f02-8136-d18adc4a881b"
+  }
+}

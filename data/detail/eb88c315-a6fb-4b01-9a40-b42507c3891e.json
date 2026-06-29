@@ -1,0 +1,38 @@
+{
+  "uuid": "eb88c315-a6fb-4b01-9a40-b42507c3891e",
+  "platform_post_id": "717596165248385024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-10-16T18:39:37+08:00",
+  "source_url": "https://t.bilibili.com/717596165248385024",
+  "plain_text": "今天9点哦，应该就只播一小时我猜，然后明天休息不播哦。\n",
+  "images": [
+    {
+      "filename": "717596165248385024_00@original.jpg",
+      "width": 240,
+      "height": 210,
+      "file_size": 11988,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 551,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dfe60fbf-0570-4f11-8f01-998365183beb",
+    "next_uuid": "f96078dd-6d82-4bf4-8f0a-e1db3ec70444"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "05a0fee6-4df3-4ac2-ad20-6c4c5e7caa83",
+  "platform_post_id": "1200827939243950085",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-05-10T23:45:42+08:00",
+  "source_url": "https://t.bilibili.com/1200827939243950085",
+  "plain_text": "见过这么豪华的泡面吗你！哼哼 讨好我给我说个晚安的话可以考虑给你闻一下",
+  "images": [
+    {
+      "filename": "1200827939243950085_00@original.jpg",
+      "width": 4716,
+      "height": 3463,
+      "file_size": 574587,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 304,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "676c8546-700f-4a30-925b-0d31b8064f32",
+    "next_uuid": "1e7b1f5c-8598-456f-b177-85a4d211437a"
+  }
+}

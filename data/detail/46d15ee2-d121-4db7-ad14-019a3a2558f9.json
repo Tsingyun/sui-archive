@@ -1,0 +1,28 @@
+{
+  "uuid": "46d15ee2-d121-4db7-ad14-019a3a2558f9",
+  "platform_post_id": "857871699909017650",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-29T19:00:20+08:00",
+  "source_url": "https://t.bilibili.com/857871699909017650",
+  "plain_text": "请推荐好笑好玩有意思视频！评论里发发\n7:20一起看看\n（发点别的 别全是切片 啾咪啾",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 136,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d041a40a-bf5e-4642-8b98-30133065dc8b",
+    "next_uuid": "38228b64-d298-47fb-b530-188e683feb38"
+  }
+}

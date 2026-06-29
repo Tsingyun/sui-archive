@@ -1,0 +1,28 @@
+{
+  "uuid": "09efd9ac-5abc-4684-86f3-d15ac583d650",
+  "platform_post_id": "1154819566634795009",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-07T00:09:43+08:00",
+  "source_url": "https://t.bilibili.com/1154819566634795009",
+  "plain_text": "用d-mail修改了10次世界线了，这次能成功抵达饼干岁会跟我说我晚安的结局吗",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98857eb7-1632-4af9-8081-6b7db2e727cd",
+    "next_uuid": "2376cb0f-99bf-477f-9471-2d28480f53b6"
+  }
+}

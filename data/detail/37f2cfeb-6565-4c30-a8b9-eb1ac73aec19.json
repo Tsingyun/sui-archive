@@ -1,0 +1,28 @@
+{
+  "uuid": "37f2cfeb-6565-4c30-a8b9-eb1ac73aec19",
+  "platform_post_id": "788733004284428359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-26T11:26:53+08:00",
+  "source_url": "https://t.bilibili.com/788733004284428359",
+  "plain_text": "你知道我要跟你说早上好，我也知道你要回我早上好。这么多年，够了！这种不用开口就知道对方要说什么的关系，这种熟悉到仿佛左手摸右手的日子我受够了！\n结束吧，好好照顾自己，我走了",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 98,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "331d7c04-23e0-46e7-9bb9-5651f7d1a538",
+    "next_uuid": "e73826cd-fa37-4f56-b794-16578fa4a39a"
+  }
+}

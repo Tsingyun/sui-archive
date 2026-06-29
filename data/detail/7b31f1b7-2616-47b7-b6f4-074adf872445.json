@@ -1,0 +1,47 @@
+{
+  "uuid": "7b31f1b7-2616-47b7-b6f4-074adf872445",
+  "platform_post_id": "1097663473325703169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-05T23:34:53+08:00",
+  "source_url": "https://t.bilibili.com/1097663473325703169",
+  "plain_text": "冷脸晚安\n",
+  "images": [
+    {
+      "filename": "1097663473325703169_00@original.png",
+      "width": 819,
+      "height": 1361,
+      "file_size": 952056,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1097663473325703169_01@original.png",
+      "width": 819,
+      "height": 1361,
+      "file_size": 948264,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 419,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37081f03-760a-46b3-b6a1-7684eac25582",
+    "next_uuid": "0fa55fb5-2d34-4803-9b18-f84fb418848a"
+  }
+}

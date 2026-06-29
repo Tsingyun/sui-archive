@@ -1,0 +1,28 @@
+{
+  "uuid": "0cc4a891-ed05-43c7-8f19-812741b9a3c4",
+  "platform_post_id": "902478688815153175",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-26T23:58:14+08:00",
+  "source_url": "https://t.bilibili.com/902478688815153175",
+  "plain_text": "吃撑着了吧？记得起来走走再睡哦，晚安",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29c7b6b7-f4b0-46e0-825c-8d5d5ad7e0e8",
+    "next_uuid": "d91b84d3-f107-46fb-bf93-7859ebdc73ac"
+  }
+}

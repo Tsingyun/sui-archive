@@ -1,0 +1,28 @@
+{
+  "uuid": "d5237837-2685-4de5-837d-ceef05b4d934",
+  "platform_post_id": "1125868862876680210",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-20T23:46:12+08:00",
+  "source_url": "https://t.bilibili.com/1125868862876680210",
+  "plain_text": "晚安大家[岁己收藏集表情包_晚安]注意保暖喔",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48beed88-ae94-4080-8495-4adf0f72fe87",
+    "next_uuid": "327212ff-4731-47b1-b345-24af5300e77d"
+  }
+}

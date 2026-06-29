@@ -1,0 +1,28 @@
+{
+  "uuid": "473ab210-c924-4ce0-afa1-c0ddee840318",
+  "platform_post_id": "1119213926991527993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-03T01:21:39+08:00",
+  "source_url": "https://t.bilibili.com/1119213926991527993",
+  "plain_text": "终于轮到我了，师傅，麻烦帮我算一下饼干岁今天跟我说晚安的概率有多大呀👉[UPOWER_1954091502_唔哇]👈",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1cff0d5e-6712-43af-b51e-a69af7156141",
+    "next_uuid": "7149315e-ecd6-4181-9014-125c92283a70"
+  }
+}

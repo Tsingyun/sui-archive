@@ -1,0 +1,28 @@
+{
+  "uuid": "6026d58d-fd35-438b-b7d3-493f728806b3",
+  "platform_post_id": "1158457807650947073",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-16T19:27:57+08:00",
+  "source_url": "https://t.bilibili.com/1158457807650947073",
+  "plain_text": "要洗澡洗头！我加速，8:10来 随便这这那那一下然后命运石之门 石头民往里进",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55cf3d5d-e650-4f83-a6dc-4127f88303c6",
+    "next_uuid": "bf7cd160-2c66-4153-9fac-2dbe2668c074"
+  }
+}

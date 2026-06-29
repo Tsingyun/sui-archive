@@ -1,0 +1,28 @@
+{
+  "uuid": "5f573bd3-c3bc-4062-8f90-9a17dda27045",
+  "platform_post_id": "1167440199187169301",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-10T00:24:13+08:00",
+  "source_url": "https://t.bilibili.com/1167440199187169301",
+  "plain_text": "饼干岁你真幼稚…晚安吧！",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7f205af-858b-47cb-b602-4fc488df8bab",
+    "next_uuid": "8c84677e-7995-4776-a567-1f32940cdf99"
+  }
+}

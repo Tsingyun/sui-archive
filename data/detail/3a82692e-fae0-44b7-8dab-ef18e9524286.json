@@ -1,0 +1,38 @@
+{
+  "uuid": "3a82692e-fae0-44b7-8dab-ef18e9524286",
+  "platform_post_id": "811061022893801572",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-06-25T15:31:00+08:00",
+  "source_url": "https://t.bilibili.com/811061022893801572",
+  "plain_text": "本人在此强烈谴责DiscoverPS企划的所作所为\n",
+  "images": [
+    {
+      "filename": "811061022893801572_00@original.jpg",
+      "width": 1007,
+      "height": 1107,
+      "file_size": 222744,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 686,
+    "comments": 76,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f84a5d44-143c-4071-a9da-e132f59fc285",
+    "next_uuid": "7ed54730-b255-4882-b4e5-b69a7b657d3c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "eb56509f-9f7a-49a3-af5c-58a97aa7739d",
+  "platform_post_id": "1073275042663497733",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-01T06:15:19+08:00",
+  "source_url": "https://t.bilibili.com/1073275042663497733",
+  "plain_text": "早上好早上好 [UPOWER_1954091502_大家]困鼠了",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "798c0acd-93e4-4210-a519-9fd4fefe0130",
+    "next_uuid": "4011f8b3-f3b1-447d-a917-5d63785593d1"
+  }
+}

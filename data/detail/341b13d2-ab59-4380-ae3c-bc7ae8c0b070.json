@@ -1,0 +1,28 @@
+{
+  "uuid": "341b13d2-ab59-4380-ae3c-bc7ae8c0b070",
+  "platform_post_id": "1072437369421955091",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-30T00:04:43+08:00",
+  "source_url": "https://t.bilibili.com/1072437369421955091",
+  "plain_text": "简单播十分钟！五分钟后",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "422b5a31-7937-4287-99ff-695a9194d63c",
+    "next_uuid": "c9cdedad-59c0-4d32-ab51-5584823c97bd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "2efb6c75-a677-4ff6-b5b2-f2cc674cb028",
+  "platform_post_id": "856073474164129849",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-24T22:42:18+08:00",
+  "source_url": "https://t.bilibili.com/856073474164129849",
+  "plain_text": "画困了 先敷衍一下 晚安 吃羊肉串去了",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5985c753-a51c-4d0a-a0ca-4e1e328e9444",
+    "next_uuid": "070cd0ab-f9b2-44a6-ad9c-32b80034066b"
+  }
+}

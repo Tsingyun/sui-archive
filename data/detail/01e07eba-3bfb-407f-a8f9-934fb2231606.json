@@ -1,0 +1,28 @@
+{
+  "uuid": "01e07eba-3bfb-407f-a8f9-934fb2231606",
+  "platform_post_id": "752439697364484121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-18T16:10:19+08:00",
+  "source_url": "https://t.bilibili.com/752439697364484121",
+  "plain_text": "今天不播哦[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee7c29a1-fce8-4276-b195-f9ee7f6d1cee",
+    "next_uuid": "b8dddd60-8eb5-40e0-8619-315647dbcdab"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a267f86b-9b3b-4c60-b8a2-a4f1532eb594",
+  "platform_post_id": "951766341962956840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-08T19:39:30+08:00",
+  "source_url": "https://t.bilibili.com/951766341962956840",
+  "plain_text": "直播直播。7:50 老师我们今天干嘛",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd6ae42d-d4ce-46a2-b9a1-7a7cd96d1bf5",
+    "next_uuid": "390d491c-4d9f-4979-8280-c06e02699ff5"
+  }
+}

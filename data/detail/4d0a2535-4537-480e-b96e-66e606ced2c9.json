@@ -1,0 +1,28 @@
+{
+  "uuid": "4d0a2535-4537-480e-b96e-66e606ced2c9",
+  "platform_post_id": "806617097540993042",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-13T16:06:18+08:00",
+  "source_url": "https://t.bilibili.com/806617097540993042",
+  "plain_text": "今天休一天，做一些工作！",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27cf3c45-2b38-4705-8b91-e73980b8a84f",
+    "next_uuid": "207fec7e-5927-4b83-8bc4-b4038507cc22"
+  }
+}

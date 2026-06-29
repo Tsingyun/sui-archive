@@ -1,0 +1,38 @@
+{
+  "uuid": "ff4bd69f-e1bd-468a-814a-4955337e7f87",
+  "platform_post_id": "1057502217664200706",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-04-19T18:08:42+08:00",
+  "source_url": "https://t.bilibili.com/1057502217664200706",
+  "plain_text": "哇好多mixup的无料！谢谢饼干岁的应援[岁己收藏集表情包_啵啵]\n去现场的饼干岁可以带点饼干岁自制的岁己小特产回家捏！[岁己收藏集表情包_好听]",
+  "images": [
+    {
+      "filename": "1057502217664200706_100@repost.png",
+      "width": 780,
+      "height": 10967,
+      "file_size": 5810961,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 205,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b373a0a-9633-46ed-9d0f-e6ea3ea70d21",
+    "next_uuid": "678204ac-353c-4779-b8e6-a04209623af0"
+  }
+}

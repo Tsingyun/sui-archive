@@ -1,0 +1,38 @@
+{
+  "uuid": "0e403c8b-dcc3-484b-8e22-f0675d71ed48",
+  "platform_post_id": "1001475108035887112",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-11-19T18:34:54+08:00",
+  "source_url": "https://t.bilibili.com/1001475108035887112",
+  "plain_text": "🌟 第一届饼干岁出道回！🌟 \n今晚7:30 来看饼干岁出道回！为你喜欢的人打call、支持吧\n非常激烈啊，本次能出道的名额只有3位，来观看直播并投出你宝贵的一票吧！\n",
+  "images": [
+    {
+      "filename": "1001475108035887112_00@original.png",
+      "width": 1600,
+      "height": 1000,
+      "file_size": 1882249,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 361,
+    "comments": 34,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "94dc8f06-ae00-418a-8600-bc5d6c044a03",
+    "next_uuid": "8f7d9424-fcc7-4ec7-b2b8-980fa6b9227d"
+  }
+}

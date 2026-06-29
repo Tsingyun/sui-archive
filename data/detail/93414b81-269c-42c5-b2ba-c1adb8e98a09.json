@@ -1,0 +1,28 @@
+{
+  "uuid": "93414b81-269c-42c5-b2ba-c1adb8e98a09",
+  "platform_post_id": "793201101712130049",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-08T12:25:23+08:00",
+  "source_url": "https://t.bilibili.com/793201101712130049",
+  "plain_text": "‎  •᷄ࡇ•᷅ 不算啊不算 今天不算数 午！",
+  "images": [],
+  "stats": {
+    "likes": 310,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4762dd28-d0e0-4c94-b487-a86685268e73",
+    "next_uuid": "7da0e4d6-619d-42d6-88b3-763482079153"
+  }
+}

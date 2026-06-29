@@ -1,0 +1,38 @@
+{
+  "uuid": "eabc662c-4bcf-4eb7-972d-55ae526f4eee",
+  "platform_post_id": "1120584133217615905",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-06T17:58:45+08:00",
+  "source_url": "https://t.bilibili.com/1120584133217615905",
+  "plain_text": "征集！你发过最黑历史的说说/动态/微博 \n小时候你有没有发表过现在看来脚趾抠地的文字呢[岁己收藏集表情包_哈哈]\n赶紧发来大家一起品尝鉴赏一下吧！[岁己收藏集表情包_凝视]\n截图1-2条即可\n投稿方式：suiji11@qq.com\n截止时间：10月9日晚5点 \n直播时间：10月9日晚7:30\n能看慬，沵僦哭孒！！",
+  "images": [
+    {
+      "filename": "1120584133217615905_00@original.png",
+      "width": 2560,
+      "height": 1440,
+      "file_size": 1982973,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 247,
+    "comments": 27,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad3f95dc-5104-4ef6-b385-eba8fe7434d1",
+    "next_uuid": "4425e023-6124-4e4a-a18e-a1a3eaaa36d9"
+  }
+}

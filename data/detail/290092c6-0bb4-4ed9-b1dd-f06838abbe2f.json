@@ -1,0 +1,28 @@
+{
+  "uuid": "290092c6-0bb4-4ed9-b1dd-f06838abbe2f",
+  "platform_post_id": "895445078572531748",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-08T01:04:14+08:00",
+  "source_url": "https://t.bilibili.com/895445078572531748",
+  "plain_text": "晚安，今天也很开心，很珍惜这样的时间",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 94,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "defc65c2-2a03-40b2-854d-ceb5c39d2ce4",
+    "next_uuid": "20cad517-73f4-4986-ab87-2218706588cf"
+  }
+}

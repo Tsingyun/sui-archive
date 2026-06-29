@@ -1,0 +1,28 @@
+{
+  "uuid": "0f3178e9-7d43-47c4-868d-6df896fb849a",
+  "platform_post_id": "698229990164004896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-08-25T14:08:58+08:00",
+  "source_url": "https://t.bilibili.com/698229990164004896",
+  "plain_text": "好诶好诶可爱的！（多来点二创嘛多来点 \n问问大家fanart叫岁笔画可以吗？",
+  "images": [],
+  "stats": {
+    "likes": 859,
+    "comments": 60,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f68e3c3-1738-4f2f-8483-db1408438b03",
+    "next_uuid": "270fc4b2-a3e5-4860-b938-4311e144598f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "569ebc19-babf-4a8d-94c2-84f29a003313",
+  "platform_post_id": "805407475836649475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-10T09:52:21+08:00",
+  "source_url": "https://t.bilibili.com/805407475836649475",
+  "plain_text": "十点前起了 如何 还有话说吗 早！",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 96,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b99c40b-1cff-412e-919e-ca8a983c6723",
+    "next_uuid": "32447698-331f-483a-abfb-c755b998e9b1"
+  }
+}

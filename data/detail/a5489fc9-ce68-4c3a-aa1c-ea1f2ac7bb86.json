@@ -1,0 +1,38 @@
+{
+  "uuid": "a5489fc9-ce68-4c3a-aa1c-ea1f2ac7bb86",
+  "platform_post_id": "1152613164671565831",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-01-01T01:27:45+08:00",
+  "source_url": "https://t.bilibili.com/1152613164671565831",
+  "plain_text": "新年贴贴的说，希望2026年也还有大家陪我一起度过\n希望岁己依然有让你快乐让你继续喜欢岁己的能力。新年快乐~\n",
+  "images": [
+    {
+      "filename": "1152613164671565831_00@original.png",
+      "width": 1024,
+      "height": 1361,
+      "file_size": 1057743,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 424,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c54f091e-1ed4-462b-978d-801987a8a140",
+    "next_uuid": "1827df93-06a1-4477-ba97-4fad441e7d1a"
+  }
+}

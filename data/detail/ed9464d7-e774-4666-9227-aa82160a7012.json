@@ -1,0 +1,28 @@
+{
+  "uuid": "ed9464d7-e774-4666-9227-aa82160a7012",
+  "platform_post_id": "1078741801631744008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-15T23:49:08+08:00",
+  "source_url": "https://t.bilibili.com/1078741801631744008",
+  "plain_text": "人家...来。跟。大。家。说。晚。安。哟。[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca9a5ad8-dde4-4fcc-ad38-2fe0d06ed236",
+    "next_uuid": "5d23eca6-f675-4bff-a6e5-0d09804331da"
+  }
+}

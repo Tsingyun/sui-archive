@@ -1,0 +1,38 @@
+{
+  "uuid": "fb402ff0-4d6e-4380-9157-e1d92a062428",
+  "platform_post_id": "1110922380985761794",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-10T17:06:13+08:00",
+  "source_url": "https://t.bilibili.com/1110922380985761794",
+  "plain_text": "希望这样的时光能一直延续下去",
+  "images": [
+    {
+      "filename": "1110922380985761794_100@repost.png",
+      "width": 3600,
+      "height": 2628,
+      "file_size": 11282709,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 251,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dbb3e65e-0c58-4280-9e65-b4fd4998b6cb",
+    "next_uuid": "22ab8a28-2738-4524-b119-7bab6eeb620d"
+  }
+}

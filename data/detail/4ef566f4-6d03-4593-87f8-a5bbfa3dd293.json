@@ -1,0 +1,38 @@
+{
+  "uuid": "4ef566f4-6d03-4593-87f8-a5bbfa3dd293",
+  "platform_post_id": "847492803813441639",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-10-01T19:44:55+08:00",
+  "source_url": "https://t.bilibili.com/847492803813441639",
+  "plain_text": "心情坏 实在提不起劲 在抢修了 估计明天能修好 \n所以明天见 晚安😴\n",
+  "images": [
+    {
+      "filename": "847492803813441639_00@original.jpg",
+      "width": 531,
+      "height": 451,
+      "file_size": 67936,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 469,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4408af88-627a-44ea-be99-dfff74dc423e",
+    "next_uuid": "33f06cde-9aa4-45d6-8f02-400227d8ed68"
+  }
+}

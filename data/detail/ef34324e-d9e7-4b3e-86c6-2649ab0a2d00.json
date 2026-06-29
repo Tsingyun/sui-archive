@@ -1,0 +1,38 @@
+{
+  "uuid": "ef34324e-d9e7-4b3e-86c6-2649ab0a2d00",
+  "platform_post_id": "1133296205625819140",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-11-10T00:08:05+08:00",
+  "source_url": "https://t.bilibili.com/1133296205625819140",
+  "plain_text": "需要岁己提醒你该干什么吗\n",
+  "images": [
+    {
+      "filename": "1133296205625819140_00@original.png",
+      "width": 2560,
+      "height": 4083,
+      "file_size": 5096766,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 372,
+    "comments": 63,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bbcdb501-0b0b-4cd9-8583-41a597fa09d3",
+    "next_uuid": "0efcf805-d362-4376-8e9f-596294daa353"
+  }
+}

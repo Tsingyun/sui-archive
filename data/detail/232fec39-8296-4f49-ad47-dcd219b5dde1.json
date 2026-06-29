@@ -1,0 +1,28 @@
+{
+  "uuid": "232fec39-8296-4f49-ad47-dcd219b5dde1",
+  "platform_post_id": "1112838808252973063",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-15T21:02:56+08:00",
+  "source_url": "https://t.bilibili.com/1112838808252973063",
+  "plain_text": "想我没 9:30来直播如何！[星星眼]",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "61dfd474-e204-4c30-915f-31f2989b1663",
+    "next_uuid": "4cf61a57-a936-4a49-b489-e719298964f4"
+  }
+}

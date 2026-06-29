@@ -1,0 +1,28 @@
+{
+  "uuid": "00924cdd-4790-4b8c-9498-6715b5450760",
+  "platform_post_id": "880942790788251652",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-30T23:07:57+08:00",
+  "source_url": "https://t.bilibili.com/880942790788251652",
+  "plain_text": "十分钟后来一小会～",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1cc7e205-ca9b-45cf-abe0-22aac70bb73e",
+    "next_uuid": "2a73e3f8-5ebb-4c18-942e-b5eb9e63c9b3"
+  }
+}

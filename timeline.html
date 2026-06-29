@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>时间轴 - 岁己 SUI Archive</title>
+<meta name="description" content="以时间轴形式浏览岁己SUI的所有动态，按年份、月份和日期分层查看。">
+<link rel="canonical" href="https://archive.suijisui.uk/timeline">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="时间轴 - 岁己 SUI Archive">
+<meta property="og:description" content="以时间轴形式浏览岁己SUI的所有动态，按年份、月份和日期分层查看。">
+<meta property="og:url" content="https://archive.suijisui.uk/timeline">
+<meta property="og:site_name" content="岁己 SUI Archive">
+<meta property="og:locale" content="zh_CN">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="时间轴 - 岁己 SUI Archive">
+<meta name="twitter:description" content="以时间轴形式浏览岁己SUI的所有动态，按年份、月份和日期分层查看。">
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="Main navigation">
+  <a href="/" class="navbar__logo" aria-label="Home">
+    <span class="navbar__logo-icon" aria-hidden="true">&#10022;</span>
+    岁己 Archive
+  </a>
+  <ul class="navbar__links">
+    <li><a href="/" class="navbar__link" data-page="home">首页</a></li>
+    <li><a href="/timeline" class="navbar__link" data-page="timeline">时间轴</a></li>
+    <li><a href="/gallery" class="navbar__link" data-page="gallery">画廊</a></li>
+    <li><a href="/tags" class="navbar__link" data-page="tags">标签</a></li>
+    <li><a href="/stats" class="navbar__link" data-page="stats">统计</a></li>
+    <li><a href="/about" class="navbar__link" data-page="about">关于</a></li>
+  </ul>
+  <a href="/search" class="btn btn--ghost btn--sm navbar__search" aria-label="Search">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+  </a>
+  <button class="navbar__toggle" aria-label="Toggle menu" aria-expanded="false">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+  </button>
+  <div class="navbar__mobile" hidden>
+    <ul class="navbar__mobile-links">
+      <li><a href="/" class="navbar__link">首页</a></li>
+      <li><a href="/timeline" class="navbar__link">时间轴</a></li>
+      <li><a href="/gallery" class="navbar__link">画廊</a></li>
+      <li><a href="/tags" class="navbar__link">标签</a></li>
+      <li><a href="/stats" class="navbar__link">统计</a></li>
+      <li><a href="/search" class="navbar__link">搜索</a></li>
+      <li><a href="/about" class="navbar__link">关于</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<main class="main" id="main-content">
+  <section class="section">
+    <div class="container">
+      <h1 class="section__title">时间轴</h1>
+      <p class="section__desc">按时间顺序浏览所有动态</p>
+
+      <!-- Year List -->
+      <nav class="timeline-years" aria-label="年份导航">
+        <ul id="timeline-year-list" class="timeline-years__list" role="list"></ul>
+      </nav>
+
+      <!-- Month Breakdown -->
+      <div id="timeline-months" class="timeline-months" aria-label="月份列表">
+        <p class="timeline-months__placeholder">请选择一个年份查看月份详情</p>
+      </div>
+
+      <!-- Day Drill-down -->
+      <div id="timeline-days" class="timeline-days" aria-label="日期详情" hidden>
+        <div class="timeline-days__header">
+          <button class="btn btn--ghost btn--sm" id="timeline-back-btn" type="button" aria-label="返回月份视图">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+            返回
+          </button>
+          <h2 id="timeline-days-title" class="timeline-days__title"></h2>
+        </div>
+        <div id="timeline-day-posts" class="post-list" role="feed" aria-label="当日动态"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div>
+        <h3 class="footer__title">岁己 SUI Archive</h3>
+        <p class="footer__desc">虚拟主播岁己SUI的数字档案馆。<br>永久保存她公开发布的每一条动态。</p>
+      </div>
+      <div>
+        <h4 class="footer__heading">浏览</h4>
+        <ul class="footer__links">
+          <li><a href="/">首页</a></li>
+          <li><a href="/timeline">时间轴</a></li>
+          <li><a href="/gallery">画廊</a></li>
+          <li><a href="/tags">标签</a></li>
+          <li><a href="/stats">统计</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="footer__heading">链接</h4>
+        <ul class="footer__links">
+          <li><a href="https://space.bilibili.com/1954091502" target="_blank" rel="noopener">B站主页</a></li>
+          <li><a href="https://github.com/Tsingyun/sui-archive" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="/about">关于本项目</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p><!-- BUILD_INFO --></p>
+    </div>
+  </div>
+</footer>
+
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

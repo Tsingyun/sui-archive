@@ -1,0 +1,119 @@
+{
+  "uuid": "689b30dd-f27f-456d-b117-86308fa3dc29",
+  "platform_post_id": "1106879030038102024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-08-30T19:35:57+08:00",
+  "source_url": "https://t.bilibili.com/1106879030038102024",
+  "plain_text": "哇哇哇新小猫帽表情包！我已经用上了 你也快加入吧！",
+  "images": [
+    {
+      "filename": "1106879030038102024_100@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 2076064,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_101@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 2975331,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_102@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1849008,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_103@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1872109,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_104@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1873746,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_105@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1955966,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_106@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1774844,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_107@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1951625,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_108@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 1909388,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1106879030038102024_109@repost.gif",
+      "width": 500,
+      "height": 500,
+      "file_size": 586196,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 251,
+    "comments": 24,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd5c637c-ffc9-4362-8bc8-6c95217e658d",
+    "next_uuid": "b3355afb-110b-4974-a565-904960e53fc8"
+  }
+}

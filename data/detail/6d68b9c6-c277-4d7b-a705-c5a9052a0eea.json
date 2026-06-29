@@ -1,0 +1,28 @@
+{
+  "uuid": "6d68b9c6-c277-4d7b-a705-c5a9052a0eea",
+  "platform_post_id": "818936300709085206",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-16T20:51:06+08:00",
+  "source_url": "https://t.bilibili.com/818936300709085206",
+  "plain_text": "九点\n准备好 准时到 不要让我说第二遍",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6c2d645-ed9e-44f7-8ea6-797bb7addbc8",
+    "next_uuid": "54edd324-8ef6-4a1d-9358-8b8d3105653e"
+  }
+}

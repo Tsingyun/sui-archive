@@ -1,0 +1,28 @@
+{
+  "uuid": "b9fe3db5-aee4-450c-bed5-7009adfc6c62",
+  "platform_post_id": "918080105992945689",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-09T00:59:42+08:00",
+  "source_url": "https://t.bilibili.com/918080105992945689",
+  "plain_text": "晚安饼干岁 喜欢一下你的说",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 107,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cacc9226-6903-44be-a3c3-ed5735d86b36",
+    "next_uuid": "7fedccce-9a9e-4472-b566-416b98b3eaec"
+  }
+}

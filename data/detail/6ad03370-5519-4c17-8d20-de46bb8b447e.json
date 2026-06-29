@@ -1,0 +1,28 @@
+{
+  "uuid": "6ad03370-5519-4c17-8d20-de46bb8b447e",
+  "platform_post_id": "1155159904133054465",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-07T22:10:24+08:00",
+  "source_url": "https://t.bilibili.com/1155159904133054465",
+  "plain_text": "10:35来助眠喔喔嗯..！",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2376cb0f-99bf-477f-9471-2d28480f53b6",
+    "next_uuid": "fe17360c-c9de-4b44-8e62-94e3d75af0f8"
+  }
+}

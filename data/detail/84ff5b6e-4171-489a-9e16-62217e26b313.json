@@ -1,0 +1,28 @@
+{
+  "uuid": "84ff5b6e-4171-489a-9e16-62217e26b313",
+  "platform_post_id": "1136567261291610118",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-18T19:41:27+08:00",
+  "source_url": "https://t.bilibili.com/1136567261291610118",
+  "plain_text": "我靠今天是周二啊？我以为今天是助眠。。怎么没人提醒我！8点来",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77beb4bc-ea7e-4dbb-8d15-055f3a753ae6",
+    "next_uuid": "fc8d7e93-344d-4e68-be75-ae042e566abd"
+  }
+}

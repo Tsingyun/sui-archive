@@ -1,0 +1,38 @@
+{
+  "uuid": "af4de5cc-7822-4bf4-bde5-f75c37a0f86d",
+  "platform_post_id": "794870525443702805",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-05-13T00:23:36+08:00",
+  "source_url": "https://t.bilibili.com/794870525443702805",
+  "plain_text": "今天的成果~得到了一致好评很荣幸捏！\n",
+  "images": [
+    {
+      "filename": "794870525443702805_00@original.png",
+      "width": 1794,
+      "height": 1014,
+      "file_size": 1431404,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 433,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef0c5512-7201-4a34-b3d7-0b9b5730298f",
+    "next_uuid": "8a60ea52-89ba-4b31-853a-0bc8d0f46768"
+  }
+}

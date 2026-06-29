@@ -1,0 +1,28 @@
+{
+  "uuid": "bc128c56-b71f-44c9-8512-64bbe190986d",
+  "platform_post_id": "1217149785612484612",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-23T23:22:48+08:00",
+  "source_url": "https://t.bilibili.com/1217149785612484612",
+  "plain_text": "晚安，别害怕你不会变成步行鱼的，岁己保护你[岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7a90aba-2ce2-449a-b8d4-9eca6b2ce35a",
+    "next_uuid": "a466e0c1-d348-498d-8499-3247c599e4b1"
+  }
+}

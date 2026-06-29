@@ -1,0 +1,28 @@
+{
+  "uuid": "236edbd1-0814-4bbb-b11b-78015db503f3",
+  "platform_post_id": "817058596844994581",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-11T19:24:39+08:00",
+  "source_url": "https://t.bilibili.com/817058596844994581",
+  "plain_text": "我去家里突然来人了！！待会见，我感觉可能8点",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1dd9c79d-c68a-4d0f-9c47-17e7a29b7b4d",
+    "next_uuid": "eb1fd63a-404d-4958-9d31-97c787e85508"
+  }
+}

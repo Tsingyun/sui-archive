@@ -1,0 +1,28 @@
+{
+  "uuid": "ccc3a506-0ea2-4cf9-93b2-4a7aa639c15d",
+  "platform_post_id": "780400767709216802",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-04T00:33:33+08:00",
+  "source_url": "https://t.bilibili.com/780400767709216802",
+  "plain_text": "听着雨声的安定的一天！晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd1c8a60-5dcf-44ce-b8d9-9d0e028ea6bb",
+    "next_uuid": "73a07d40-7e49-4ba8-a117-df988f6b3a74"
+  }
+}

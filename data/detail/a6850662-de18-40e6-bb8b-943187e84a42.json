@@ -1,0 +1,28 @@
+{
+  "uuid": "a6850662-de18-40e6-bb8b-943187e84a42",
+  "platform_post_id": "790585320554889272",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-01T11:14:49+08:00",
+  "source_url": "https://t.bilibili.com/790585320554889272",
+  "plain_text": "回笼觉稍微睡过了，早＼(`Δ’)／",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ec4314f6-509b-4930-b9ff-6f9e02a7c149",
+    "next_uuid": "5ee0f691-51f7-479d-af3a-c2f794824810"
+  }
+}

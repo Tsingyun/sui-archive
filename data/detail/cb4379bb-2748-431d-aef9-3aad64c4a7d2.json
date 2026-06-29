@@ -1,0 +1,28 @@
+{
+  "uuid": "cb4379bb-2748-431d-aef9-3aad64c4a7d2",
+  "platform_post_id": "868276077534904324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-26T19:54:38+08:00",
+  "source_url": "https://t.bilibili.com/868276077534904324",
+  "plain_text": "今天有点咳嗽唱不了歌 想不出干嘛才没发动态 还看绝命毒师吗",
+  "images": [],
+  "stats": {
+    "likes": 270,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e8998492-06d7-4291-9bb3-bffadfcbc842",
+    "next_uuid": "37212834-a484-4e84-a2ee-44cabe254338"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "565a196c-56d1-46d3-a4dc-04ad80821d85",
+  "platform_post_id": "729749393706582024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-11-18T12:40:21+08:00",
+  "source_url": "https://t.bilibili.com/729749393706582024",
+  "plain_text": "可爱的呢，第二张发我试试",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 32,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9d1494f7-6b84-45a5-9779-78ce9a582a97",
+    "next_uuid": "73f3eec1-1fbb-41d3-8f66-93ba73e1b3b9"
+  }
+}

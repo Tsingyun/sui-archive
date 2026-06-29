@@ -1,0 +1,28 @@
+{
+  "uuid": "11e76b38-90b5-42ac-bf3b-562e7beaf7b7",
+  "platform_post_id": "823383176688697397",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-28T20:27:15+08:00",
+  "source_url": "https://t.bilibili.com/823383176688697397",
+  "plain_text": "9点！小播1-2小时 唱唱聊聊斗斗",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "659b2eb7-fea3-457a-9838-ae0b699dd93a",
+    "next_uuid": "83085d8b-a59a-4d52-8bfe-251f259621f1"
+  }
+}

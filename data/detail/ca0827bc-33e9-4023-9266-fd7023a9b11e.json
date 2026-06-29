@@ -1,0 +1,28 @@
+{
+  "uuid": "ca0827bc-33e9-4023-9266-fd7023a9b11e",
+  "platform_post_id": "726908564891762691",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-10T20:56:29+08:00",
+  "source_url": "https://t.bilibili.com/726908564891762691",
+  "plain_text": "9:10分小播一下.",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6e8a8db-6943-4b1a-b18f-bd0779078621",
+    "next_uuid": "d74584ab-2b5c-435a-bf49-f4504acd40c0"
+  }
+}

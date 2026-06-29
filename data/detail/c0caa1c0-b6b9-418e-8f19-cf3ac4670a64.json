@@ -1,0 +1,38 @@
+{
+  "uuid": "c0caa1c0-b6b9-418e-8f19-cf3ac4670a64",
+  "platform_post_id": "1094255305114517529",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-07-27T19:09:27+08:00",
+  "source_url": "https://t.bilibili.com/1094255305114517529",
+  "plain_text": "我去忘记是今天了 今天在这里出现一下！",
+  "images": [
+    {
+      "filename": "1094255305114517529_100@repost.jpg",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 470200,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 231,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "瑞娅_Rhea",
+    "author_url": "https://space.bilibili.com/690608698",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e4c1efa3-eac7-41cc-be7f-4d31baa8076d",
+    "next_uuid": "e4042606-0d86-4277-bbee-cee7fce459c2"
+  }
+}

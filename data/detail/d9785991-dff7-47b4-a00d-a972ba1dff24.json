@@ -1,0 +1,38 @@
+{
+  "uuid": "d9785991-dff7-47b4-a00d-a972ba1dff24",
+  "platform_post_id": "758374423071817809",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-03T16:00:05+08:00",
+  "source_url": "https://t.bilibili.com/758374423071817809",
+  "plain_text": "哇！原来后天2月5日就是叽叽喳喳爱唱歌爱说话的小鸟岁己SUI的生日了啊！上舰礼物也太丰厚了吧！太期待了吧！这得赶紧预约一下了！约！约一下！\n",
+  "images": [
+    {
+      "filename": "758374423071817809_00@original.png",
+      "width": 1727,
+      "height": 1080,
+      "file_size": 1948122,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 384,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1cc305bf-3f94-47b3-b09c-b140da7d66f3",
+    "next_uuid": "c494cc7c-ab30-4265-9d25-d125c1de9595"
+  }
+}

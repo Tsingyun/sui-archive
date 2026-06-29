@@ -1,0 +1,28 @@
+{
+  "uuid": "638cb9bb-41f7-46e7-997a-b2aaff36ec19",
+  "platform_post_id": "1088209859452600324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-11T12:10:02+08:00",
+  "source_url": "https://t.bilibili.com/1088209859452600324",
+  "plain_text": "我在待机bw～你在干嘛[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6ec5beb-175d-4fa4-84fb-0686808d7501",
+    "next_uuid": "c7f484eb-db34-453b-9585-454fec321cc7"
+  }
+}

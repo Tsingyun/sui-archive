@@ -1,0 +1,38 @@
+{
+  "uuid": "81c05932-291e-4346-a8b6-d1ae5a0fb207",
+  "platform_post_id": "894640592544333824",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-05T21:02:25+08:00",
+  "source_url": "https://t.bilibili.com/894640592544333824",
+  "plain_text": "美美滴说",
+  "images": [
+    {
+      "filename": "894640592544333824_100@repost.jpg",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 2204176,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 132,
+    "comments": 6,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2f30d54b-4238-4c19-b549-eadf36e60edf",
+    "next_uuid": "b1898234-fef3-4424-91c8-f6bfaeaaacea"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8b3419ce-fdc3-4b42-b34b-7834fe5cd405",
+  "platform_post_id": "1215980575273254932",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-20T19:45:40+08:00",
+  "source_url": "https://t.bilibili.com/1215980575273254932",
+  "plain_text": "55见！唱唱 玩玩(｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 178,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c888c65-1845-425d-a02c-aa7acd9de5e0",
+    "next_uuid": "1c41537e-af73-4e1d-a9f4-8bc8b5dee879"
+  }
+}

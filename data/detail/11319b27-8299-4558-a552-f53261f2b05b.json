@@ -1,0 +1,28 @@
+{
+  "uuid": "11319b27-8299-4558-a552-f53261f2b05b",
+  "platform_post_id": "910582317180780582",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-19T20:04:27+08:00",
+  "source_url": "https://t.bilibili.com/910582317180780582",
+  "plain_text": "8:15 聊唱一下 jojo 感觉今天热情不是很足怎么办",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "85a3fafc-9b26-4e7e-b2d1-20ffab8cf0f5",
+    "next_uuid": "8d518114-911b-4214-b230-d24e728b94f8"
+  }
+}

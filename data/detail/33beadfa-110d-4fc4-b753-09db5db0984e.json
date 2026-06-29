@@ -1,0 +1,28 @@
+{
+  "uuid": "33beadfa-110d-4fc4-b753-09db5db0984e",
+  "platform_post_id": "1086387414607331383",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-06T14:18:01+08:00",
+  "source_url": "https://t.bilibili.com/1086387414607331383",
+  "plain_text": "三点播—————！咕咕咕咕咕咕",
+  "images": [],
+  "stats": {
+    "likes": 200,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4cb90753-98ce-4db2-b4c9-6156a663f061",
+    "next_uuid": "a79a06f1-9591-41b3-9787-4f004ec5ed4c"
+  }
+}

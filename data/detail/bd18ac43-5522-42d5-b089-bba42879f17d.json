@@ -1,0 +1,28 @@
+{
+  "uuid": "bd18ac43-5522-42d5-b089-bba42879f17d",
+  "platform_post_id": "959170766801207301",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-28T18:32:27+08:00",
+  "source_url": "https://t.bilibili.com/959170766801207301",
+  "plain_text": "哈哈哈哈哈哈哈哈哈晚点见大概十点20",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cf7c4233-4b63-4b52-a12c-a13bfe2dfa36",
+    "next_uuid": "8bf83ef6-c027-42ca-97c7-a9f7792468d1"
+  }
+}

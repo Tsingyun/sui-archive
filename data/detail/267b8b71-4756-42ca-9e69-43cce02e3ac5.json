@@ -1,0 +1,28 @@
+{
+  "uuid": "267b8b71-4756-42ca-9e69-43cce02e3ac5",
+  "platform_post_id": "782077063381123092",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-08T12:58:26+08:00",
+  "source_url": "https://t.bilibili.com/782077063381123092",
+  "plain_text": "我起了一小时了，不会有人比我还晚吧。",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "33cd84c8-f273-4435-82b3-21b912351e18",
+    "next_uuid": "71e9e39e-c912-4261-89b0-2d5c84e9772b"
+  }
+}

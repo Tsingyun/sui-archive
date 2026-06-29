@@ -1,0 +1,28 @@
+{
+  "uuid": "2c7653d0-523c-46b9-844c-a8ecdd1c9358",
+  "platform_post_id": "859061113532186625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-01T23:55:52+08:00",
+  "source_url": "https://t.bilibili.com/859061113532186625",
+  "plain_text": "婀娜多姿了 妙笔生花了 现在要去抖擞精神了 \n简意版：今天跳舞了 画头像了 要去玩去了 晚安！",
+  "images": [],
+  "stats": {
+    "likes": 395,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "14d8bc6e-7b79-4997-b687-e3b703f04c36",
+    "next_uuid": "9d3ab216-4aad-46f7-9b76-f8bcd89fd4b4"
+  }
+}

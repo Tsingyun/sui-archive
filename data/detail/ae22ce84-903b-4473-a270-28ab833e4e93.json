@@ -1,0 +1,28 @@
+{
+  "uuid": "ae22ce84-903b-4473-a270-28ab833e4e93",
+  "platform_post_id": "920857171718045703",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-16T12:36:08+08:00",
+  "source_url": "https://t.bilibili.com/920857171718045703",
+  "plain_text": "早！半小时前自然醒的，神奇！",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b81a32c3-c4f4-4256-88c4-f564bbabb9fa",
+    "next_uuid": "c4b6a12f-ff48-4dcf-8f89-b06822a12a15"
+  }
+}

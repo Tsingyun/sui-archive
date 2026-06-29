@@ -1,0 +1,38 @@
+{
+  "uuid": "d47d957b-4849-4424-ac18-1031de38160e",
+  "platform_post_id": "699299677537828885",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-08-28T11:19:54+08:00",
+  "source_url": "https://t.bilibili.com/699299677537828885",
+  "plain_text": "早早早！ 我在研究动起来的方法，电脑好难！\n",
+  "images": [
+    {
+      "filename": "699299677537828885_00@original.jpg",
+      "width": 690,
+      "height": 657,
+      "file_size": 134630,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 848,
+    "comments": 75,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9ca514d4-2ab0-439c-aa4e-4b3001dc3925",
+    "next_uuid": "586ba325-deef-4a7f-9cfe-28eef074d2c0"
+  }
+}

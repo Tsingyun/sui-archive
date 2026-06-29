@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>搜索 - 岁己 SUI Archive</title>
+<meta name="description" content="搜索岁己SUI的动态档案，按关键词、类型、年份和标签筛选内容。">
+<link rel="canonical" href="https://archive.suijisui.uk/search">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<!-- CSS -->
+<link rel="stylesheet" href="/style.css">
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg">
+<!-- OG -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="搜索 - 岁己 SUI Archive">
+<meta property="og:description" content="搜索岁己SUI的动态档案，按关键词、类型、年份和标签筛选内容。">
+<meta property="og:url" content="https://archive.suijisui.uk/search">
+<meta property="og:site_name" content="岁己 SUI Archive">
+<meta property="og:locale" content="zh_CN">
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="搜索 - 岁己 SUI Archive">
+<meta name="twitter:description" content="搜索岁己SUI的动态档案，按关键词、类型、年份和标签筛选内容。">
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="Main navigation">
+  <a href="/" class="navbar__logo" aria-label="Home">
+    <span class="navbar__logo-icon" aria-hidden="true">&#10022;</span>
+    岁己 Archive
+  </a>
+  <ul class="navbar__links">
+    <li><a href="/" class="navbar__link" data-page="home">首页</a></li>
+    <li><a href="/timeline" class="navbar__link" data-page="timeline">时间轴</a></li>
+    <li><a href="/gallery" class="navbar__link" data-page="gallery">画廊</a></li>
+    <li><a href="/tags" class="navbar__link" data-page="tags">标签</a></li>
+    <li><a href="/stats" class="navbar__link" data-page="stats">统计</a></li>
+    <li><a href="/about" class="navbar__link" data-page="about">关于</a></li>
+  </ul>
+  <a href="/search" class="btn btn--ghost btn--sm navbar__search" aria-label="Search">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+  </a>
+  <button class="navbar__toggle" aria-label="Toggle menu" aria-expanded="false">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+  </button>
+  <div class="navbar__mobile" hidden>
+    <ul class="navbar__mobile-links">
+      <li><a href="/" class="navbar__link">首页</a></li>
+      <li><a href="/timeline" class="navbar__link">时间轴</a></li>
+      <li><a href="/gallery" class="navbar__link">画廊</a></li>
+      <li><a href="/tags" class="navbar__link">标签</a></li>
+      <li><a href="/stats" class="navbar__link">统计</a></li>
+      <li><a href="/search" class="navbar__link">搜索</a></li>
+      <li><a href="/about" class="navbar__link">关于</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+<main class="main" id="main-content">
+  <section class="section">
+    <div class="container">
+      <h1 class="section__title">搜索</h1>
+
+      <!-- Search Box -->
+      <div class="search-box" role="search" aria-label="搜索动态">
+        <div class="search-box__input-wrapper">
+          <svg class="search-box__icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <input
+            type="search"
+            id="search-input"
+            class="search-box__input"
+            placeholder="搜索动态内容..."
+            aria-label="搜索关键词"
+            autocomplete="off"
+          >
+          <button class="btn btn--primary btn--sm search-box__btn" type="button" id="search-btn">搜索</button>
+        </div>
+      </div>
+
+      <!-- Filter Panel -->
+      <aside class="filter-panel" aria-label="筛选条件">
+        <div class="filter-panel__group">
+          <label class="filter-panel__label" for="filter-type">类型</label>
+          <select id="filter-type" class="filter-panel__select">
+            <option value="">全部类型</option>
+            <option value="dynamic">动态</option>
+            <option value="video">视频</option>
+            <option value="article">专栏</option>
+          </select>
+        </div>
+        <div class="filter-panel__group">
+          <label class="filter-panel__label" for="filter-year">年份</label>
+          <select id="filter-year" class="filter-panel__select">
+            <option value="">全部年份</option>
+          </select>
+        </div>
+        <div class="filter-panel__group">
+          <label class="filter-panel__label">
+            <input type="checkbox" id="filter-images" class="filter-panel__checkbox">
+            <span class="filter-panel__checkbox-label">仅含图片</span>
+          </label>
+        </div>
+        <div class="filter-panel__group">
+          <label class="filter-panel__label" for="filter-tags">标签</label>
+          <select id="filter-tags" class="filter-panel__select" multiple>
+          </select>
+        </div>
+      </aside>
+
+      <!-- Results -->
+      <div class="search-results">
+        <p class="search-results__count" id="results-count" aria-live="polite"></p>
+        <div id="search-results" class="post-list" role="feed" aria-label="搜索结果"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer__grid">
+      <div>
+        <h3 class="footer__title">岁己 SUI Archive</h3>
+        <p class="footer__desc">虚拟主播岁己SUI的数字档案馆。<br>永久保存她公开发布的每一条动态。</p>
+      </div>
+      <div>
+        <h4 class="footer__heading">浏览</h4>
+        <ul class="footer__links">
+          <li><a href="/">首页</a></li>
+          <li><a href="/timeline">时间轴</a></li>
+          <li><a href="/gallery">画廊</a></li>
+          <li><a href="/tags">标签</a></li>
+          <li><a href="/stats">统计</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4 class="footer__heading">链接</h4>
+        <ul class="footer__links">
+          <li><a href="https://space.bilibili.com/1954091502" target="_blank" rel="noopener">B站主页</a></li>
+          <li><a href="https://github.com/Tsingyun/sui-archive" target="_blank" rel="noopener">GitHub</a></li>
+          <li><a href="/about">关于本项目</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer__bottom">
+      <p><!-- BUILD_INFO --></p>
+    </div>
+  </div>
+</footer>
+
+
+<script type="module" src="/js/app.js"></script>
+</body>
+</html>

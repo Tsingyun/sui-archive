@@ -1,0 +1,28 @@
+{
+  "uuid": "6ec9b8c2-6772-4761-9c61-784c77423ff8",
+  "platform_post_id": "854534059112530048",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-20T19:08:35+08:00",
+  "source_url": "https://t.bilibili.com/854534059112530048",
+  "plain_text": "7:20来唱唱今天新鲜学的歌 还不熟\n然后干嘛捏 不知道还！",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "edf8285a-15a1-4e41-b009-eef9def15001",
+    "next_uuid": "6641b2ce-31dc-4382-bbf6-bb8c57fce026"
+  }
+}

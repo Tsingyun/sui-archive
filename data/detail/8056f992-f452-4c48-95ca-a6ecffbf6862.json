@@ -1,0 +1,28 @@
+{
+  "uuid": "8056f992-f452-4c48-95ca-a6ecffbf6862",
+  "platform_post_id": "1209303202468462612",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-02T19:54:03+08:00",
+  "source_url": "https://t.bilibili.com/1209303202468462612",
+  "plain_text": "8:10来！今天也是很虚弱的病号小鸟一枚的说😷",
+  "images": [],
+  "stats": {
+    "likes": 222,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aaa46a7f-566d-4edb-95b9-6382db92dd38",
+    "next_uuid": "6ceb1540-f949-4272-bdf5-cf81b23e3471"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "1c5e0936-1297-4f88-b098-f3d62e3bfd35",
+  "platform_post_id": "1127652266407362564",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-25T19:06:43+08:00",
+  "source_url": "https://t.bilibili.com/1127652266407362564",
+  "plain_text": "饭中饭中！7:40来也",
+  "images": [],
+  "stats": {
+    "likes": 186,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ffdd6720-27c8-453d-bbaa-479d4ed337c3",
+    "next_uuid": "aa1d6ff3-a703-45a2-80a1-10325891ea1e"
+  }
+}

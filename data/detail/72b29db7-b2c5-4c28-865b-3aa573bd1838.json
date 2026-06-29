@@ -1,0 +1,28 @@
+{
+  "uuid": "72b29db7-b2c5-4c28-865b-3aa573bd1838",
+  "platform_post_id": "907550237776674821",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-11T15:58:26+08:00",
+  "source_url": "https://t.bilibili.com/907550237776674821",
+  "plain_text": "嗯..转发动态",
+  "images": [],
+  "stats": {
+    "likes": 353,
+    "comments": 53,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af1e6d38-9f1c-4df5-bdc7-76335a1116d8",
+    "next_uuid": "94e3e512-2125-4f37-8137-fb59373b4e1e"
+  }
+}

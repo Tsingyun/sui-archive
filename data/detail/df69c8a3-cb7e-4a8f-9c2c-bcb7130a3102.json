@@ -1,0 +1,28 @@
+{
+  "uuid": "df69c8a3-cb7e-4a8f-9c2c-bcb7130a3102",
+  "platform_post_id": "711292574898323458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-29T18:58:28+08:00",
+  "source_url": "https://t.bilibili.com/711292574898323458",
+  "plain_text": "今晚依旧是🤙➕🤟点奥",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57343847-7675-4ee0-bf0d-617aee7fa092",
+    "next_uuid": "3c940867-8f90-443a-ac6d-3e5541cc24a2"
+  }
+}

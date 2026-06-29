@@ -1,0 +1,28 @@
+{
+  "uuid": "d8bf4a9d-c3ea-4063-9add-67bc8ffb988b",
+  "platform_post_id": "809242147185229865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-20T17:52:50+08:00",
+  "source_url": "https://t.bilibili.com/809242147185229865",
+  "plain_text": "吃饭呢。6:30来接你",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b82cc8fd-67cd-47c3-a7dc-ecc3978bf75c",
+    "next_uuid": "0665e399-ad2d-421f-8976-ba0146710a95"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "06c9061e-d766-4232-95f3-01b5ce762fe1",
+  "platform_post_id": "922776102989987845",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-04-21T16:42:34+08:00",
+  "source_url": "https://t.bilibili.com/922776102989987845",
+  "plain_text": "八卦回故事回！\n说点身边发生的或者听说的什么精彩刺激/好玩好笑的小故事小八卦吧\n投稿至：https://pome.vip/Gz75k7hF \n截止时间4月24日下午5点\n",
+  "images": [
+    {
+      "filename": "922776102989987845_00@original.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 348,
+    "comments": 36,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eeb2d6b5-3895-4d07-bfd3-e5c81bdb9a9e",
+    "next_uuid": "69a4c8f8-2109-4e99-aaa8-338fdc970c6c"
+  }
+}

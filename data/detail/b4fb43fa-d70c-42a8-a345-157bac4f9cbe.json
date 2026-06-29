@@ -1,0 +1,28 @@
+{
+  "uuid": "b4fb43fa-d70c-42a8-a345-157bac4f9cbe",
+  "platform_post_id": "1020871880423243801",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-11T01:04:17+08:00",
+  "source_url": "https://t.bilibili.com/1020871880423243801",
+  "plain_text": "哈哈哭得梨花带雨的，让大家见笑了，晚安呐，明天见嗯",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c756eec6-b56d-4bf2-9a35-263314c5e481",
+    "next_uuid": "d261e203-0757-41f7-ae9f-27878a537ced"
+  }
+}

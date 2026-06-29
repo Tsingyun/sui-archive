@@ -1,0 +1,28 @@
+{
+  "uuid": "e431bbc9-a998-4e18-9707-a011a0334b19",
+  "platform_post_id": "1210782157312622596",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-06T19:33:09+08:00",
+  "source_url": "https://t.bilibili.com/1210782157312622596",
+  "plain_text": "7:40来！懂我意思吧 先这样那样然后空洞骑士",
+  "images": [],
+  "stats": {
+    "likes": 189,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "95b214ac-07f2-44c5-be27-45e06092e193",
+    "next_uuid": "eae2d012-df65-4e86-be9b-b1a20d9811f9"
+  }
+}

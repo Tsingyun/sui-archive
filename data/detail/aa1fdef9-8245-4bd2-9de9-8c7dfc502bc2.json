@@ -1,0 +1,28 @@
+{
+  "uuid": "aa1fdef9-8245-4bd2-9de9-8c7dfc502bc2",
+  "platform_post_id": "823101757565435924",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-28T02:15:12+08:00",
+  "source_url": "https://t.bilibili.com/823101757565435924",
+  "plain_text": "hiiiiiiiii怎么还没睡",
+  "images": [],
+  "stats": {
+    "likes": 446,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4bac7190-16fd-45e6-a5b9-9b513b9895a3",
+    "next_uuid": "659b2eb7-fea3-457a-9838-ae0b699dd93a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "419565de-996d-49e2-ba54-67a5bfc29d87",
+  "platform_post_id": "1143310437290344497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-06T23:48:25+08:00",
+  "source_url": "https://t.bilibili.com/1143310437290344497",
+  "plain_text": "晚安晚安，不跟我说晚安你就死定了，明天休息喔，敢玩得太开心忘记岁己你也死定了",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aea51e16-6a4a-4e59-bdf5-0d5c14973789",
+    "next_uuid": "24cd2b21-73a3-4893-b2c8-34de9fd9d720"
+  }
+}

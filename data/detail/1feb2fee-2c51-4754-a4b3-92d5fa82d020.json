@@ -1,0 +1,28 @@
+{
+  "uuid": "1feb2fee-2c51-4754-a4b3-92d5fa82d020",
+  "platform_post_id": "918432039922827302",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-09T23:45:23+08:00",
+  "source_url": "https://t.bilibili.com/918432039922827302",
+  "plain_text": "给你刷刷毛亲密度能＋1吗，晚安 。",
+  "images": [],
+  "stats": {
+    "likes": 406,
+    "comments": 104,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a79083e-7d27-443a-9d8e-889702e461ce",
+    "next_uuid": "53372eb2-cabe-4471-88a1-a9705ccadb84"
+  }
+}

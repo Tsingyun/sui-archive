@@ -1,0 +1,28 @@
+{
+  "uuid": "caac8726-6097-49dc-8a09-d144acc5b3ad",
+  "platform_post_id": "1050019710319460360",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-30T14:12:45+08:00",
+  "source_url": "https://t.bilibili.com/1050019710319460360",
+  "plain_text": "你好，诶多...小岁2:40来唱歌聊天的说（捏衣角）",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "569d72bb-6e93-42da-902d-b4c651f5a41b",
+    "next_uuid": "ae88a255-2494-44b3-ba61-3defd1fee0e1"
+  }
+}

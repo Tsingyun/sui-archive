@@ -1,0 +1,28 @@
+{
+  "uuid": "e40a58c4-041f-49e8-ac01-4cc80b706382",
+  "platform_post_id": "896385886863753223",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-10T13:55:03+08:00",
+  "source_url": "https://t.bilibili.com/896385886863753223",
+  "plain_text": "系好安全带了吗 起飞～",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac60e11e-21e3-4c0e-9af5-57fa2be5ff1a",
+    "next_uuid": "670305c0-cb8c-45a0-b954-101a37866ef5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ba623b77-cfd3-4b6d-915f-04634b203cc0",
+  "platform_post_id": "960298053974097926",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-31T19:26:54+08:00",
+  "source_url": "https://t.bilibili.com/960298053974097926",
+  "plain_text": "我去你朋友圈是你吗，怎么变这么火辣了。简直认不出了。今晚7:45要不要出来见个面？",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "744cbf08-8586-4fe4-ac4b-bf680f211d0d",
+    "next_uuid": "1c75a319-be7f-44a1-a8a5-d7eb1b2bc450"
+  }
+}

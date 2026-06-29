@@ -1,0 +1,28 @@
+{
+  "uuid": "6b72b694-4eba-4eae-8e40-96b4c1e7f937",
+  "platform_post_id": "982243679006621714",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-28T22:47:08+08:00",
+  "source_url": "https://t.bilibili.com/982243679006621714",
+  "plain_text": "晚安；；三秒钟了为什么不理我；；；；",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 105,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f18fd0a-91cf-4f11-9fdc-1f43fbfd8de2",
+    "next_uuid": "be678aba-a100-4f3d-ae06-73e318db1bc8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a2ba6b38-d87a-462b-b978-6f6407372a1d",
+  "platform_post_id": "763893490404818993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-18T12:56:53+08:00",
+  "source_url": "https://t.bilibili.com/763893490404818993",
+  "plain_text": "哟 煮银 您早 起了吗您 中午吃啥呢您",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5f0786a6-0a22-4a18-828a-1bd3bce0aab6",
+    "next_uuid": "51b0a571-a742-4d03-afd0-e3a74be2f5af"
+  }
+}

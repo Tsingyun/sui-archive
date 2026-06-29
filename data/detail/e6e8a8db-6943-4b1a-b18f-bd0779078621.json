@@ -1,0 +1,28 @@
+{
+  "uuid": "e6e8a8db-6943-4b1a-b18f-bd0779078621",
+  "platform_post_id": "726523748718477383",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-09T20:03:12+08:00",
+  "source_url": "https://t.bilibili.com/726523748718477383",
+  "plain_text": "八点半来尝试一下写id回！但是有点不太会用sai，可能不太好看大家不会嫌弃岁岁吧呜呜呜",
+  "images": [],
+  "stats": {
+    "likes": 399,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "20690f7a-5822-47ba-b1bf-36c3363bf3f0",
+    "next_uuid": "ca0827bc-33e9-4023-9266-fd7023a9b11e"
+  }
+}

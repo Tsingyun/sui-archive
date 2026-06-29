@@ -1,0 +1,28 @@
+{
+  "uuid": "4ce3522a-5105-4ab2-899c-0c2142d78503",
+  "platform_post_id": "975138012068315176",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-09T19:13:31+08:00",
+  "source_url": "https://t.bilibili.com/975138012068315176",
+  "plain_text": "7:40 捏捏捏",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "581a281f-8c77-4010-86f2-e362e755724f",
+    "next_uuid": "eab890fa-ea98-400d-b258-06e4b49f94ec"
+  }
+}

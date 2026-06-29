@@ -1,0 +1,28 @@
+{
+  "uuid": "cefff1ff-7b07-4baf-818c-ea008a68d077",
+  "platform_post_id": "742908722542542871",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-23T23:45:16+08:00",
+  "source_url": "https://t.bilibili.com/742908722542542871",
+  "plain_text": "不播了，有点头晕目眩，大家晚安，我接着工作了。[UP_1954091502_啾啾]",
+  "images": [],
+  "stats": {
+    "likes": 436,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6c3aad47-fdfd-45a0-a727-31cb92bc3564",
+    "next_uuid": "afea2984-9c86-452d-aad3-cd970daeeacf"
+  }
+}

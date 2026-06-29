@@ -1,0 +1,28 @@
+{
+  "uuid": "616ba97d-28f8-4bab-bcf9-41f40087a134",
+  "platform_post_id": "967419672383193123",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-20T00:02:25+08:00",
+  "source_url": "https://t.bilibili.com/967419672383193123",
+  "plain_text": "今天真不错呀，挺开心的一天。晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6dc2f44d-c553-4a08-9fe5-ed21fb0ddeb9",
+    "next_uuid": "c5d0c860-04d2-4202-9f20-712fbf709f00"
+  }
+}

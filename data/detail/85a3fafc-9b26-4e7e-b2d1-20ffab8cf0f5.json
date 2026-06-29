@@ -1,0 +1,28 @@
+{
+  "uuid": "85a3fafc-9b26-4e7e-b2d1-20ffab8cf0f5",
+  "platform_post_id": "910260297686581249",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-18T23:14:51+08:00",
+  "source_url": "https://t.bilibili.com/910260297686581249",
+  "plain_text": "晚   安   啊   饼  干  岁",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92e23276-ecbe-4dee-97eb-918e653d7b8c",
+    "next_uuid": "11319b27-8299-4558-a552-f53261f2b05b"
+  }
+}

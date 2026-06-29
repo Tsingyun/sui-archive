@@ -1,0 +1,28 @@
+{
+  "uuid": "326526ca-193d-4e02-b339-c5b1289027d2",
+  "platform_post_id": "1154300167648706592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-05T14:34:11+08:00",
+  "source_url": "https://t.bilibili.com/1154300167648706592",
+  "plain_text": "2:45来摸鱼！",
+  "images": [],
+  "stats": {
+    "likes": 179,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "253247b4-fdbc-4c2d-9b26-33252c3061a3",
+    "next_uuid": "852f9215-e10e-498c-9c95-8d919e35cf95"
+  }
+}

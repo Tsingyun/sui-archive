@@ -1,0 +1,28 @@
+{
+  "uuid": "26c9dbde-080b-43db-80b6-07e8b786d007",
+  "platform_post_id": "1149922947470721064",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-24T19:28:20+08:00",
+  "source_url": "https://t.bilibili.com/1149922947470721064",
+  "plain_text": "8点来昂 先唱唱聊聊然后看看圣诞的电影这样 \n暂定克劳斯：圣诞节的秘密 这个",
+  "images": [],
+  "stats": {
+    "likes": 183,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e99a01ce-2e91-4660-b412-893c34d3e7a4",
+    "next_uuid": "f8893899-8674-45b8-acb9-acbdb7708e97"
+  }
+}

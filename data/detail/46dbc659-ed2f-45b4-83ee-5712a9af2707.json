@@ -1,0 +1,28 @@
+{
+  "uuid": "46dbc659-ed2f-45b4-83ee-5712a9af2707",
+  "platform_post_id": "1214787875696017414",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-17T14:37:23+08:00",
+  "source_url": "https://t.bilibili.com/1214787875696017414",
+  "plain_text": "3点来！睡过头了[岁己收藏集表情包_羞死人了] 空洞空洞 我们去哪",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "859b73a9-4fdb-4174-87ef-375febc7b740",
+    "next_uuid": "67670f0a-1402-4a3e-a642-08c33d6d92d1"
+  }
+}

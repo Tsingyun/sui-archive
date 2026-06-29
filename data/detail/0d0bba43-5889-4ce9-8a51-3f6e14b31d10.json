@@ -1,0 +1,28 @@
+{
+  "uuid": "0d0bba43-5889-4ce9-8a51-3f6e14b31d10",
+  "platform_post_id": "873389987735797765",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-10T14:39:13+08:00",
+  "source_url": "https://t.bilibili.com/873389987735797765",
+  "plain_text": "都准备一下！要那个那个了！",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "40825e77-940a-4a06-be73-9eb431cb2437",
+    "next_uuid": "57502922-6453-4a76-a848-ee857bdc0a83"
+  }
+}

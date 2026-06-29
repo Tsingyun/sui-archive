@@ -1,0 +1,28 @@
+{
+  "uuid": "c7505c9e-a562-414b-8131-4f6dce55b09b",
+  "platform_post_id": "734658287915499529",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-01T18:09:22+08:00",
+  "source_url": "https://t.bilibili.com/734658287915499529",
+  "plain_text": "8:00来讲述一下悲催遭遇然后学歌🥺",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a93eba27-9508-47b0-a99d-1b437e90a8e9",
+    "next_uuid": "69a2b937-8490-424b-83f4-c5e80d4d7f57"
+  }
+}

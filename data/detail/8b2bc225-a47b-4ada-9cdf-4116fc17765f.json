@@ -1,0 +1,28 @@
+{
+  "uuid": "8b2bc225-a47b-4ada-9cdf-4116fc17765f",
+  "platform_post_id": "1123567250039636024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-14T18:54:46+08:00",
+  "source_url": "https://t.bilibili.com/1123567250039636024",
+  "plain_text": "下班没 我7:30来喔",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99224860-0c4d-40f7-9f51-8856e256c2cb",
+    "next_uuid": "21c1d90e-4f6c-469c-a38e-a75ff6ff3bfb"
+  }
+}

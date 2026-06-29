@@ -1,0 +1,28 @@
+{
+  "uuid": "6642df5e-4fb6-4518-92b7-0d80efbf9cd6",
+  "platform_post_id": "808155739763769412",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-17T19:37:01+08:00",
+  "source_url": "https://t.bilibili.com/808155739763769412",
+  "plain_text": "我播嘛！！播什么！！！！",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f7fe56f-aa2d-4d05-82a7-a767da22fa21",
+    "next_uuid": "93c7ba2b-c0a4-4d48-ae8b-66ea39f3dc00"
+  }
+}

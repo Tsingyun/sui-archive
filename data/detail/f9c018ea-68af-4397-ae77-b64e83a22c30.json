@@ -1,0 +1,28 @@
+{
+  "uuid": "f9c018ea-68af-4397-ae77-b64e83a22c30",
+  "platform_post_id": "773343560918368307",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-16T00:07:59+08:00",
+  "source_url": "https://t.bilibili.com/773343560918368307",
+  "plain_text": "3月15日\n  今天，我去了饼干岁收容所，那里的花又大又红，小朋友们又多又可爱，我度过了又开心又快乐的一天。\n                                                            岁己SUI",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "53c763cd-b3ac-45a0-89fe-c7df863ee0a4",
+    "next_uuid": "6e78e889-2996-437b-a379-3e2233ac3d2f"
+  }
+}

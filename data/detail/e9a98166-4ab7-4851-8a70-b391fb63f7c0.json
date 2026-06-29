@@ -1,0 +1,28 @@
+{
+  "uuid": "e9a98166-4ab7-4851-8a70-b391fb63f7c0",
+  "platform_post_id": "1138792260517756953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-24T19:35:35+08:00",
+  "source_url": "https://t.bilibili.com/1138792260517756953",
+  "plain_text": "刚吃完饭 7:50来嗷",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ced1a14f-7795-407e-8ba6-ec93d45a3d05",
+    "next_uuid": "c54de08a-fd09-4ab8-9762-eb32c9e5fb21"
+  }
+}

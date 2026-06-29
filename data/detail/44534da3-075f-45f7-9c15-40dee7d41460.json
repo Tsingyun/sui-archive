@@ -1,0 +1,28 @@
+{
+  "uuid": "44534da3-075f-45f7-9c15-40dee7d41460",
+  "platform_post_id": "881629276918513672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-01T19:31:52+08:00",
+  "source_url": "https://t.bilibili.com/881629276918513672",
+  "plain_text": "怎么没几个人问我几点播！！都去玩了吗！说话！岁己7:45播",
+  "images": [],
+  "stats": {
+    "likes": 399,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f0819d71-43fd-4b11-a8e9-6919b9028164",
+    "next_uuid": "5650f547-1cc1-4601-bbe1-35b95b86553b"
+  }
+}

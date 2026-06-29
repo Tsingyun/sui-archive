@@ -1,0 +1,28 @@
+{
+  "uuid": "ec7a3071-14ca-47de-9e20-702056397ee5",
+  "platform_post_id": "886885565235986437",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-15T23:28:57+08:00",
+  "source_url": "https://t.bilibili.com/886885565235986437",
+  "plain_text": "今天和饼干岁一起又变得稍微厉害了一点点的说！么啊么啊 晚安晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 542,
+    "comments": 112,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5a49f1d-c947-4eb2-833b-99bdf35951b1",
+    "next_uuid": "9e087d19-ae27-4cd3-9be8-4a5318189ed4"
+  }
+}

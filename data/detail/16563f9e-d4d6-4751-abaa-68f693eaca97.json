@@ -1,0 +1,28 @@
+{
+  "uuid": "16563f9e-d4d6-4751-abaa-68f693eaca97",
+  "platform_post_id": "1150371466579017736",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-26T00:28:49+08:00",
+  "source_url": "https://t.bilibili.com/1150371466579017736",
+  "plain_text": "晚安大家！又是一年圣诞节了。希望我们都能多多幸福喔",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 171,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07c1bbcf-6668-4a5b-9ebd-44980b8c2322",
+    "next_uuid": "da59d978-388b-499c-b20d-9454ff375004"
+  }
+}

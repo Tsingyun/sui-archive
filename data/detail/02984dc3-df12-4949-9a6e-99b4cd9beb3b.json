@@ -1,0 +1,28 @@
+{
+  "uuid": "02984dc3-df12-4949-9a6e-99b4cd9beb3b",
+  "platform_post_id": "1078592572951101474",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-15T14:10:03+08:00",
+  "source_url": "https://t.bilibili.com/1078592572951101474",
+  "plain_text": "丫头们 3点来直播 做好准备！",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00705e20-2b83-4f10-addb-262fbd22b6d1",
+    "next_uuid": "ca9a5ad8-dde4-4fcc-ad38-2fe0d06ed236"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "566fa9fa-70ea-42fd-b624-59ae6dfa3925",
+  "platform_post_id": "1191527836107669537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-15T22:16:33+08:00",
+  "source_url": "https://t.bilibili.com/1191527836107669537",
+  "plain_text": "10:30来温柔煮煮[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 171,
+    "comments": 8,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "070d9eda-336b-4d79-9d7e-b1064f818a06",
+    "next_uuid": "9382c10d-3bf6-4f38-bfdc-ec46d4c5c77c"
+  }
+}

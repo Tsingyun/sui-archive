@@ -1,0 +1,28 @@
+{
+  "uuid": "0e9f93f0-1612-4c4d-859e-e91f3350df83",
+  "platform_post_id": "864157659176108037",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-15T17:33:04+08:00",
+  "source_url": "https://t.bilibili.com/864157659176108037",
+  "plain_text": "之前是不是有谁私信跟我说520礼物没收到啊？谁来着 再私信我一下呢",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2d80402-1746-4279-bb6e-57bbe070dd3d",
+    "next_uuid": "9114885b-827a-4e41-8ee0-5997550837a0"
+  }
+}

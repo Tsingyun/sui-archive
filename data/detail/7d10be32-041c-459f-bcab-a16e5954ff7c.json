@@ -1,0 +1,28 @@
+{
+  "uuid": "7d10be32-041c-459f-bcab-a16e5954ff7c",
+  "platform_post_id": "848594037712617521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-04T18:58:16+08:00",
+  "source_url": "https://t.bilibili.com/848594037712617521",
+  "plain_text": "7:20！\n嗓子痛 小聊一下然后看点啥吧 ok吗ok吗",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "855b02a9-ccb0-4602-bf8e-ed460b284b73",
+    "next_uuid": "f838e213-9150-427d-9bcf-227776baf00a"
+  }
+}

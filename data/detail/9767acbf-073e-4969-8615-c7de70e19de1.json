@@ -1,0 +1,28 @@
+{
+  "uuid": "9767acbf-073e-4969-8615-c7de70e19de1",
+  "platform_post_id": "946936500887486473",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-25T19:17:15+08:00",
+  "source_url": "https://t.bilibili.com/946936500887486473",
+  "plain_text": "7:40播啊播，聊唱一下然后亚人吧可能！",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "661adc21-7b0f-4534-8bc7-e8c371ad830c",
+    "next_uuid": "83c662fc-e2c7-476a-b046-3e7b33f88858"
+  }
+}

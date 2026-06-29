@@ -1,0 +1,28 @@
+{
+  "uuid": "959b0938-4229-43b9-be79-9766acb701f6",
+  "platform_post_id": "759971652689723440",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T23:18:09+08:00",
+  "source_url": "https://t.bilibili.com/759971652689723440",
+  "plain_text": "活生生躺了一个小时都睡不着 好急！！！先别急 打开煮面视频棉花挠耳朵试试 那么再次晚安大家",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8916eb34-72b9-4c54-9dc1-464ae842b82c",
+    "next_uuid": "4f5945a5-b786-4f8b-9202-eab606bee96d"
+  }
+}

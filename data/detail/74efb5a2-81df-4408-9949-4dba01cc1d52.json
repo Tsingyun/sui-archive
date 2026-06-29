@@ -1,0 +1,28 @@
+{
+  "uuid": "74efb5a2-81df-4408-9949-4dba01cc1d52",
+  "platform_post_id": "1192295703219535890",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-17T23:56:16+08:00",
+  "source_url": "https://t.bilibili.com/1192295703219535890",
+  "plain_text": "晚安喔大家，希望你今天也度过了寻常而幸福的一天",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "752f26f1-1177-412a-8a49-0cf7db19a37e",
+    "next_uuid": "bfe56bcc-900a-4052-9777-9b84a6a506c8"
+  }
+}

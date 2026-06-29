@@ -1,0 +1,28 @@
+{
+  "uuid": "71865e80-cbf5-4e6f-9712-f90d5ff51393",
+  "platform_post_id": "825571664408346627",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-03T17:59:42+08:00",
+  "source_url": "https://t.bilibili.com/825571664408346627",
+  "plain_text": "实在想不出晚饭吃什么所以还没吃，所以今晚是7点来接你。\n你们吃什么啊啊啊给我抄袭下",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7876aaa-d75a-402f-bf6e-1886c3a15f00",
+    "next_uuid": "489957ee-1ad9-429a-bb50-2a8db247fba8"
+  }
+}

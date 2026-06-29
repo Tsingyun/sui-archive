@@ -1,0 +1,28 @@
+{
+  "uuid": "411d0865-ad46-4c61-8c42-b135888f0a43",
+  "platform_post_id": "825952507746320483",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-04T18:37:34+08:00",
+  "source_url": "https://t.bilibili.com/825952507746320483",
+  "plain_text": "垫了",
+  "images": [],
+  "stats": {
+    "likes": 406,
+    "comments": 102,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c19b5fc-d096-4d36-aa8d-95e624361d08",
+    "next_uuid": "cd101b72-696a-47c2-8179-12a0351bda7a"
+  }
+}

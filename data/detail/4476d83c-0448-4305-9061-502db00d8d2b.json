@@ -1,0 +1,28 @@
+{
+  "uuid": "4476d83c-0448-4305-9061-502db00d8d2b",
+  "platform_post_id": "784088289167540233",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-13T23:03:01+08:00",
+  "source_url": "https://t.bilibili.com/784088289167540233",
+  "plain_text": "晚安 明天见哦[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8facf8ee-5500-4e71-ab1a-eb170afef3e7",
+    "next_uuid": "9f810f31-5694-4f7f-b22f-f3cb2cac8574"
+  }
+}

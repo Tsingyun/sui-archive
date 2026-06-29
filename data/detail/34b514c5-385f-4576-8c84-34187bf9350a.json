@@ -1,0 +1,28 @@
+{
+  "uuid": "34b514c5-385f-4576-8c84-34187bf9350a",
+  "platform_post_id": "986712334777974806",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-10T23:47:48+08:00",
+  "source_url": "https://t.bilibili.com/986712334777974806",
+  "plain_text": "晚安喔！\n每天都说晚安，会不会太主动了，也不知道他们会不会回复我啊，不回复的话可能我会哭吧，但没事的，大家都很忙的，就算0个人回复我我也要坚强地活下去（45度角擦干眼泪",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eabc695c-1619-45bb-a236-e9a3df1b695a",
+    "next_uuid": "85982528-b21d-4f70-8399-134adf3851a9"
+  }
+}

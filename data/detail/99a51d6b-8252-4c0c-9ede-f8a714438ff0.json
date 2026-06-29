@@ -1,0 +1,28 @@
+{
+  "uuid": "99a51d6b-8252-4c0c-9ede-f8a714438ff0",
+  "platform_post_id": "826342602448044069",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-05T19:51:20+08:00",
+  "source_url": "https://t.bilibili.com/826342602448044069",
+  "plain_text": "我的晚饭巨烫无比 \n大家 8:25\n",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d9a5193-1e25-4bdb-b401-a6ef4bca27f6",
+    "next_uuid": "b4209e34-47b7-42da-bd1e-1b12b1b62835"
+  }
+}

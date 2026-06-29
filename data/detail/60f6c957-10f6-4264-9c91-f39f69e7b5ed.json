@@ -1,0 +1,28 @@
+{
+  "uuid": "60f6c957-10f6-4264-9c91-f39f69e7b5ed",
+  "platform_post_id": "770227093954887700",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-07T14:34:30+08:00",
+  "source_url": "https://t.bilibili.com/770227093954887700",
+  "plain_text": "我喜欢它十年，我比流言蜚语更早知道它，饼字开头，干字居中，岁字结尾，三字十八画，饼干岁是人间理想 独一无二 无可替代",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07573753-d391-45bc-9fc3-70345f458cba",
+    "next_uuid": "d908f15b-ea5c-435d-b60f-382ea6c82a0b"
+  }
+}

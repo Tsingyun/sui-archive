@@ -1,0 +1,28 @@
+{
+  "uuid": "0a22c996-1605-4d45-8b13-4da2d4abab85",
+  "platform_post_id": "779300019096256528",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-01T01:22:05+08:00",
+  "source_url": "https://t.bilibili.com/779300019096256528",
+  "plain_text": "芭比芭比吧芭比啵\n芭比芭比吧芭比啵",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f30bac28-edcd-4f0e-958b-ac8f4d77f705",
+    "next_uuid": "bc060316-6789-48c8-8c6a-0047fb4a2ec1"
+  }
+}

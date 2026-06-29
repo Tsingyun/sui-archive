@@ -1,0 +1,28 @@
+{
+  "uuid": "6f2fd80e-bc38-40fa-ac45-799339156f55",
+  "platform_post_id": "798927762004901889",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-23T22:47:45+08:00",
+  "source_url": "https://t.bilibili.com/798927762004901889",
+  "plain_text": "5月23日20:56分岁己按耐住万分羞涩的心情打下了“想你想你”这四个字，只收到寥寥10来个回复，冷漠，永生难忘",
+  "images": [],
+  "stats": {
+    "likes": 452,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e895afd-a42c-4eac-ae96-4c8314e667b6",
+    "next_uuid": "79d9b8eb-1546-4f09-ab16-9b2cc196c457"
+  }
+}

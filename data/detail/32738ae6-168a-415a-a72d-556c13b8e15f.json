@@ -1,0 +1,28 @@
+{
+  "uuid": "32738ae6-168a-415a-a72d-556c13b8e15f",
+  "platform_post_id": "1075320082806079497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-06T18:31:07+08:00",
+  "source_url": "https://t.bilibili.com/1075320082806079497",
+  "plain_text": "7:40见！好久没见了，一回来好多事要做啊啊——！",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "13414020-38db-4db0-8e11-23e669c954ae",
+    "next_uuid": "97799096-91ff-4a55-8282-c4ab22ae0693"
+  }
+}

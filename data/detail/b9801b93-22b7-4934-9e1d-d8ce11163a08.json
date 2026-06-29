@@ -1,0 +1,28 @@
+{
+  "uuid": "b9801b93-22b7-4934-9e1d-d8ce11163a08",
+  "platform_post_id": "955467195257716743",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-18T19:00:42+08:00",
+  "source_url": "https://t.bilibili.com/955467195257716743",
+  "plain_text": "不播了，研究新软件怎么用以及写修改意见花好多时间，可能晚点来小小电台吧。",
+  "images": [],
+  "stats": {
+    "likes": 352,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d87c7fba-211b-421b-8142-8cbc3aa47e59",
+    "next_uuid": "e386631c-10ae-48a9-a554-b608ec1ff370"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9382e661-9dea-4e94-bff0-000ba9696b4c",
+  "platform_post_id": "1121791779250634759",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-10T00:05:02+08:00",
+  "source_url": "https://t.bilibili.com/1121791779250634759",
+  "plain_text": "晚鮟。唏朢莪們嘟能莋個恏夢，芣侢蕜傷[岁己收藏集表情包_哭死]",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4f8632fd-27bd-4b12-aa92-df1813790070",
+    "next_uuid": "0e2c5619-e989-4ae2-8554-bdffa400d1fe"
+  }
+}

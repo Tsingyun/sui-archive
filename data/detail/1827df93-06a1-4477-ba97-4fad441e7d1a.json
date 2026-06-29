@@ -1,0 +1,28 @@
+{
+  "uuid": "1827df93-06a1-4477-ba97-4fad441e7d1a",
+  "platform_post_id": "1152775084882001922",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-01T11:56:05+08:00",
+  "source_url": "https://t.bilibili.com/1152775084882001922",
+  "plain_text": "早上好！12:30来直播云逛萤火虫喔！一点点紧张！！[岁己收藏集表情包_好听]",
+  "images": [],
+  "stats": {
+    "likes": 195,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a5489fc9-ce68-4c3a-aa1c-ea1f2ac7bb86",
+    "next_uuid": "8d38d5e3-5dec-4f16-9a0e-baeaac3db08f"
+  }
+}

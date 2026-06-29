@@ -1,0 +1,28 @@
+{
+  "uuid": "68b801f6-0b4f-48ac-91d6-1a9a6da14779",
+  "platform_post_id": "724949999666855952",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-11-05T14:16:15+08:00",
+  "source_url": "https://t.bilibili.com/724949999666855952",
+  "plain_text": "🎉[打call][打call]🎉",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "adbab190-4169-465b-a82c-b7dd7454c1cb",
+    "next_uuid": "7e08bcc2-2bf2-4ad5-85cd-95e36bcbf979"
+  }
+}

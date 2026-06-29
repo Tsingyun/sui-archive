@@ -1,0 +1,28 @@
+{
+  "uuid": "ec143b19-5f89-4df8-854d-827158da0dd4",
+  "platform_post_id": "897588207158296578",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-13T19:40:40+08:00",
+  "source_url": "https://t.bilibili.com/897588207158296578",
+  "plain_text": "吃坏了东西不太舒服没什么精神，也能播但是肯定很无聊很疲惫，还是明天开开心心见面吧？[UP_1954091502_委屈]",
+  "images": [],
+  "stats": {
+    "likes": 442,
+    "comments": 106,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18199b11-938f-4786-9e30-dfe9ab9c50e7",
+    "next_uuid": "f110edb2-9d44-489e-b8e9-6f9e0af7182c"
+  }
+}

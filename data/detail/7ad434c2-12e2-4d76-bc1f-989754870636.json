@@ -1,0 +1,28 @@
+{
+  "uuid": "7ad434c2-12e2-4d76-bc1f-989754870636",
+  "platform_post_id": "797414078092935170",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-19T20:53:53+08:00",
+  "source_url": "https://t.bilibili.com/797414078092935170",
+  "plain_text": "那就晚点电台了[UP_1954091502_抱抱] 大约10:30 然后11点睡觉！",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "590b3e95-ce3e-441f-9a4a-e643f217fba4",
+    "next_uuid": "4863073c-5cd0-47a0-8208-ab1bfd81d881"
+  }
+}

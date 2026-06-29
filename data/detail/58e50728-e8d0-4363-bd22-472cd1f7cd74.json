@@ -1,0 +1,28 @@
+{
+  "uuid": "58e50728-e8d0-4363-bd22-472cd1f7cd74",
+  "platform_post_id": "833832978165530656",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-26T00:17:49+08:00",
+  "source_url": "https://t.bilibili.com/833832978165530656",
+  "plain_text": "谢谢大家今天来听我唱歌和我聊天！美妙的周末又要开始啦 早点睡 晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af2918cb-0a8b-49c7-8c17-4303cd3ae749",
+    "next_uuid": "06c5d32b-0cdb-4779-bd26-f9a7c487f961"
+  }
+}

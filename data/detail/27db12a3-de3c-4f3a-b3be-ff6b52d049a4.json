@@ -1,0 +1,28 @@
+{
+  "uuid": "27db12a3-de3c-4f3a-b3be-ff6b52d049a4",
+  "platform_post_id": "1161796500480589840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-25T19:23:47+08:00",
+  "source_url": "https://t.bilibili.com/1161796500480589840",
+  "plain_text": "孩子们呐我现在说7:55播你觉得可以吗[UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6870552-1fd6-4de8-879f-9059bea80cf3",
+    "next_uuid": "b70d0b02-9cbb-4224-b292-ce0c2d2c1787"
+  }
+}

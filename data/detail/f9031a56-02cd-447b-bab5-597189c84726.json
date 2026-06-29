@@ -1,0 +1,38 @@
+{
+  "uuid": "f9031a56-02cd-447b-bab5-597189c84726",
+  "platform_post_id": "1100151908636557313",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-08-12T16:31:17+08:00",
+  "source_url": "https://t.bilibili.com/1100151908636557313",
+  "plain_text": "这位美人 你也在此独酌吗[岁己收藏集表情包_凝视]🌹",
+  "images": [
+    {
+      "filename": "1100151908636557313_100@repost.jpg",
+      "width": 3061,
+      "height": 5443,
+      "file_size": 14654091,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 267,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "371b1857-37a4-44f8-82f2-818c56351672",
+    "next_uuid": "0d973832-15c0-40b4-931a-468cddd82d28"
+  }
+}

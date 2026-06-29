@@ -1,0 +1,28 @@
+{
+  "uuid": "6f14aa67-d180-49dc-8eaf-d8acb25ead08",
+  "platform_post_id": "733198961095999529",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-27T19:46:26+08:00",
+  "source_url": "https://t.bilibili.com/733198961095999529",
+  "plain_text": "八点直播哦！先跟大家一起看看全城高能节，请调整时间准时收看！",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "05c0e054-f96d-4202-ba82-2f5128f84d76",
+    "next_uuid": "d948a4b3-f334-4c75-a6ee-ddaba0c923ac"
+  }
+}

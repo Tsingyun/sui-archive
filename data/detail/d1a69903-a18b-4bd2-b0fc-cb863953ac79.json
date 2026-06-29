@@ -1,0 +1,28 @@
+{
+  "uuid": "d1a69903-a18b-4bd2-b0fc-cb863953ac79",
+  "platform_post_id": "1092855373417676825",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-24T00:37:00+08:00",
+  "source_url": "https://t.bilibili.com/1092855373417676825",
+  "plain_text": "一条晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 70,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8bd5913d-eed8-45dc-8216-d825f6a60f6e",
+    "next_uuid": "e092dc7c-79c6-4df0-8eb9-58b0df04b1fe"
+  }
+}

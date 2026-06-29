@@ -1,0 +1,28 @@
+{
+  "uuid": "54b59fee-f472-43b4-8e7a-603c99685264",
+  "platform_post_id": "712403730195021827",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-02T18:50:19+08:00",
+  "source_url": "https://t.bilibili.com/712403730195021827",
+  "plain_text": "2万粉了！感谢大家！准备在10月4日晚9点，也就是后天，进行动漫歌回纪念直播！",
+  "images": [],
+  "stats": {
+    "likes": 558,
+    "comments": 54,
+    "forwards": 17,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fc5ca77d-95c7-4485-a6a7-00868652dcba",
+    "next_uuid": "b231f4dc-31d6-404f-9ea6-da58c938d037"
+  }
+}

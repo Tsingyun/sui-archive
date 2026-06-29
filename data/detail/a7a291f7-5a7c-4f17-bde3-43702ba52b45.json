@@ -1,0 +1,28 @@
+{
+  "uuid": "a7a291f7-5a7c-4f17-bde3-43702ba52b45",
+  "platform_post_id": "964753034563289108",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-12T19:34:30+08:00",
+  "source_url": "https://t.bilibili.com/964753034563289108",
+  "plain_text": "8点来小时候做过的坏事的优哉游哉棉花糖",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d9244eb-3615-4b27-a46b-7a95be7f64be",
+    "next_uuid": "3e78e49e-629b-4ed2-bb1e-4fb7a04ee3e3"
+  }
+}

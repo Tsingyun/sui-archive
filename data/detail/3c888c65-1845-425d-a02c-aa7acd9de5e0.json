@@ -1,0 +1,28 @@
+{
+  "uuid": "3c888c65-1845-425d-a02c-aa7acd9de5e0",
+  "platform_post_id": "1215682968383651860",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-20T00:30:48+08:00",
+  "source_url": "https://t.bilibili.com/1215682968383651860",
+  "plain_text": "晚安哟！想吃粽子..火锅..牛肉了[岁己收藏集表情包_晚安]假期快乐大家～",
+  "images": [],
+  "stats": {
+    "likes": 266,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5c6bba1-2cf6-4e4e-8d5d-df3d24206c46",
+    "next_uuid": "8b3419ce-fdc3-4b42-b34b-7834fe5cd405"
+  }
+}

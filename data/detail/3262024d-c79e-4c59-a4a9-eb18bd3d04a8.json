@@ -1,0 +1,28 @@
+{
+  "uuid": "3262024d-c79e-4c59-a4a9-eb18bd3d04a8",
+  "platform_post_id": "703052293534121993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-07T14:01:58+08:00",
+  "source_url": "https://t.bilibili.com/703052293534121993",
+  "plain_text": "疑似比本人可爱！",
+  "images": [],
+  "stats": {
+    "likes": 661,
+    "comments": 40,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6bbcfcd6-f747-42b6-bae4-2d58e15926a1",
+    "next_uuid": "6d6e6b22-5315-4314-8d18-dcaf1238704e"
+  }
+}

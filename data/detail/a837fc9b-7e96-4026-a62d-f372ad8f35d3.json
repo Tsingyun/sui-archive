@@ -1,0 +1,28 @@
+{
+  "uuid": "a837fc9b-7e96-4026-a62d-f372ad8f35d3",
+  "platform_post_id": "1164112243805126681",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-01T01:10:03+08:00",
+  "source_url": "https://t.bilibili.com/1164112243805126681",
+  "plain_text": "晚安大家，多多陪在岁己的身旁喔，请你",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55047eea-75b5-472f-90c8-06c219d5d9c3",
+    "next_uuid": "26a5a1c9-e452-47aa-b1c0-253b9e364b90"
+  }
+}
