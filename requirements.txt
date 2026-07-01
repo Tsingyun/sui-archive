@@ -1,0 +1,15 @@
+# SUI Archive — Python dependencies for CI/CD and automation
+# Install: pip install -r requirements.txt
+
+# Build pipeline
+PyYAML>=6.0
+Pillow>=10.0
+
+# R2 image sync
+boto3>=1.28
+
+# Environment variables
+python-dotenv>=1.0
+
+# HTTP client (automation pipeline)
+requests>=2.31

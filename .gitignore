@@ -33,6 +33,10 @@ media/*.log
 # Sync state
 .sync_failed.log
 
+# Pipeline artifacts
+pipeline_result.json
+sync_r2_output.log
+
 # Editor
 .vscode/
 .idea/

@@ -1,0 +1,229 @@
+# .github/workflows/archive.yml
+# SUI Archive — Automated Bilibili Dynamic Archiving Pipeline
+#
+# Schedule: Every 15 minutes
+# Flow: Quick Check → (if new) → Fetch → Build → Deploy
+#
+# Required Secrets:
+#   BILIBILI_COOKIE      — Bilibili session cookie
+#   R2_ACCESS_KEY_ID     — Cloudflare R2 S3 access key
+#   R2_SECRET_ACCESS_KEY — Cloudflare R2 S3 secret key
+#   R2_BUCKET            — R2 bucket name
+#   R2_ENDPOINT_URL      — R2 S3 endpoint
+#   CLOUDFLARE_API_TOKEN — Cloudflare API token (Workers/Zone)
+#   CLOUDFLARE_ZONE_ID   — Cloudflare DNS zone ID (optional)
+#   GH_PAT               — GitHub PAT with repo scope (for git push)
+
+name: Auto Archive
+
+on:
+  schedule:
+    # Every 15 minutes (UTC). Adjust as needed.
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      skip_quick_check:
+        description: "Skip quick check, force full pipeline"
+        required: false
+        default: "false"
+        type: choice
+        options:
+          - "false"
+          - "true"
+
+# Prevent concurrent runs
+concurrency:
+  group: auto-archive
+  cancel-in-progress: false
+
+# Permissions for GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+
+env:
+  PYTHON_VERSION: "3.11"
+  BILIBILI_COOKIE: ${{ secrets.BILIBILI_COOKIE }}
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_BUCKET: ${{ secrets.R2_BUCKET }}
+  R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+
+jobs:
+  # ====================================================================
+  # Quick Check — Lightweight update detection (<3 seconds)
+  # ====================================================================
+  quick-check:
+    name: Quick Check
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    outputs:
+      has_updates: ${{ steps.check.outputs.has_updates }}
+      new_posts: ${{ steps.check.outputs.new_posts }}
+      check_ms: ${{ steps.check.outputs.check_ms }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Need full history for git push later
+          fetch-depth: 0
+          # Use PAT for push permission
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Quick Check
+        id: check
+        run: |
+          set -e
+          echo "Running quick check..."
+          START=$(date +%s%N)
+
+          if [ "${{ github.event.inputs.skip_quick_check }}" = "true" ]; then
+            echo "has_updates=true" >> "$GITHUB_OUTPUT"
+            echo "new_posts=unknown" >> "$GITHUB_OUTPUT"
+            echo "check_ms=0" >> "$GITHUB_OUTPUT"
+            echo "Quick check skipped (manual trigger with skip)"
+            exit 0
+          fi
+
+          python -X utf8 -c "
+          import json, sys, time
+          sys.path.insert(0, '.')
+          from automation.quick_check import QuickChecker
+
+          checker = QuickChecker()
+          result = checker.check()
+
+          print(f'Has updates: {result.has_updates}')
+          print(f'Latest API ID: {result.latest_id}')
+          print(f'Latest DB ID: {result.db_latest_id}')
+          print(f'New count (est): {result.new_count}')
+          print(f'Elapsed: {result.elapsed_ms:.0f}ms')
+
+          if result.error:
+              print(f'Warning: {result.error}', file=sys.stderr)
+
+          # Write GitHub outputs
+          with open('$GITHUB_OUTPUT', 'a') as f:
+              f.write(f'has_updates={\"true\" if result.has_updates else \"false\"}\n')
+              f.write(f'new_posts={result.new_count}\n')
+              f.write(f'check_ms={int(result.elapsed_ms)}\n')
+          "
+
+          END=$(date +%s%N)
+          echo "Quick check completed in $(( (END - START) / 1000000 ))ms"
+
+  # ====================================================================
+  # Archive — Full pipeline (only runs if updates detected)
+  # ====================================================================
+  archive:
+    name: Archive New Posts
+    needs: quick-check
+    if: needs.quick-check.outputs.has_updates == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      posts_added: ${{ steps.pipeline.outputs.posts_added }}
+      images_added: ${{ steps.pipeline.outputs.images_added }}
+      build_seconds: ${{ steps.pipeline.outputs.build_seconds }}
+      total_seconds: ${{ steps.pipeline.outputs.total_seconds }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq libwebp-dev
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Archive Pipeline
+        id: pipeline
+        run: |
+          set -e
+          START=$(date +%s)
+
+          python -X utf8 -m automation \
+            --output-file pipeline_result.json \
+            --github-output "$GITHUB_OUTPUT"
+
+          END=$(date +%s)
+          echo "Pipeline completed in $(( END - START ))s"
+
+          # Display result summary
+          if [ -f pipeline_result.json ]; then
+            echo "=== Pipeline Result ==="
+            python -X utf8 -c "
+          import json
+          with open('pipeline_result.json') as f:
+              r = json.load(f)
+          for k, v in r.items():
+              print(f'  {k}: {v}')
+          "
+          fi
+
+      - name: Verify deployment
+        if: success()
+        run: |
+          if [ -f scripts/verify_deploy.sh ]; then
+            echo "Waiting 30s for Pages to build..."
+            sleep 30
+            bash scripts/verify_deploy.sh || echo "Verification had issues (non-fatal)"
+          fi
+
+      - name: Upload pipeline result
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-result-${{ github.run_number }}
+          path: pipeline_result.json
+          retention-days: 30
+
+  # ====================================================================
+  # Summary — Report results
+  # ====================================================================
+  summary:
+    name: Summary
+    needs: [quick-check, archive]
+    if: always()
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      - name: Report
+        run: |
+          echo "## Auto Archive Summary"
+          echo ""
+          echo "| Metric | Value |"
+          echo "|--------|-------|"
+          echo "| Quick Check | ${{ needs.quick-check.outputs.check_ms }}ms |"
+          echo "| Has Updates | ${{ needs.quick-check.outputs.has_updates }} |"
+          echo "| Est. New Posts | ${{ needs.quick-check.outputs.new_posts }} |"
+          echo "| Posts Added | ${{ needs.archive.outputs.posts_added || 'N/A' }} |"
+          echo "| Images Added | ${{ needs.archive.outputs.images_added || 'N/A' }} |"
+          echo "| Build Time | ${{ needs.archive.outputs.build_seconds || 'N/A' }}s |"
+          echo "| Total Time | ${{ needs.archive.outputs.total_seconds || 'N/A' }}s |"

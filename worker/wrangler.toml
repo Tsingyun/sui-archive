@@ -8,10 +8,10 @@ binding = "IMAGE_BUCKET"
 bucket_name = "sui-archive-images"
 
 # Custom domain route — maps archive.suijisui.uk/images/* to this Worker.
-# The zone_name must match a domain registered in your Cloudflare account.
-routes = [
-  { pattern = "archive.suijisui.uk/images/*", zone_name = "suijisui.uk" }
-]
+# Uncomment after adding suijisui.uk to Cloudflare and setting CLOUDFLARE_ZONE_ID.
+# [[routes]]
+# pattern = "archive.suijisui.uk/images/*"
+# zone_name = "suijisui.uk"
 
 # Production environment variables
 [vars]
