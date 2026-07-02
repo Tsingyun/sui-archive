@@ -1,0 +1,128 @@
+# .github/workflows/integrity_check.yml
+# SUI Archive - Daily Integrity Check
+#
+# Runs daily at 04:00 Beijing time (20:00 UTC).
+# Validates archive consistency WITHOUT fetching new data.
+# Auto-repairs when possible, reports issues otherwise.
+#
+# Required Secrets (same as archive.yml):
+#   R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET, R2_ENDPOINT_URL
+#   GH_PAT (for git push if auto-repair commits)
+
+name: Integrity Check
+
+on:
+  schedule:
+    # 04:00 Beijing (CST=UTC+8) = 20:00 UTC (previous day)
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+    inputs:
+      auto_repair:
+        description: "Auto-repair issues (rebuild)"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+concurrency:
+  group: integrity-check
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  PYTHON_VERSION: "3.11"
+  R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+  R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+  R2_BUCKET: ${{ secrets.R2_BUCKET }}
+  R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
+
+jobs:
+  integrity:
+    name: Daily Integrity Check
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.PYTHON_VERSION }}
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq libwebp-dev
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run Integrity Check
+        id: check
+        run: |
+          set -e
+
+          REPAIR_FLAG=""
+          if [ "${{ github.event.inputs.auto_repair }}" = "true" ] || [ -z "${{ github.event.inputs.auto_repair }}" ]; then
+            REPAIR_FLAG="--auto-repair"
+          fi
+
+          python -X utf8 scripts/integrity_check.py \
+            $REPAIR_FLAG \
+            --output integrity_report.json \
+            --markdown integrity_report.md \
+            --verbose || EXIT_CODE=$?
+
+          echo "exit_code=${EXIT_CODE:-0}" >> "$GITHUB_OUTPUT"
+
+          # Display report
+          if [ -f integrity_report.md ]; then
+            echo "=== Integrity Report ==="
+            cat integrity_report.md
+          fi
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: integrity-report-${{ github.run_number }}
+          path: |
+            integrity_report.json
+            integrity_report.md
+          retention-days: 90
+
+      - name: Summary
+        if: always()
+        run: |
+          echo "## Integrity Check Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          if [ -f integrity_report.md ]; then
+            cat integrity_report.md >> $GITHUB_STEP_SUMMARY
+          else
+            echo "Report not generated." >> $GITHUB_STEP_SUMMARY
+          fi
+
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+
+          EXIT="${{ steps.check.outputs.exit_code }}"
+          if [ "$EXIT" = "0" ]; then
+            echo "**Result: PASSED**" >> $GITHUB_STEP_SUMMARY
+          elif [ "$EXIT" = "1" ]; then
+            echo "**Result: ISSUES FOUND AND REPAIRED**" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "**Result: UNRESOLVABLE ISSUES** (exit $EXIT)" >> $GITHUB_STEP_SUMMARY
+          fi
