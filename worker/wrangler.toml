@@ -2,16 +2,16 @@ name = "sui-archive-images"
 main = "worker.js"
 compatibility_date = "2024-12-01"
 
+# Custom domain routes — maps archive.suijisui.uk to this Worker.
+routes = [
+  { pattern = "archive.suijisui.uk/images/*", zone_id = "ff08a8b9bf76f202551d9ca9e36c7123" },
+  { pattern = "archive.suijisui.uk/thumbs/*", zone_id = "ff08a8b9bf76f202551d9ca9e36c7123" },
+]
+
 # R2 bucket binding for image storage
 [[r2_buckets]]
 binding = "IMAGE_BUCKET"
 bucket_name = "sui-archive-images"
-
-# Custom domain route — maps archive.suijisui.uk/images/* to this Worker.
-# Uncomment after adding suijisui.uk to Cloudflare and setting CLOUDFLARE_ZONE_ID.
-# [[routes]]
-# pattern = "archive.suijisui.uk/images/*"
-# zone_name = "suijisui.uk"
 
 # Production environment variables
 [vars]

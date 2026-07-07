@@ -85,11 +85,15 @@ async function handleRequest(request, env) {
     });
   }
 
-  // Extract image path from URL: /images/{path}
+  // Extract path from URL: /images/{path} or /thumbs/{path}
   let imagePath = url.pathname;
   if (imagePath.startsWith('/images/')) {
     imagePath = imagePath.slice('/images/'.length);
-  } else if (imagePath === '/images' || imagePath === '/images/') {
+  } else if (imagePath.startsWith('/thumbs/')) {
+    // Thumbnails are stored in R2 with thumbs/ prefix
+    imagePath = 'thumbs/' + imagePath.slice('/thumbs/'.length);
+  } else if (imagePath === '/images' || imagePath === '/thumbs' ||
+             imagePath === '/images/' || imagePath === '/thumbs/') {
     return new Response('Image path required', {
       status: 400,
       headers: { ...corsHeaders(origin), 'Content-Type': 'text/plain' },
@@ -126,7 +130,23 @@ async function handleRequest(request, env) {
     return returnPlaceholder(origin);
   }
 
-  // Object not found in R2
+  // Object not found in R2 — try fallback to thumbs/ prefix
+  // This handles thumbnail requests arriving on the /images/* route
+  // (config.js may use /images as THUMB_BASE, but thumbs live under thumbs/ in R2)
+  if (!object && !imagePath.startsWith('thumbs/')) {
+    const thumbsPath = 'thumbs/' + imagePath;
+    try {
+      const rangeHeader = request.headers.get('Range');
+      const options = rangeHeader ? { range: rangeHeader } : {};
+      object = await env.IMAGE_BUCKET.get(thumbsPath, options);
+      if (object) {
+        imagePath = thumbsPath; // Update for content-type detection
+      }
+    } catch (err) {
+      // Ignore — fall through to 404
+    }
+  }
+
   if (!object) {
     console.log(`[IMG] 404: ${imagePath}`);
     return returnPlaceholder(origin);
