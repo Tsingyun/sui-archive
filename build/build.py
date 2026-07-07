@@ -94,6 +94,9 @@ class BuildLogger:
     def warn(self, message):
         print(f"  [WARN] {message}")
 
+    # Alias: some steps use the Python stdlib 'warning' convention
+    warning = warn
+
     def success(self, message):
         print(f"  [OK]   {message}")
 
