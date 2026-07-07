@@ -50,6 +50,7 @@ env:
   R2_ENDPOINT_URL: ${{ secrets.R2_ENDPOINT_URL }}
   CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
   CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+  GH_PAT: ${{ secrets.GH_PAT }}
 
 jobs:
   # ====================================================================

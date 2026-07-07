@@ -85,8 +85,15 @@ echo "archive.suijisui.uk" > "$TEMP_DIR/CNAME"
 git add -A
 git commit --quiet -m "Deploy: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
 
-# Add remote and push
-git remote add origin "$origin_url"
+# Add remote and push (inject GITHUB_TOKEN for Actions authentication)
+if [ -n "${GH_PAT:-}" ]; then
+    AUTH_URL=$(echo "$origin_url" | sed "s|https://|https://x-access-token:${GH_PAT}@|")
+elif [ -n "${GITHUB_TOKEN:-}" ]; then
+    AUTH_URL=$(echo "$origin_url" | sed "s|https://|https://x-access-token:${GITHUB_TOKEN}@|")
+else
+    AUTH_URL="$origin_url"
+fi
+git remote add origin "$AUTH_URL"
 info "Pushing to gh-pages branch..."
 git push --force origin gh-pages 2>&1
 
