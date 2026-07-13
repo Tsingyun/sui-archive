@@ -84,12 +84,17 @@ export function createPostCard(post) {
     const gridClass = `post-card__images post-card__images--${gridModifier}`;
     const grid = createElement('div', { class: gridClass });
 
-    for (const imgData of visibleImages) {
+    const dateStr = post.published_at ? new Date(post.published_at).toLocaleDateString('zh-CN') : '';
+
+    for (let imgIndex = 0; imgIndex < visibleImages.length; imgIndex++) {
+      const imgData = visibleImages[imgIndex];
       const imgSrc = `${IMAGE_BASE}/${imgData.filename}`;
 
       // Preserve aspect ratio for CLS prevention; fall back to square
       const w = imgData.width ?? 300;
       const h = imgData.height ?? 300;
+
+      const altText = `岁己 ${dateStr} 图片${imgIndex + 1}`;
 
       const img = createElement('img', {
         class: 'post-card__img',
@@ -97,7 +102,7 @@ export function createPostCard(post) {
         'data-src': imgSrc,
         width: String(w),
         height: String(h),
-        alt: '动态图片',
+        alt: altText,
         loading: 'lazy',
       });
 

@@ -136,3 +136,13 @@
 .ornament-divider::before {
   content: "\2727\00a0\00a0\2727\00a0\00a0\2727";
 }
+
+/* ── Reduced Motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

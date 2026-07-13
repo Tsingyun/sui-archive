@@ -385,7 +385,7 @@ function createGalleryItem(image, globalIndex) {
   const img = createElement('img', {
     src: src300,
     'data-src': src600,
-    alt: '动态图片',
+    alt: `画廊图片 ${globalIndex + 1}`,
     width: String(width),
     height: String(height),
     loading: 'lazy',
@@ -415,11 +415,11 @@ function handleImageClick(e, clickedIndex) {
   e.preventDefault();
 
   // Build lightbox image array from all currently displayed images
-  const lightboxImages = allImages.map((img) => ({
+  const lightboxImages = allImages.map((img, index) => ({
     src: img.isGif ? originalUrl(img.filename) : thumbUrl(img.filename, 'w1200'),
     width: img.width,
     height: img.height,
-    alt: '动态图片',
+    alt: `画廊图片 ${index + 1}`,
   }));
 
   openLightbox(lightboxImages, clickedIndex);

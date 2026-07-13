@@ -542,38 +542,90 @@ class IncrementalFetcher:
                 time.sleep(DELAY_BETWEEN_IMAGES)
 
     def _download_one(self, filename: str, save_path: str, url: str = "") -> Optional[ImageRecord]:
-        """Download a single image file."""
+        """Download a single image file with retry on transient errors.
+
+        Retries up to 3 attempts with exponential backoff (2s, 4s, 8s)
+        on transient failures: timeouts, 503 Service Unavailable, and
+        connection errors.  Does NOT retry on 404 or 403.
+        """
+        import requests as _requests
+
         if not url:
             logger.warning("No URL for %s, skipping", filename)
             return None
 
-        try:
-            resp = self.client.session.get(url, timeout=IMAGE_TIMEOUT, stream=True)
-            resp.raise_for_status()
+        max_attempts = 3
+        last_error = None
 
-            hasher = hashlib.sha256()
-            with open(save_path, "wb") as f:
-                for chunk in resp.iter_content(8192):
-                    f.write(chunk)
-                    hasher.update(chunk)
+        for attempt in range(1, max_attempts + 1):
+            try:
+                resp = self.client.session.get(url, timeout=IMAGE_TIMEOUT, stream=True)
 
-            sha = hasher.hexdigest()
-            size = os.path.getsize(save_path)
+                # Do not retry on permanent client errors
+                if resp.status_code in (403, 404):
+                    logger.error(
+                        "Permanent error %d for %s, not retrying", resp.status_code, filename,
+                    )
+                    return None
 
-            return ImageRecord(
-                filename=filename,
-                local_path=save_path,
-                sha256=sha,
-                source_url=url,
-                quality="repost" if "@repost" in filename else "original",
-                file_size=size,
-            )
-        except Exception as e:
-            logger.error("Failed to download %s: %s", filename, e)
-            # Clean up partial file
+                # Retry on 503 Service Unavailable
+                if resp.status_code == 503 and attempt < max_attempts:
+                    delay = 2 ** attempt  # 2, 4, 8
+                    logger.warning(
+                        "503 for %s (attempt %d/%d), retrying in %ds",
+                        filename, attempt, max_attempts, delay,
+                    )
+                    time.sleep(delay)
+                    continue
+
+                resp.raise_for_status()
+
+                hasher = hashlib.sha256()
+                with open(save_path, "wb") as f:
+                    for chunk in resp.iter_content(8192):
+                        f.write(chunk)
+                        hasher.update(chunk)
+
+                sha = hasher.hexdigest()
+                size = os.path.getsize(save_path)
+
+                if attempt > 1:
+                    logger.info("Downloaded %s on attempt %d", filename, attempt)
+
+                return ImageRecord(
+                    filename=filename,
+                    local_path=save_path,
+                    sha256=sha,
+                    source_url=url,
+                    quality="repost" if "@repost" in filename else "original",
+                    file_size=size,
+                )
+
+            except (_requests.exceptions.Timeout,
+                    _requests.exceptions.ConnectionError) as e:
+                last_error = e
+                if attempt < max_attempts:
+                    delay = 2 ** attempt  # 2, 4, 8
+                    logger.warning(
+                        "Transient error for %s (attempt %d/%d): %s — retrying in %ds",
+                        filename, attempt, max_attempts, type(e).__name__, delay,
+                    )
+                    time.sleep(delay)
+                else:
+                    logger.error(
+                        "Failed to download %s after %d attempts: %s",
+                        filename, max_attempts, e,
+                    )
+            except Exception as e:
+                last_error = e
+                logger.error("Failed to download %s: %s", filename, e)
+                break  # non-transient, don't retry
+
+            # Clean up partial file between retries
             if os.path.exists(save_path):
                 os.remove(save_path)
-            return None
+
+        return None
 
     def download_images_with_urls(self, result: FetchResult, url_map: dict):
         """Download images using an explicit URL→filename mapping.

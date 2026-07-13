@@ -234,6 +234,9 @@ def _generate_year_files(db, config, output_dir, year_post_data, logger):
     Each file contains the list-view representation of every post
     published in that year: text preview, images, latest stats,
     repost flag, and tag slugs.
+
+    Uses batch queries to avoid N+1 patterns: images, stats, and tags
+    are fetched once per year in bulk and grouped by post_id.
     """
     json_cfg = config.get('json', {})
     preview_len = json_cfg.get('text_preview_length', 200)
@@ -241,50 +244,76 @@ def _generate_year_files(db, config, output_dir, year_post_data, logger):
 
     for year_val, posts in year_post_data.items():
         post_list = []
+        post_ids = [p['id'] for p in posts]
+
+        if not post_ids:
+            continue
+
+        placeholders = ','.join('?' for _ in post_ids)
+
+        # Batch fetch images for all posts in this year
+        image_rows = db.execute(f"""
+            SELECT pm.post_id, i.filename, i.width, i.height, i.is_cover
+            FROM post_media pm
+            JOIN images i ON pm.image_id = i.id
+            WHERE pm.post_id IN ({placeholders})
+            ORDER BY pm.sort_order
+        """, post_ids).fetchall()
+        images_by_post = {}
+        for row in image_rows:
+            images_by_post.setdefault(row['post_id'], []).append(row)
+
+        # Batch fetch latest stats for all posts in this year
+        stats_rows = db.execute(f"""
+            WITH latest AS (
+                SELECT post_id, MAX(snapshot_at) AS max_ts
+                FROM post_stats
+                WHERE post_id IN ({placeholders})
+                GROUP BY post_id
+            )
+            SELECT ps.post_id, ps.likes, ps.comments, ps.forwards
+            FROM post_stats ps
+            JOIN latest ON ps.post_id = latest.post_id
+                       AND ps.snapshot_at = latest.max_ts
+        """, post_ids).fetchall()
+        stats_by_post = {row['post_id']: row for row in stats_rows}
+
+        # Batch fetch tags for all posts in this year
+        tag_rows = db.execute(f"""
+            SELECT pt.post_id, t.slug
+            FROM post_tags pt
+            JOIN tags t ON pt.tag_id = t.id
+            WHERE pt.post_id IN ({placeholders})
+        """, post_ids).fetchall()
+        tags_by_post = {}
+        for row in tag_rows:
+            tags_by_post.setdefault(row['post_id'], []).append(row)
+
+        # Batch fetch repost author display names
+        repost_author_ids = list({
+            p['original_author_id'] for p in posts
+            if p['post_type'] == 'repost' and p['original_author_id']
+        })
+        authors_map = {}
+        if repost_author_ids:
+            author_ph = ','.join('?' for _ in repost_author_ids)
+            author_rows = db.execute(
+                f'SELECT id, display_name FROM authors WHERE id IN ({author_ph})',
+                repost_author_ids,
+            ).fetchall()
+            authors_map = {row['id']: row['display_name'] for row in author_rows}
 
         for post in posts:
             post_id = post['id']
 
-            # Images via post_media → images (ordered by sort_order)
-            images = db.execute("""
-                SELECT i.filename, i.width, i.height, i.is_cover
-                FROM post_media pm
-                JOIN images i ON pm.image_id = i.id
-                WHERE pm.post_id = ?
-                ORDER BY pm.sort_order
-            """, (post_id,)).fetchall()
-
-            # Latest stats snapshot (CTE with MAX(snapshot_at) per post)
-            stats_row = db.execute("""
-                WITH latest AS (
-                    SELECT post_id, MAX(snapshot_at) AS max_ts
-                    FROM post_stats
-                    WHERE post_id = ?
-                    GROUP BY post_id
-                )
-                SELECT ps.likes, ps.comments, ps.forwards
-                FROM post_stats ps
-                JOIN latest ON ps.post_id = latest.post_id
-                           AND ps.snapshot_at = latest.max_ts
-            """, (post_id,)).fetchone()
-
-            # Tag slugs
-            tag_rows = db.execute("""
-                SELECT t.slug
-                FROM post_tags pt
-                JOIN tags t ON pt.tag_id = t.id
-                WHERE pt.post_id = ?
-            """, (post_id,)).fetchall()
+            images = images_by_post.get(post_id, [])
+            stats_row = stats_by_post.get(post_id)
+            tag_list = tags_by_post.get(post_id, [])
 
             # Repost author display name
             repost_author = None
             if post['post_type'] == 'repost' and post['original_author_id']:
-                author_row = db.execute(
-                    'SELECT display_name FROM authors WHERE id = ?',
-                    (post['original_author_id'],),
-                ).fetchone()
-                if author_row:
-                    repost_author = author_row['display_name']
+                repost_author = authors_map.get(post['original_author_id'])
 
             plain_text = post['plain_text'] or ''
             image_count = len(images)
@@ -314,7 +343,7 @@ def _generate_year_files(db, config, output_dir, year_post_data, logger):
                 },
                 'is_repost':      post['post_type'] == 'repost',
                 'repost_author':  repost_author,
-                'tags':           [t['slug'] for t in tag_rows],
+                'tags':           [t['slug'] for t in tag_list],
             })
 
         year_data = {'year': year_val, 'posts': post_list}
@@ -338,6 +367,9 @@ def _generate_detail_files(db, config, output_dir, logger):
     Contains the full data payload: complete plain_text, all images
     with file_size and mime_type, full latest stats, repost info
     with author details, tags with color, and prev/next navigation.
+
+    Uses batch queries to avoid N+1 patterns: images, stats, tags,
+    platforms, and authors are fetched in bulk before the loop.
     """
     detail_dir = os.path.join(output_dir, 'data', 'detail')
     os.makedirs(detail_dir, exist_ok=True)
@@ -351,6 +383,103 @@ def _generate_detail_files(db, config, output_dir, logger):
     uuid_list  = [p['uuid'] for p in all_posts]
     uuid_index = {uuid: i for i, uuid in enumerate(uuid_list)}
 
+    all_post_ids = [p['id'] for p in all_posts]
+    if not all_post_ids:
+        logger.info('[json] No posts to generate detail files for')
+        return
+
+    placeholders = ','.join('?' for _ in all_post_ids)
+
+    # Batch fetch images with full metadata for all posts
+    image_rows = db.execute(f"""
+        SELECT pm.post_id, i.filename, i.width, i.height, i.file_size,
+               i.mime_type, i.is_cover, pm.is_repost_media
+        FROM post_media pm
+        JOIN images i ON pm.image_id = i.id
+        WHERE pm.post_id IN ({placeholders})
+        ORDER BY pm.sort_order
+    """, all_post_ids).fetchall()
+    images_by_post = {}
+    for row in image_rows:
+        images_by_post.setdefault(row['post_id'], []).append(row)
+
+    # Batch fetch latest stats for all posts
+    stats_rows = db.execute(f"""
+        WITH latest AS (
+            SELECT post_id, MAX(snapshot_at) AS max_ts
+            FROM post_stats
+            WHERE post_id IN ({placeholders})
+            GROUP BY post_id
+        )
+        SELECT ps.post_id, ps.likes, ps.comments, ps.forwards, ps.views
+        FROM post_stats ps
+        JOIN latest ON ps.post_id = latest.post_id
+                   AND ps.snapshot_at = latest.max_ts
+    """, all_post_ids).fetchall()
+    stats_by_post = {row['post_id']: row for row in stats_rows}
+
+    # Batch fetch tags with color for all posts
+    tag_rows = db.execute(f"""
+        SELECT pt.post_id, t.name, t.slug, t.color
+        FROM post_tags pt
+        JOIN tags t ON pt.tag_id = t.id
+        WHERE pt.post_id IN ({placeholders})
+    """, all_post_ids).fetchall()
+    tags_by_post = {}
+    for row in tag_rows:
+        tags_by_post.setdefault(row['post_id'], []).append(row)
+
+    # Batch fetch platform display names
+    platform_ids = list({p['platform_id'] for p in all_posts})
+    platforms_map = {}
+    if platform_ids:
+        plat_ph = ','.join('?' for _ in platform_ids)
+        plat_rows = db.execute(
+            f'SELECT id, display_name FROM platforms WHERE id IN ({plat_ph})',
+            platform_ids,
+        ).fetchall()
+        platforms_map = {row['id']: row['display_name'] for row in plat_rows}
+
+    # Batch fetch authors for repost info
+    author_ids = list({
+        p['original_author_id'] for p in all_posts
+        if p['original_author_id'] is not None
+    })
+    authors_map = {}
+    if author_ids:
+        auth_ph = ','.join('?' for _ in author_ids)
+        auth_rows = db.execute(
+            f'SELECT id, display_name, profile_url FROM authors WHERE id IN ({auth_ph})',
+            author_ids,
+        ).fetchall()
+        authors_map = {
+            row['id']: {
+                'display_name': row['display_name'],
+                'profile_url': row['profile_url'],
+            }
+            for row in auth_rows
+        }
+
+    # Batch fetch original posts for repost resolution
+    repost_of_ids = list({
+        p['repost_of_id'] for p in all_posts
+        if p['repost_of_id'] is not None
+    })
+    orig_posts_map = {}
+    if repost_of_ids:
+        orig_ph = ','.join('?' for _ in repost_of_ids)
+        orig_rows = db.execute(
+            f'SELECT id, plain_text, source_url FROM posts WHERE id IN ({orig_ph})',
+            repost_of_ids,
+        ).fetchall()
+        orig_posts_map = {
+            row['id']: {
+                'plain_text': row['plain_text'],
+                'source_url': row['source_url'],
+            }
+            for row in orig_rows
+        }
+
     count = 0
     for post in all_posts:
         post_id = post['id']
@@ -360,51 +489,54 @@ def _generate_detail_files(db, config, output_dir, logger):
         next_uuid = (uuid_list[idx + 1]
                      if idx < len(uuid_list) - 1 else None)
 
-        # Platform display name
-        platform = db.execute(
-            'SELECT display_name FROM platforms WHERE id = ?',
-            (post['platform_id'],),
-        ).fetchone()
+        # Platform display name (from pre-fetched map)
+        platform_name = platforms_map.get(post['platform_id'])
 
-        # Images with full metadata (via post_media → images)
-        images = db.execute("""
-            SELECT i.filename, i.width, i.height, i.file_size,
-                   i.mime_type, i.is_cover, pm.is_repost_media
-            FROM post_media pm
-            JOIN images i ON pm.image_id = i.id
-            WHERE pm.post_id = ?
-            ORDER BY pm.sort_order
-        """, (post_id,)).fetchall()
+        # Images (from pre-fetched map)
+        images = images_by_post.get(post_id, [])
 
-        # Latest stats snapshot
-        stats_row = db.execute("""
-            WITH latest AS (
-                SELECT post_id, MAX(snapshot_at) AS max_ts
-                FROM post_stats
-                WHERE post_id = ?
-                GROUP BY post_id
-            )
-            SELECT ps.likes, ps.comments, ps.forwards, ps.views
-            FROM post_stats ps
-            JOIN latest ON ps.post_id = latest.post_id
-                       AND ps.snapshot_at = latest.max_ts
-        """, (post_id,)).fetchone()
+        # Stats (from pre-fetched map)
+        stats_row = stats_by_post.get(post_id)
 
-        # Tags with color
-        tag_rows = db.execute("""
-            SELECT t.name, t.slug, t.color
-            FROM post_tags pt
-            JOIN tags t ON pt.tag_id = t.id
-            WHERE pt.post_id = ?
-        """, (post_id,)).fetchall()
+        # Tags (from pre-fetched map)
+        tag_list = tags_by_post.get(post_id, [])
 
-        # Repost sub-object (author + original text/URL)
-        repost_info = _get_repost_info(db, post)
+        # Build repost info from pre-fetched data
+        repost_data = {
+            'author_name': None,
+            'author_url': None,
+            'text': None,
+            'source_url': None,
+        }
+        if post['original_author_id'] is not None:
+            author_info = authors_map.get(post['original_author_id'])
+            if author_info:
+                repost_data['author_name'] = author_info['display_name']
+                repost_data['author_url'] = author_info['profile_url']
+
+        if post['repost_of_id'] is not None:
+            orig = orig_posts_map.get(post['repost_of_id'])
+            if orig:
+                repost_data['text'] = orig['plain_text']
+                repost_data['source_url'] = orig['source_url']
+        elif post['repost_snapshot']:
+            try:
+                snapshot = json.loads(post['repost_snapshot'])
+                repost_data['text'] = (
+                    snapshot.get('text')
+                    or snapshot.get('plain_text')
+                )
+                if repost_data['source_url'] is None:
+                    repost_data['source_url'] = snapshot.get('source_url')
+                if repost_data['author_name'] is None:
+                    repost_data['author_name'] = snapshot.get('author_name')
+            except (json.JSONDecodeError, TypeError):
+                pass
 
         detail = {
             'uuid':             post['uuid'],
             'platform_post_id': post['platform_post_id'],
-            'platform_name':    platform['display_name'] if platform else None,
+            'platform_name':    platform_name,
             'post_type':        post['post_type'],
             'published_at':     post['published_at'],
             'source_url':       post['source_url'],
@@ -428,14 +560,14 @@ def _generate_detail_files(db, config, output_dir, logger):
                 'views':    stats_row['views']    if stats_row else None,
             },
             'is_repost': post['post_type'] == 'repost',
-            'repost':    repost_info,
+            'repost':    repost_data,
             'tags': [
                 {
                     'name':  t['name'],
                     'slug':  t['slug'],
                     'color': t['color'],
                 }
-                for t in tag_rows
+                for t in tag_list
             ],
             'related': {
                 'prev_uuid': prev_uuid,

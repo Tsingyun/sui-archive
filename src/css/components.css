@@ -387,3 +387,155 @@
   height: 200px;
   width: 100%;
 }
+
+/* ── Skeleton Sub-elements ── */
+.skeleton__line {
+  height: 1rem;
+  background: var(--muted);
+  border-radius: 0;
+  animation: skeleton-flicker 1.2s steps(4) infinite;
+  margin-bottom: var(--space-1);
+}
+
+.skeleton__line--short {
+  width: 40%;
+}
+
+.skeleton__line--medium {
+  width: 65%;
+}
+
+.skeleton__image-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2px;
+}
+
+.skeleton__image {
+  aspect-ratio: 4 / 3;
+  background: var(--muted);
+  border-radius: 0;
+  animation: skeleton-flicker 1.2s steps(4) infinite;
+}
+
+/* ── Breadcrumbs ── */
+.breadcrumb {
+  margin-bottom: var(--space-4);
+  padding-bottom: var(--space-2);
+  border-bottom: var(--border-hairline);
+}
+
+.breadcrumb__list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.breadcrumb__item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.breadcrumb__item.breadcrumb__separator {
+  margin: 0 0.5rem;
+  color: var(--faded-rule);
+  user-select: none;
+}
+
+.breadcrumb__link {
+  color: var(--muted-foreground);
+  transition: color var(--transition-fast);
+  border-bottom: 1px solid transparent;
+}
+
+.breadcrumb__link:hover {
+  color: var(--ink);
+  border-bottom-color: var(--editorial-red);
+}
+
+.breadcrumb__current {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/* ── Post Navigation (Prev / Next) ── */
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 0;
+  margin-top: var(--space-6);
+  padding-top: var(--space-4);
+  border-top: var(--border-medium);
+}
+
+.post-nav__link {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-1);
+  padding: var(--space-2) var(--space-3);
+  border: var(--border-thin);
+  border-radius: 0;
+  background: transparent;
+  color: var(--ink);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: all var(--transition-fast);
+  max-width: 48%;
+}
+
+.post-nav__link:hover {
+  box-shadow: var(--shadow-hard-sm);
+  transform: translate(-1px, -1px);
+}
+
+.post-nav__link--prev {
+  text-align: left;
+  margin-right: auto;
+}
+
+.post-nav__link--next {
+  text-align: right;
+  margin-left: auto;
+}
+
+.post-nav__link--disabled {
+  opacity: 0.35;
+  pointer-events: none;
+  cursor: default;
+}
+
+/* ── Post Card Image Count Badge ── */
+.post-card__img-count {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--muted-foreground);
+  letter-spacing: 0.04em;
+}
+
+/* ── App Error ── */
+.app-error {
+  text-align: center;
+  padding: var(--space-6) var(--space-3);
+  border: var(--border-thin);
+  border-color: var(--editorial-red);
+  background: var(--paper);
+  color: var(--editorial-red);
+  font-family: var(--font-ui);
+  font-size: var(--text-sm);
+  margin: var(--space-4) 0;
+}

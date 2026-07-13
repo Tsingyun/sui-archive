@@ -131,6 +131,22 @@ async function swapContent(path) {
     const newTitle = doc.querySelector('title');
     if (newTitle) document.title = newTitle.textContent;
 
+    // Update meta tags (description, OG, Twitter, canonical) for correct sharing
+    const metaSelectors = [
+      'meta[name="description"]',
+      'meta[property^="og:"]',
+      'meta[name^="twitter:"]',
+      'link[rel="canonical"]',
+    ];
+    for (const sel of metaSelectors) {
+      // Remove old tags
+      document.querySelectorAll(`head ${sel}`).forEach((el) => el.remove());
+      // Add new tags from fetched page
+      doc.querySelectorAll(`head ${sel}`).forEach((el) => {
+        document.head.appendChild(el.cloneNode(true));
+      });
+    }
+
     return true;
   } catch (err) {
     console.warn('[router] Failed to fetch page:', path, err);

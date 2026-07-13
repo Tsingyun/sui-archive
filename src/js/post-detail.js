@@ -64,11 +64,11 @@ function enhanceImages(detail) {
   if (!section || !detail.images || detail.images.length === 0) return;
 
   // Build the image array for the lightbox
-  const lightboxImages = detail.images.map((img) => ({
+  const lightboxImages = detail.images.map((img, idx) => ({
     src: originalURL(img.filename),
     width: img.width,
     height: img.height,
-    alt: `图片 ${detail.images.indexOf(img) + 1}`,
+    alt: `岁己动态图片 ${idx + 1}/${detail.images.length}`,
   }));
 
   // Attach click handlers to existing <img> elements in the section
@@ -110,7 +110,7 @@ function renderImagesFromScratch(section, detail, lightboxImages) {
 
     const imgEl = createElement('img', {
       src: thumb600URL(img.filename),
-      alt: `图片 ${index + 1}`,
+      alt: `岁己动态图片 ${index + 1}/${detail.images.length}`,
       width: img.width,
       height: img.height,
       loading: index < 3 ? 'eager' : 'lazy',

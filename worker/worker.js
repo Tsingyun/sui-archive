@@ -101,7 +101,14 @@ async function handleRequest(request, env) {
   }
 
   // Decode and sanitize path
-  imagePath = decodeURIComponent(imagePath);
+  try {
+    imagePath = decodeURIComponent(imagePath);
+  } catch {
+    return new Response('Invalid path encoding', {
+      status: 400,
+      headers: { ...corsHeaders(origin), 'Content-Type': 'text/plain' },
+    });
+  }
 
   // Prevent directory traversal
   if (imagePath.includes('..') || imagePath.startsWith('/')) {

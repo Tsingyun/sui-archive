@@ -472,13 +472,19 @@ class Orchestrator:
 
         import requests
         try:
+            prefixes = [
+                "https://archive.suijisui.uk/data/",
+                "https://archive.suijisui.uk/style.css",
+                "https://archive.suijisui.uk/js/",
+                "https://archive.suijisui.uk/",
+            ]
             resp = requests.post(
                 f"https://api.cloudflare.com/client/v4/zones/{CLOUDFLARE_ZONE_ID}/purge_cache",
                 headers={
                     "Authorization": f"Bearer {CLOUDFLARE_API_TOKEN}",
                     "Content-Type": "application/json",
                 },
-                json={"purge_everything": True},
+                json={"prefixes": prefixes},
                 timeout=15,
             )
             data = resp.json()

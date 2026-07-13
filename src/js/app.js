@@ -77,8 +77,8 @@ async function initPageModule(page) {
     }
 
     case 'timeline': {
-      const { initTimelinePage } = await import('./timeline.js');
-      await initTimelinePage();
+      const { initTimeline } = await import('./timeline.js');
+      await initTimeline();
       break;
     }
 
