@@ -79,6 +79,7 @@ jobs:
             REPAIR_FLAG="--auto-repair"
           fi
 
+          EXIT_CODE=0
           python -X utf8 scripts/integrity_check.py \
             $REPAIR_FLAG \
             --output integrity_report.json \

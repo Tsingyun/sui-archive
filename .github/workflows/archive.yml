@@ -18,8 +18,8 @@ name: Auto Archive
 
 on:
   schedule:
-    # Every 15 minutes (UTC). Adjust as needed.
-    - cron: "*/15 * * * *"
+    # Every hour at :17 past (avoids peak times at :00).
+    - cron: "17 */1 * * *"
   workflow_dispatch:
     inputs:
       skip_quick_check:
@@ -192,9 +192,9 @@ jobs:
         if: success()
         run: |
           if [ -f scripts/verify_deploy.sh ]; then
-            echo "Waiting 30s for Pages to build..."
-            sleep 30
-            bash scripts/verify_deploy.sh || echo "Verification had issues (non-fatal)"
+            echo "Waiting 90s for Pages to build..."
+            sleep 90
+            bash scripts/verify_deploy.sh
           fi
 
       - name: Upload pipeline result
