@@ -13,7 +13,7 @@
 
 import { $, $$, createElement, formatDate, formatNumber } from './dom.js';
 import { fetchJSON } from './api.js';
-import { API_BASE, IMAGE_BASE, SITE_NAME } from './config.js';
+import { API_BASE, IMAGE_BASE, THUMB_BASE, SITE_NAME } from './config.js';
 import { initRouter } from './router.js';
 import { openLightbox } from './lightbox.js';
 import { createSharePanel } from './share.js';
@@ -50,7 +50,7 @@ function originalURL(filename) {
  * @returns {string}
  */
 function thumb600URL(filename) {
-  return `${IMAGE_BASE}/${filename.replace(/(\.[^.]+)$/, '_w600.webp')}`;
+  return `${THUMB_BASE}/${filename.replace(/(\.[^.]+)$/, '_w600.webp')}`;
 }
 
 // ── Feature: Image Lightbox ────────────────────────────────────────────────

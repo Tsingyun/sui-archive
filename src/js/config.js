@@ -10,7 +10,7 @@ export const POSTS_PER_PAGE = 50;
 export const THUMB_VARIANTS = ['w300', 'w600', 'w1200'];
 export const DEFAULT_YEAR = null; // null = latest year
 export const IMAGE_BASE = '/images';
-export const THUMB_BASE = '/images';
+export const THUMB_BASE = '/thumbs';
 export const SEARCH_DEBOUNCE_MS = 300;
 export const LAZY_LOAD_THRESHOLD = 200; // px before viewport
 export const EAGER_LOAD_COUNT = 6; // first N images load eagerly

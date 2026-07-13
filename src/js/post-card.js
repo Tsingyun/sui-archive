@@ -93,6 +93,7 @@ export function createPostCard(post) {
 
       const img = createElement('img', {
         class: 'post-card__img',
+        src: 'data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22/%3E',
         'data-src': imgSrc,
         width: String(w),
         height: String(h),

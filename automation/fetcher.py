@@ -106,6 +106,8 @@ def _parse_rich_text(desc_obj: dict) -> tuple:
     import json
     if not desc_obj:
         return "", "{}"
+
+    # Primary: extract from rich_text_nodes array
     nodes = desc_obj.get("rich_text_nodes") or []
     parts = []
     for n in nodes:
@@ -115,6 +117,12 @@ def _parse_rich_text(desc_obj: dict) -> tuple:
         else:
             parts.append(n.get("text", ""))
     plain = "".join(parts)
+
+    # Fallback: some feed responses (especially DRAW posts) omit
+    # rich_text_nodes but include a plain "text" field in desc.
+    if not plain:
+        plain = desc_obj.get("text", "") or ""
+
     return plain, json.dumps(desc_obj, ensure_ascii=False)
 
 
@@ -128,6 +136,12 @@ def _extract_images(major: dict) -> list:
     if mtype in ("MAJOR_TYPE_DRAW", "MAJOR_TYPE_OPUS"):
         draw = major.get("draw", {}) or {}
         for item in draw.get("items") or []:
+            # Defensive: item might be a string URL instead of a dict
+            if isinstance(item, str):
+                src = _clean_img_url(item) if item else ""
+                if src:
+                    images.append({"url": src, "width": None, "height": None, "size_kb": None})
+                continue
             src = item.get("src") or ""
             if not src:
                 continue
@@ -140,10 +154,16 @@ def _extract_images(major: dict) -> list:
 
     elif mtype == "MAJOR_TYPE_ARTICLE":
         for cover in (major.get("article") or {}).get("covers") or []:
-            src = cover.get("url") or cover.get("src") or ""
+            # Defensive: cover might be a string URL instead of a dict
+            if isinstance(cover, str):
+                src = _clean_img_url(cover) if cover else ""
+            else:
+                src = cover.get("url") or cover.get("src") or ""
+                if src:
+                    src = _clean_img_url(src)
             if src:
                 images.append({
-                    "url": _clean_img_url(src),
+                    "url": src,
                     "width": None,
                     "height": None,
                     "size_kb": None,
@@ -376,6 +396,11 @@ class IncrementalFetcher:
             if post:
                 result.posts.append(post)
 
+        # Backfill empty text via detail API.
+        # The feed API sometimes omits desc for DRAW posts; the detail
+        # API reliably includes it.  Fetch each affected post individually.
+        self._backfill_empty_text(result.posts)
+
         result.total_new_posts = len(result.posts)
 
         # Download images
@@ -383,6 +408,62 @@ class IncrementalFetcher:
 
         result.elapsed_seconds = time.monotonic() - t0
         return result
+
+    def _backfill_empty_text(self, posts: list):
+        """Use the detail API to fill in text for posts where the feed API
+        returned an empty or missing ``desc`` block.
+
+        This primarily affects DYNAMIC_TYPE_DRAW posts: the feed endpoint
+        sometimes omits the ``module_dynamic.desc`` object, while the detail
+        endpoint reliably includes it.
+        """
+        import json as _json
+
+        empty_posts = [
+            p for p in posts
+            if not p.plain_text and p.post_type in ("text", "image")
+        ]
+        if not empty_posts:
+            return
+
+        logger.info(
+            "Backfilling text for %d post(s) via detail API", len(empty_posts)
+        )
+
+        for post in empty_posts:
+            try:
+                detail = self.client.fetch_detail(post.platform_post_id)
+                item = detail.get("item") or {}
+
+                mod_dyn = item.get("modules", {}).get("module_dynamic", {}) or {}
+                desc = mod_dyn.get("desc") or {}
+                plain_text, rich_json = _parse_rich_text(desc)
+
+                if plain_text:
+                    post.plain_text = plain_text
+                    post.rich_text_json = rich_json
+                    logger.debug(
+                        "Backfilled text for %s (%d chars)",
+                        post.platform_post_id, len(plain_text),
+                    )
+
+                # Also backfill images if the feed response had none
+                if not post.image_filenames:
+                    major = mod_dyn.get("major") or {}
+                    for idx, img in enumerate(_extract_images(major)):
+                        fname = _make_image_filename(
+                            post.platform_post_id, idx, img["url"], is_repost=False
+                        )
+                        post.image_filenames.append(fname)
+
+                # Small delay to avoid rate-limiting
+                time.sleep(DELAY_BETWEEN_PAGES)
+
+            except Exception as exc:
+                logger.warning(
+                    "Detail API backfill failed for %s: %s",
+                    post.platform_post_id, exc,
+                )
 
     def _download_all_images(self, result: FetchResult):
         """Download images for all fetched posts."""

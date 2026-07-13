@@ -259,7 +259,12 @@ class Orchestrator:
 
         # Parse items and build URL map
         for item in all_raw_items:
-            post = _parse_item(item)
+            dyn_id_safe = str(item.get("id_str", "?"))
+            try:
+                post = _parse_item(item)
+            except Exception as e:
+                logger.warning("Failed to parse item %s: %s: %s", dyn_id_safe, type(e).__name__, e)
+                continue
             if not post:
                 continue
 

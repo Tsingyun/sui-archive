@@ -55,15 +55,34 @@ function posterUrl(src) {
 }
 
 /**
- * Preload an image in memory and return a promise that resolves when done.
+ * Preload an image URL and verify it loads successfully.
+ *
+ * Uses fetch() rather than new Image() so we can inspect the HTTP status.
+ * The Worker returns a 404 SVG placeholder for missing images, which
+ * Image().onload treats as valid -- fetch().ok correctly rejects it.
+ *
+ * @param {string} src
+ * @returns {Promise<string>} resolves with src on success
  */
-function preload(src) {
-  return new Promise((resolve, reject) => {
-    const img = new Image();
-    img.onload = () => resolve(src);
-    img.onerror = reject;
-    img.src = src;
-  });
+async function preload(src) {
+  const response = await fetch(src, { mode: 'cors' });
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}`);
+  }
+  // Verify the browser can decode the image
+  const blob = await response.blob();
+  const blobUrl = URL.createObjectURL(blob);
+  try {
+    await new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = resolve;
+      img.onerror = reject;
+      img.src = blobUrl;
+    });
+  } finally {
+    URL.revokeObjectURL(blobUrl);
+  }
+  return src;
 }
 
 // ---------------------------------------------------------------------------

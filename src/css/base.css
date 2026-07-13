@@ -1,27 +1,27 @@
 /* ==========================================================================
    SUI Archive — Base Element Styles
-   Typography and default element styling with organic warmth
+   Newsprint editorial typography and element defaults
    ========================================================================== */
 
 body {
   font-family: var(--font-body);
   color: var(--foreground);
   background: var(--background);
-  line-height: var(--leading-normal);
+  line-height: var(--leading-relaxed);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* ── Paper grain texture overlay ── */
+/* ── Dot grid texture overlay ── */
 body::before {
   content: "";
   position: fixed;
   inset: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
-  opacity: 0.03;
-  mix-blend-mode: multiply;
+  background-image: radial-gradient(circle, var(--border) 0.5px, transparent 0.5px);
+  background-size: 16px 16px;
+  opacity: 0.04;
   pointer-events: none;
   z-index: 0;
 }
@@ -38,27 +38,33 @@ h6 {
   line-height: var(--leading-tight);
   margin-bottom: 0.5em;
   color: var(--foreground);
+  letter-spacing: -0.02em;
 }
 
-h1 { font-size: 2.5rem; }
-h2 { font-size: 2rem; }
-h3 { font-size: 1.5rem; }
-h4 { font-size: 1.25rem; }
+h1 { font-size: clamp(3rem, 5vw + 1rem, 6rem); }
+h2 { font-size: clamp(2rem, 3vw + 0.5rem, 3.5rem); }
+h3 { font-size: clamp(1.5rem, 2vw + 0.5rem, 2.25rem); }
+h4 { font-size: clamp(1.25rem, 1.5vw + 0.25rem, 1.75rem); }
+h5 { font-size: var(--text-lg); }
+h6 { font-size: var(--text-base); }
 
 /* ── Paragraph ── */
 p {
-  margin-bottom: 1rem;
+  margin-bottom: var(--space-2);
   line-height: var(--leading-relaxed);
 }
 
 /* ── Links ── */
 a {
-  color: var(--primary);
-  transition: color var(--transition-normal);
+  color: var(--ink);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color var(--transition-fast), color var(--transition-fast);
 }
 
 a:hover {
-  color: #4A5C41;
+  color: var(--ink);
+  border-bottom-color: var(--editorial-red);
 }
 
 /* ── Inline elements ── */
@@ -70,47 +76,126 @@ small {
   font-size: var(--text-sm);
 }
 
+em {
+  font-style: italic;
+}
+
 /* ── Blockquote ── */
 blockquote {
-  border-left: 3px solid var(--primary);
-  padding-left: var(--space-4);
-  margin: var(--space-6) 0;
+  border-left: 3px solid var(--ink);
+  padding-left: var(--space-3);
+  margin: var(--space-4) 0;
   font-style: italic;
-  color: var(--muted-foreground);
+  color: var(--foreground);
+  font-family: var(--font-body);
 }
 
 /* ── Code ── */
 code {
-  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  font-family: var(--font-mono);
   background: var(--muted);
-  padding: 0.2em 0.4em;
-  border-radius: var(--radius-sm);
+  padding: 0.15em 0.4em;
   font-size: 0.875em;
+  border: 1px solid var(--faded-rule);
+}
+
+pre {
+  font-family: var(--font-mono);
+  background: var(--ink);
+  color: var(--paper);
+  padding: var(--space-3);
+  overflow-x: auto;
+  font-size: var(--text-sm);
+  line-height: var(--leading-normal);
+  border: var(--border-thin);
+}
+
+pre code {
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
 }
 
 /* ── Highlight ── */
 mark {
-  background: rgba(93, 112, 82, 0.15);
-  color: var(--primary);
+  background: var(--editorial-red);
+  color: var(--accent-foreground);
   padding: 0.1em 0.3em;
-  border-radius: 3px;
 }
 
 /* ── Time ── */
 time {
   color: var(--muted-foreground);
   font-size: var(--text-sm);
+  font-family: var(--font-mono);
 }
 
 /* ── Horizontal rule ── */
 hr {
   border: none;
-  border-top: 1px solid var(--border);
-  margin: var(--space-8) 0;
+  border-top: var(--border-thin);
+  margin: var(--space-6) 0;
 }
 
 /* ── Selection ── */
 ::selection {
-  background: var(--primary);
-  color: var(--primary-foreground);
+  background: var(--editorial-red);
+  color: var(--accent-foreground);
+}
+
+/* ── Drop Cap ── */
+.drop-cap::first-letter {
+  font-family: var(--font-heading);
+  float: left;
+  font-size: 4.5em;
+  line-height: 0.8;
+  font-weight: 700;
+  padding-right: 0.12em;
+  padding-top: 0.05em;
+  color: var(--ink);
+}
+
+/* ── Lists (for editorial content) ── */
+.editorial-list ul,
+.editorial-list ol {
+  padding-left: var(--space-3);
+  margin-bottom: var(--space-2);
+}
+
+.editorial-list ul {
+  list-style: square;
+}
+
+.editorial-list ol {
+  list-style: decimal;
+}
+
+.editorial-list li {
+  margin-bottom: 0.5em;
+  line-height: var(--leading-relaxed);
+}
+
+/* ── Tables ── */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+}
+
+th,
+td {
+  padding: var(--space-1) var(--space-2);
+  text-align: left;
+  border: var(--border-thin);
+}
+
+th {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-size: var(--text-xs);
+  background: var(--ink);
+  color: var(--paper);
 }

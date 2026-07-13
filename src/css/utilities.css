@@ -1,6 +1,6 @@
 /* ==========================================================================
    SUI Archive — Utility Classes
-   Single-purpose helpers, animations, and decorative blobs
+   Newsprint editorial helpers, textures, and mechanical animations
    ========================================================================== */
 
 /* ── Accessibility ── */
@@ -40,21 +40,20 @@
 .text-right  { text-align: right; }
 
 /* ── Text Sizing / Color ── */
-.text-sm      { font-size: var(--text-sm); }
-.text-muted   { color: var(--muted-foreground); }
-.text-primary { color: var(--primary); }
+.text-sm    { font-size: var(--text-sm); }
+.text-muted { color: var(--muted-foreground); }
 
 /* ── Spacing (margin-top / margin-bottom) ── */
-.mt-4  { margin-top: var(--space-4); }
-.mt-8  { margin-top: var(--space-8); }
-.mt-12 { margin-top: var(--space-12); }
-.mb-4  { margin-bottom: var(--space-4); }
-.mb-8  { margin-bottom: var(--space-8); }
-.mb-12 { margin-bottom: var(--space-12); }
+.mt-4  { margin-top: var(--space-2); }
+.mt-8  { margin-top: var(--space-4); }
+.mt-12 { margin-top: var(--space-6); }
+.mb-4  { margin-bottom: var(--space-2); }
+.mb-8  { margin-bottom: var(--space-4); }
+.mb-12 { margin-bottom: var(--space-6); }
 
-/* ── Animations ── */
+/* ── Snappy Mechanical Animations ── */
 .fade-in {
-  animation: fadeIn var(--transition-normal) ease;
+  animation: fadeIn var(--transition-normal) ease-out;
 }
 
 @keyframes fadeIn {
@@ -63,48 +62,77 @@
 }
 
 .slide-up {
-  animation: slideUp var(--transition-normal) ease;
+  animation: slideUp var(--transition-normal) ease-out;
 }
 
 @keyframes slideUp {
-  from { opacity: 0; transform: translateY(20px); }
+  from { opacity: 0; transform: translateY(12px); }
   to   { opacity: 1; transform: translateY(0); }
 }
 
-/* ── Grain Overlay (apply to any card/container) ── */
-.grain-overlay {
+/* ── Newsprint Texture: line grid overlay ── */
+.newsprint-texture {
   position: relative;
 }
 
-.grain-overlay::after {
+.newsprint-texture::after {
   content: "";
   position: absolute;
   inset: 0;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
-  opacity: 0.03;
-  mix-blend-mode: multiply;
+  background-image:
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 31px,
+      var(--faded-rule) 31px,
+      var(--faded-rule) 32px
+    );
+  opacity: 0.12;
   pointer-events: none;
-  border-radius: inherit;
+  z-index: 0;
 }
 
-/* ── Organic Blob Backgrounds ── */
-.blob-bg {
-  position: absolute;
-  border-radius: 60% 40% 30% 70% / 60% 30% 70% 40%;
-  filter: blur(60px);
-  opacity: 0.15;
-  pointer-events: none;
-  z-index: -1;
+.newsprint-texture > * {
+  position: relative;
+  z-index: 1;
 }
 
-.blob-bg--moss {
-  background: var(--primary);
+/* ── Hard Shadow on Hover ── */
+.hard-shadow-hover {
+  transition: box-shadow var(--transition-fast), transform var(--transition-fast);
 }
 
-.blob-bg--clay {
-  background: var(--secondary);
+.hard-shadow-hover:hover {
+  box-shadow: var(--shadow-hard);
+  transform: translate(-2px, -2px);
 }
 
-.blob-bg--sand {
-  background: var(--accent);
+/* ── Sharp Corners (explicit override, just in case) ── */
+.sharp-corners {
+  border-radius: 0 !important;
+}
+
+/* ── Uppercase Label ── */
+.uppercase-label {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--ink);
+}
+
+/* ── Ornament Divider ── */
+.ornament-divider {
+  text-align: center;
+  font-family: var(--font-heading);
+  font-size: var(--text-lg);
+  color: var(--muted-foreground);
+  letter-spacing: 0.5em;
+  padding: var(--space-2) 0;
+  user-select: none;
+}
+
+.ornament-divider::before {
+  content: "\2727\00a0\00a0\2727\00a0\00a0\2727";
 }

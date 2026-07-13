@@ -9,7 +9,7 @@
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700;9..144,800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,900;1,400&family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
 <!-- CSS -->
 <link rel="stylesheet" href="/style.css">
 <!-- Favicon -->
@@ -31,19 +31,23 @@
 <!-- HEADER -->
 
 <main class="main" id="main-content">
-  <!-- Hero Section -->
-  <section class="hero" aria-label="Site introduction">
-    <div class="hero__blob hero__blob--1" aria-hidden="true"></div>
-    <div class="hero__blob hero__blob--2" aria-hidden="true"></div>
+  <!-- Masthead -->
+  <header class="masthead">
     <div class="container">
-      <h1 class="hero__title">
-        <span class="hero__title-accent" aria-hidden="true">&#10022;</span>
-        岁己 <span class="hero__title-en">SUI</span> Archive
+      <div class="masthead__meta">
+        <span class="masthead__edition">Vol. I</span>
+        <span class="masthead__divider" aria-hidden="true">|</span>
+        <span class="masthead__date">{{BUILD_DATE}}</span>
+        <span class="masthead__divider" aria-hidden="true">|</span>
+        <span class="masthead__tagline">数字档案馆</span>
+      </div>
+      <h1 class="masthead__title">
+        岁己 <span class="masthead__title-en">SUI</span> Archive
       </h1>
-      <p class="hero__subtitle">{{SITE_DESCRIPTION}}</p>
-      <p class="hero__desc">永久保存她公开发布的每一条动态、每一张图片、每一个瞬间。</p>
+      <p class="masthead__subtitle">虚拟主播岁己SUI的完整数字档案 — 永久保存每一条动态、每一张图片、每一个瞬间。</p>
+      <div class="masthead__rule" aria-hidden="true"></div>
     </div>
-  </section>
+  </header>
 
   <!-- Year Selector -->
   <section class="section" aria-label="Browse by year">
