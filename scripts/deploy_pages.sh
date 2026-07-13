@@ -69,6 +69,8 @@ info "Created temp directory: $TEMP_DIR"
 
 cd "$TEMP_DIR"
 git init --quiet
+git config user.name "github-actions[bot]"
+git config user.email "github-actions[bot]@users.noreply.github.com"
 git checkout --orphan gh-pages
 
 # Copy deploy contents
