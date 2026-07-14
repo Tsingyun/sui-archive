@@ -246,7 +246,7 @@
   background: var(--paper);
   border-top: var(--border-medium);
   border-radius: 0;
-  padding: var(--space-3) 0;
+  padding: var(--space-3) var(--space-2);
   transition: all var(--transition-fast);
 }
 
