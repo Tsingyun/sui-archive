@@ -124,6 +124,7 @@
   line-height: var(--leading-relaxed);
   color: var(--muted-foreground);
   max-width: 600px;
+  white-space: nowrap;
   margin: 0 auto var(--space-3);
 }
 
