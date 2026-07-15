@@ -293,8 +293,11 @@ class Orchestrator:
 
         result.total_new_posts = len(result.posts)
 
-        # Download images
+        # Backfill empty text via detail API (feed API sometimes omits desc)
         fetcher = IncrementalFetcher(client=self.client)
+        fetcher._backfill_empty_text(result.posts)
+
+        # Download images
         fetcher.download_images_with_urls(result, url_map)
 
         logger.info(

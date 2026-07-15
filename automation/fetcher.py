@@ -421,7 +421,7 @@ class IncrementalFetcher:
 
         empty_posts = [
             p for p in posts
-            if not p.plain_text and p.post_type in ("text", "image")
+            if not p.plain_text and p.post_type in ("text", "image", "mixed", "repost")
         ]
         if not empty_posts:
             return
