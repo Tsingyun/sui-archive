@@ -333,15 +333,42 @@ def _render_detail_page(
     date_published, jsonld, full_text, platform_name, source_url,
     prev_pid, next_pid, header_html, footer_html, build_info_text,
 ):
-    """Render a minimal detail page HTML stub with full SEO metadata."""
+    """Render a detail page HTML stub with full SEO metadata and proper BEM structure."""
 
-    prev_link = f'<a href="/d/{prev_pid}" rel="prev">&larr; 上一条</a>' if prev_pid else ""
-    next_link = f'<a href="/d/{next_pid}" rel="next">下一条 &rarr;</a>' if next_pid else ""
+    prev_link = (
+        f'<a class="post-nav__link post-nav__link--prev" href="/d/{prev_pid}/" rel="prev">'
+        f'<span class="post-nav__arrow">&larr;</span>'
+        f'<span class="post-nav__label">上一条</span></a>'
+        if prev_pid else
+        '<span class="post-nav__link post-nav__link--prev post-nav__link--disabled">'
+        '<span class="post-nav__arrow">&larr;</span>'
+        '<span class="post-nav__label">上一条</span></span>'
+    )
+    next_link = (
+        f'<a class="post-nav__link post-nav__link--next" href="/d/{next_pid}/" rel="next">'
+        f'<span class="post-nav__label">下一条</span>'
+        f'<span class="post-nav__arrow">&rarr;</span></a>'
+        if next_pid else
+        '<span class="post-nav__link post-nav__link--next post-nav__link--disabled">'
+        '<span class="post-nav__label">下一条</span>'
+        '<span class="post-nav__arrow">&rarr;</span></span>'
+    )
     source_link = (
-        f'<a href="{html.escape(source_url)}" target="_blank" rel="noopener">'
-        f'在{html.escape(platform_name)}上查看原始动态</a>'
+        f'<a class="post-detail__source-link" href="{html.escape(source_url)}" '
+        f'target="_blank" rel="noopener">'
+        f'在{html.escape(platform_name)}上查看原始动态 &rarr;</a>'
         if source_url else ""
     )
+
+    # Parse ISO date for nice display
+    from datetime import datetime as _dt
+    try:
+        dt = _dt.fromisoformat(date_published)
+        date_nice = dt.strftime("%Y年%m月%d日 %H:%M")
+    except (ValueError, TypeError):
+        date_nice = date_published
+
+    text_block = f'<div class="post-detail__content">{full_text}</div>' if full_text else ""
 
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
@@ -385,27 +412,66 @@ def _render_detail_page(
 </head>
 <body>
 {header_html}
-<main id="post-detail" data-uuid="{uuid}" data-platform-post-id="{pid}">
-<nav class="breadcrumb" aria-label="面包屑">
-<a href="/">首页</a> &rsaquo; <span>动态 {pid}</span>
-</nav>
-<article>
-<time datetime="{date_published}">{date_published}</time>
-<div class="post-text">{full_text}</div>
-<div id="post-images" class="post-images" aria-label="图片"></div>
-<div class="post-stats">
-<span>{platform_name}</span>
-</div>
-{source_link}
+<main class="main-content">
+<div class="container">
+<article class="post-detail" data-uuid="{uuid}" data-platform-post-id="{pid}"
+         itemscope itemtype="https://schema.org/SocialMediaPosting">
+  <span class="post-detail__uuid" hidden>{uuid}</span>
+
+  <nav class="detail__breadcrumb" aria-label="面包屑">
+    <a href="/">首页</a>
+    <span class="detail__breadcrumb-separator">/</span>
+    <a href="/timeline/">时间轴</a>
+    <span class="detail__breadcrumb-separator">/</span>
+    <span>动态详情</span>
+  </nav>
+
+  <header class="post-detail__header">
+    <time class="post-detail__date" datetime="{date_published}"
+          itemprop="datePublished">{date_nice}</time>
+    <div class="post-detail__meta">
+      <span class="post-detail__platform">{html.escape(platform_name)}</span>
+      <span class="post-detail__type">{html.escape(source_url.split('//')[-1].split('/')[0] if source_url else '')}</span>
+    </div>
+  </header>
+
+  {text_block}
+
+  <section class="post-detail__images" aria-label="图片"></section>
+
+  <section class="post-detail__stats" itemprop="interactionStatistic">
+    <span class="post-detail__stat post-detail__stat--likes">
+      <span class="post-detail__stat-icon">&#9829;</span>
+      <span class="post-detail__stat-value">-</span>
+      <span class="post-detail__stat-label">点赞</span>
+    </span>
+    <span class="post-detail__stat post-detail__stat--comments">
+      <span class="post-detail__stat-icon">&#9993;</span>
+      <span class="post-detail__stat-value">-</span>
+      <span class="post-detail__stat-label">评论</span>
+    </span>
+    <span class="post-detail__stat post-detail__stat--forwards">
+      <span class="post-detail__stat-icon">&#8631;</span>
+      <span class="post-detail__stat-value">-</span>
+      <span class="post-detail__stat-label">转发</span>
+    </span>
+  </section>
+
+  <section class="post-detail__tags"></section>
+
+  <footer class="post-detail__footer">
+    {source_link}
+  </footer>
+
+  <nav class="post-nav" aria-label="文章导航">
+    {prev_link}
+    {next_link}
+  </nav>
 </article>
-<nav class="post-nav">
-{prev_link}
-{next_link}
-</nav>
-<div id="share-panel"></div>
+</div>
 </main>
 {footer_html}
-<script type="module" src="/js/app.js"></script>
+<script type="module" src="/js/post-detail.js"></script>
 </body>
 </html>"""
 

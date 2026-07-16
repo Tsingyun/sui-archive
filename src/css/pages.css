@@ -754,6 +754,201 @@
 }
 
 /* ==========================================================================
+   Post Detail Page (BEM)
+   ========================================================================== */
+
+.post-detail {
+  max-width: var(--container-lg);
+  margin: 0 auto;
+  padding: var(--space-4) var(--space-2);
+}
+
+.post-detail__uuid {
+  display: none;
+}
+
+/* Header */
+.post-detail__header {
+  margin-bottom: var(--space-6);
+  padding-bottom: var(--space-4);
+  border-bottom: var(--border-medium);
+}
+
+.post-detail__date {
+  display: block;
+  font-family: var(--font-heading);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--ink);
+  letter-spacing: -0.01em;
+  margin-bottom: var(--space-2);
+}
+
+.post-detail__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  align-items: center;
+}
+
+.post-detail__platform {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--muted-foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--border);
+  background: transparent;
+}
+
+.post-detail__type {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--muted-foreground);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+/* Content text */
+.post-detail__content {
+  font-family: var(--font-body);
+  font-size: var(--text-lg);
+  line-height: var(--leading-loose);
+  white-space: pre-wrap;
+  margin-bottom: var(--space-6);
+  color: var(--foreground);
+  padding: 0 var(--space-2);
+}
+
+/* Images */
+.post-detail__images {
+  display: grid;
+  gap: 4px;
+  margin-bottom: var(--space-6);
+}
+
+.post-detail__images--1 {
+  grid-template-columns: 1fr;
+}
+
+.post-detail__images--2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.post-detail__images--multi {
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+.post-detail__image {
+  overflow: hidden;
+  cursor: zoom-in;
+  border: var(--border-hairline);
+  transition: border-color var(--transition-fast);
+}
+
+.post-detail__image:hover {
+  border-color: var(--ink);
+}
+
+.post-detail__image img {
+  width: 100%;
+  display: block;
+  transition: filter var(--transition-normal);
+}
+
+.post-detail__image:hover img {
+  filter: contrast(1.05);
+}
+
+/* Stats */
+.post-detail__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-4);
+  padding: var(--space-3) var(--space-4);
+  background: var(--muted);
+  border: var(--border-thin);
+  margin-bottom: var(--space-4);
+}
+
+.post-detail__stat {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-1);
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  color: var(--muted-foreground);
+}
+
+.post-detail__stat-icon {
+  font-size: var(--text-base);
+  line-height: 1;
+}
+
+.post-detail__stat--likes .post-detail__stat-icon {
+  color: var(--editorial-red);
+}
+
+.post-detail__stat-value {
+  font-weight: 700;
+  color: var(--ink);
+  font-size: var(--text-base);
+}
+
+.post-detail__stat-label {
+  color: var(--muted-foreground);
+  font-size: var(--text-xs);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+/* Tags */
+.post-detail__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin-bottom: var(--space-4);
+}
+
+.post-detail__tag {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--ink);
+  text-decoration: none;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--border);
+  transition: all var(--transition-fast);
+}
+
+.post-detail__tag:hover {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+/* Footer */
+.post-detail__footer {
+  padding-top: var(--space-3);
+  margin-bottom: var(--space-6);
+  border-top: var(--border-hairline);
+}
+
+.post-detail__source-link {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  color: var(--editorial-red);
+  text-decoration: none;
+  letter-spacing: 0.02em;
+  transition: color var(--transition-fast);
+}
+
+.post-detail__source-link:hover {
+  color: var(--ink);
+  text-decoration: underline;
+}
+
+/* ==========================================================================
    Scroll Sentinel (infinite scroll)
    ========================================================================== */
 

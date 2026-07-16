@@ -26,13 +26,23 @@ import { createSharePanel } from './share.js';
  * @returns {string|null}
  */
 function extractUUIDFromDOM() {
+  // Method 1: look for a dedicated .post-detail__uuid span
   const el = $('.post-detail__uuid');
-  if (!el) return null;
+  if (el) {
+    const text = el.textContent.trim();
+    const match = text.match(/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})/i);
+    if (match) return match[1];
+    if (text) return text;
+  }
 
-  const text = el.textContent.trim();
-  // The element may contain just the UUID, or "UUID: {uuid}"
-  const match = text.match(/([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12})/i);
-  return match ? match[1] : (text || null);
+  // Method 2: data-uuid attribute on the article or main element
+  const article = $('article.post-detail') || $('article[data-uuid]') || $('[data-uuid]');
+  if (article) {
+    const uuid = article.getAttribute('data-uuid');
+    if (uuid) return uuid;
+  }
+
+  return null;
 }
 
 /**
