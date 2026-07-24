@@ -1,0 +1,28 @@
+{
+  "uuid": "d9bd6a30-2907-400f-9513-e425e416d47f",
+  "platform_post_id": "1067537417374793733",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-16T19:10:24+08:00",
+  "source_url": "https://t.bilibili.com/1067537417374793733",
+  "plain_text": "听我说！我7:30来直播 今天想干嘛[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23dcbbe0-98f4-46ad-a270-dcf93ec0f51e",
+    "next_uuid": "83d11a63-9f26-4f1c-aeee-b21d839904c1"
+  }
+}

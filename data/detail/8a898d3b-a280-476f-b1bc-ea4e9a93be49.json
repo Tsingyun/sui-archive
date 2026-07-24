@@ -1,0 +1,38 @@
+{
+  "uuid": "8a898d3b-a280-476f-b1bc-ea4e9a93be49",
+  "platform_post_id": "748007411361513508",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-06T17:30:47+08:00",
+  "source_url": "https://t.bilibili.com/748007411361513508",
+  "plain_text": "因为一些原因，舰长圣诞限定音声的礼物会延迟到1月7号哦。上舰是为了补做上个月舰长以获得音声的可以私信告诉我哦\n",
+  "images": [
+    {
+      "filename": "748007411361513508_00@original.jpg",
+      "width": 3498,
+      "height": 2356,
+      "file_size": 3666177,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 312,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e59b3a3-51e3-4df4-8b54-eb22732f8c91",
+    "next_uuid": "6c9c37d7-8726-409f-ade1-fb99b98aaa73"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "cdd313a5-ece1-4f9b-8e34-0dd45c62f0c4",
+  "platform_post_id": "1213081515304419332",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-13T00:15:50+08:00",
+  "source_url": "https://t.bilibili.com/1213081515304419332",
+  "plain_text": "晚安😴今天被打惨了[岁己收藏集表情包_哭死]",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c78db5bb-63c0-4679-9e15-21dc54ea2213",
+    "next_uuid": "20e0f14e-be73-453b-a19b-1d070db30e0e"
+  }
+}

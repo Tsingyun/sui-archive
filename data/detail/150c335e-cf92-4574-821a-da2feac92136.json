@@ -1,0 +1,28 @@
+{
+  "uuid": "150c335e-cf92-4574-821a-da2feac92136",
+  "platform_post_id": "944403647054217218",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-18T23:28:29+08:00",
+  "source_url": "https://t.bilibili.com/944403647054217218",
+  "plain_text": "晚安大家，后天再见",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be82b1f1-31c3-4328-9141-a92f916876a8",
+    "next_uuid": "9c77ded9-b499-4b48-b6ef-d3766cc2efd1"
+  }
+}

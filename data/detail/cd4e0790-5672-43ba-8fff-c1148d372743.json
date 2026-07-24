@@ -1,0 +1,28 @@
+{
+  "uuid": "cd4e0790-5672-43ba-8fff-c1148d372743",
+  "platform_post_id": "1085430014899388419",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-04T00:22:49+08:00",
+  "source_url": "https://t.bilibili.com/1085430014899388419",
+  "plain_text": "晚安 看我晚安动态的10s你在想什么",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6d8690d-833f-434c-9e7d-d520e1a77304",
+    "next_uuid": "22c4d6f4-364a-44d4-ac7c-52c24112d933"
+  }
+}

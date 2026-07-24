@@ -1,0 +1,38 @@
+{
+  "uuid": "526a3a73-5bf3-48cc-928c-931056dead61",
+  "platform_post_id": "739766588893298724",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-12-15T12:32:11+08:00",
+  "source_url": "https://t.bilibili.com/739766588893298724",
+  "plain_text": "🎊百日纪念直播🎊\n出道一百天了！\n将于12月17日（本周六）晚8点举办出道百日纪念回，到时候会唱一些vocaloid歌曲。大家有空可以来看看，没空麻烦抽一下空谢谢(・ω< )★\n\n",
+  "images": [
+    {
+      "filename": "739766588893298724_00@original.png",
+      "width": 1080,
+      "height": 1219,
+      "file_size": 2416766,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 494,
+    "comments": 78,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24eb72a0-993c-425f-ad55-eca869a38900",
+    "next_uuid": "befc85c5-d049-41ab-94c8-3b0631b95db3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "2563aa1f-7b5d-4048-9f1d-69096447f25d",
+  "platform_post_id": "1145549627096825865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-13T00:37:37+08:00",
+  "source_url": "https://t.bilibili.com/1145549627096825865",
+  "plain_text": "怎么12:30了！晚安大家昂昂昂",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "746a22bb-4ad6-4f6e-860e-ecca48f48053",
+    "next_uuid": "ea05c343-36aa-4050-92fb-b3fd2ac57c94"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c5f91cd3-e04e-4164-9e46-76900bdffbe0",
+  "platform_post_id": "1193047833602686976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-20T00:34:55+08:00",
+  "source_url": "https://t.bilibili.com/1193047833602686976",
+  "plain_text": "晚安晚安。后视镜里的世界…",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb4ba0c0-db62-4989-aec3-0726e2a3421f",
+    "next_uuid": "6e5e242b-cece-44ab-80f4-a084cb6c9c65"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9a2b56af-74ed-4200-9c66-b7eb088d5f4f",
+  "platform_post_id": "1067165606322634757",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-15T19:07:35+08:00",
+  "source_url": "https://t.bilibili.com/1067165606322634757",
+  "plain_text": "来全体都有，我说个事。7:35直播",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8ea47d1b-1167-4955-925b-4a3fde7247a2",
+    "next_uuid": "23dcbbe0-98f4-46ad-a270-dcf93ec0f51e"
+  }
+}

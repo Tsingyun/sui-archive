@@ -1,0 +1,28 @@
+{
+  "uuid": "ca7c894f-f862-4573-82d5-c2b7fb8f13b5",
+  "platform_post_id": "715758722428698647",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-11T19:49:24+08:00",
+  "source_url": "https://t.bilibili.com/715758722428698647",
+  "plain_text": "下午录了好久的歌，现在去吃外卖，希望牛肉多点。\n还是九点见，还剩几块钱的游戏，得玩仔细喽！",
+  "images": [],
+  "stats": {
+    "likes": 472,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "123ba5f3-d140-4931-b19c-581461991107",
+    "next_uuid": "f83445dc-a6a5-4a28-90e7-db34a2fc7fbe"
+  }
+}

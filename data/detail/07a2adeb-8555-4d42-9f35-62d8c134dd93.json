@@ -1,0 +1,28 @@
+{
+  "uuid": "07a2adeb-8555-4d42-9f35-62d8c134dd93",
+  "platform_post_id": "744446982266814500",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-28T03:14:30+08:00",
+  "source_url": "https://t.bilibili.com/744446982266814500",
+  "plain_text": "晚安，明天开始真的要早下播了",
+  "images": [],
+  "stats": {
+    "likes": 385,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "df2a8e8f-fb1e-40f6-9d89-af2c150be9b8",
+    "next_uuid": "e58d8fb9-f77a-4ccb-a8aa-09658660b29e"
+  }
+}

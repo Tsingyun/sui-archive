@@ -1,0 +1,28 @@
+{
+  "uuid": "259ddb61-c87b-455c-b7fd-5e8eb6140a49",
+  "platform_post_id": "877178655680233478",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-20T19:41:11+08:00",
+  "source_url": "https://t.bilibili.com/877178655680233478",
+  "plain_text": "7:50！我不知道干嘛都！",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2828dd5a-efd1-428f-9546-3b9f50d7cbe1",
+    "next_uuid": "4cd999ae-af0c-4271-bc99-6b4bd6a34118"
+  }
+}

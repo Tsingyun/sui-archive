@@ -1,0 +1,38 @@
+{
+  "uuid": "e6522d6c-8d2b-42b4-9de0-511ad28d6d70",
+  "platform_post_id": "1009646025611149313",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-12-11T19:02:14+08:00",
+  "source_url": "https://t.bilibili.com/1009646025611149313",
+  "plain_text": "🌈饼竞战衣回！💅\n如果给你一个机会，你会穿上自己的哪套衣服成为最有魅力最耀眼的饼干岁呢\n投稿邮箱：suiji11@qq.com\n邮件标题：请以“饼竞战衣回投稿”开头\n图片1-3张即可 半身/全身都ok\n也可以写一写自己的必胜宣言\n❗️截止日期：12月20日\n\n",
+  "images": [
+    {
+      "filename": "1009646025611149313_00@original.jpg",
+      "width": 1146,
+      "height": 717,
+      "file_size": 833116,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 265,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "040e077c-05d8-4791-9872-c4443f4919c3",
+    "next_uuid": "c7897d76-e548-4b31-b08c-8ddb07232f57"
+  }
+}

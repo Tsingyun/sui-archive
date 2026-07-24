@@ -1,0 +1,28 @@
+{
+  "uuid": "0bff8228-a33e-4eef-825d-7767b9fcdb67",
+  "platform_post_id": "1070206421687074836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-23T23:47:30+08:00",
+  "source_url": "https://t.bilibili.com/1070206421687074836",
+  "plain_text": "晚安地球人们[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7ba02ef-9b2f-44c8-b90c-11bb9d8095f0",
+    "next_uuid": "69c8c891-fb5e-4f9b-9647-d396c4062b30"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3719af2e-7821-4433-a34c-7e5bd76fa4a1",
+  "platform_post_id": "776876931699179539",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-25T12:39:16+08:00",
+  "source_url": "https://t.bilibili.com/776876931699179539",
+  "plain_text": "都起了没！谁还在睡！",
+  "images": [],
+  "stats": {
+    "likes": 348,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d598a67f-4ebb-44d7-b307-c0eb70e4fda4",
+    "next_uuid": "084e225e-3b14-4ada-8449-ddd6548cd3ab"
+  }
+}

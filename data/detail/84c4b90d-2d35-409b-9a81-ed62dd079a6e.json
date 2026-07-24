@@ -1,0 +1,28 @@
+{
+  "uuid": "84c4b90d-2d35-409b-9a81-ed62dd079a6e",
+  "platform_post_id": "863505369613205520",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-13T23:21:51+08:00",
+  "source_url": "https://t.bilibili.com/863505369613205520",
+  "plain_text": "帮我想下发什么晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f0b4f38-0a9e-4e3f-b28e-4479083ce314",
+    "next_uuid": "28942f8e-f3b4-4c01-8eab-c0824fb5c8fc"
+  }
+}

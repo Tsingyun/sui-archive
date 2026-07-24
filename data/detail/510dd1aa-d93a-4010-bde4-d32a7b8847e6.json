@@ -1,0 +1,38 @@
+{
+  "uuid": "510dd1aa-d93a-4010-bde4-d32a7b8847e6",
+  "platform_post_id": "1101401988974772247",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-16T01:22:14+08:00",
+  "source_url": "https://t.bilibili.com/1101401988974772247",
+  "plain_text": "欠我的那批货准备什么时候还，改天？就今天！\n",
+  "images": [
+    {
+      "filename": "1101401988974772247_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 980914,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 381,
+    "comments": 72,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a28faab6-9b47-4bab-9a5a-c78f1736663b",
+    "next_uuid": "2facea06-85d3-473e-a24f-c35a8cea67ab"
+  }
+}

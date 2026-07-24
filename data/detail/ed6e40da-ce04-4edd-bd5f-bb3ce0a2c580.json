@@ -1,0 +1,28 @@
+{
+  "uuid": "ed6e40da-ce04-4edd-bd5f-bb3ce0a2c580",
+  "platform_post_id": "958138381194231847",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-25T23:46:16+08:00",
+  "source_url": "https://t.bilibili.com/958138381194231847",
+  "plain_text": "b站出bug了，现在只能回复跟你亲密度最高的up主，别的都回复不了。快来评论区试试吧",
+  "images": [],
+  "stats": {
+    "likes": 502,
+    "comments": 141,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e0939b5-d4fc-448c-9328-a22c8a998ecf",
+    "next_uuid": "295b1a69-3d6f-49de-9d88-0332a4ea1f0b"
+  }
+}

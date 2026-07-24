@@ -1,0 +1,28 @@
+{
+  "uuid": "23f98f93-6b63-45ef-82f9-7f5c0e421b60",
+  "platform_post_id": "1210114165309440008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-05T00:21:00+08:00",
+  "source_url": "https://t.bilibili.com/1210114165309440008",
+  "plain_text": "五子棋游刃有余，找不同得心应手，俄罗斯方块百战百胜，飞行棋渐入佳境，大家喜欢上的就是这样一只完美的小鸟呀[岁己收藏集表情包_诶嘿]晚安",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f5090640-4451-4155-8926-2dfaa15a3dcf",
+    "next_uuid": "046a8d17-ec29-4841-b5a1-224f4cf2cbc8"
+  }
+}

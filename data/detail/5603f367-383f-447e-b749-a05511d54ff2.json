@@ -1,0 +1,28 @@
+{
+  "uuid": "5603f367-383f-447e-b749-a05511d54ff2",
+  "platform_post_id": "933216369641521155",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-19T19:56:08+08:00",
+  "source_url": "https://t.bilibili.com/933216369641521155",
+  "plain_text": "我去我还以为是6点50。来了，十分钟。老师我播什么",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f1d7e26f-6e09-472a-ab56-19469de062e8",
+    "next_uuid": "908af4cc-7095-4187-8ec0-c8a427d12c2c"
+  }
+}

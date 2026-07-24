@@ -1,0 +1,28 @@
+{
+  "uuid": "8394d5f6-8c10-41f3-93d3-e6eabae01bda",
+  "platform_post_id": "1051873345195212819",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-04T14:05:48+08:00",
+  "source_url": "https://t.bilibili.com/1051873345195212819",
+  "plain_text": "2:30直播！ 请饼按时降临我身边",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "050e79d8-e749-4338-9cd9-7b9d33af46ea",
+    "next_uuid": "ae1bf043-c0ae-4624-b32a-aed5ad61dd92"
+  }
+}

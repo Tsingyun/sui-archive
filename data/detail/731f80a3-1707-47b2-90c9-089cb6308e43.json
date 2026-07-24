@@ -1,0 +1,28 @@
+{
+  "uuid": "731f80a3-1707-47b2-90c9-089cb6308e43",
+  "platform_post_id": "788902788635557897",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-26T22:25:44+08:00",
+  "source_url": "https://t.bilibili.com/788902788635557897",
+  "plain_text": "你知道我要说晚安，我也知道你要回我晚安，这么多年真是够了…骗你的哦，即使如此也会跟你说晚安哦，晚安 🌙",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 52,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "741da0ca-c563-418a-854f-24ab62c2f756",
+    "next_uuid": "ba95cc99-0487-4082-9068-d3d206804a26"
+  }
+}

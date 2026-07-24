@@ -1,0 +1,28 @@
+{
+  "uuid": "e80cff0d-def4-4519-ae00-ee10e9b3a630",
+  "platform_post_id": "1023844839581548549",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-19T01:20:53+08:00",
+  "source_url": "https://t.bilibili.com/1023844839581548549",
+  "plain_text": "大家都是好饼宝 [UPOWER_1954091502_爱你]晚安捏",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c0e8518-7174-42b9-8ce2-aec9b2fe7153",
+    "next_uuid": "76153cfe-7a20-4171-bbc4-036b9bab3950"
+  }
+}

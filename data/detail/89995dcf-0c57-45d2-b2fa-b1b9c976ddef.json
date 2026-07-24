@@ -1,0 +1,28 @@
+{
+  "uuid": "89995dcf-0c57-45d2-b2fa-b1b9c976ddef",
+  "platform_post_id": "1134708528291774505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-13T19:28:37+08:00",
+  "source_url": "https://t.bilibili.com/1134708528291774505",
+  "plain_text": "7:40来播 天选抽几个舰长画头像 然后听听歌[UPOWER_1954091502_小肥鸟]\n",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "08f52bae-0291-4ca2-a4d9-c0c80a80049a",
+    "next_uuid": "6be428c0-f939-49c9-95d8-0a47767e484c"
+  }
+}

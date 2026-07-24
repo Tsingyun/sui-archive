@@ -1,0 +1,28 @@
+{
+  "uuid": "03f3b47e-0f58-4aa1-9e78-a66cf14e3684",
+  "platform_post_id": "777705564037709841",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-27T18:14:47+08:00",
+  "source_url": "https://t.bilibili.com/777705564037709841",
+  "plain_text": "不播。今天有几件急事要做，好好活着好吗",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "730da39a-3145-4805-8f25-77b328301077",
+    "next_uuid": "6a1320e7-2018-4193-ab81-39d27c86fadc"
+  }
+}

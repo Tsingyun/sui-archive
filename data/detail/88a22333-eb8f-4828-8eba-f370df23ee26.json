@@ -1,0 +1,28 @@
+{
+  "uuid": "88a22333-eb8f-4828-8eba-f370df23ee26",
+  "platform_post_id": "917626136554373141",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-07T19:38:04+08:00",
+  "source_url": "https://t.bilibili.com/917626136554373141",
+  "plain_text": "7:50来播播",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2aafeecc-5db8-437b-8aca-d72f9dca4514",
+    "next_uuid": "e2e6b626-f847-445c-8c3c-28e6ada8bf8f"
+  }
+}

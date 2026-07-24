@@ -1,0 +1,28 @@
+{
+  "uuid": "678204ac-353c-4779-b8e6-a04209623af0",
+  "platform_post_id": "1057520441210437639",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-19T19:19:25+08:00",
+  "source_url": "https://t.bilibili.com/1057520441210437639",
+  "plain_text": "十分钟后！今天接着玩行尸走肉游戏~！",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ff4bd69f-e1bd-468a-814a-4955337e7f87",
+    "next_uuid": "f8e45d61-0fcd-4eb4-aa2d-a56a32b33661"
+  }
+}

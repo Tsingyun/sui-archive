@@ -1,0 +1,28 @@
+{
+  "uuid": "9a728325-bc58-411d-9629-8d634b595747",
+  "platform_post_id": "994068217927303187",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-30T19:32:23+08:00",
+  "source_url": "https://t.bilibili.com/994068217927303187",
+  "plain_text": "十点！来一起睡觉打呼[小A和小B_喝茶]",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e4ac1adc-4ae9-4492-b4c5-a3c56377afa0",
+    "next_uuid": "e7de5132-05bf-4bd6-a8e4-7622c09b70e9"
+  }
+}

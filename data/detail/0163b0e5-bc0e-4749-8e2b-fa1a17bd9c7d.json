@@ -1,0 +1,28 @@
+{
+  "uuid": "0163b0e5-bc0e-4749-8e2b-fa1a17bd9c7d",
+  "platform_post_id": "1156899271437451282",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-12T14:40:02+08:00",
+  "source_url": "https://t.bilibili.com/1156899271437451282",
+  "plain_text": "2:55来开启这周第一天的摸鱼🐟",
+  "images": [],
+  "stats": {
+    "likes": 175,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9e29d75a-1aa4-4a72-83a4-aaa9631ca5fa",
+    "next_uuid": "7360c365-3624-4383-b292-9178f3a67961"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4899f67e-2cbe-4641-82fe-af624d2d2476",
+  "platform_post_id": "1129583313788338208",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-31T00:00:10+08:00",
+  "source_url": "https://t.bilibili.com/1129583313788338208",
+  "plain_text": "朕今稍得闲暇，速速呈上晚安奏折，违者斩！！[UPOWER_1954091502_小肥鸟]",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 66,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "845d8054-90ff-4c2f-902d-9d5034188608",
+    "next_uuid": "2885a3b8-9aa7-41ed-b593-88e62f23feff"
+  }
+}

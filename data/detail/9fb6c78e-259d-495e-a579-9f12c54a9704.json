@@ -1,0 +1,28 @@
+{
+  "uuid": "9fb6c78e-259d-495e-a579-9f12c54a9704",
+  "platform_post_id": "1025492212982480912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-23T11:53:32+08:00",
+  "source_url": "https://t.bilibili.com/1025492212982480912",
+  "plain_text": "其实我前晚没睡着诶 今天睡得昏天暗地 好爽 \n说实话感觉还能再睡1个小时的  不过还是醒了 早！胖子思维启动 开始点外卖",
+  "images": [],
+  "stats": {
+    "likes": 291,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "79397191-3319-45cf-aa9b-a5f0163f9e66",
+    "next_uuid": "f42c25f4-5781-4fff-9d2e-cefd3c0dea8c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "fb69ec26-f112-4d97-bb58-d342af050e6a",
+  "platform_post_id": "990040401855381508",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-19T23:02:24+08:00",
+  "source_url": "https://t.bilibili.com/990040401855381508",
+  "plain_text": "注意保暖 晚安",
+  "images": [],
+  "stats": {
+    "likes": 294,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee288fc9-ffeb-43ba-8ed8-c5bbfdb679c2",
+    "next_uuid": "9595ac97-feac-4ee8-bc6e-3fb7544f1941"
+  }
+}

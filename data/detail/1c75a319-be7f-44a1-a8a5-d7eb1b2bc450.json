@@ -1,0 +1,28 @@
+{
+  "uuid": "1c75a319-be7f-44a1-a8a5-d7eb1b2bc450",
+  "platform_post_id": "960378580328513544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-01T00:39:23+08:00",
+  "source_url": "https://t.bilibili.com/960378580328513544",
+  "plain_text": "真没想到你本人比照片还火辣，明天老时间咱们再见面交流一下吧。晚安",
+  "images": [],
+  "stats": {
+    "likes": 449,
+    "comments": 84,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ba623b77-cfd3-4b6d-915f-04634b203cc0",
+    "next_uuid": "90657243-7795-4d83-b108-a50d6906cde1"
+  }
+}

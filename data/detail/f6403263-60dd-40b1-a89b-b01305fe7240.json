@@ -1,0 +1,28 @@
+{
+  "uuid": "f6403263-60dd-40b1-a89b-b01305fe7240",
+  "platform_post_id": "1201517620757528585",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-12T20:22:01+08:00",
+  "source_url": "https://t.bilibili.com/1201517620757528585",
+  "plain_text": "游泳得晚了一点 8:30见吧～",
+  "images": [],
+  "stats": {
+    "likes": 191,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "43c4bb5d-0889-43e3-821a-f7acde212799",
+    "next_uuid": "0de6d13b-9e6f-467b-911e-6a20ab1d6fdf"
+  }
+}

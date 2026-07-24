@@ -1,0 +1,28 @@
+{
+  "uuid": "5a708521-a2b0-4024-80ea-0e8eb13780d1",
+  "platform_post_id": "1142422092013109254",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-04T14:21:11+08:00",
+  "source_url": "https://t.bilibili.com/1142422092013109254",
+  "plain_text": "我会在2:45直播[岁己收藏集表情包_我在][岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73c9be23-c8cc-4e6b-ae9e-9b46851d9807",
+    "next_uuid": "d1f7d023-b4b9-48ae-aa3f-dc6d88b89ac1"
+  }
+}

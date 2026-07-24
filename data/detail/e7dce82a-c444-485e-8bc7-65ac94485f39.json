@@ -1,0 +1,28 @@
+{
+  "uuid": "e7dce82a-c444-485e-8bc7-65ac94485f39",
+  "platform_post_id": "1219027364920426498",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-29T00:48:46+08:00",
+  "source_url": "https://t.bilibili.com/1219027364920426498",
+  "plain_text": "晚安晚安大家[岁己收藏集表情包_好脆弱]脆弱 希望平安度过今晚",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7dbe0a2a-e62f-42ec-8a13-7f6fb31582a7",
+    "next_uuid": "c5106b90-bde6-4eef-8404-f4bf19a18208"
+  }
+}

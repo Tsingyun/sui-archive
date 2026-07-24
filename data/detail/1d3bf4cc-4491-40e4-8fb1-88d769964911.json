@@ -1,0 +1,28 @@
+{
+  "uuid": "1d3bf4cc-4491-40e4-8fb1-88d769964911",
+  "platform_post_id": "1221937106499141668",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-07-06T21:00:03+08:00",
+  "source_url": "https://t.bilibili.com/1221937106499141668",
+  "plain_text": "恭喜@Hefover中奖，已私信通知，详情请点击抽奖查看。",
+  "images": [],
+  "stats": {
+    "likes": 145,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6d9aa2ea-043d-4118-98c7-e4eff47465a8",
+    "next_uuid": "e1747c3b-4670-48a8-9174-68ddb71e2710"
+  }
+}

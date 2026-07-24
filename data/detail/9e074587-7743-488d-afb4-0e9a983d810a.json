@@ -1,0 +1,28 @@
+{
+  "uuid": "9e074587-7743-488d-afb4-0e9a983d810a",
+  "platform_post_id": "932183305433907209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-17T01:07:19+08:00",
+  "source_url": "https://t.bilibili.com/932183305433907209",
+  "plain_text": "小饼小饼 晚安的说（温柔音）",
+  "images": [],
+  "stats": {
+    "likes": 349,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "beb8486c-13e0-4f07-899f-564c6f0f2b88",
+    "next_uuid": "414a3b73-d3ee-4325-aed4-1c184151529f"
+  }
+}

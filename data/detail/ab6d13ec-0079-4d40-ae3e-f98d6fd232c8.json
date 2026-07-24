@@ -1,0 +1,28 @@
+{
+  "uuid": "ab6d13ec-0079-4d40-ae3e-f98d6fd232c8",
+  "platform_post_id": "853040376833900627",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-16T18:32:20+08:00",
+  "source_url": "https://t.bilibili.com/853040376833900627",
+  "plain_text": "6:40[笑哭][喜极而泣][脱单doge][脱单doge][嗑瓜子][吃瓜][呲牙][抠鼻]\n",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ecf14bc1-ce11-41d4-8e37-9bd1f3f5377c",
+    "next_uuid": "7c4c8c07-c3c8-4efb-9dbd-0c2dd6abd351"
+  }
+}

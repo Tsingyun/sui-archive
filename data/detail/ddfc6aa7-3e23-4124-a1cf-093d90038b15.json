@@ -1,0 +1,38 @@
+{
+  "uuid": "ddfc6aa7-3e23-4124-a1cf-093d90038b15",
+  "platform_post_id": "1111701256078884868",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-12T19:28:39+08:00",
+  "source_url": "https://t.bilibili.com/1111701256078884868",
+  "plain_text": "就在今天！就在不久后，没时间吃完晚饭了唔哇啊\n一定要来好吗好吗",
+  "images": [
+    {
+      "filename": "1111701256078884868_100@repost.png",
+      "width": 1125,
+      "height": 8055,
+      "file_size": 9208512,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 230,
+    "comments": 38,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "【9.12 20:00】岁己第二次3D回强势袭来\n✨三周年啦，终于又能让大家看到动起来的岁己了\n\n💫是准备了很久的3D，不想做只停留在嘴上的闪闪发光，想用舞蹈让大家真正感觉到舞台上的岁己在闪闪发光！感觉舞蹈很有进步，还请你一定要来✨\n\n这次准备了：新帽子 qq小岁  新??  \nX连跳 以及和嘉宾带来的共同演出!\n\n💫单人动作模仿征集！\ngif/视频/图片✅  压缩包🙅\n投稿地址：suiji11@qq.com \n截止时间：9月10日 12点",
+    "source_url": "https://t.bilibili.com/1110194220817186840"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "777d57a4-4c67-49b9-8612-49f8f9c162c8",
+    "next_uuid": "e156ebcd-5fe1-4055-a1b7-43ffdafcd94f"
+  }
+}

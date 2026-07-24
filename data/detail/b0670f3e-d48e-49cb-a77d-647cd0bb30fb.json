@@ -1,0 +1,28 @@
+{
+  "uuid": "b0670f3e-d48e-49cb-a77d-647cd0bb30fb",
+  "platform_post_id": "808387302924484663",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-18T10:35:36+08:00",
+  "source_url": "https://t.bilibili.com/808387302924484663",
+  "plain_text": "早啾的说桌啦",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d04e588b-5f4a-414a-bcfd-e402bbac363c",
+    "next_uuid": "0019e91d-c10c-4ad7-8df7-a1b37e08f4f8"
+  }
+}

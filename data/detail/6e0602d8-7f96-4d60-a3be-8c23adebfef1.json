@@ -1,0 +1,28 @@
+{
+  "uuid": "6e0602d8-7f96-4d60-a3be-8c23adebfef1",
+  "platform_post_id": "1196613283542466581",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-29T15:10:41+08:00",
+  "source_url": "https://t.bilibili.com/1196613283542466581",
+  "plain_text": "睡着了！洗个碗 3:20来",
+  "images": [],
+  "stats": {
+    "likes": 182,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ec29014-1854-49bc-9c90-bfecb5f77bbd",
+    "next_uuid": "1a421d54-e176-44b6-a294-e8147263b763"
+  }
+}

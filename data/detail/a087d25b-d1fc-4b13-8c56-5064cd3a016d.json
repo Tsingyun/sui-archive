@@ -1,0 +1,38 @@
+{
+  "uuid": "a087d25b-d1fc-4b13-8c56-5064cd3a016d",
+  "platform_post_id": "994796975044952135",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-11-01T18:40:20+08:00",
+  "source_url": "https://t.bilibili.com/994796975044952135",
+  "plain_text": "11月特别形象！\n大概是集合了万圣节+小恶魔这样的感觉\n本月舰长礼物：爱心吧唧+合影透卡+立牌\n提督礼物：以上+from签choker\n虽然图还没完全完成额啊啊，今晚7:50来小小发布+唱歌一下，然后看恐怖电影\n",
+  "images": [
+    {
+      "filename": "994796975044952135_00@original.png",
+      "width": 2400,
+      "height": 3500,
+      "file_size": 2191782,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 323,
+    "comments": 35,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf33846a-6678-4827-8072-a35cc712d825",
+    "next_uuid": "995ea96c-524a-4a65-afcd-c2625394ac8b"
+  }
+}

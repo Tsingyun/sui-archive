@@ -1,0 +1,28 @@
+{
+  "uuid": "55ab8971-a7ac-4c30-bbd8-3ea5a89a7ae4",
+  "platform_post_id": "1125130261639462980",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-19T00:00:03+08:00",
+  "source_url": "https://t.bilibili.com/1125130261639462980",
+  "plain_text": "晚安呀大家 哈哈我没期待你回我啦[UPOWER_1954091502_老实]",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2305d3f3-8b50-4bfc-bef2-a0173d4dba91",
+    "next_uuid": "6d299a17-37ba-4e07-941a-106703134b99"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a522c07c-a456-48be-b43e-a0e91b1ff9cc",
+  "platform_post_id": "1012623786555473920",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-19T19:37:28+08:00",
+  "source_url": "https://t.bilibili.com/1012623786555473920",
+  "plain_text": "十分钟后bebe！",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "784e5d63-53e8-40f1-bf20-1e096a0c12d3",
+    "next_uuid": "788b8f09-d68a-40b2-8228-be4dc3dc934a"
+  }
+}

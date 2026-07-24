@@ -1,0 +1,28 @@
+{
+  "uuid": "d0476649-3d71-4f91-8a2f-6d268f0e652b",
+  "platform_post_id": "720949259121197058",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-25T19:31:20+08:00",
+  "source_url": "https://t.bilibili.com/720949259121197058",
+  "plain_text": "8:40！先健身环，巩固一下昨天锻炼出的人鱼线，再恐怖游戏，或者随便聊唱，视体力决定！",
+  "images": [],
+  "stats": {
+    "likes": 385,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "faed4860-0779-4bf6-87e3-1f42c30afd8f",
+    "next_uuid": "cf0ad009-1c50-49e3-8c5a-f62e2b507d6b"
+  }
+}

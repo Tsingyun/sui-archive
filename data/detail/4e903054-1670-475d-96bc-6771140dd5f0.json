@@ -1,0 +1,38 @@
+{
+  "uuid": "4e903054-1670-475d-96bc-6771140dd5f0",
+  "platform_post_id": "1012972885810085908",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-12-20T18:12:09+08:00",
+  "source_url": "https://t.bilibili.com/1012972885810085908",
+  "plain_text": "今天七点半，重磅评委岁己sui来看饼干岁穿搭！\n",
+  "images": [
+    {
+      "filename": "1012972885810085908_00@original.png",
+      "width": 1146,
+      "height": 717,
+      "file_size": 1063054,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 280,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "788b8f09-d68a-40b2-8228-be4dc3dc934a",
+    "next_uuid": "92831ca8-d1be-4a2e-9059-a5b871eb623a"
+  }
+}

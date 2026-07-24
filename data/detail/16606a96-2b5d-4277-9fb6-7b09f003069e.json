@@ -1,0 +1,28 @@
+{
+  "uuid": "16606a96-2b5d-4277-9fb6-7b09f003069e",
+  "platform_post_id": "962158496605798408",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-05T19:46:22+08:00",
+  "source_url": "https://t.bilibili.com/962158496605798408",
+  "plain_text": "你好！我来直播，十分钟后",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9d3bdbc3-8b75-4ae4-b84f-d92549b0a8ed",
+    "next_uuid": "edcf207f-cae7-49bc-a233-c5acd4b84575"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6be428c0-f939-49c9-95d8-0a47767e484c",
+  "platform_post_id": "1134784699555643401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-14T00:24:12+08:00",
+  "source_url": "https://t.bilibili.com/1134784699555643401",
+  "plain_text": "多亏大家的存在帮我把今晚也变得更美好了～晚安的晚安的[岁己收藏集表情包_啵啵]",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "89995dcf-0c57-45d2-b2fa-b1b9c976ddef",
+    "next_uuid": "9560f4a5-1290-47e2-ba90-68a7e3d0f32e"
+  }
+}

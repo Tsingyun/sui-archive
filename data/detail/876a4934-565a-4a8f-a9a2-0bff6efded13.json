@@ -1,0 +1,28 @@
+{
+  "uuid": "876a4934-565a-4a8f-a9a2-0bff6efded13",
+  "platform_post_id": "759263356745941063",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-06T01:29:36+08:00",
+  "source_url": "https://t.bilibili.com/759263356745941063",
+  "plain_text": "谢谢大家 我好幸福[UP_1954091502_委屈]",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 6,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己的捕鸟笼",
+    "author_url": "https://space.bilibili.com/1910926098",
+    "text": "『Blessings for your birthday\n    Blessings for your everyday』",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "efd33339-da91-4efb-987d-4891c9043bf2",
+    "next_uuid": "a13d4fbb-810c-4b65-86c9-ac506c0e470a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "980c8cc8-724f-4b82-805e-585bb4a42f31",
+  "platform_post_id": "926235209539518535",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-01T00:25:40+08:00",
+  "source_url": "https://t.bilibili.com/926235209539518535",
+  "plain_text": "啊？刚才我内心独白忘记关麦了吗？？我去。。晚安",
+  "images": [],
+  "stats": {
+    "likes": 429,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c1dbb1f7-3e36-4728-8683-aecefbe1e1d8",
+    "next_uuid": "ddfb52d7-ac3f-4554-9640-a4ec6cc0be55"
+  }
+}

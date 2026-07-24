@@ -1,0 +1,28 @@
+{
+  "uuid": "9f68c971-3a4e-46c9-86cd-2b705f530dcc",
+  "platform_post_id": "1034965669598199816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-18T00:35:23+08:00",
+  "source_url": "https://t.bilibili.com/1034965669598199816",
+  "plain_text": "┏(＾0＾)┛白白 退下吧 明天见",
+  "images": [],
+  "stats": {
+    "likes": 270,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "109503a5-aeac-43b2-ba86-c3c9daea3af2",
+    "next_uuid": "2bf382f6-9da0-4878-886b-c5a1d851694a"
+  }
+}

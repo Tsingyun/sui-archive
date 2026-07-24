@@ -1,0 +1,28 @@
+{
+  "uuid": "d408b021-4da7-4a64-80f2-08e42b134732",
+  "platform_post_id": "1223100127799934981",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-07-10T00:13:10+08:00",
+  "source_url": "https://t.bilibili.com/1223100127799934981",
+  "plain_text": "岁栞无料的说～有兴趣可以看看的说 谢谢饼干岁捏",
+  "images": [],
+  "stats": {
+    "likes": 159,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ebc10330-2d8e-4f3b-997e-71447ef6c487",
+    "next_uuid": "aeadaeae-4cac-4291-aed4-1cd89e548dc7"
+  }
+}

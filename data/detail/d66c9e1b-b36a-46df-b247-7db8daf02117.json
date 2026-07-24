@@ -1,0 +1,28 @@
+{
+  "uuid": "d66c9e1b-b36a-46df-b247-7db8daf02117",
+  "platform_post_id": "900565499970060311",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-21T20:14:05+08:00",
+  "source_url": "https://t.bilibili.com/900565499970060311",
+  "plain_text": "抱着猫又睡着了怎么回事啊！！8:30我马上就来\n聊聊可能唱唱然后神秘海域",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f702547a-cf5b-4276-b62e-578f1b646048",
+    "next_uuid": "614b8f09-351b-4d0f-80f7-64a9f4b05548"
+  }
+}

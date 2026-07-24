@@ -1,0 +1,28 @@
+{
+  "uuid": "3004a3ce-e379-4e49-9137-b8bc9d0106d4",
+  "platform_post_id": "752861342917984360",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-19T19:26:31+08:00",
+  "source_url": "https://t.bilibili.com/752861342917984360",
+  "plain_text": "8:30！洗澡太舒服了多洗洗 随随便便进行一个我聊我唱我玩我拉扯我下播！",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3121a860-3c0a-4412-bd8f-9534a6e5b09a",
+    "next_uuid": "61f86e3b-8b10-4f27-8e1f-684d35af7874"
+  }
+}

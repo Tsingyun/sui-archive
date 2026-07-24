@@ -1,0 +1,28 @@
+{
+  "uuid": "e0b902af-0615-4af1-9b88-8373a6b03f9a",
+  "platform_post_id": "1135453760957448211",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-15T19:40:30+08:00",
+  "source_url": "https://t.bilibili.com/1135453760957448211",
+  "plain_text": "呼 好累 我门8:20见好吗好的！",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd651f45-3dd9-4c95-bd70-c931588f9b71",
+    "next_uuid": "c60af526-9e7e-4440-8cb1-f509c3e881ae"
+  }
+}

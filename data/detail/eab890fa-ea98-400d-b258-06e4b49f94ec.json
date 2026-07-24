@@ -1,0 +1,28 @@
+{
+  "uuid": "eab890fa-ea98-400d-b258-06e4b49f94ec",
+  "platform_post_id": "975209308593586178",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-09T23:50:11+08:00",
+  "source_url": "https://t.bilibili.com/975209308593586178",
+  "plain_text": "你是弥海砂吗 我是夜神月 我命令你现在就回复我的晚安",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 105,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ce3522a-5105-4ab2-899c-0c2142d78503",
+    "next_uuid": "e8ec39a9-33c9-42d2-900a-5ff82f444faf"
+  }
+}

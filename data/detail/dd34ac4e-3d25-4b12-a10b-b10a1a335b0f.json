@@ -1,0 +1,28 @@
+{
+  "uuid": "dd34ac4e-3d25-4b12-a10b-b10a1a335b0f",
+  "platform_post_id": "1072764538605011017",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-30T21:14:18+08:00",
+  "source_url": "https://t.bilibili.com/1072764538605011017",
+  "plain_text": "开播了！我要开电台播了！",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a7497ad2-7db7-45e3-b757-27c1436f0cb2",
+    "next_uuid": "132b440f-6ce5-48fc-bcd5-e846dbaf5077"
+  }
+}

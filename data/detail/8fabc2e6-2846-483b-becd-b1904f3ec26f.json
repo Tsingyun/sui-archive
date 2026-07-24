@@ -1,0 +1,28 @@
+{
+  "uuid": "8fabc2e6-2846-483b-becd-b1904f3ec26f",
+  "platform_post_id": "899440063917588488",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-18T19:26:49+08:00",
+  "source_url": "https://t.bilibili.com/899440063917588488",
+  "plain_text": "7:45先这个 再那个",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "feabb348-d5d5-4be4-b6f6-c76c1c1a2dbc",
+    "next_uuid": "bb2e8cf3-21e2-498f-9a96-0973ae0f883a"
+  }
+}

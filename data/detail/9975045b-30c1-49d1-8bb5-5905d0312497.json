@@ -1,0 +1,28 @@
+{
+  "uuid": "9975045b-30c1-49d1-8bb5-5905d0312497",
+  "platform_post_id": "1087204016752951305",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-08T19:06:51+08:00",
+  "source_url": "https://t.bilibili.com/1087204016752951305",
+  "plain_text": "7:35 lets唱歌送快递",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a06c26ee-4a0d-4bbc-aa1a-6f01a3327664",
+    "next_uuid": "e753fe07-de99-4b3f-90fe-2f8c629c81c9"
+  }
+}

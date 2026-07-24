@@ -1,0 +1,28 @@
+{
+  "uuid": "0042507d-b232-4a16-9052-b4e5c6f430db",
+  "platform_post_id": "958891830180577302",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-28T00:30:02+08:00",
+  "source_url": "https://t.bilibili.com/958891830180577302",
+  "plain_text": "晚安晚安。不在的时候别被别人牵走了",
+  "images": [],
+  "stats": {
+    "likes": 393,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa960521-8ac8-4914-858f-aa7092f62e58",
+    "next_uuid": "be657642-264f-458f-81cf-644024711b0e"
+  }
+}

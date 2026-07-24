@@ -1,0 +1,28 @@
+{
+  "uuid": "d73d5ff2-e70f-433a-8406-a90b129e67a6",
+  "platform_post_id": "1102858098837553156",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-19T23:32:41+08:00",
+  "source_url": "https://t.bilibili.com/1102858098837553156",
+  "plain_text": "什么，你说岁己今天没直播你想让岁己参与你的今天，想让岁己了解你、进入你的生活？\n哼，限时开放70个这样的名额，预购从速预购从速！",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dda15ee5-55fd-4bfc-9598-d3f5ec5476a3",
+    "next_uuid": "5412d352-ebdd-4995-805b-11b174af74c1"
+  }
+}

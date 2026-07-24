@@ -1,0 +1,28 @@
+{
+  "uuid": "6daa1a82-8930-4bb8-9240-692dcdea0c70",
+  "platform_post_id": "1007870275691216948",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-07T00:11:25+08:00",
+  "source_url": "https://t.bilibili.com/1007870275691216948",
+  "plain_text": "屎饼干岁晚安",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c3b02687-812c-4de4-8b32-9998b671860b",
+    "next_uuid": "882bfad8-92f4-4c76-ad0c-9e1c8fb29fde"
+  }
+}

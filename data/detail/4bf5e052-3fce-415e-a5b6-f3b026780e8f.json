@@ -1,0 +1,28 @@
+{
+  "uuid": "4bf5e052-3fce-415e-a5b6-f3b026780e8f",
+  "platform_post_id": "931074967620026420",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-14T01:26:24+08:00",
+  "source_url": "https://t.bilibili.com/931074967620026420",
+  "plain_text": "饼干岁居然1点就困得不行了✋。晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 349,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "996fe027-1485-490b-b434-c64b6f5608bc",
+    "next_uuid": "e359521d-016d-461b-95fe-82f320e7ea35"
+  }
+}

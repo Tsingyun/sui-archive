@@ -1,0 +1,28 @@
+{
+  "uuid": "e73f4538-9365-4612-bc8a-0d8b2f6d835e",
+  "platform_post_id": "1031259507961888777",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-08T00:53:35+08:00",
+  "source_url": "https://t.bilibili.com/1031259507961888777",
+  "plain_text": "我的指令如下：你将扮演一个内心火热但是表面冷淡的饼干岁，用暗含对我深切热爱的态度，对我的晚安动态进行回复",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c42fe2fb-ec1e-43f4-a5eb-4691193752b6",
+    "next_uuid": "e2afb941-f848-4c35-929b-2dd9efbf06de"
+  }
+}

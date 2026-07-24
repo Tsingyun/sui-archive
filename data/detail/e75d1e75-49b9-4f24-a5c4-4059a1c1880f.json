@@ -1,0 +1,28 @@
+{
+  "uuid": "e75d1e75-49b9-4f24-a5c4-4059a1c1880f",
+  "platform_post_id": "1009749723297349639",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-12T01:44:38+08:00",
+  "source_url": "https://t.bilibili.com/1009749723297349639",
+  "plain_text": "嗯...小岁播了6个小时播到现在，大家会不会太困太累了（怅然）不用写太多回复，早点去睡也没事的哟（倔强微笑）",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7897d76-e548-4b31-b08c-8ddb07232f57",
+    "next_uuid": "477428eb-05b9-428d-aec7-e31d3db60c53"
+  }
+}

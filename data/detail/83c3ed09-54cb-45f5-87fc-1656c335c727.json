@@ -1,0 +1,28 @@
+{
+  "uuid": "83c3ed09-54cb-45f5-87fc-1656c335c727",
+  "platform_post_id": "888306323236585492",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-19T19:22:13+08:00",
+  "source_url": "https://t.bilibili.com/888306323236585492",
+  "plain_text": "7:50吧！出门拿个快递回来播 聊一下继续神秘海域！",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b05d453a-892b-458c-8523-9ac633bd01d8",
+    "next_uuid": "2cfdee69-3cab-4f40-a8cc-4d63438a53ee"
+  }
+}

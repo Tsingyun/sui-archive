@@ -1,0 +1,28 @@
+{
+  "uuid": "c206ada0-6e75-4df2-9437-43917fe355b0",
+  "platform_post_id": "1212349493935079428",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-11T00:55:13+08:00",
+  "source_url": "https://t.bilibili.com/1212349493935079428",
+  "plain_text": "饼干岁晚安捏！今天还行吗 工作辛苦了 祝你明天过得轻松愉快",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d7349d84-bd2c-49b1-a2fc-4e930c344259",
+    "next_uuid": "2436ad38-0a3b-4cc6-a410-b8dcb7eb1790"
+  }
+}

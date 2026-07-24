@@ -1,0 +1,38 @@
+{
+  "uuid": "098d7449-e031-4339-834f-def3eab079c5",
+  "platform_post_id": "1030432696666423335",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-02-05T19:25:08+08:00",
+  "source_url": "https://t.bilibili.com/1030432696666423335",
+  "plain_text": "请问这上面写的几点，什么事情呀，能帮我看看吗\n",
+  "images": [
+    {
+      "filename": "1030432696666423335_00@original.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 2824206,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 357,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f519ea00-2482-4283-a808-79d135880b5e",
+    "next_uuid": "1156f013-f1e5-45d7-8486-57cb33b44e25"
+  }
+}

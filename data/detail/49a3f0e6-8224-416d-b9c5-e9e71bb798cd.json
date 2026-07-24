@@ -1,0 +1,28 @@
+{
+  "uuid": "49a3f0e6-8224-416d-b9c5-e9e71bb798cd",
+  "platform_post_id": "794784664699011111",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-12T18:50:25+08:00",
+  "source_url": "https://t.bilibili.com/794784664699011111",
+  "plain_text": "咳咳咳咳咳 要少说点话所以\n八点来画画 今天上舰的话给画头像 很无聊的直播  你不看不发弹幕也没事的哦🥹咳咳咳咳咳",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3d3e2bff-fba6-4f4e-9327-19964e688443",
+    "next_uuid": "ef0c5512-7201-4a34-b3d7-0b9b5730298f"
+  }
+}

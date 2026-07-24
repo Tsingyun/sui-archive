@@ -1,0 +1,28 @@
+{
+  "uuid": "fb6b4e7f-3c38-42d2-9392-b4c1d23a8fde",
+  "platform_post_id": "1104047753203286023",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-23T04:29:09+08:00",
+  "source_url": "https://t.bilibili.com/1104047753203286023",
+  "plain_text": "早上好！[岁己收藏集表情包_凝视]懒猪们 起床了！懒猪们 起床了！",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "322383c3-c1e4-43c7-9291-4369f006b3f8",
+    "next_uuid": "a97ffe45-6b96-43bd-ac43-a6a592c9916a"
+  }
+}

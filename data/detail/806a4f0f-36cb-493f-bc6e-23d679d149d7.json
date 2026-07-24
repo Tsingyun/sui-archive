@@ -1,0 +1,38 @@
+{
+  "uuid": "806a4f0f-36cb-493f-bc6e-23d679d149d7",
+  "platform_post_id": "1207511170357919968",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-29T00:00:03+08:00",
+  "source_url": "https://t.bilibili.com/1207511170357919968",
+  "plain_text": "恭喜@井依醒了么中奖，已私信通知，详情请点击抽奖查看。",
+  "images": [
+    {
+      "filename": "1207511170357919968_100@repost.png",
+      "width": 1280,
+      "height": 1896,
+      "file_size": 3076904,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 150,
+    "comments": 8,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "<VirtuaReal 2026 Mixup!! 演唱会>即将开演！\n\n托大家的福这次又能在mixup和大家见面啦，会努力闪闪发光的！\n一定要看着岁己喔\n\n【购票链接】\n线下票：网页链接\n线上票：网页链接\n [抽奖]\n",
+    "source_url": "https://t.bilibili.com/1201890088915566601"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c892fd64-5d05-47ad-a998-b424ed7f62dd",
+    "next_uuid": "66000c71-0287-4ebd-ae69-e3126b7f85e3"
+  }
+}

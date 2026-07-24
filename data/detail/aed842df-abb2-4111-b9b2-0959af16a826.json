@@ -1,0 +1,28 @@
+{
+  "uuid": "aed842df-abb2-4111-b9b2-0959af16a826",
+  "platform_post_id": "863348203867602953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-13T13:11:58+08:00",
+  "source_url": "https://t.bilibili.com/863348203867602953",
+  "plain_text": "早早早！好饿好饿",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a281be2b-4996-4085-a688-c87bbe032749",
+    "next_uuid": "6f0b4f38-0a9e-4e3f-b28e-4479083ce314"
+  }
+}

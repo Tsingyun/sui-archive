@@ -1,0 +1,28 @@
+{
+  "uuid": "7e0939b5-d4fc-448c-9328-a22c8a998ecf",
+  "platform_post_id": "958060844203114519",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-25T18:45:23+08:00",
+  "source_url": "https://t.bilibili.com/958060844203114519",
+  "plain_text": "您喜欢的【岁己SUI】半死不活地上线啦！7:30开始直播",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "da6ed54a-6e63-462e-b9e3-a9e23f82c5a3",
+    "next_uuid": "ed6e40da-ce04-4edd-bd5f-bb3ce0a2c580"
+  }
+}

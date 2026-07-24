@@ -1,0 +1,28 @@
+{
+  "uuid": "0175f957-a3ea-4c54-9c50-ecc99c2ca664",
+  "platform_post_id": "979436282246594568",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-21T09:13:00+08:00",
+  "source_url": "https://t.bilibili.com/979436282246594568",
+  "plain_text": "早上好呀！！也是又早起了",
+  "images": [],
+  "stats": {
+    "likes": 323,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5589e149-a7dd-4b43-8079-f05215a7d4df",
+    "next_uuid": "640271cc-6372-4459-a681-0cfa1ddc8140"
+  }
+}

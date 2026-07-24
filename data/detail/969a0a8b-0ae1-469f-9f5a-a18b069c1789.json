@@ -1,0 +1,28 @@
+{
+  "uuid": "969a0a8b-0ae1-469f-9f5a-a18b069c1789",
+  "platform_post_id": "833000441685999732",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-23T18:27:09+08:00",
+  "source_url": "https://t.bilibili.com/833000441685999732",
+  "plain_text": "小饼听我说🤚！\n因为我要吹头发 大概6:45才能来接你😩\n坚持15分钟好吗？我相信你肯定能做到的✊",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6825ac3c-7b9a-4e0d-8a3c-c8911b7ed73f",
+    "next_uuid": "91d102a7-be23-480d-a19a-6e05e40e9114"
+  }
+}

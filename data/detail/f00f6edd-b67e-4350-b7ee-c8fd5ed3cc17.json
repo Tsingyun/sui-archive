@@ -1,0 +1,28 @@
+{
+  "uuid": "f00f6edd-b67e-4350-b7ee-c8fd5ed3cc17",
+  "platform_post_id": "1167065038076248067",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-09T00:08:24+08:00",
+  "source_url": "https://t.bilibili.com/1167065038076248067",
+  "plain_text": "晚安晚安，好累喔，阿弥陀佛，今日不宜杀生，就留弦一郎一条命让他多活一天吧",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee339cba-4488-422c-9acc-f21623311880",
+    "next_uuid": "c9b82bbf-938d-4282-85bf-85c2fdad52f0"
+  }
+}

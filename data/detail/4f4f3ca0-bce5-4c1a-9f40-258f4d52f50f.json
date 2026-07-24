@@ -1,0 +1,28 @@
+{
+  "uuid": "4f4f3ca0-bce5-4c1a-9f40-258f4d52f50f",
+  "platform_post_id": "748674965245526016",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-08T12:41:14+08:00",
+  "source_url": "https://t.bilibili.com/748674965245526016",
+  "plain_text": "早啊早，早，早。起太晚现在出房间门准备迎接爸爸妈妈的指点了，陌生人给我一点勇气好吗。",
+  "images": [],
+  "stats": {
+    "likes": 509,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eccf11e1-9031-44f3-9623-b8de59c610bf",
+    "next_uuid": "4778fd04-9c86-4914-a5fd-428c9b04cb1d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "72984fa9-7244-4a14-ba3a-8027f8a08796",
+  "platform_post_id": "838571890451677202",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-07T18:47:13+08:00",
+  "source_url": "https://t.bilibili.com/838571890451677202",
+  "plain_text": "好像到休息时间了！呜呜呜怎么就到休息日子了啊，这下只能不播了，哭死了哭死了。今天不播",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ccccb58f-c7e1-47c6-80b7-e49caf6fc95a",
+    "next_uuid": "d143131c-3774-4efc-be7e-b22f5229005e"
+  }
+}

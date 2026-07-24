@@ -1,0 +1,38 @@
+{
+  "uuid": "cc04adfc-ccbb-4212-9ce5-7c9844c06349",
+  "platform_post_id": "959854821950619672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-30T14:46:56+08:00",
+  "source_url": "https://t.bilibili.com/959854821950619672",
+  "plain_text": "我好漂亮🥰",
+  "images": [
+    {
+      "filename": "959854821950619672_100@repost.jpg",
+      "width": 4500,
+      "height": 2143,
+      "file_size": 3112349,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 397,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "501d2226-1505-442b-b301-4f20a97c5464",
+    "next_uuid": "601b67aa-d298-457e-88ea-f16e85cccfe7"
+  }
+}

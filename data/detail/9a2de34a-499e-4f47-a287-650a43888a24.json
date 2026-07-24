@@ -1,0 +1,28 @@
+{
+  "uuid": "9a2de34a-499e-4f47-a287-650a43888a24",
+  "platform_post_id": "789188575716442147",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-27T16:54:44+08:00",
+  "source_url": "https://t.bilibili.com/789188575716442147",
+  "plain_text": "6点直播啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊！",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ba95cc99-0487-4082-9068-d3d206804a26",
+    "next_uuid": "27240e38-15f7-4194-ae6e-c9413330081a"
+  }
+}

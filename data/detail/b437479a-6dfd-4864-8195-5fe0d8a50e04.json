@@ -1,0 +1,28 @@
+{
+  "uuid": "b437479a-6dfd-4864-8195-5fe0d8a50e04",
+  "platform_post_id": "818182752989872133",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-14T20:06:57+08:00",
+  "source_url": "https://t.bilibili.com/818182752989872133",
+  "plain_text": "大家～～～～～～好累啊 回家路上了 还没吃饭 8:40边吃边又来看点什么电影或者成龙好吗[tv_难过]",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "696ff157-c2bd-4811-b779-dfccdb9befb9",
+    "next_uuid": "376e2352-62e0-46ea-baf0-83569fabc4a6"
+  }
+}

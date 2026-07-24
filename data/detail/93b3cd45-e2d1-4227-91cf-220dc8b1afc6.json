@@ -1,0 +1,28 @@
+{
+  "uuid": "93b3cd45-e2d1-4227-91cf-220dc8b1afc6",
+  "platform_post_id": "929933124817649670",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-10T23:35:28+08:00",
+  "source_url": "https://t.bilibili.com/929933124817649670",
+  "plain_text": "困晕了，晚安",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 79,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d9f7d81-df4c-4d4d-a992-a5586d797771",
+    "next_uuid": "0e408ca3-3146-45ac-931f-71637b5df6e4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b24dc2f5-e79c-45a4-95cd-e443a8eac593",
+  "platform_post_id": "837300210774310918",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-04T08:32:27+08:00",
+  "source_url": "https://t.bilibili.com/837300210774310918",
+  "plain_text": "早！\n一路顺风 摸鱼加油",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc71ccbb-84c2-4e1e-9d27-c492155c3b19",
+    "next_uuid": "3c6a4214-6910-4395-bf84-c61a6881200c"
+  }
+}

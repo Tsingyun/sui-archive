@@ -1,0 +1,38 @@
+{
+  "uuid": "fffae393-e055-4c93-83dc-2f3e0ab3a9e5",
+  "platform_post_id": "761714425863340100",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-12T16:01:00+08:00",
+  "source_url": "https://t.bilibili.com/761714425863340100",
+  "plain_text": "今晚九点！好多人呐好多人呐 我先去预习一下",
+  "images": [
+    {
+      "filename": "761714425863340100_100@repost.png",
+      "width": 960,
+      "height": 540,
+      "file_size": 1072633,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 268,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "吉吉Kiti",
+    "author_url": "https://space.bilibili.com/690608688",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eaaba33c-30b3-4aa1-8fb1-14cec49559b8",
+    "next_uuid": "ca255169-731f-495d-a24b-9f423e22470e"
+  }
+}

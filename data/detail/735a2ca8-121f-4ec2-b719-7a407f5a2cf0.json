@@ -1,0 +1,38 @@
+{
+  "uuid": "735a2ca8-121f-4ec2-b719-7a407f5a2cf0",
+  "platform_post_id": "962239044159275008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-06T00:58:56+08:00",
+  "source_url": "https://t.bilibili.com/962239044159275008",
+  "plain_text": "哟！",
+  "images": [
+    {
+      "filename": "962239044159275008_100@repost.jpg",
+      "width": 3000,
+      "height": 5000,
+      "file_size": 8284636,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 412,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "edcf207f-cae7-49bc-a233-c5acd4b84575",
+    "next_uuid": "075361ec-8df7-4537-a25d-c1e92bafb287"
+  }
+}

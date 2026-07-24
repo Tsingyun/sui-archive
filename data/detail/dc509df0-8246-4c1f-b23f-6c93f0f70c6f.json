@@ -1,0 +1,28 @@
+{
+  "uuid": "dc509df0-8246-4c1f-b23f-6c93f0f70c6f",
+  "platform_post_id": "1201209426828066825",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-12T00:26:04+08:00",
+  "source_url": "https://t.bilibili.com/1201209426828066825",
+  "plain_text": "哎听人家说直播结束就会收到晚安，也不知道是不是真的，等了五分钟了还没看到，怎么回事呀急死人了，就指着这几十个晚安度日了",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0ee9361f-c881-4d26-9cd0-769448442f82",
+    "next_uuid": "43c4bb5d-0889-43e3-821a-f7acde212799"
+  }
+}

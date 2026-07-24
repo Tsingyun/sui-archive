@@ -1,0 +1,38 @@
+{
+  "uuid": "e2738dac-f046-420b-b07c-cd80437ab186",
+  "platform_post_id": "846332518403670104",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-28T16:42:25+08:00",
+  "source_url": "https://t.bilibili.com/846332518403670104",
+  "plain_text": "快投投！6:20截止～～～\n6:30先接饼，7点开始逛饼友圈！知道吗你！",
+  "images": [
+    {
+      "filename": "846332518403670104_100@repost.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 206,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "朋友圈分享回！\n把信箱当朋友圈一样说点最近生活的烦恼、心得吧，也可以问岁己问题、以及说一切你想说的东西\n虽然大烦恼解决不了，小烦恼不用解决。但还是！\n分享给我看看吧\nhttps://pome.vip/Gz75k7hF \n\n",
+    "source_url": "https://t.bilibili.com/844104139044552721"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9db60588-0b34-4bb8-a3c9-8390eed9489b",
+    "next_uuid": "cfeb79a5-802e-4c10-a644-de86587e2b4f"
+  }
+}

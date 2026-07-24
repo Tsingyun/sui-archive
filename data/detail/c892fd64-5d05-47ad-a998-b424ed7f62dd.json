@@ -1,0 +1,28 @@
+{
+  "uuid": "c892fd64-5d05-47ad-a998-b424ed7f62dd",
+  "platform_post_id": "1207491194465026089",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-28T22:42:32+08:00",
+  "source_url": "https://t.bilibili.com/1207491194465026089",
+  "plain_text": "10:52来直播一下的说！",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23dc9554-eb92-41a0-8b1e-1e6dda61d3ad",
+    "next_uuid": "806a4f0f-36cb-493f-bc6e-23d679d149d7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a3a64d64-c4d6-4596-9274-01088ae02902",
+  "platform_post_id": "1224596537367068681",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-14T01:00:00+08:00",
+  "source_url": "https://t.bilibili.com/1224596537367068681",
+  "plain_text": "饼干岁晚安！今天画得不错吧 谢谢你今天陪我度过哟",
+  "images": [],
+  "stats": {
+    "likes": 37,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d042d3b7-7f3e-434c-b446-be9b2c69e3b0",
+    "next_uuid": "8908437a-ce71-44c1-b3ad-d64890da8ab5"
+  }
+}

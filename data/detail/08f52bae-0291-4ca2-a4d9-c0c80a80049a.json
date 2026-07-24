@@ -1,0 +1,28 @@
+{
+  "uuid": "08f52bae-0291-4ca2-a4d9-c0c80a80049a",
+  "platform_post_id": "1134416689574707203",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-13T00:36:08+08:00",
+  "source_url": "https://t.bilibili.com/1134416689574707203",
+  "plain_text": "晚安[岁己收藏集表情包_好脆弱]今天是不是大进步了 希望能换你睡得很好",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a16f928f-1e5f-404b-8e4b-67febc955a43",
+    "next_uuid": "89995dcf-0c57-45d2-b2fa-b1b9c976ddef"
+  }
+}

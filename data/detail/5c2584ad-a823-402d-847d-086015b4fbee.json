@@ -1,0 +1,28 @@
+{
+  "uuid": "5c2584ad-a823-402d-847d-086015b4fbee",
+  "platform_post_id": "722441274917912624",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-29T20:01:07+08:00",
+  "source_url": "https://t.bilibili.com/722441274917912624",
+  "plain_text": "先去买点零食再吃个饭，根据我的计算应该8:32的样子",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cf0ad009-1c50-49e3-8c5a-f62e2b507d6b",
+    "next_uuid": "bf284d67-e4b9-4836-8015-bd9321adabfd"
+  }
+}

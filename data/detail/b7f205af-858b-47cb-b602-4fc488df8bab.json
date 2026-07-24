@@ -1,0 +1,28 @@
+{
+  "uuid": "b7f205af-858b-47cb-b602-4fc488df8bab",
+  "platform_post_id": "1167368636442083334",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-09T19:46:31+08:00",
+  "source_url": "https://t.bilibili.com/1167368636442083334",
+  "plain_text": "8点来哦哦哦哦哦哦哦哦哦哦哦",
+  "images": [],
+  "stats": {
+    "likes": 197,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c9b82bbf-938d-4282-85bf-85c2fdad52f0",
+    "next_uuid": "5f573bd3-c3bc-4062-8f90-9a17dda27045"
+  }
+}

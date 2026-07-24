@@ -1,0 +1,28 @@
+{
+  "uuid": "a8b7681c-67a7-441d-882b-ebc2f7252ee1",
+  "platform_post_id": "741348511256150073",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-19T18:50:51+08:00",
+  "source_url": "https://t.bilibili.com/741348511256150073",
+  "plain_text": "八点！先和大家说说话然后继续日落黄昏时！很多事要做应该不会播很长啦",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "09eb0c47-6145-4821-b9a4-d882c2ff061d",
+    "next_uuid": "2b7d1502-90ed-4218-bbea-ad39fe17bbd0"
+  }
+}

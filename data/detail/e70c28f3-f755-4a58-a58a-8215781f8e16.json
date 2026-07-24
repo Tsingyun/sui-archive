@@ -1,0 +1,28 @@
+{
+  "uuid": "e70c28f3-f755-4a58-a58a-8215781f8e16",
+  "platform_post_id": "838082084041916438",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-06T11:06:31+08:00",
+  "source_url": "https://t.bilibili.com/838082084041916438",
+  "plain_text": "早饼！\n收到请回答早呀岁岁\nover",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 94,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d407cd78-45d2-43d5-aa1b-6bbf369bea12",
+    "next_uuid": "d6e21bd8-7030-4a3e-8dff-2b276349d7fe"
+  }
+}

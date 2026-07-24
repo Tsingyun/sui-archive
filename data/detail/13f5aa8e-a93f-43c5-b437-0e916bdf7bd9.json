@@ -1,0 +1,28 @@
+{
+  "uuid": "13f5aa8e-a93f-43c5-b437-0e916bdf7bd9",
+  "platform_post_id": "776231870590353442",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-23T18:56:06+08:00",
+  "source_url": "https://t.bilibili.com/776231870590353442",
+  "plain_text": "今天没有岁己哦",
+  "images": [],
+  "stats": {
+    "likes": 359,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e960200e-8212-4c66-9da7-0298e69003a5",
+    "next_uuid": "5a7b71f0-543f-4220-81bf-557b19be69c2"
+  }
+}

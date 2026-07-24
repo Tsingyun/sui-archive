@@ -1,0 +1,28 @@
+{
+  "uuid": "0a70428d-862b-48a9-adbd-50d82ae57a46",
+  "platform_post_id": "1177014256854368260",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-07T19:36:27+08:00",
+  "source_url": "https://t.bilibili.com/1177014256854368260",
+  "plain_text": "8点来直播喔喔哦今天过得怎样",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99d73bf6-ed6d-4af1-bb69-51961b39b87a",
+    "next_uuid": "04c76c5e-1f04-46e8-928a-dbc113cf4db0"
+  }
+}

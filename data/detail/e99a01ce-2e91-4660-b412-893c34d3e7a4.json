@@ -1,0 +1,38 @@
+{
+  "uuid": "e99a01ce-2e91-4660-b412-893c34d3e7a4",
+  "platform_post_id": "1149905677399883785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-12-24T18:21:19+08:00",
+  "source_url": "https://t.bilibili.com/1149905677399883785",
+  "plain_text": "❤️ 今年圣诞也和大家一起过的说，这次也准备了美美的圣诞特别形象~\n❤️ 还有丰富的舰长礼物！\n披露圣诞插图的同时，这次也会来实现大家的愿望，再唱唱歌\n愿望征集中：https://pome.vip/Gz75k7hF\n",
+  "images": [
+    {
+      "filename": "1149905677399883785_00@original.png",
+      "width": 3544,
+      "height": 3544,
+      "file_size": 3282021,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 270,
+    "comments": 37,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b009d0ce-eb0c-4811-84b5-ae083109c0f2",
+    "next_uuid": "26c9dbde-080b-43db-80b6-07e8b786d007"
+  }
+}

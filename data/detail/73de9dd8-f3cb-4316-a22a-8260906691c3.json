@@ -1,0 +1,28 @@
+{
+  "uuid": "73de9dd8-f3cb-4316-a22a-8260906691c3",
+  "platform_post_id": "751483693468483593",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-16T02:20:32+08:00",
+  "source_url": "https://t.bilibili.com/751483693468483593",
+  "plain_text": "多亏了大家，度过了很幸福的一天， 晚安。",
+  "images": [],
+  "stats": {
+    "likes": 400,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ebbbcb1b-59ba-4bf7-b289-74bbf4ba470f",
+    "next_uuid": "ed5e5245-ce40-4673-b8cf-4813eb91917f"
+  }
+}

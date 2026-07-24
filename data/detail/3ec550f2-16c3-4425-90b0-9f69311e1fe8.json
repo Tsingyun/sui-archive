@@ -1,0 +1,38 @@
+{
+  "uuid": "3ec550f2-16c3-4425-90b0-9f69311e1fe8",
+  "platform_post_id": "938137324101828630",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-06-02T02:11:57+08:00",
+  "source_url": "https://t.bilibili.com/938137324101828630",
+  "plain_text": "✿可爱✿",
+  "images": [
+    {
+      "filename": "938137324101828630_100@repost.jpg",
+      "width": 2894,
+      "height": 4093,
+      "file_size": 2143704,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 342,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "奶茶泡澡の卡宾枪-",
+    "author_url": "https://space.bilibili.com/3145632",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac73866e-14e3-4382-b92a-56c1c28767a9",
+    "next_uuid": "51e383b4-c5dd-411b-9290-ab372ff0744a"
+  }
+}

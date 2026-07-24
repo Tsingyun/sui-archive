@@ -1,0 +1,47 @@
+{
+  "uuid": "a5238157-c5da-4a06-a8c2-e4ac80883fad",
+  "platform_post_id": "735739902422941767",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-12-04T16:06:35+08:00",
+  "source_url": "https://t.bilibili.com/735739902422941767",
+  "plain_text": "以下是11月舰长礼物-壁纸上写id，还没有写到的舰长名单，麻烦没写到的大家私信给一下想写的位置及颜色，希望可以在明晚12点前给到！p2是壁纸，以供参考，打了些码。\n",
+  "images": [
+    {
+      "filename": "735739902422941767_00@original.jpg",
+      "width": 346,
+      "height": 970,
+      "file_size": 110682,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "735739902422941767_01@original.jpg",
+      "width": 4096,
+      "height": 2303,
+      "file_size": 1156071,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 306,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a4957b93-720d-45bc-8aa9-95d804f90622",
+    "next_uuid": "271f1b57-86dc-4b5a-a198-6ed2af7b83cd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "93319783-2fc5-4550-884e-7b586570c57a",
+  "platform_post_id": "759493871935684711",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-06T16:24:07+08:00",
+  "source_url": "https://t.bilibili.com/759493871935684711",
+  "plain_text": "[tv_亲亲][tv_亲亲]",
+  "images": [],
+  "stats": {
+    "likes": 431,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "78429362-cf34-41c6-bf8d-ac9efb83ea81",
+    "next_uuid": "d72d8f33-d9f2-4ab4-b95a-f3ff93f7e875"
+  }
+}

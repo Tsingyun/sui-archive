@@ -1,0 +1,28 @@
+{
+  "uuid": "06ba2bfc-24c7-440a-ae91-ac3569dc3fed",
+  "platform_post_id": "725021197353353225",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-05T18:52:32+08:00",
+  "source_url": "https://t.bilibili.com/725021197353353225",
+  "plain_text": "8:50 小健身巩固一下 然后可能qq飞车 有人玩吗[tv_点赞] 电信二区！",
+  "images": [],
+  "stats": {
+    "likes": 371,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e08bcc2-2bf2-4ad5-85cd-95e36bcbf979",
+    "next_uuid": "79c947d7-ff64-4ae4-8144-9ea6cb070ba4"
+  }
+}

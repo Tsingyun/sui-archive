@@ -1,0 +1,28 @@
+{
+  "uuid": "b390d45a-bf47-447d-820e-c7331bda376b",
+  "platform_post_id": "755907050230251528",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-28T00:25:25+08:00",
+  "source_url": "https://t.bilibili.com/755907050230251528",
+  "plain_text": "你是我的猪山泊~~~Zzz",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d2f4d83-fe33-4ea5-8371-fd17d3a0bc4e",
+    "next_uuid": "ee428029-7078-4294-97a2-edffceca4185"
+  }
+}

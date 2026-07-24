@@ -1,0 +1,38 @@
+{
+  "uuid": "d908f15b-ea5c-435d-b60f-382ea6c82a0b",
+  "platform_post_id": "770318250342875157",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-03-07T20:28:14+08:00",
+  "source_url": "https://t.bilibili.com/770318250342875157",
+  "plain_text": "短发小男生岁，哼哼，一拳一个饼干岁[UP_1954091502_吃我一拳]",
+  "images": [
+    {
+      "filename": "770318250342875157_100@repost.png",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 10447339,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 260,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "60f6c957-10f6-4264-9c91-f39f69e7b5ed",
+    "next_uuid": "6843476c-4b07-4b6b-bfc0-ce84e7ec232c"
+  }
+}

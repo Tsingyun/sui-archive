@@ -1,0 +1,28 @@
+{
+  "uuid": "9df4668d-6229-40e8-9c21-894589c0b614",
+  "platform_post_id": "838913975998480409",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-08T16:54:41+08:00",
+  "source_url": "https://t.bilibili.com/838913975998480409",
+  "plain_text": "7点和我的天使staff一起看新人首播～～",
+  "images": [],
+  "stats": {
+    "likes": 423,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "503494e1-d540-446a-96b6-2f5c1b686538",
+    "next_uuid": "c6ebad3b-a9e0-4931-8a30-797c441e5d34"
+  }
+}

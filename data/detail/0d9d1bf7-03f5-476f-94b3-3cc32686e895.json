@@ -1,0 +1,28 @@
+{
+  "uuid": "0d9d1bf7-03f5-476f-94b3-3cc32686e895",
+  "platform_post_id": "905447069585506344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-05T23:57:04+08:00",
+  "source_url": "https://t.bilibili.com/905447069585506344",
+  "plain_text": "又是高质量的一天啊小岁我都不知道怎么夸你好了你真是太棒太厉害了饼干岁都狠狠满足满意了晚安",
+  "images": [],
+  "stats": {
+    "likes": 417,
+    "comments": 81,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd4fce2f-2cc4-4b48-bb82-b46c524309b7",
+    "next_uuid": "29e6aecb-e31c-49a1-ad29-e65806f8224c"
+  }
+}

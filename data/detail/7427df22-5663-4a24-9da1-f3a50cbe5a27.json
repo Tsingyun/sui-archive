@@ -1,0 +1,28 @@
+{
+  "uuid": "7427df22-5663-4a24-9da1-f3a50cbe5a27",
+  "platform_post_id": "1134030348704808984",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-11T23:36:56+08:00",
+  "source_url": "https://t.bilibili.com/1134030348704808984",
+  "plain_text": "这是一个普通的一天，这是一个普通的晚安，你要吗(｡･ω･｡)",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a60b0b4d-d85d-4085-93f3-6aa4017fc0fd",
+    "next_uuid": "a16f928f-1e5f-404b-8e4b-67febc955a43"
+  }
+}

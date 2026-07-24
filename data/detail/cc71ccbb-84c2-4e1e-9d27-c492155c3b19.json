@@ -1,0 +1,28 @@
+{
+  "uuid": "cc71ccbb-84c2-4e1e-9d27-c492155c3b19",
+  "platform_post_id": "837137092214521864",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-03T21:59:28+08:00",
+  "source_url": "https://t.bilibili.com/837137092214521864",
+  "plain_text": "明天就首播了好紧张！会努力的，希望明天能见到大家。晚安！",
+  "images": [],
+  "stats": {
+    "likes": 530,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18ca17a6-2937-4a54-8c55-77d6806f8b2b",
+    "next_uuid": "b24dc2f5-e79c-45a4-95cd-e443a8eac593"
+  }
+}

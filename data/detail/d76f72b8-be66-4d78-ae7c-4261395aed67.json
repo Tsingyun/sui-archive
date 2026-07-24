@@ -1,0 +1,28 @@
+{
+  "uuid": "d76f72b8-be66-4d78-ae7c-4261395aed67",
+  "platform_post_id": "791903587793895528",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-05T00:30:22+08:00",
+  "source_url": "https://t.bilibili.com/791903587793895528",
+  "plain_text": "_(:з」∠)_累累了 睡觉觉了 晚安安了",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "673013d3-393f-4e05-a14d-b4ac5b7159fd",
+    "next_uuid": "50a8ba93-d6be-4450-8655-836f682d0723"
+  }
+}

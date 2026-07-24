@@ -1,0 +1,28 @@
+{
+  "uuid": "1caea91e-8219-4637-b6e5-1da91f13dafb",
+  "platform_post_id": "1043506766083522563",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-13T00:59:12+08:00",
+  "source_url": "https://t.bilibili.com/1043506766083522563",
+  "plain_text": "肘，睡觉去。night night",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d6d7f96-173f-453b-9cad-e0eff96ded8b",
+    "next_uuid": "73adacb5-25ba-4d7e-9dc3-b631511acdb9"
+  }
+}

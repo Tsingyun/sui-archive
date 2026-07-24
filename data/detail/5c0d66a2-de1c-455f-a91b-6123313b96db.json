@@ -1,0 +1,28 @@
+{
+  "uuid": "5c0d66a2-de1c-455f-a91b-6123313b96db",
+  "platform_post_id": "769181020312305667",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-03-04T18:55:12+08:00",
+  "source_url": "https://t.bilibili.com/769181020312305667",
+  "plain_text": "什么精准端水啊！！我想半天想不出才问你们，票数一样我怎么办！",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "半周年舰长礼物投票\n评论点赞。速来！",
+    "source_url": "https://t.bilibili.com/769175531378704449"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "346fb756-1f3e-4d87-b9ce-704f669e42e4",
+    "next_uuid": "4842f70e-808e-4fc0-ac81-af64d264975e"
+  }
+}

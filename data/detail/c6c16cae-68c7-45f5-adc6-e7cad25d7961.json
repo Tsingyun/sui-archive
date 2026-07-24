@@ -1,0 +1,28 @@
+{
+  "uuid": "c6c16cae-68c7-45f5-adc6-e7cad25d7961",
+  "platform_post_id": "1191197471496208400",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-15T00:54:34+08:00",
+  "source_url": "https://t.bilibili.com/1191197471496208400",
+  "plain_text": "晚安大家 去！给我揉肩 去！给我弄点吃的",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6def91e3-ef20-463b-aa7b-77dbb8cdc8a7",
+    "next_uuid": "070d9eda-336b-4d79-9d7e-b1064f818a06"
+  }
+}

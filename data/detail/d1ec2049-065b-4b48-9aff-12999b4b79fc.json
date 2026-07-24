@@ -1,0 +1,28 @@
+{
+  "uuid": "d1ec2049-065b-4b48-9aff-12999b4b79fc",
+  "platform_post_id": "787443448896552984",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-23T00:02:45+08:00",
+  "source_url": "https://t.bilibili.com/787443448896552984",
+  "plain_text": "催眠）说晚安晚安（催眠",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f74c344b-651b-4e30-aab7-1cfe6ac12591",
+    "next_uuid": "e3f2db09-71cc-4419-badc-22a302329a2a"
+  }
+}

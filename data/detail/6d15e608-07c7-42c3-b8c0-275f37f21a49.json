@@ -1,0 +1,28 @@
+{
+  "uuid": "6d15e608-07c7-42c3-b8c0-275f37f21a49",
+  "platform_post_id": "788093479301414930",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-24T18:05:12+08:00",
+  "source_url": "https://t.bilibili.com/788093479301414930",
+  "plain_text": "你好，今天不播，咱们明天见！",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b69a6316-72d4-4ffc-8b7f-1dfd6733cf66",
+    "next_uuid": "890b4fc0-4cad-4cbb-b056-a7d90c1a6cac"
+  }
+}

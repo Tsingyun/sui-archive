@@ -1,0 +1,28 @@
+{
+  "uuid": "d77242b3-1769-4f1a-8abe-03191a3ecbf5",
+  "platform_post_id": "697458446433255449",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-08-23T12:14:59+08:00",
+  "source_url": "https://t.bilibili.com/697458446433255449",
+  "plain_text": "大家好呀！我是岁己！",
+  "images": [],
+  "stats": {
+    "likes": 1299,
+    "comments": 389,
+    "forwards": 22,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": null,
+    "next_uuid": "0f68e3c3-1738-4f2f-8483-db1408438b03"
+  }
+}

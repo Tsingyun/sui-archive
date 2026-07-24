@@ -1,0 +1,28 @@
+{
+  "uuid": "0b6c9d1b-30a8-4452-97d1-0b721508224b",
+  "platform_post_id": "759894777044926521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T18:19:50+08:00",
+  "source_url": "https://t.bilibili.com/759894777044926521",
+  "plain_text": "还是头晕恶心反胃今天就不播了，学点歌明天再来唱喔，拜拜小饼[UP_1954091502_别走好吗][UP_1954091502_别走好吗]",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f39b5dc7-5bde-421d-adab-fa7e896c7bab",
+    "next_uuid": "8916eb34-72b9-4c54-9dc1-464ae842b82c"
+  }
+}

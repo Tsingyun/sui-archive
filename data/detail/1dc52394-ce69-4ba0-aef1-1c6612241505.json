@@ -1,0 +1,28 @@
+{
+  "uuid": "1dc52394-ce69-4ba0-aef1-1c6612241505",
+  "platform_post_id": "700960313770508311",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-01T22:44:01+08:00",
+  "source_url": "https://t.bilibili.com/700960313770508311",
+  "plain_text": "好漂亮的黄昏啊！好漂亮的__  __ 啊 请填空",
+  "images": [],
+  "stats": {
+    "likes": 929,
+    "comments": 81,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "facdd1a2-091e-48f0-bced-673c76f208e4",
+    "next_uuid": "06a1fea5-ef4d-4447-a66e-4aab07d276e4"
+  }
+}

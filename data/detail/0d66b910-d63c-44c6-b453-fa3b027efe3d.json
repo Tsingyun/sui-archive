@@ -1,0 +1,28 @@
+{
+  "uuid": "0d66b910-d63c-44c6-b453-fa3b027efe3d",
+  "platform_post_id": "772052386348793876",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-12T12:37:34+08:00",
+  "source_url": "https://t.bilibili.com/772052386348793876",
+  "plain_text": "早。侧睡睡得下颌角太阳穴眼框骨好痛..倒霉倒霉！",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fc36cce4-b8eb-4d3e-9231-a9b50011b90e",
+    "next_uuid": "1abb27d9-d0dc-429e-9156-3e808532b577"
+  }
+}

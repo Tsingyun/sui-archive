@@ -1,0 +1,28 @@
+{
+  "uuid": "3f09f319-3d0e-49c1-bb41-ff9e1171e981",
+  "platform_post_id": "789974653560946710",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-29T19:45:07+08:00",
+  "source_url": "https://t.bilibili.com/789974653560946710",
+  "plain_text": "7:50来随便唱几首 应该不会播很久",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b0774d3-8c96-4637-8c62-1c1676a61e70",
+    "next_uuid": "9617a56e-56d7-4503-b246-690ed34afb3a"
+  }
+}

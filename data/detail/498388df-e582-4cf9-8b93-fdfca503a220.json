@@ -1,0 +1,47 @@
+{
+  "uuid": "498388df-e582-4cf9-8b93-fdfca503a220",
+  "platform_post_id": "834450444380012551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-27T16:13:54+08:00",
+  "source_url": "https://t.bilibili.com/834450444380012551",
+  "plain_text": "可爱捏",
+  "images": [
+    {
+      "filename": "834450444380012551_100@repost.jpg",
+      "width": 3775,
+      "height": 6902,
+      "file_size": 16681830,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "834450444380012551_101@repost.jpg",
+      "width": 2640,
+      "height": 5120,
+      "file_size": 3810955,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 284,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "小木曾雪菜l",
+    "author_url": "https://space.bilibili.com/13225909",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9a57b097-39b5-4cf5-a335-3c267db901e0",
+    "next_uuid": "6294b37d-f49e-41cf-b192-dbb82b9a3690"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ad901a04-f1cd-4d18-875e-1013eac34704",
+  "platform_post_id": "1188210085520736273",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-06T23:41:59+08:00",
+  "source_url": "https://t.bilibili.com/1188210085520736273",
+  "plain_text": "谁想跟我说晚安呀[岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2f6279df-367f-4061-a4c9-96e36f7d244b",
+    "next_uuid": "6d41d6b4-1223-4093-ad33-b73428856cb9"
+  }
+}

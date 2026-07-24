@@ -1,0 +1,28 @@
+{
+  "uuid": "7652f0d7-8886-4935-8f64-0a49828534f5",
+  "platform_post_id": "1223327353036341256",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-10T14:54:55+08:00",
+  "source_url": "https://t.bilibili.com/1223327353036341256",
+  "plain_text": "谢谢大家来捏 也谢谢线上看的大家 bw玩得开心～结束后吃了火烧云[UPOWER_1954091502_小肥鸟]满足",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aeadaeae-4cac-4291-aed4-1cd89e548dc7",
+    "next_uuid": "c6fad438-2b35-4b7e-8865-5c39d552f67b"
+  }
+}

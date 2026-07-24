@@ -1,0 +1,28 @@
+{
+  "uuid": "cb325ab7-d0eb-48aa-a4df-f735da1c96c8",
+  "platform_post_id": "813345442980954112",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-01T19:15:43+08:00",
+  "source_url": "https://t.bilibili.com/813345442980954112",
+  "plain_text": "大概7:40左右来 可能今天话会比较少 装高冷 保持情绪不波动~",
+  "images": [],
+  "stats": {
+    "likes": 441,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "166a87df-6689-4b9c-9dfb-b5e5b74d2fdb",
+    "next_uuid": "490b56ac-ff4e-4489-a15f-e45d265d3065"
+  }
+}

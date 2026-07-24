@@ -1,0 +1,38 @@
+{
+  "uuid": "8bd5913d-eed8-45dc-8216-d825f6a60f6e",
+  "platform_post_id": "1092752607708971012",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-07-23T17:58:13+08:00",
+  "source_url": "https://t.bilibili.com/1092752607708971012",
+  "plain_text": "今天是十点的煮面哦 \n本月舰长礼物是新衣色纸～还需保密所以小小透露个眼睛",
+  "images": [
+    {
+      "filename": "1092752607708971012_00@original.jpg",
+      "width": 148,
+      "height": 110,
+      "file_size": 6585,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 268,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "040aa107-dc41-4162-bc50-f68e649d4abb",
+    "next_uuid": "d1a69903-a18b-4bd2-b0fc-cb863953ac79"
+  }
+}

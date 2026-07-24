@@ -1,0 +1,28 @@
+{
+  "uuid": "76e6eff8-39ef-468f-9948-1283eb883499",
+  "platform_post_id": "833460531477086211",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-25T00:12:32+08:00",
+  "source_url": "https://t.bilibili.com/833460531477086211",
+  "plain_text": "可爱晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e16765b-72c3-4791-916d-368079f1e36f",
+    "next_uuid": "c9b3878e-4dbf-4687-8a0b-0119e04b85bb"
+  }
+}

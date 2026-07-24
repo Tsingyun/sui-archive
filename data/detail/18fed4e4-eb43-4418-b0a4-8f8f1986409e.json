@@ -1,0 +1,28 @@
+{
+  "uuid": "18fed4e4-eb43-4418-b0a4-8f8f1986409e",
+  "platform_post_id": "820112675073687569",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-20T00:56:02+08:00",
+  "source_url": "https://t.bilibili.com/820112675073687569",
+  "plain_text": "饼干岁点的晚安一份——晚安",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5fb653bf-0f8d-40b8-b391-0abdfbc2c787",
+    "next_uuid": "9098cf8e-8312-4b6c-b398-0e9e80448cf2"
+  }
+}

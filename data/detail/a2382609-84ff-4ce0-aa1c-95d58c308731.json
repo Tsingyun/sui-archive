@@ -1,0 +1,28 @@
+{
+  "uuid": "a2382609-84ff-4ce0-aa1c-95d58c308731",
+  "platform_post_id": "769023665632182278",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-04T08:44:35+08:00",
+  "source_url": "https://t.bilibili.com/769023665632182278",
+  "plain_text": "？！被我爸唱歌和猫踩奶吵醒了，还蛮清醒的，怎么回事！尝试一下继续睡觉！早！Zzz",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d6fa988c-1401-465e-a0de-2dbe7ef0f3c7",
+    "next_uuid": "3c962472-0079-49fc-808a-1121e058ffaf"
+  }
+}

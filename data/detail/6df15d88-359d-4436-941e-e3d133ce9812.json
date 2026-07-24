@@ -1,0 +1,47 @@
+{
+  "uuid": "6df15d88-359d-4436-941e-e3d133ce9812",
+  "platform_post_id": "1117561738989928466",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-28T14:30:19+08:00",
+  "source_url": "https://t.bilibili.com/1117561738989928466",
+  "plain_text": "轻松登顶 这就是实力 汗都没流一滴",
+  "images": [
+    {
+      "filename": "1117561738989928466_100@repost.png",
+      "width": 2920,
+      "height": 4019,
+      "file_size": 20269026,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1117561738989928466_101@repost.png",
+      "width": 2920,
+      "height": 4019,
+      "file_size": 12577991,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 228,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed54c63e-5f83-4fa3-b6ff-f869dd71ba86",
+    "next_uuid": "3f00b8e2-d18c-4cd9-a458-427cb9e106f4"
+  }
+}

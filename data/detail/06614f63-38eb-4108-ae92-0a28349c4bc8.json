@@ -1,0 +1,28 @@
+{
+  "uuid": "06614f63-38eb-4108-ae92-0a28349c4bc8",
+  "platform_post_id": "835227700316602436",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-29T18:30:03+08:00",
+  "source_url": "https://t.bilibili.com/835227700316602436",
+  "plain_text": "6:40来唱唱 还有一些工作要完成 今天小小播 没有低质量直播啦",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6eff907b-f1ee-4401-9238-abd5b08da967",
+    "next_uuid": "854c8927-fef0-4905-885e-b93d13b5c7fc"
+  }
+}

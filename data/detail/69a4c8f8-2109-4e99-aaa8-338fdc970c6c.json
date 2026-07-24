@@ -1,0 +1,28 @@
+{
+  "uuid": "69a4c8f8-2109-4e99-aaa8-338fdc970c6c",
+  "platform_post_id": "922818807844569156",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-21T19:28:17+08:00",
+  "source_url": "https://t.bilibili.com/922818807844569156",
+  "plain_text": "小饼啊快去村口等着吧岁己7:45就要回村了",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06c9061e-d766-4232-95f3-01b5ce762fe1",
+    "next_uuid": "ce6232a8-d5e1-4157-8049-657aa8df7c35"
+  }
+}

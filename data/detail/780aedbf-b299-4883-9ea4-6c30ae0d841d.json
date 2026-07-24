@@ -1,0 +1,28 @@
+{
+  "uuid": "780aedbf-b299-4883-9ea4-6c30ae0d841d",
+  "platform_post_id": "1056037668179148839",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-15T19:25:30+08:00",
+  "source_url": "https://t.bilibili.com/1056037668179148839",
+  "plain_text": "今天要彩排vr周年联动诶[岁己收藏集表情包_哇]，预计一个小时，我们暂定9点见好吗好的",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1ba05800-5f57-4b60-9a18-012c4310e41e",
+    "next_uuid": "d2a5a629-7b61-4fbd-833f-8daa073eb5c0"
+  }
+}

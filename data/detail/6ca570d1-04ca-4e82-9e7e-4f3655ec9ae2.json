@@ -1,0 +1,28 @@
+{
+  "uuid": "6ca570d1-04ca-4e82-9e7e-4f3655ec9ae2",
+  "platform_post_id": "1192671517132980242",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-19T00:14:37+08:00",
+  "source_url": "https://t.bilibili.com/1192671517132980242",
+  "plain_text": "今天的你过得怎么样呢，饼干岁晚安。",
+  "images": [],
+  "stats": {
+    "likes": 214,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bfe56bcc-900a-4052-9777-9b84a6a506c8",
+    "next_uuid": "bb4ba0c0-db62-4989-aec3-0726e2a3421f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "68b6e27b-591a-47c8-b294-40893507b5b2",
+  "platform_post_id": "745050880431095824",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-29T18:17:56+08:00",
+  "source_url": "https://t.bilibili.com/745050880431095824",
+  "plain_text": "大家好，由于在直播过程中进行了一些不符合直播规定的操作，暂停直播七天。我们2023年1月5日凌晨00:10:48见。",
+  "images": [],
+  "stats": {
+    "likes": 808,
+    "comments": 139,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bba5581b-94f2-4c5b-9efd-a6dc419cfca5",
+    "next_uuid": "f95c3726-c309-4c03-970c-3f819f389bcd"
+  }
+}

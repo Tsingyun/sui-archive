@@ -1,0 +1,28 @@
+{
+  "uuid": "7b8f7d9b-f4a1-4e44-baac-c83ea1c2191c",
+  "platform_post_id": "1095068801978859522",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-29T23:46:14+08:00",
+  "source_url": "https://t.bilibili.com/1095068801978859522",
+  "plain_text": "当铺老板你好你好，麻烦您看看我手里这个珍稀的岁己牌晚安能换几个饼干岁牌晚安",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "79e5f138-2cae-4fbe-ab50-5f91fc993e82",
+    "next_uuid": "698ed354-f80c-4e78-9f0f-248a3bd872e3"
+  }
+}

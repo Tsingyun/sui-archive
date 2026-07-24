@@ -1,0 +1,28 @@
+{
+  "uuid": "6e1303e7-0de0-44a2-88db-3ad54099f6dc",
+  "platform_post_id": "750626465274396713",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-13T18:54:03+08:00",
+  "source_url": "https://t.bilibili.com/750626465274396713",
+  "plain_text": "需要岁己今晚直播的请扣111非常需要",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 87,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "34a81e65-6dec-4d68-84e8-7521074efcc7",
+    "next_uuid": "4a52d983-2dbd-4014-910c-3e35df9b978a"
+  }
+}

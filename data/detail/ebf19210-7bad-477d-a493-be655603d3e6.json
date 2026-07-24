@@ -1,0 +1,28 @@
+{
+  "uuid": "ebf19210-7bad-477d-a493-be655603d3e6",
+  "platform_post_id": "966918265015107591",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-18T15:36:42+08:00",
+  "source_url": "https://t.bilibili.com/966918265015107591",
+  "plain_text": "4:20来点歌杂！",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f48dafd2-2b12-43d5-8ec3-a7ce51076885",
+    "next_uuid": "7a4f0b29-d033-43c1-a6c4-789eb32272ec"
+  }
+}

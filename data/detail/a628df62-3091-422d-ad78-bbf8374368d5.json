@@ -1,0 +1,38 @@
+{
+  "uuid": "a628df62-3091-422d-ad78-bbf8374368d5",
+  "platform_post_id": "1024474902729588741",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-01-20T18:05:51+08:00",
+  "source_url": "https://t.bilibili.com/1024474902729588741",
+  "plain_text": "感觉今天可能8:30来了！\n图是本月舰长礼物，nfc芯片旋转唱片亚克力，用手机靠近可以弹出岁己的语音通话或者岁己的直播间，还没决定好弹出哪个！\n",
+  "images": [
+    {
+      "filename": "1024474902729588741_00@original.png",
+      "width": 540,
+      "height": 516,
+      "file_size": 425020,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 248,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3195c5c-7243-4755-8e0e-15be99b57cd8",
+    "next_uuid": "e0d21d4b-fee1-4213-8de0-43478adb77b0"
+  }
+}

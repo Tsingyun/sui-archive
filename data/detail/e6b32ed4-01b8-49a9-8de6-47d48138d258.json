@@ -1,0 +1,28 @@
+{
+  "uuid": "e6b32ed4-01b8-49a9-8de6-47d48138d258",
+  "platform_post_id": "817357462127509537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-12T14:44:24+08:00",
+  "source_url": "https://t.bilibili.com/817357462127509537",
+  "plain_text": "你好！下午了 你在干嘛呢 岁己来骚扰你一下\n骚扰骚扰～ 骚扰 ——————",
+  "images": [],
+  "stats": {
+    "likes": 467,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f3820af3-d008-44c1-8637-37f063e451fa",
+    "next_uuid": "cf76db0f-3f97-4d98-bbf1-c5d1b122d524"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "uuid": "a67664a6-df80-4399-bb88-587ddaf6f2f7",
+  "platform_post_id": "1019279877781585960",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-01-06T18:06:30+08:00",
+  "source_url": "https://t.bilibili.com/1019279877781585960",
+  "plain_text": "✨ 12月上舰转盘征集！✨ \n图1为大家抽到的礼物参考，图2为可选往期礼物库存参考！\n征集文档：https://docs.qq.com/form/page/DRnBwbU9NeEFadmhB \n截止时间：1月15日\n感谢大家的支持捏\n\n",
+  "images": [
+    {
+      "filename": "1019279877781585960_00@original.png",
+      "width": 445,
+      "height": 5521,
+      "file_size": 645255,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1019279877781585960_01@original.png",
+      "width": 944,
+      "height": 7487,
+      "file_size": 2073742,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 183,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f683dc1a-bc6c-4460-afd2-aa2d2df0f10a",
+    "next_uuid": "a7452f2e-af70-43f9-8b32-fdf88eed186d"
+  }
+}

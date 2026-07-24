@@ -1,0 +1,28 @@
+{
+  "uuid": "6d3c2651-91e7-4e7e-86fa-12bd34007422",
+  "platform_post_id": "853320279870406688",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-17T12:38:30+08:00",
+  "source_url": "https://t.bilibili.com/853320279870406688",
+  "plain_text": "中午好！为什么不早点发早上好？\n当然不是因为因为起晚了。而是因为早上根本不好！早上是人最崩溃的时间段。而中午，美美吃午饭，吃完睡大觉，醒来摸摸鱼坐等下班。\n综上所述，我选择了在中午发问候动态而不是早上。",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7c4c8c07-c3c8-4efb-9dbd-0c2dd6abd351",
+    "next_uuid": "6547a72d-70f7-4f91-a5d4-92e556c9ece9"
+  }
+}

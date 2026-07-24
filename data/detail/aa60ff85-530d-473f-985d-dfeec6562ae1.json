@@ -1,0 +1,28 @@
+{
+  "uuid": "aa60ff85-530d-473f-985d-dfeec6562ae1",
+  "platform_post_id": "1042750512568467457",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-11T00:04:33+08:00",
+  "source_url": "https://t.bilibili.com/1042750512568467457",
+  "plain_text": "每个近期表现好的乖乖饼干岁可以在此领取一个晚安和一份点赞\n一人一个 不要着急不要拥挤[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c8bc1b9f-2f0a-4bc1-9f77-ec0c4b3df07a",
+    "next_uuid": "37aff9f4-2433-4c1f-b153-628cf1d91f57"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d4f2b67d-779a-4ac7-b822-672ef877c256",
+  "platform_post_id": "935915249762041862",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-27T02:29:10+08:00",
+  "source_url": "https://t.bilibili.com/935915249762041862",
+  "plain_text": "晚安大家！！今天很开心的说，希望你们也开心！我洗澡去了喔",
+  "images": [],
+  "stats": {
+    "likes": 466,
+    "comments": 84,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb730c21-3cc3-4eef-bb38-9abcac6c6594",
+    "next_uuid": "26853a94-f1f2-452c-8de1-7b77b984e14a"
+  }
+}

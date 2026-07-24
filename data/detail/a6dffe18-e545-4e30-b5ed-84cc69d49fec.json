@@ -1,0 +1,28 @@
+{
+  "uuid": "a6dffe18-e545-4e30-b5ed-84cc69d49fec",
+  "platform_post_id": "971516706137571329",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-31T01:01:00+08:00",
+  "source_url": "https://t.bilibili.com/971516706137571329",
+  "plain_text": "今天看岁己你开心吗，具体是100分满分的话大概几分，8月的开心平均分又是几分。晚安",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32abfc45-c8ff-48f0-a8a7-023974455e3a",
+    "next_uuid": "1f2efb9c-fb1d-421d-b0db-41a786d778c6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "717672e9-5d13-4170-bdbe-40026c7097dc",
+  "platform_post_id": "821495667428950083",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-23T18:22:45+08:00",
+  "source_url": "https://t.bilibili.com/821495667428950083",
+  "plain_text": "今天要去学舞+录歌 休了哦哦哦哦哦",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c1d19db6-a5ad-41cf-b47d-590f8e57f7ba",
+    "next_uuid": "bf17dcc7-2b56-4640-b789-47c8f387ff29"
+  }
+}

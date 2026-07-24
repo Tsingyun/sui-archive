@@ -1,0 +1,28 @@
+{
+  "uuid": "991754e5-e811-4166-a6e7-7a490d922392",
+  "platform_post_id": "1147291932070772745",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-12-17T17:18:39+08:00",
+  "source_url": "https://t.bilibili.com/1147291932070772745",
+  "plain_text": "justice岁己！让我来审判你的一切[UPOWER_1954091502_ctrl你]",
+  "images": [],
+  "stats": {
+    "likes": 171,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VirtuaReal",
+    "author_url": "https://space.bilibili.com/413748120",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "25ec694b-1f99-4a74-b5ac-81049a75dfb5",
+    "next_uuid": "a927eca0-6213-4287-a07e-6f1b95620009"
+  }
+}

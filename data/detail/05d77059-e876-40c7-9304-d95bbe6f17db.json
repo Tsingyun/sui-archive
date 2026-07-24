@@ -1,0 +1,38 @@
+{
+  "uuid": "05d77059-e876-40c7-9304-d95bbe6f17db",
+  "platform_post_id": "1114808007821099017",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-21T04:24:26+08:00",
+  "source_url": "https://t.bilibili.com/1114808007821099017",
+  "plain_text": "早上好！在我的观测下今天的日出也成功了，今天的太阳将继续地球提供光源，地球也将继续正常运转",
+  "images": [
+    {
+      "filename": "1114808007821099017_00@original.jpg",
+      "width": 3024,
+      "height": 4032,
+      "file_size": 636133,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 416,
+    "comments": 66,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d91ee5b0-c89b-4a78-a31e-c50a0d142c57",
+    "next_uuid": "3fb93efd-358b-4cb3-a455-7332b872f73d"
+  }
+}

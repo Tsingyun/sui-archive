@@ -1,0 +1,28 @@
+{
+  "uuid": "85fab027-0e60-48f4-9b64-1111f3eb1b5e",
+  "platform_post_id": "1090546304490143747",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-17T19:16:38+08:00",
+  "source_url": "https://t.bilibili.com/1090546304490143747",
+  "plain_text": "本人将于7:40来直播[UP_1954091502_牛]",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b38cdfd-65b6-433d-b260-5a83bc90aa7b",
+    "next_uuid": "7ba8b7aa-20ac-482f-bcbf-af595084b1ee"
+  }
+}
