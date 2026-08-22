@@ -1,0 +1,28 @@
+{
+  "uuid": "dc7bcb4f-06a9-41cf-b788-28779848fead",
+  "platform_post_id": "1011871707742339077",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-17T18:59:01+08:00",
+  "source_url": "https://t.bilibili.com/1011871707742339077",
+  "plain_text": "哇塞哇塞 今晚7:30我将携带我的100抽凯旋归来，然后唱唱聊聊，然后一起看我特别想看的一个电影🤪🐰🦊🌆，怎么样！",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee788838-0275-4de2-b0f9-61cd6eaf7ec4",
+    "next_uuid": "e1bbc659-8ad5-4f5a-b7bc-c54220634ffa"
+  }
+}

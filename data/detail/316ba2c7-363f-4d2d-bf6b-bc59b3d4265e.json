@@ -1,0 +1,28 @@
+{
+  "uuid": "316ba2c7-363f-4d2d-bf6b-bc59b3d4265e",
+  "platform_post_id": "1153329260273860608",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-02T23:46:34+08:00",
+  "source_url": "https://t.bilibili.com/1153329260273860608",
+  "plain_text": "晚安晚安晚安晚安\n平淡无奇无所事事的一天过去了呢( ´_ゝ｀)\n",
+  "images": [],
+  "stats": {
+    "likes": 235,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "302ad616-da74-4815-a105-20b74a37069d",
+    "next_uuid": "8b3c7eb4-2c2f-48ff-9757-cc1c7615447e"
+  }
+}

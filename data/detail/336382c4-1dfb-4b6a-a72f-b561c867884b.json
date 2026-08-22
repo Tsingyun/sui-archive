@@ -1,0 +1,28 @@
+{
+  "uuid": "336382c4-1dfb-4b6a-a72f-b561c867884b",
+  "platform_post_id": "1001948821434925063",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-21T01:13:09+08:00",
+  "source_url": "https://t.bilibili.com/1001948821434925063",
+  "plain_text": "最近手里有点小钱，评论区抽两个人奖励回复我的晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 387,
+    "comments": 95,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "214c3cce-0a66-40b9-9f91-6cb52def3b5b",
+    "next_uuid": "89e38cd9-9258-4580-981a-54d6caaa167b"
+  }
+}

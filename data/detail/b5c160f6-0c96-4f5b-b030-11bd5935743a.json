@@ -1,0 +1,28 @@
+{
+  "uuid": "b5c160f6-0c96-4f5b-b030-11bd5935743a",
+  "platform_post_id": "1084611449935888388",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-01T19:26:22+08:00",
+  "source_url": "https://t.bilibili.com/1084611449935888388",
+  "plain_text": "7:45来直播[岁己收藏集表情包_我在][岁己收藏集表情包_那很好了]",
+  "images": [],
+  "stats": {
+    "likes": 200,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71810e7c-1251-45a3-9567-d1e4a05f4bef",
+    "next_uuid": "49782dcc-192c-43eb-82ad-17e659c5a1ea"
+  }
+}

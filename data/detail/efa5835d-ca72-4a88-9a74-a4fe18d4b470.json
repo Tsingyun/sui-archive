@@ -1,0 +1,28 @@
+{
+  "uuid": "efa5835d-ca72-4a88-9a74-a4fe18d4b470",
+  "platform_post_id": "952569883138195475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-10T23:37:39+08:00",
+  "source_url": "https://t.bilibili.com/952569883138195475",
+  "plain_text": "我要对我在意的人说晚安！\n晚安",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6d794ed7-d751-4a3f-a6b0-61d33afdda47",
+    "next_uuid": "c083584d-c8e0-4fcc-945a-9f488f5c0998"
+  }
+}

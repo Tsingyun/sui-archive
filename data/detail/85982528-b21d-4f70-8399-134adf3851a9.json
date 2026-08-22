@@ -1,0 +1,28 @@
+{
+  "uuid": "85982528-b21d-4f70-8399-134adf3851a9",
+  "platform_post_id": "986986710173745153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-11T17:32:31+08:00",
+  "source_url": "https://t.bilibili.com/986986710173745153",
+  "plain_text": "今天是七点的唱唱聊聊+继续看互动视频！",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "34b514c5-385f-4576-8c84-34187bf9350a",
+    "next_uuid": "e1a9b02e-f039-4750-a902-7be04b60b51d"
+  }
+}

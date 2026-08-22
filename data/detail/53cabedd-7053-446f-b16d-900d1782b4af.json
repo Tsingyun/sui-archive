@@ -1,0 +1,28 @@
+{
+  "uuid": "53cabedd-7053-446f-b16d-900d1782b4af",
+  "platform_post_id": "983302753514160137",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-01T19:16:53+08:00",
+  "source_url": "https://t.bilibili.com/983302753514160137",
+  "plain_text": "点完外卖忘记付钱了😭又要多等等 我感觉7:50吧！今天来败犬大电影一口气看完",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6bb7b6e1-8a79-4325-a671-8c600c4aa0e5",
+    "next_uuid": "f7b5324b-0b42-47dc-bdd1-c5fc984be0f6"
+  }
+}

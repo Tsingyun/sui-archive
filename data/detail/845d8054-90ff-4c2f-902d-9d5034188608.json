@@ -1,0 +1,38 @@
+{
+  "uuid": "845d8054-90ff-4c2f-902d-9d5034188608",
+  "platform_post_id": "1129516488361771031",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-10-30T19:40:51+08:00",
+  "source_url": "https://t.bilibili.com/1129516488361771031",
+  "plain_text": "嗯...嗯...",
+  "images": [
+    {
+      "filename": "1129516488361771031_100@repost.jpg",
+      "width": 1691,
+      "height": 3007,
+      "file_size": 1467964,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 328,
+    "comments": 32,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f82f1c87-a8d5-42df-aa46-22ec115a225b",
+    "next_uuid": "4899f67e-2cbe-4641-82fe-af624d2d2476"
+  }
+}

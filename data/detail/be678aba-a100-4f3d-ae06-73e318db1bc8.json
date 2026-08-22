@@ -1,0 +1,47 @@
+{
+  "uuid": "be678aba-a100-4f3d-ae06-73e318db1bc8",
+  "platform_post_id": "982476492031131654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-09-29T13:50:34+08:00",
+  "source_url": "https://t.bilibili.com/982476492031131654",
+  "plain_text": "哦哦哦！cp30点岁己无料大家看看！",
+  "images": [
+    {
+      "filename": "982476492031131654_100@repost.png",
+      "width": 2211,
+      "height": 6032,
+      "file_size": 6651031,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "982476492031131654_101@repost.jpg",
+      "width": 3072,
+      "height": 4096,
+      "file_size": 6324296,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 230,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6b72b694-4eba-4eae-8e40-96b4c1e7f937",
+    "next_uuid": "a37e2d45-650b-4697-a83a-2ae688608adf"
+  }
+}

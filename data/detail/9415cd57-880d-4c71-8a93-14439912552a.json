@@ -1,0 +1,28 @@
+{
+  "uuid": "9415cd57-880d-4c71-8a93-14439912552a",
+  "platform_post_id": "759076040338309139",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T13:22:43+08:00",
+  "source_url": "https://t.bilibili.com/759076040338309139",
+  "plain_text": "快来看看岁己全形态！！太厉害啦！",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 8,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f0002663-173c-41fb-ac26-ea8cce9c8427",
+    "next_uuid": "a0f4c7c5-e332-4acc-8c24-56ab27ca70e8"
+  }
+}

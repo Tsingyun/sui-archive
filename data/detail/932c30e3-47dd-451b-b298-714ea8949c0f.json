@@ -1,0 +1,28 @@
+{
+  "uuid": "932c30e3-47dd-451b-b298-714ea8949c0f",
+  "platform_post_id": "1203659443642826753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-18T14:53:23+08:00",
+  "source_url": "https://t.bilibili.com/1203659443642826753",
+  "plain_text": "3点来空洞骑士咩",
+  "images": [],
+  "stats": {
+    "likes": 159,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4af0ae0d-fad7-4143-b2a4-e3efec8c6ce3",
+    "next_uuid": "6ba20c1a-42e4-494b-8896-7e9f45e616c8"
+  }
+}

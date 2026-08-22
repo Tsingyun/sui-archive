@@ -1,0 +1,28 @@
+{
+  "uuid": "f581f584-1a02-41c3-9bf9-3d8c2e0b0658",
+  "platform_post_id": "824093182044143673",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-30T18:22:26+08:00",
+  "source_url": "https://t.bilibili.com/824093182044143673",
+  "plain_text": "7:10分嗯嗯嗯小聊小唱",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b90428a-f331-4339-818f-f4edaedba262",
+    "next_uuid": "6dbdfcb1-df4a-4112-8537-d8fb49b3a953"
+  }
+}

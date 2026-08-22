@@ -1,0 +1,28 @@
+{
+  "uuid": "d94170f0-cdee-49ef-aabb-e0f19f4e508d",
+  "platform_post_id": "999710799893102598",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-15T00:28:29+08:00",
+  "source_url": "https://t.bilibili.com/999710799893102598",
+  "plain_text": "这周杰伦的说了再见啊，第二难的是它的高音，你知道第一难的是什么吗\n\n\n\n\n\n\n\n是和你说再见",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e9426ed3-5bf8-4b12-b318-d54e46d0d350",
+    "next_uuid": "a43698a6-e4a8-48cf-b853-bcbb548f5712"
+  }
+}

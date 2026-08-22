@@ -1,0 +1,28 @@
+{
+  "uuid": "a78e5b63-a048-4383-a3b7-828e14538ca6",
+  "platform_post_id": "1160393798572834819",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-22T00:40:35+08:00",
+  "source_url": "https://t.bilibili.com/1160393798572834819",
+  "plain_text": "我是怪盗岁己，今晚会偷走你的晚安",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc43c7ae-143c-4c76-acaa-81788c0a7ba3",
+    "next_uuid": "488d0cd8-db54-4eec-8fee-341d93227124"
+  }
+}

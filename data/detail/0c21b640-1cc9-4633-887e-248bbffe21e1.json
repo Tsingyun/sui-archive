@@ -1,0 +1,28 @@
+{
+  "uuid": "0c21b640-1cc9-4633-887e-248bbffe21e1",
+  "platform_post_id": "796944041167028226",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-18T14:29:54+08:00",
+  "source_url": "https://t.bilibili.com/796944041167028226",
+  "plain_text": "哼哼 想我了吗",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "692c4a68-440e-40c8-877e-7195f098c164",
+    "next_uuid": "ee54a1fe-1c18-4db3-95c5-60eae60039fa"
+  }
+}

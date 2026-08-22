@@ -1,0 +1,28 @@
+{
+  "uuid": "fe7176f4-e48a-4b23-a2c9-0127dad44a01",
+  "platform_post_id": "1179162028258885649",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-13T14:30:54+08:00",
+  "source_url": "https://t.bilibili.com/1179162028258885649",
+  "plain_text": "2:45一只小狼陪你摸鱼",
+  "images": [],
+  "stats": {
+    "likes": 186,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fe917181-2eec-4fb3-961b-f381d3d5aca7",
+    "next_uuid": "e9726b6d-c3e2-478a-917d-e69521ab1139"
+  }
+}

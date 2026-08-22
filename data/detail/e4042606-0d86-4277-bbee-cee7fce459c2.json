@@ -1,0 +1,38 @@
+{
+  "uuid": "e4042606-0d86-4277-bbee-cee7fce459c2",
+  "platform_post_id": "1094333915910373377",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-07-28T00:14:30+08:00",
+  "source_url": "https://t.bilibili.com/1094333915910373377",
+  "plain_text": "我的晚安呢 新衣剪影最后一片~\n",
+  "images": [
+    {
+      "filename": "1094333915910373377_00@original.png",
+      "width": 418,
+      "height": 404,
+      "file_size": 285881,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 325,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0caa1c0-b6b9-418e-8f19-cf3ac4670a64",
+    "next_uuid": "9ef9f415-62d7-4a3d-a486-85d74fa1a385"
+  }
+}

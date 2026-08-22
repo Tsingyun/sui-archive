@@ -1,0 +1,28 @@
+{
+  "uuid": "16a29edb-0cf6-4b03-9dce-4d9146fbcfa9",
+  "platform_post_id": "753894553113591894",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-22T14:15:54+08:00",
+  "source_url": "https://t.bilibili.com/753894553113591894",
+  "plain_text": "今晚九点棉花糖！来看看大家的新年愿望，最近感觉嗓子还需要休息休息所以有时候稍微播短一点哦（三小时）也不短啦！",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "714341c3-045a-44f3-9712-25d6fa0b6f28",
+    "next_uuid": "7360015c-5390-4875-9ef0-792748cf6593"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7e4cc34c-83f1-45e0-8c20-084f6060ac6e",
+  "platform_post_id": "1184066915243393027",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-26T19:44:22+08:00",
+  "source_url": "https://t.bilibili.com/1184066915243393027",
+  "plain_text": "出道1300天了 买点🍷8:20来喝点唱点",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ebb711b-f415-42cf-a2fc-6c27a9d768cc",
+    "next_uuid": "41e5fe30-21e3-4a68-8d00-1bec2f424fba"
+  }
+}

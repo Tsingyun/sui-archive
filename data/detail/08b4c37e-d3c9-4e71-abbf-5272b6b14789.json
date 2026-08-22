@@ -1,0 +1,28 @@
+{
+  "uuid": "08b4c37e-d3c9-4e71-abbf-5272b6b14789",
+  "platform_post_id": "915091440126656519",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-31T23:42:09+08:00",
+  "source_url": "https://t.bilibili.com/915091440126656519",
+  "plain_text": "草 嘉嘉脚踩到关机键了 那就这样晚安吧 别怕！",
+  "images": [],
+  "stats": {
+    "likes": 419,
+    "comments": 131,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5d55d0d-ee37-46d7-ab3f-fe144b01c6d1",
+    "next_uuid": "93cfe18d-97e2-4273-a3ea-9dcf922e183c"
+  }
+}

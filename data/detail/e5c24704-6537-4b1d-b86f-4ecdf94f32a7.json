@@ -1,0 +1,28 @@
+{
+  "uuid": "e5c24704-6537-4b1d-b86f-4ecdf94f32a7",
+  "platform_post_id": "782198988887556120",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-08T20:51:34+08:00",
+  "source_url": "https://t.bilibili.com/782198988887556120",
+  "plain_text": "刚写完东西，我想洗头！！9.20见可以么么么么么吗",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71e9e39e-c912-4261-89b0-2d5c84e9772b",
+    "next_uuid": "e4869cbc-1b99-498d-906e-562b80f6d70e"
+  }
+}

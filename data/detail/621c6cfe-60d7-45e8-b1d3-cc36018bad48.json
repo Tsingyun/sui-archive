@@ -1,0 +1,28 @@
+{
+  "uuid": "621c6cfe-60d7-45e8-b1d3-cc36018bad48",
+  "platform_post_id": "1018261803032903686",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-04T00:15:51+08:00",
+  "source_url": "https://t.bilibili.com/1018261803032903686",
+  "plain_text": "晚安饼，今天过得怎么样，有什么要分享给我的吗[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f89ba47-c58d-4b90-a07a-abfbde72e589",
+    "next_uuid": "c21c6b72-fd4d-45e9-b0c4-b4543ede8806"
+  }
+}

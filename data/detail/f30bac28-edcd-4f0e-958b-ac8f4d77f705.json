@@ -1,0 +1,28 @@
+{
+  "uuid": "f30bac28-edcd-4f0e-958b-ac8f4d77f705",
+  "platform_post_id": "779207011616161830",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-31T19:21:10+08:00",
+  "source_url": "https://t.bilibili.com/779207011616161830",
+  "plain_text": "吃饭！然后忙东忙西忙西忙东。9点来！随便这样那样那样这样，然后悄悄把那个看完！急！",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b23709d-245c-429c-aa71-342f9b17ccfb",
+    "next_uuid": "0a22c996-1605-4d45-8b13-4da2d4abab85"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "uuid": "a7e8e627-5244-4a35-99c1-86e63ec97963",
+  "platform_post_id": "1047043645878829059",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-03-22T13:44:06+08:00",
+  "source_url": "https://t.bilibili.com/1047043645878829059",
+  "plain_text": "[UPOWER_1954091502_大家]竟然有小岁 第一次参加mixup 好期待喔\n我的新衣服可爱吗！",
+  "images": [
+    {
+      "filename": "1047043645878829059_100@repost.jpg",
+      "width": 1492,
+      "height": 1500,
+      "file_size": 1133947,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_101@repost.jpg",
+      "width": 1498,
+      "height": 1500,
+      "file_size": 1399934,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_102@repost.jpg",
+      "width": 1510,
+      "height": 1500,
+      "file_size": 1515628,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_103@repost.jpg",
+      "width": 1492,
+      "height": 1500,
+      "file_size": 1083935,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_104@repost.jpg",
+      "width": 1498,
+      "height": 1500,
+      "file_size": 1460952,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_105@repost.jpg",
+      "width": 1510,
+      "height": 1500,
+      "file_size": 941571,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_106@repost.jpg",
+      "width": 1080,
+      "height": 4311,
+      "file_size": 3472306,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_107@repost.png",
+      "width": 1500,
+      "height": 7637,
+      "file_size": 12871006,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1047043645878829059_108@repost.png",
+      "width": 1169,
+      "height": 14998,
+      "file_size": 15246295,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 308,
+    "comments": 55,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VirtuaReal",
+    "author_url": "https://space.bilibili.com/413748120",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c41bad4-32b3-4b27-9623-f486f2ab8c86",
+    "next_uuid": "bc9fed72-a931-4f2d-ba8d-f2e7c86c00a3"
+  }
+}

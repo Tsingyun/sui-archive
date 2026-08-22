@@ -1,0 +1,28 @@
+{
+  "uuid": "af2918cb-0a8b-49c7-8c17-4303cd3ae749",
+  "platform_post_id": "833743226217168913",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-25T18:29:32+08:00",
+  "source_url": "https://t.bilibili.com/833743226217168913",
+  "plain_text": "周五了也还是来接一下吧  6:45见",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "97fb27fc-609e-48ad-9462-5b0b5051c05f",
+    "next_uuid": "58e50728-e8d0-4363-bd22-472cd1f7cd74"
+  }
+}

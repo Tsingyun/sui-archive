@@ -1,0 +1,28 @@
+{
+  "uuid": "b2adf78d-a5cb-4e57-9f8b-06750e14ed41",
+  "platform_post_id": "796360982172532739",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-17T00:47:20+08:00",
+  "source_url": "https://t.bilibili.com/796360982172532739",
+  "plain_text": "丫头 快睡了吧 别让叔心疼  晚安",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "80e7fc49-fcc1-4c5b-8113-5af9cf38c838",
+    "next_uuid": "3a4c5011-012b-42d6-9faa-d82a76796366"
+  }
+}

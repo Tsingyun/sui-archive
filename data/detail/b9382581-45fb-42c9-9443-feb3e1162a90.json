@@ -1,0 +1,28 @@
+{
+  "uuid": "b9382581-45fb-42c9-9443-feb3e1162a90",
+  "platform_post_id": "1206999343386591239",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-27T14:53:54+08:00",
+  "source_url": "https://t.bilibili.com/1206999343386591239",
+  "plain_text": "[UP_1954091502_对不起]闹钟没响 睡过头了 请个假晚上见好吗[UP_1954091502_委屈][UP_1954091502_投降][UP_1954091502_投降]",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d84a2650-8648-425b-8dc7-e2719fd041f4",
+    "next_uuid": "14b36533-a464-4b94-8d57-15ed32a087fe"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "f0002663-173c-41fb-ac26-ea8cce9c8427",
+  "platform_post_id": "759070134734159927",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T12:59:48+08:00",
+  "source_url": "https://t.bilibili.com/759070134734159927",
+  "plain_text": "扫完把垃圾倒在饼干岁床上[UP_1954091502_可爱捏]",
+  "images": [
+    {
+      "filename": "759070134734159927_100@repost.png",
+      "width": 2489,
+      "height": 3508,
+      "file_size": 7328974,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 352,
+    "comments": 32,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "风霜已尽惊蛰至",
+    "author_url": "https://space.bilibili.com/4041465",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00fe967a-7a21-4cbe-8f36-1a73554f8478",
+    "next_uuid": "9415cd57-880d-4c71-8a93-14439912552a"
+  }
+}

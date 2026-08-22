@@ -1,0 +1,28 @@
+{
+  "uuid": "d2ff94bc-f905-434f-9bd4-a6347a73234a",
+  "platform_post_id": "864562631630913544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-16T19:44:34+08:00",
+  "source_url": "https://t.bilibili.com/864562631630913544",
+  "plain_text": "休息研究下各种东西  明天见吧",
+  "images": [],
+  "stats": {
+    "likes": 371,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9521cd46-9eed-4f54-91b5-b35031408da1",
+    "next_uuid": "7751b970-d5a1-4f1f-93cf-727a21043749"
+  }
+}

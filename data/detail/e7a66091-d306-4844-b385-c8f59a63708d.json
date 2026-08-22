@@ -1,0 +1,28 @@
+{
+  "uuid": "e7a66091-d306-4844-b385-c8f59a63708d",
+  "platform_post_id": "1124316884992262148",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-16T19:23:44+08:00",
+  "source_url": "https://t.bilibili.com/1124316884992262148",
+  "plain_text": "岁己大手一挥决定在7:45来直播",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cfb5b3f6-faa2-460f-9c06-e7323208a78d",
+    "next_uuid": "6e8ae082-8b8c-4f02-9e45-191775a73295"
+  }
+}

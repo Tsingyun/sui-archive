@@ -1,0 +1,28 @@
+{
+  "uuid": "25712003-0243-45cc-9785-8717a03e87c0",
+  "platform_post_id": "756651707390230552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-30T00:35:04+08:00",
+  "source_url": "https://t.bilibili.com/756651707390230552",
+  "plain_text": "晚安大家下次我们接着聊动画！—匿名者a\n晚安宝贝们，下次接着玩石头剪刀布—匿名者b\n晚安，虽然，但是我觉得很好玩很好笑啊哈哈哈哈！—匿名者c\n\n",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "69263cc7-c1e7-418c-9b2a-0dbc3c4eae90",
+    "next_uuid": "c69b6a3e-9fe5-4167-a14c-fc1d887f516b"
+  }
+}

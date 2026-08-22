@@ -1,0 +1,28 @@
+{
+  "uuid": "dedaa79d-d932-4a80-8998-e38d06e01357",
+  "platform_post_id": "1201917057007878149",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-13T22:12:02+08:00",
+  "source_url": "https://t.bilibili.com/1201917057007878149",
+  "plain_text": "10:30来煮🐽你",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 9,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dffc88c5-f8f7-4d62-9645-86af282f6fd1",
+    "next_uuid": "18aedbcc-7b0a-40c9-8cf4-93ee7537883c"
+  }
+}

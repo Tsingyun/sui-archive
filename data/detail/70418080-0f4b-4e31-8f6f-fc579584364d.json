@@ -1,0 +1,38 @@
+{
+  "uuid": "70418080-0f4b-4e31-8f6f-fc579584364d",
+  "platform_post_id": "1113618422147579908",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-17T23:28:14+08:00",
+  "source_url": "https://t.bilibili.com/1113618422147579908",
+  "plain_text": "晚安！送你今天看到的海[UPOWER_1954091502_右扭扭][UPOWER_1954091502_左扭扭]",
+  "images": [
+    {
+      "filename": "1113618422147579908_00@original.jpg",
+      "width": 4034,
+      "height": 2689,
+      "file_size": 3150091,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 374,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73ed5203-1ab7-4c95-ae1e-38048720b8db",
+    "next_uuid": "e0d4eb1b-3faf-49d8-b88d-cfbe09478f23"
+  }
+}

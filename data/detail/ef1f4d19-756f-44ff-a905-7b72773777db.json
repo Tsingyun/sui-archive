@@ -1,0 +1,28 @@
+{
+  "uuid": "ef1f4d19-756f-44ff-a905-7b72773777db",
+  "platform_post_id": "1120184271803252743",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-05T16:07:05+08:00",
+  "source_url": "https://t.bilibili.com/1120184271803252743",
+  "plain_text": "修好了！十分钟后来 求你来",
+  "images": [],
+  "stats": {
+    "likes": 219,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "21d73159-5e4f-4515-b4cf-3874af6b7a65",
+    "next_uuid": "48923e27-624b-4c22-a855-46800891675c"
+  }
+}

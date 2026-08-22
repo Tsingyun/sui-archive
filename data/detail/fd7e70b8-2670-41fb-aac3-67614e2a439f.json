@@ -1,0 +1,38 @@
+{
+  "uuid": "fd7e70b8-2670-41fb-aac3-67614e2a439f",
+  "platform_post_id": "834589205925462032",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-28T01:12:22+08:00",
+  "source_url": "https://t.bilibili.com/834589205925462032",
+  "plain_text": "家人们吃好睡好嗷\n岁子改天再来直播跟大伙唠嗑 晚安🌹🫰\n",
+  "images": [
+    {
+      "filename": "834589205925462032_00@original.jpg",
+      "width": 750,
+      "height": 1623,
+      "file_size": 162262,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 587,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "66a4cf27-e3cc-49f0-905b-35523c71845a",
+    "next_uuid": "973be5c3-2018-470c-a936-1141ab0bf7b8"
+  }
+}

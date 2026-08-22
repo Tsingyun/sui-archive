@@ -1,0 +1,28 @@
+{
+  "uuid": "214c3cce-0a66-40b9-9f91-6cb52def3b5b",
+  "platform_post_id": "1001898883870097412",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-20T21:59:22+08:00",
+  "source_url": "https://t.bilibili.com/1001898883870097412",
+  "plain_text": "包包们10:10来哄你睡觉",
+  "images": [],
+  "stats": {
+    "likes": 235,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f7d9424-fcc7-4ec7-b2b8-980fa6b9227d",
+    "next_uuid": "336382c4-1dfb-4b6a-a72f-b561c867884b"
+  }
+}

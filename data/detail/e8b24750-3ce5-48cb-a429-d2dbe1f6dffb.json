@@ -1,0 +1,28 @@
+{
+  "uuid": "e8b24750-3ce5-48cb-a429-d2dbe1f6dffb",
+  "platform_post_id": "1035711336030404617",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-20T00:48:57+08:00",
+  "source_url": "https://t.bilibili.com/1035711336030404617",
+  "plain_text": "晚安，在下告辞了，噫吁嚱，明日再相会",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c5e3c57e-fe13-4569-b138-2aad67620555",
+    "next_uuid": "299514e0-925a-4f12-8fa9-29fb0d84dc0a"
+  }
+}

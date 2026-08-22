@@ -1,0 +1,28 @@
+{
+  "uuid": "b205faac-b005-4541-8e44-8f398fca8c9a",
+  "platform_post_id": "1025682595985227824",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-24T00:12:19+08:00",
+  "source_url": "https://t.bilibili.com/1025682595985227824",
+  "plain_text": "晚安啊啊啊啊啊走累了 今天看得开心吗",
+  "images": [],
+  "stats": {
+    "likes": 294,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f42c25f4-5781-4fff-9d2e-cefd3c0dea8c",
+    "next_uuid": "8350e586-5a25-4e5a-9473-3198907d617e"
+  }
+}

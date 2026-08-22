@@ -1,0 +1,47 @@
+{
+  "total_images": 4,
+  "images": [
+    {
+      "filename": "1234984714591272960_00@original.png",
+      "width": 1000,
+      "height": 1000,
+      "variants": [
+        "w300",
+        "w600"
+      ],
+      "is_gif": false
+    },
+    {
+      "filename": "1236456887700946949_00@original.png",
+      "width": 3840,
+      "height": 2160,
+      "variants": [
+        "w300",
+        "w600",
+        "w1200"
+      ],
+      "is_gif": false
+    },
+    {
+      "filename": "1237479416319180804_00@original.png",
+      "width": 1440,
+      "height": 900,
+      "variants": [
+        "w300",
+        "w600",
+        "w1200"
+      ],
+      "is_gif": false
+    },
+    {
+      "filename": "1238269046042918921_00@original.png",
+      "width": 758,
+      "height": 489,
+      "variants": [
+        "w300",
+        "w600"
+      ],
+      "is_gif": false
+    }
+  ]
+}

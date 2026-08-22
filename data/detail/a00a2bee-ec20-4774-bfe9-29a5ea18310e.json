@@ -1,0 +1,28 @@
+{
+  "uuid": "a00a2bee-ec20-4774-bfe9-29a5ea18310e",
+  "platform_post_id": "990335775322144785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-20T18:08:36+08:00",
+  "source_url": "https://t.bilibili.com/990335775322144785",
+  "plain_text": "今天起床起就有点胃痛，能休吗😿",
+  "images": [],
+  "stats": {
+    "likes": 310,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9595ac97-feac-4ee8-bc6e-3fb7544f1941",
+    "next_uuid": "b4dcc367-a106-4f22-a671-41303eb97fd4"
+  }
+}

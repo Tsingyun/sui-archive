@@ -1,0 +1,28 @@
+{
+  "uuid": "9382c10d-3bf6-4f38-bfdc-ec46d4c5c77c",
+  "platform_post_id": "1191562565221613568",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-16T00:31:19+08:00",
+  "source_url": "https://t.bilibili.com/1191562565221613568",
+  "plain_text": "温柔吗[岁己收藏集表情包_羞死人了]好困晚安晚安大家",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "566fa9fa-70ea-42fd-b624-59ae6dfa3925",
+    "next_uuid": "74f4989e-6719-4438-b498-9cb3559d0cb8"
+  }
+}

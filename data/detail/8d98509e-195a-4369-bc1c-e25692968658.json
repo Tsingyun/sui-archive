@@ -1,0 +1,28 @@
+{
+  "uuid": "8d98509e-195a-4369-bc1c-e25692968658",
+  "platform_post_id": "1115875723783962630",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-24T01:27:43+08:00",
+  "source_url": "https://t.bilibili.com/1115875723783962630",
+  "plain_text": "拿来！",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd93586e-a853-4492-8c16-1904b7710e63",
+    "next_uuid": "7aa20ab4-bb0f-4301-ae89-41b2d1d70b23"
+  }
+}

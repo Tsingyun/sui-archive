@@ -1,0 +1,38 @@
+{
+  "uuid": "da46940b-75e9-44b0-ac71-de31edb7c0da",
+  "platform_post_id": "1069116423453802496",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-05-21T01:17:45+08:00",
+  "source_url": "https://t.bilibili.com/1069116423453802496",
+  "plain_text": "晚安大家。大家今天过得开心吗，回想一下自己说了些什么有点两眼一黑了，要在床上打滚了，总之大家幸福就好。来自一个冷脸女仆岁\n",
+  "images": [
+    {
+      "filename": "1069116423453802496_00@original.png",
+      "width": 1181,
+      "height": 1181,
+      "file_size": 1180672,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 394,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a9d12385-d619-4f81-a170-912ff401bb43",
+    "next_uuid": "b7aa1866-0ed9-491f-beaa-6eab37fc26fe"
+  }
+}

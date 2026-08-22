@@ -1,0 +1,28 @@
+{
+  "uuid": "1a659d40-d3f9-4689-ba7d-08d7bd91a481",
+  "platform_post_id": "1083945261864058896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-30T00:21:13+08:00",
+  "source_url": "https://t.bilibili.com/1083945261864058896",
+  "plain_text": "晚安 好困呃[岁己收藏集表情包_倒了]",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f3424446-70ff-4d4b-ae79-6ffb94e6de70",
+    "next_uuid": "f39b0b82-cec9-4d46-8257-984a29c40a59"
+  }
+}

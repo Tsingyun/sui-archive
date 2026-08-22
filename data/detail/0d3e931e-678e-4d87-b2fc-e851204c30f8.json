@@ -1,0 +1,38 @@
+{
+  "uuid": "0d3e931e-678e-4d87-b2fc-e851204c30f8",
+  "platform_post_id": "1041621318394445825",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-03-07T23:02:42+08:00",
+  "source_url": "https://t.bilibili.com/1041621318394445825",
+  "plain_text": "明天下午2:00和@666726799 玩双影奇境的说! 期待捏(*❦ω❦)\n",
+  "images": [
+    {
+      "filename": "1041621318394445825_00@original.png",
+      "width": 2560,
+      "height": 1440,
+      "file_size": 3846411,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 500,
+    "comments": 56,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d98f4041-d9a0-44b5-933f-7764296939ae",
+    "next_uuid": "eeabf5cd-dd10-4bfa-b450-562aa9aaf50b"
+  }
+}

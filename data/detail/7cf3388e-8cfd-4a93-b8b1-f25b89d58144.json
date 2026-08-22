@@ -1,0 +1,28 @@
+{
+  "uuid": "7cf3388e-8cfd-4a93-b8b1-f25b89d58144",
+  "platform_post_id": "739497423291809849",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-14T19:07:41+08:00",
+  "source_url": "https://t.bilibili.com/739497423291809849",
+  "plain_text": "八点先互相熟悉熟悉叙叙旧再日落黄昏时",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f28ffca8-e47c-47cc-9c53-0a9fdf62cbbe",
+    "next_uuid": "24eb72a0-993c-425f-ad55-eca869a38900"
+  }
+}

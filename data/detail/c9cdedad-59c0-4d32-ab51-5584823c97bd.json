@@ -1,0 +1,28 @@
+{
+  "uuid": "c9cdedad-59c0-4d32-ab51-5584823c97bd",
+  "platform_post_id": "1072568237127892992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-30T08:32:33+08:00",
+  "source_url": "https://t.bilibili.com/1072568237127892992",
+  "plain_text": "早上好啊啊啊大家我好困[岁己收藏集表情包_啊啊啊]",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "341b13d2-ab59-4380-ae3c-bc7ae8c0b070",
+    "next_uuid": "ee199851-74b3-4a5d-9ddb-43c1e174e002"
+  }
+}

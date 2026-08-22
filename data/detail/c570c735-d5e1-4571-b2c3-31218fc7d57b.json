@@ -1,0 +1,28 @@
+{
+  "uuid": "c570c735-d5e1-4571-b2c3-31218fc7d57b",
+  "platform_post_id": "860537560076648468",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-05T23:25:14+08:00",
+  "source_url": "https://t.bilibili.com/860537560076648468",
+  "plain_text": "古德古德古德古德古德古德古德奈特！",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f857bdb-b509-4d3e-b527-5a86915314f8",
+    "next_uuid": "ef646b1c-5120-4806-84ad-917b3646bee5"
+  }
+}

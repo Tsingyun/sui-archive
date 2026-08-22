@@ -1,0 +1,28 @@
+{
+  "uuid": "720793d6-004b-46c8-acb6-621314121f85",
+  "platform_post_id": "824756041528901703",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-01T13:14:40+08:00",
+  "source_url": "https://t.bilibili.com/824756041528901703",
+  "plain_text": "哎睡过了 早\n说我吧 嘲讽我吧😫 没关系的🥹",
+  "images": [],
+  "stats": {
+    "likes": 466,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a86753eb-835e-48ea-8065-3c5d26a8cad0",
+    "next_uuid": "6991bd8e-ec7d-462d-95e2-0387fb6cae97"
+  }
+}

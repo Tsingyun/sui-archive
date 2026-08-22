@@ -1,0 +1,28 @@
+{
+  "uuid": "fbfc725a-cac4-4cbd-a01b-6d8913716a2d",
+  "platform_post_id": "849700657539579904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-07T18:32:31+08:00",
+  "source_url": "https://t.bilibili.com/849700657539579904",
+  "plain_text": "坐阳台上玩呢 来了来了 6:40",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4f173dee-5563-42e8-a235-4d8d47af0a98",
+    "next_uuid": "f72e1e19-6c34-4c08-b002-7c289cc87668"
+  }
+}

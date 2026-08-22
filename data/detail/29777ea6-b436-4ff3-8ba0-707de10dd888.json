@@ -1,0 +1,28 @@
+{
+  "uuid": "29777ea6-b436-4ff3-8ba0-707de10dd888",
+  "platform_post_id": "1222730760635547703",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-09T00:19:50+08:00",
+  "source_url": "https://t.bilibili.com/1222730760635547703",
+  "plain_text": "晚安昂",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b92635c-97c7-4169-86c9-f5bc77a4ccd9",
+    "next_uuid": "ebc10330-2d8e-4f3b-997e-71447ef6c487"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b20bb336-02ab-4fe7-8374-3728e9ad3703",
+  "platform_post_id": "999357178038976513",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-14T01:36:15+08:00",
+  "source_url": "https://t.bilibili.com/999357178038976513",
+  "plain_text": "你好，刚好在b站刷到你，就觉得你很漂亮，想鼓起勇气跟你说晚安，可以嘛\n附上一点儿个人信息：\n本人四肢健全，从小独立呼吸，会玩智能手机，会背九九乘法表，下雨了会跑冷了会加衣饿了会吃饭渴了会点奶茶。",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ba54b04-98b3-4bc7-a1a5-7f940f6b6ef8",
+    "next_uuid": "e9426ed3-5bf8-4b12-b318-d54e46d0d350"
+  }
+}

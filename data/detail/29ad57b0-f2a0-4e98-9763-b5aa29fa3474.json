@@ -1,0 +1,28 @@
+{
+  "uuid": "29ad57b0-f2a0-4e98-9763-b5aa29fa3474",
+  "platform_post_id": "742156725305475108",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-21T23:07:08+08:00",
+  "source_url": "https://t.bilibili.com/742156725305475108",
+  "plain_text": "现在去洗头洗澡，可能接近12点才能上播，播不了太晚，而且这么晚能播啥呀？但是说不定周四不能播所以今晚还是播一下。",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "df768b56-5498-4a80-a83f-defa94871cbe",
+    "next_uuid": "f86ee204-7e58-436e-9f69-ed8c3b376508"
+  }
+}

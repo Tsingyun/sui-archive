@@ -1,0 +1,28 @@
+{
+  "uuid": "37aad315-0d21-4b99-b525-56b48634551e",
+  "platform_post_id": "769649064384921605",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-06T01:11:27+08:00",
+  "source_url": "https://t.bilibili.com/769649064384921605",
+  "plain_text": "请跟我说 晚安！",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ceeba7c7-5142-4572-a577-d59c22ef31bb",
+    "next_uuid": "5b3f10b8-303a-4e67-b236-0db5488cfbb8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7db19ede-80fe-4c7b-9035-2fd145851663",
+  "platform_post_id": "1189547315020431360",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-10T14:11:07+08:00",
+  "source_url": "https://t.bilibili.com/1189547315020431360",
+  "plain_text": "2:20来吧！植物大战僵尸还是生化危机呢！👿",
+  "images": [],
+  "stats": {
+    "likes": 170,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "34826a73-95aa-458c-bf26-677fcfe460ca",
+    "next_uuid": "30cdb6d1-6dfb-403c-a349-9aa83b83fcc7"
+  }
+}

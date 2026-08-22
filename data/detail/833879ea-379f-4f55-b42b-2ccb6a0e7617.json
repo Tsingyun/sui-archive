@@ -1,0 +1,28 @@
+{
+  "uuid": "833879ea-379f-4f55-b42b-2ccb6a0e7617",
+  "platform_post_id": "1175245383170785284",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-03T01:12:19+08:00",
+  "source_url": "https://t.bilibili.com/1175245383170785284",
+  "plain_text": "晚安。岁己的游戏力，不多说，感受",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2398949c-f7fc-4a0e-a46a-667e7394ae7d",
+    "next_uuid": "70ab4021-a831-4b79-a549-d82ff653175a"
+  }
+}

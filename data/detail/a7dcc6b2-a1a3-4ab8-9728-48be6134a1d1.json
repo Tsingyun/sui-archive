@@ -1,0 +1,28 @@
+{
+  "uuid": "a7dcc6b2-a1a3-4ab8-9728-48be6134a1d1",
+  "platform_post_id": "936550080311197718",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-28T19:32:38+08:00",
+  "source_url": "https://t.bilibili.com/936550080311197718",
+  "plain_text": "丫头，我要闯进你的生活。7：45",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b83da6cf-eb38-498f-a576-d66567c8792c",
+    "next_uuid": "97f7b7ad-f6b8-4970-ac02-cb273e8c9f90"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4c5a829a-a033-4813-917f-fc43e132402b",
+  "platform_post_id": "819305577694887991",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-17T20:44:05+08:00",
+  "source_url": "https://t.bilibili.com/819305577694887991",
+  "plain_text": "9点岁来~~~",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "15098195-af0a-4669-a6a9-8421d91c5b42",
+    "next_uuid": "42049c02-8a3b-4857-8e8a-41189124b781"
+  }
+}

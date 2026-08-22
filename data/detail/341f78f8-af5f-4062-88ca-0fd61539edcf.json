@@ -1,0 +1,38 @@
+{
+  "uuid": "341f78f8-af5f-4062-88ca-0fd61539edcf",
+  "platform_post_id": "1080620235636080660",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-06-21T01:18:25+08:00",
+  "source_url": "https://t.bilibili.com/1080620235636080660",
+  "plain_text": "晚安，16宝宝都困了，陪16宝宝一起睡觉觉了",
+  "images": [
+    {
+      "filename": "1080620235636080660_00@original.jpg",
+      "width": 3023,
+      "height": 3173,
+      "file_size": 256991,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 370,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d962b8aa-5499-4933-b20b-78af802350ba",
+    "next_uuid": "9e51443c-357a-4ed1-80d7-3ed3faaa6fa8"
+  }
+}

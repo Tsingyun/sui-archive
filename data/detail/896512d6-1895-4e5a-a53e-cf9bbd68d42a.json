@@ -1,0 +1,28 @@
+{
+  "uuid": "896512d6-1895-4e5a-a53e-cf9bbd68d42a",
+  "platform_post_id": "899143844311859257",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-18T00:17:20+08:00",
+  "source_url": "https://t.bilibili.com/899143844311859257",
+  "plain_text": "盖好被子了吗 晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ab6a0c87-54d5-4633-9fe9-841604e528ad",
+    "next_uuid": "feabb348-d5d5-4be4-b6f6-c76c1c1a2dbc"
+  }
+}

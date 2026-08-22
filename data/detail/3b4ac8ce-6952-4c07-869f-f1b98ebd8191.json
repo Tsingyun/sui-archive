@@ -1,0 +1,28 @@
+{
+  "uuid": "3b4ac8ce-6952-4c07-869f-f1b98ebd8191",
+  "platform_post_id": "1017065585893179401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-31T18:53:55+08:00",
+  "source_url": "https://t.bilibili.com/1017065585893179401",
+  "plain_text": "感觉直播越来越没什么意思了，热情也慢慢消退了\n今天八点半最后一次直播，今年就不播了",
+  "images": [],
+  "stats": {
+    "likes": 400,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9455a9ad-8462-4afb-aecb-fe4578c2505a",
+    "next_uuid": "211c1db6-8ba6-4f67-8330-ade636c203a4"
+  }
+}

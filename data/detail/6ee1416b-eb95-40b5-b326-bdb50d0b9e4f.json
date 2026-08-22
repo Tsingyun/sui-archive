@@ -1,0 +1,28 @@
+{
+  "uuid": "6ee1416b-eb95-40b5-b326-bdb50d0b9e4f",
+  "platform_post_id": "984040418446409735",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-03T18:59:24+08:00",
+  "source_url": "https://t.bilibili.com/984040418446409735",
+  "plain_text": "7:20来一起边看边吃怎么样！败犬女主 怎么样！",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f89e6ea6-2251-4721-8b3a-cb1a554346ac",
+    "next_uuid": "a8d18400-acc3-4e02-8a28-485d9d6aff8f"
+  }
+}

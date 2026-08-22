@@ -1,0 +1,28 @@
+{
+  "uuid": "92831ca8-d1be-4a2e-9059-a5b871eb623a",
+  "platform_post_id": "1013034059017748488",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-20T22:09:32+08:00",
+  "source_url": "https://t.bilibili.com/1013034059017748488",
+  "plain_text": "晚安，嗓子好累😭会好好休息的，大家晚安明天再战",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e903054-1670-475d-96bc-6771140dd5f0",
+    "next_uuid": "846b4665-ba8b-493d-b1fc-62133cab271f"
+  }
+}

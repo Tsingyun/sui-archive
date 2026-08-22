@@ -1,0 +1,28 @@
+{
+  "uuid": "d686dd17-093d-4648-a6db-98afc7409793",
+  "platform_post_id": "741057273810386984",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-19T00:00:42+08:00",
+  "source_url": "https://t.bilibili.com/741057273810386984",
+  "plain_text": "晚安饼干岁！饼干岁真的太厉害啦",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a956b533-5b42-4c85-9e63-ad7fd0723d99",
+    "next_uuid": "09eb0c47-6145-4821-b9a4-d882c2ff061d"
+  }
+}

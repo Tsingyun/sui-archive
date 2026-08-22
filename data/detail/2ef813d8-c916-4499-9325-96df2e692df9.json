@@ -1,0 +1,28 @@
+{
+  "uuid": "2ef813d8-c916-4499-9325-96df2e692df9",
+  "platform_post_id": "888682248877899812",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-20T19:41:00+08:00",
+  "source_url": "https://t.bilibili.com/888682248877899812",
+  "plain_text": "吃完刚到家 7:55 来干嘛啊！先来再说 还有没有什么好笑好玩的长视频呀",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2cfdee69-3cab-4f40-a8cc-4d63438a53ee",
+    "next_uuid": "6efe9d59-5bce-4654-bbd6-986a52a83677"
+  }
+}

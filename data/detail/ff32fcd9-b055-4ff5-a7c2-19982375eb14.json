@@ -1,0 +1,28 @@
+{
+  "uuid": "ff32fcd9-b055-4ff5-a7c2-19982375eb14",
+  "platform_post_id": "977777638896566309",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-16T21:56:37+08:00",
+  "source_url": "https://t.bilibili.com/977777638896566309",
+  "plain_text": "11:40来一会 呜呜😢又是电台 sori",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d7d2bc1c-c3e6-4bb6-8464-fe4e90a06362",
+    "next_uuid": "66f68bd5-52a4-4b5f-8fb7-d635b19c258f"
+  }
+}

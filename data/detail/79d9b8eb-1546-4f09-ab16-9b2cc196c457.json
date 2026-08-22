@@ -1,0 +1,28 @@
+{
+  "uuid": "79d9b8eb-1546-4f09-ab16-9b2cc196c457",
+  "platform_post_id": "798967185517051976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-24T01:20:44+08:00",
+  "source_url": "https://t.bilibili.com/798967185517051976",
+  "plain_text": "天啊 饿得肚子咕咕咕咕叫 巨大声 你们那边听到了吗",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f2fd80e-bc38-40fa-ac45-799339156f55",
+    "next_uuid": "f7c80252-014d-4ea5-b878-23c0504924a5"
+  }
+}

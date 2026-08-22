@@ -1,0 +1,28 @@
+{
+  "uuid": "2bcfb345-4ec2-4f87-b9af-5767bf94b856",
+  "platform_post_id": "906180851853688865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-07T23:24:31+08:00",
+  "source_url": "https://t.bilibili.com/906180851853688865",
+  "plain_text": "目前已知的情报：有时候ed放到一半该下播了，岁己会手动淡出 \n晚安",
+  "images": [],
+  "stats": {
+    "likes": 381,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c836875-64cb-41bb-a33f-d490ef93369b",
+    "next_uuid": "f257b6f6-d100-4161-9562-a31de403c558"
+  }
+}

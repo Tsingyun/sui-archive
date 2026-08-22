@@ -1,0 +1,28 @@
+{
+  "uuid": "8b8df877-e369-40eb-9a00-357179182f65",
+  "platform_post_id": "1237955762540511235",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-19T01:00:37+08:00",
+  "source_url": "https://t.bilibili.com/1237955762540511235",
+  "plain_text": "你想不想和岁己说晚安(｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "da3e2e43-9446-4563-b712-78c417d278ad",
+    "next_uuid": "e6a42982-f74f-492b-aea8-43c2bc3b908e"
+  }
+}

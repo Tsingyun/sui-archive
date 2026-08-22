@@ -1,0 +1,28 @@
+{
+  "uuid": "05a794ad-5a47-4285-8767-d149d2719f7a",
+  "platform_post_id": "1071327429613584392",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-27T00:17:35+08:00",
+  "source_url": "https://t.bilibili.com/1071327429613584392",
+  "plain_text": "想不出创意晚安动态了，你还会理我吗",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a1e602dc-d88b-48ac-9d57-e381575f1c63",
+    "next_uuid": "7242acc2-7f6e-46d8-a271-1394aedf9697"
+  }
+}

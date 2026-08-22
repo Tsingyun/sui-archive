@@ -1,0 +1,28 @@
+{
+  "uuid": "ddbb9a81-d37e-4c75-b14c-d6b16f715d92",
+  "platform_post_id": "708707704678383653",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-22T19:47:51+08:00",
+  "source_url": "https://t.bilibili.com/708707704678383653",
+  "plain_text": "非常荣幸能参与这次联动！希望大家明天来看！",
+  "images": [],
+  "stats": {
+    "likes": 421,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6751d290-dba8-4ab0-8c97-01a964abc58d",
+    "next_uuid": "55547694-2aae-44d4-974c-faa98546a413"
+  }
+}

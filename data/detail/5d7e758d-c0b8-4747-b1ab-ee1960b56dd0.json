@@ -1,0 +1,28 @@
+{
+  "uuid": "5d7e758d-c0b8-4747-b1ab-ee1960b56dd0",
+  "platform_post_id": "814727009400782864",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-05T12:36:54+08:00",
+  "source_url": "https://t.bilibili.com/814727009400782864",
+  "plain_text": "wake up了！早早！虽然今天是周三，但每个人都应该尝试一下肯德基的蛋挞和香辣鸡腿堡。请向肯德基深深鞠一躬！",
+  "images": [],
+  "stats": {
+    "likes": 501,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0438a78c-587d-4d9c-8e86-335c65a7bfcb",
+    "next_uuid": "96ba7519-287b-43cc-a328-ce90a6999fe3"
+  }
+}

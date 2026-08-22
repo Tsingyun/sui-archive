@@ -1,0 +1,28 @@
+{
+  "uuid": "e6870552-1fd6-4de8-879f-9059bea80cf3",
+  "platform_post_id": "1161703918209597458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-25T13:24:31+08:00",
+  "source_url": "https://t.bilibili.com/1161703918209597458",
+  "plain_text": "下午处理一些工作！今晚7:40见～",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8b9dcc3d-51d4-46de-a794-645c42a0880e",
+    "next_uuid": "27db12a3-de3c-4f3a-b3be-ff6b52d049a4"
+  }
+}

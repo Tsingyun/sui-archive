@@ -1,0 +1,28 @@
+{
+  "uuid": "dce7b15e-a62d-4a4f-a773-2a62fed4bc10",
+  "platform_post_id": "1020130328543494147",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-09T01:06:41+08:00",
+  "source_url": "https://t.bilibili.com/1020130328543494147",
+  "plain_text": "晚安捏 我的灵魂净化术有没有起作用呢[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7034bf2-18b5-409c-9cab-3705f54f2bbd",
+    "next_uuid": "c756eec6-b56d-4bf2-9a35-263314c5e481"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f267202e-19ca-4abf-b67e-560cf07b1979",
+  "platform_post_id": "832535829309030417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-22T12:24:13+08:00",
+  "source_url": "https://t.bilibili.com/832535829309030417",
+  "plain_text": "你需要工作吗？我最近在招人喜欢🫰🌹\n七夕快乐！",
+  "images": [],
+  "stats": {
+    "likes": 464,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "82757b7c-1b4a-4575-b4a0-d7eb8cd641b1",
+    "next_uuid": "7fb56c26-ca49-4497-bc4c-6c45addee797"
+  }
+}

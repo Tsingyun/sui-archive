@@ -1,0 +1,28 @@
+{
+  "uuid": "b05c9258-c3f3-4316-b4d1-942bb6522fc7",
+  "platform_post_id": "738311879162593345",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-11T14:27:10+08:00",
+  "source_url": "https://t.bilibili.com/738311879162593345",
+  "plain_text": "不是 也太好笑了。可以当厕所读物，没事儿干的大家可以一看。怎么自己讲的自己看也还是很好笑啊？只能说这位作家确实妙笔生花",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a997422-2b8c-4ec1-b8d5-3c8dfce7c2c2",
+    "next_uuid": "58d95dbb-6a58-45ea-a6ed-905f720ac156"
+  }
+}

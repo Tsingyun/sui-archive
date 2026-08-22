@@ -1,0 +1,28 @@
+{
+  "uuid": "a9e1b5fa-2192-47ee-9a08-26a4a4edc96c",
+  "platform_post_id": "744267766158065684",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-27T15:39:03+08:00",
+  "source_url": "https://t.bilibili.com/744267766158065684",
+  "plain_text": "2023年1月20日后，只接收寄来的“纸质信件”。有需要的大家可以看看详细说明。",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f783b527-12d2-43fa-a65f-41c5c6f32977",
+    "next_uuid": "df2a8e8f-fb1e-40f6-9d89-af2c150be9b8"
+  }
+}

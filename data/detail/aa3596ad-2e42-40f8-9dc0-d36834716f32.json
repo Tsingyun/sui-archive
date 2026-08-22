@@ -1,0 +1,28 @@
+{
+  "uuid": "aa3596ad-2e42-40f8-9dc0-d36834716f32",
+  "platform_post_id": "877544926211997812",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-21T19:22:30+08:00",
+  "source_url": "https://t.bilibili.com/877544926211997812",
+  "plain_text": "7:40 聊唱一下然后今天玩一下神秘海域4",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4cd999ae-af0c-4271-bc99-6b4bd6a34118",
+    "next_uuid": "f0243fcd-1ba5-4031-9716-acfd3c180cea"
+  }
+}

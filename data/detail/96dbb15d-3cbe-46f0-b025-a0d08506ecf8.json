@@ -1,0 +1,28 @@
+{
+  "uuid": "96dbb15d-3cbe-46f0-b025-a0d08506ecf8",
+  "platform_post_id": "1118011877293555751",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-29T19:37:05+08:00",
+  "source_url": "https://t.bilibili.com/1118011877293555751",
+  "plain_text": "去攀岩了 正在回家路上 8:20来 今天唱歌+看烈日灼心吧？",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d88bbc98-fdb1-4f16-a0e8-db55989be99d",
+    "next_uuid": "7c526d8f-7495-4109-907b-4e30347589ba"
+  }
+}

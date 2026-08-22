@@ -1,0 +1,28 @@
+{
+  "uuid": "2208a667-775b-48a0-9aca-04c416507a4a",
+  "platform_post_id": "831140063716835331",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-18T18:07:56+08:00",
+  "source_url": "https://t.bilibili.com/831140063716835331",
+  "plain_text": "今天岁己休息哦哦哦",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d08f9279-dd2a-4828-ba85-4727a25b2e7a",
+    "next_uuid": "8a649111-b4cb-43c0-9637-20c7d98db83a"
+  }
+}

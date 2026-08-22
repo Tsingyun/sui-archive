@@ -1,0 +1,28 @@
+{
+  "uuid": "53b32dcc-d718-4101-87d8-5d4d5e354363",
+  "platform_post_id": "835880367601745924",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-31T12:42:44+08:00",
+  "source_url": "https://t.bilibili.com/835880367601745924",
+  "plain_text": "唱歌竟然大家都没人打call啊！真的痛哭流涕了 ed都没放就下播了！！太过分了\n原来是做梦 太过分了！梦里的bgs居然这样！",
+  "images": [],
+  "stats": {
+    "likes": 538,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "25c751d5-061a-443f-953f-700ce422b2aa",
+    "next_uuid": "135cbcba-2529-451c-889a-7fb1d2e8ee8e"
+  }
+}

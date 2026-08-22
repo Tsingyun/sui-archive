@@ -1,0 +1,28 @@
+{
+  "uuid": "adadf604-c60f-487a-a3cf-2079be47a953",
+  "platform_post_id": "898329522815893539",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-15T19:37:21+08:00",
+  "source_url": "https://t.bilibili.com/898329522815893539",
+  "plain_text": "我外卖马上才到！呜呜呜 7:50来然后看迷宫饭边吃？好吗好吗好嘛",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f5905ce-409d-4f2a-8201-af8e31634567",
+    "next_uuid": "f860bb87-8b8b-44cb-8a3b-73fa13f4c528"
+  }
+}

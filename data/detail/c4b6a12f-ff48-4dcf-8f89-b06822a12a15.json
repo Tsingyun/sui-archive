@@ -1,0 +1,28 @@
+{
+  "uuid": "c4b6a12f-ff48-4dcf-8f89-b06822a12a15",
+  "platform_post_id": "920965533751312384",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-16T19:36:38+08:00",
+  "source_url": "https://t.bilibili.com/920965533751312384",
+  "plain_text": "报！我要直播 7:50 聊天表哥",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ae22ce84-903b-4473-a270-28ab833e4e93",
+    "next_uuid": "827866ff-9fa4-433a-92a7-673940905afc"
+  }
+}

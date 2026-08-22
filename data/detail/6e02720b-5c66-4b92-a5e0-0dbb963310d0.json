@@ -1,0 +1,38 @@
+{
+  "uuid": "6e02720b-5c66-4b92-a5e0-0dbb963310d0",
+  "platform_post_id": "1105088350779342853",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-25T23:47:12+08:00",
+  "source_url": "https://t.bilibili.com/1105088350779342853",
+  "plain_text": "怎么了，有什么不明白的吗。说点好话的话也不是不能教教你\n",
+  "images": [
+    {
+      "filename": "1105088350779342853_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 1022726,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 815,
+    "comments": 75,
+    "forwards": 12,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b175b47-9f67-4286-84af-917d211f0c9d",
+    "next_uuid": "c75bc47a-ee23-4a75-ae5c-3c6384c04a55"
+  }
+}

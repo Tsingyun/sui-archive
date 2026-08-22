@@ -1,0 +1,28 @@
+{
+  "uuid": "76829be8-900b-40c0-adf5-508d18a670e6",
+  "platform_post_id": "850824912470802432",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-10T19:15:12+08:00",
+  "source_url": "https://t.bilibili.com/850824912470802432",
+  "plain_text": "天有不测风云！懂我意思吧  7:40",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a4c1a250-9cba-4dbb-9560-9c43f1222d65",
+    "next_uuid": "2575ac1e-58fb-4595-856a-ff0c52193aca"
+  }
+}

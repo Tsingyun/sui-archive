@@ -1,0 +1,28 @@
+{
+  "uuid": "7149315e-ecd6-4181-9014-125c92283a70",
+  "platform_post_id": "1119488856417107992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-03T19:08:31+08:00",
+  "source_url": "https://t.bilibili.com/1119488856417107992",
+  "plain_text": "7:40来唱唱聊聊~然后试玩一下生化奇兵",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "473ab210-c924-4ce0-afa1-c0ddee840318",
+    "next_uuid": "bc096d9e-bcae-4405-b0ff-7a31a901d1a6"
+  }
+}

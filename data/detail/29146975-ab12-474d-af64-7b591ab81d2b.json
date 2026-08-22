@@ -1,0 +1,28 @@
+{
+  "uuid": "29146975-ab12-474d-af64-7b591ab81d2b",
+  "platform_post_id": "1094627537000071173",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-28T19:13:54+08:00",
+  "source_url": "https://t.bilibili.com/1094627537000071173",
+  "plain_text": "7:40来哦小朋友们",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9ef9f415-62d7-4a3d-a486-85d74fa1a385",
+    "next_uuid": "7fc6d116-a609-4b0e-941d-e53ddd4646a7"
+  }
+}

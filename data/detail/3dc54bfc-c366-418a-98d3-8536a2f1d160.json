@@ -1,0 +1,38 @@
+{
+  "uuid": "3dc54bfc-c366-418a-98d3-8536a2f1d160",
+  "platform_post_id": "1112500613938151428",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-14T23:10:34+08:00",
+  "source_url": "https://t.bilibili.com/1112500613938151428",
+  "plain_text": "晚安！微博把好事说完了说点坏事，带的新衣服买大了，只能穿带来的旧衣服了[UPOWER_1954091502_分号分号]鞋子也忘记带了只有穿的这双运动鞋[UPOWER_1954091502_分号分号]附图今天看到的超大袋鼠蛋蛋，好像是真蛋做的[UPOWER_1954091502_烧烤一下]记得回我",
+  "images": [
+    {
+      "filename": "1112500613938151428_00@original.jpg",
+      "width": 1024,
+      "height": 747,
+      "file_size": 934703,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 309,
+    "comments": 84,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11eff6dc-6e81-4e0b-ae43-180f0221ac7f",
+    "next_uuid": "61dfd474-e204-4c30-915f-31f2989b1663"
+  }
+}

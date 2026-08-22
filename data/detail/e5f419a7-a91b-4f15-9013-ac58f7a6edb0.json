@@ -1,0 +1,28 @@
+{
+  "uuid": "e5f419a7-a91b-4f15-9013-ac58f7a6edb0",
+  "platform_post_id": "1029251962937278467",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-02T15:03:17+08:00",
+  "source_url": "https://t.bilibili.com/1029251962937278467",
+  "plain_text": "旁友，3:30唱歌聊天游戏的直播有的呢",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2306ef65-6e51-40da-8dbf-41e6b29767c4",
+    "next_uuid": "faf40e29-994b-459e-a3b2-c8232ce2bb86"
+  }
+}

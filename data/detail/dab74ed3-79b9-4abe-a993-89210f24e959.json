@@ -1,0 +1,28 @@
+{
+  "uuid": "dab74ed3-79b9-4abe-a993-89210f24e959",
+  "platform_post_id": "1131369599290310660",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-04T19:31:52+08:00",
+  "source_url": "https://t.bilibili.com/1131369599290310660",
+  "plain_text": "十五分钟后来，你呢，别迟到！",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d8ce8746-f9d2-48ac-b7a1-e049d38031a4",
+    "next_uuid": "d35eeedc-04bf-4012-bacb-1b5d01ef48bd"
+  }
+}

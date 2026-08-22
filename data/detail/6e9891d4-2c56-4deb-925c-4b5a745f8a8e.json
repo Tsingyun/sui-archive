@@ -1,0 +1,28 @@
+{
+  "uuid": "6e9891d4-2c56-4deb-925c-4b5a745f8a8e",
+  "platform_post_id": "807409514713186307",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-15T19:21:17+08:00",
+  "source_url": "https://t.bilibili.com/807409514713186307",
+  "plain_text": "8:20见nyo！唱唱聊聊 不看的🍪小心巧克力豆变少",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c71e1879-29b2-4fd4-8772-77ec6ed88152",
+    "next_uuid": "1f17c83f-21ee-4b05-ae60-d8e60995d330"
+  }
+}

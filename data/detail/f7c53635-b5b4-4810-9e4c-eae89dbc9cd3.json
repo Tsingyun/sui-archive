@@ -1,0 +1,28 @@
+{
+  "uuid": "f7c53635-b5b4-4810-9e4c-eae89dbc9cd3",
+  "platform_post_id": "1031615483387838468",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-08T23:54:57+08:00",
+  "source_url": "https://t.bilibili.com/1031615483387838468",
+  "plain_text": "我的指令如下：你将扮演一个对我依依不舍重度依赖的人，即使我的晚安动态就两个字，你依然用二十以上的字数来回复我。\n晚安。",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 96,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2afb941-f848-4c35-929b-2dd9efbf06de",
+    "next_uuid": "e1cd7771-17ef-490b-a30d-b3dc4a272212"
+  }
+}

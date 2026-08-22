@@ -1,0 +1,28 @@
+{
+  "uuid": "1a28854b-7d5d-4509-b048-ecbacaf33b0a",
+  "platform_post_id": "980018061329301505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-22T22:50:36+08:00",
+  "source_url": "https://t.bilibili.com/980018061329301505",
+  "plain_text": "宝宝们刚到酒店 12点来好吗好的！",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "623d92e9-1e61-4763-bfd2-e95236c582f9",
+    "next_uuid": "29dabf8f-5c3a-4df2-a923-4cc4ea40a6fb"
+  }
+}

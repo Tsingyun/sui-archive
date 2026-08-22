@@ -1,0 +1,28 @@
+{
+  "uuid": "02599723-e052-4e40-9510-3a85a50f56e0",
+  "platform_post_id": "1141758115856777218",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-02T19:24:37+08:00",
+  "source_url": "https://t.bilibili.com/1141758115856777218",
+  "plain_text": "来了来了 7:50来播[UPOWER_1954091502_烧烤一下]",
+  "images": [],
+  "stats": {
+    "likes": 182,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e84d9609-b86f-4daf-9751-c470b731f095",
+    "next_uuid": "ebd8a033-5bf4-485c-9af7-947f245edf55"
+  }
+}

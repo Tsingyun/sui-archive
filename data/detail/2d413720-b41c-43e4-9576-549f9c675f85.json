@@ -1,0 +1,28 @@
+{
+  "uuid": "2d413720-b41c-43e4-9576-549f9c675f85",
+  "platform_post_id": "798028876894699521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-21T12:39:37+08:00",
+  "source_url": "https://t.bilibili.com/798028876894699521",
+  "plain_text": "我现在分明是岁姐姐人格在很宠溺地！说早上好，你们还非要岁叔，是不是忘不掉他啊？饼干岁什么爱好我真不好说了",
+  "images": [],
+  "stats": {
+    "likes": 480,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb05b172-daac-4a27-8769-b69b49e51d46",
+    "next_uuid": "7c8d9b3c-eb6f-49b6-9d5b-6f1cf057f831"
+  }
+}

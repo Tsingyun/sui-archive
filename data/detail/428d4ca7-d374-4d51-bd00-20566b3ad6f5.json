@@ -1,0 +1,56 @@
+{
+  "uuid": "428d4ca7-d374-4d51-bd00-20566b3ad6f5",
+  "platform_post_id": "935542910478188544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-05-26T02:24:18+08:00",
+  "source_url": "https://t.bilibili.com/935542910478188544",
+  "plain_text": "帅帅滴",
+  "images": [
+    {
+      "filename": "935542910478188544_100@repost.jpg",
+      "width": 3000,
+      "height": 4000,
+      "file_size": 3555398,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "935542910478188544_101@repost.jpg",
+      "width": 3000,
+      "height": 4000,
+      "file_size": 3792172,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "935542910478188544_102@repost.jpg",
+      "width": 3000,
+      "height": 4000,
+      "file_size": 3142980,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 256,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "庸医密汤",
+    "author_url": "https://space.bilibili.com/3096889",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b1bc80d1-883c-4501-baa6-dad05084533f",
+    "next_uuid": "0c5a473f-46a0-4452-a4d4-d6a647be7487"
+  }
+}

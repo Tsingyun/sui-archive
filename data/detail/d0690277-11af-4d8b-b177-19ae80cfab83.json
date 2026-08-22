@@ -1,0 +1,28 @@
+{
+  "uuid": "d0690277-11af-4d8b-b177-19ae80cfab83",
+  "platform_post_id": "899798551915135049",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-19T18:37:56+08:00",
+  "source_url": "https://t.bilibili.com/899798551915135049",
+  "plain_text": "7:35 唱聊一会然后今天能看罪恶王冠喽！来一起看看我最喜欢的女角色",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ceff71cc-2efb-4b94-af56-fa89b17908b0",
+    "next_uuid": "cd109e30-e658-4ab0-ba14-285a5f372755"
+  }
+}

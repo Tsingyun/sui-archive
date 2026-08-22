@@ -1,0 +1,28 @@
+{
+  "uuid": "8222952d-0017-41d5-a12a-d5793563cc0d",
+  "platform_post_id": "871298922771906564",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-04T23:24:49+08:00",
+  "source_url": "https://t.bilibili.com/871298922771906564",
+  "plain_text": "岁己跟你说晚安",
+  "images": [],
+  "stats": {
+    "likes": 454,
+    "comments": 93,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4b8b6dd1-ef50-4416-b5f3-b44b7bf24ead",
+    "next_uuid": "1af3d05b-8c0f-4bda-92f1-5e690dcd748f"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "06bbcc0a-cb11-410e-8744-84ce5aebd556",
+  "platform_post_id": "894553473440284679",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-05T15:24:21+08:00",
+  "source_url": "https://t.bilibili.com/894553473440284679",
+  "plain_text": "耶！好可爱的说",
+  "images": [
+    {
+      "filename": "894553473440284679_100@repost.png",
+      "width": 950,
+      "height": 950,
+      "file_size": 611457,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 543,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VirtuaReal",
+    "author_url": "https://space.bilibili.com/413748120",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7bfd8966-a7a4-4da8-a54e-f02fa1d3230e",
+    "next_uuid": "2f30d54b-4238-4c19-b549-eadf36e60edf"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ce2987cb-9573-4042-a083-741c932d8758",
+  "platform_post_id": "874187533112573969",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-12T18:14:06+08:00",
+  "source_url": "https://t.bilibili.com/874187533112573969",
+  "plain_text": "7:10分看看大家给我投了些什么东东\nhttps://pome.vip/Gz75k7hF",
+  "images": [],
+  "stats": {
+    "likes": 266,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c2457c78-6f38-42ca-bd2f-f5277ccdd059",
+    "next_uuid": "b8ce5d5c-5ec0-49da-98ee-34b7f29b35d7"
+  }
+}

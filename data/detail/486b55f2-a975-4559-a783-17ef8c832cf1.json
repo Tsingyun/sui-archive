@@ -1,0 +1,28 @@
+{
+  "uuid": "486b55f2-a975-4559-a783-17ef8c832cf1",
+  "platform_post_id": "947314398142136345",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-26T19:43:41+08:00",
+  "source_url": "https://t.bilibili.com/947314398142136345",
+  "plain_text": "直播at十分钟后 今天干嘛你说",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b9fead80-069c-4583-9ff3-f6c5fb564882",
+    "next_uuid": "f01abb5d-fa2c-4b47-8de6-71aeafc415fa"
+  }
+}

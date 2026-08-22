@@ -1,0 +1,28 @@
+{
+  "uuid": "369f6b2a-7c09-4462-90f9-d67de2ef17f2",
+  "platform_post_id": "881291894344122401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-31T21:42:39+08:00",
+  "source_url": "https://t.bilibili.com/881291894344122401",
+  "plain_text": "孩子们 一直工作没看时间忘记吃饭了 10点见 别夸我我会不好意思的",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 45,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68e364f2-484c-4263-acda-09cef11d07c0",
+    "next_uuid": "2098369f-e9c2-44be-ae8e-be95440c1ff2"
+  }
+}

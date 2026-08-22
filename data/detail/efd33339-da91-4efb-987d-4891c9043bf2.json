@@ -1,0 +1,28 @@
+{
+  "uuid": "efd33339-da91-4efb-987d-4891c9043bf2",
+  "platform_post_id": "759248509016735817",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-06T00:31:59+08:00",
+  "source_url": "https://t.bilibili.com/759248509016735817",
+  "plain_text": "度过了最棒的生日！明天见，然后明天的明天也见，明天的明天的明天也要见，以后无数个明天都一起过吧大家！",
+  "images": [],
+  "stats": {
+    "likes": 663,
+    "comments": 71,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b70a1c85-6a46-4d98-b209-b5f3162d49d3",
+    "next_uuid": "876a4934-565a-4a8f-a9a2-0bff6efded13"
+  }
+}

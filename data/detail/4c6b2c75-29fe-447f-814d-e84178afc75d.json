@@ -1,0 +1,38 @@
+{
+  "uuid": "4c6b2c75-29fe-447f-814d-e84178afc75d",
+  "platform_post_id": "858501638217793560",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-31T11:44:49+08:00",
+  "source_url": "https://t.bilibili.com/858501638217793560",
+  "plain_text": "变心的饼干岁我啃啃啃！",
+  "images": [
+    {
+      "filename": "858501638217793560_100@repost.jpg",
+      "width": 1080,
+      "height": 1090,
+      "file_size": 748906,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 244,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "胶胶胶丶",
+    "author_url": "https://space.bilibili.com/255246359",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "965152f7-ea97-4bb4-a328-573ec21bb554",
+    "next_uuid": "96366fc9-114c-424f-b91e-23f08aa39402"
+  }
+}

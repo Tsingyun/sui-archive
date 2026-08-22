@@ -1,0 +1,28 @@
+{
+  "uuid": "c369e0f5-f39a-4525-b617-7cf19bff318e",
+  "platform_post_id": "964084939527028770",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-11T00:21:57+08:00",
+  "source_url": "https://t.bilibili.com/964084939527028770",
+  "plain_text": "晚安，你到家了吗，今天你开心吗。我们明天见！",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7d236ac-ddba-4b50-82a9-390b25e61f9d",
+    "next_uuid": "19cd06df-a62a-4d36-8683-a008e05fc45a"
+  }
+}

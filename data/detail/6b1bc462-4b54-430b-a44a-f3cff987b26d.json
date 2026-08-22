@@ -1,0 +1,28 @@
+{
+  "uuid": "6b1bc462-4b54-430b-a44a-f3cff987b26d",
+  "platform_post_id": "1185252970481057793",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-30T00:26:52+08:00",
+  "source_url": "https://t.bilibili.com/1185252970481057793",
+  "plain_text": "饼大人，工作一晚上了，你看下这个晚安什么时候发放一下…",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e311711-126f-4d2d-a863-468a8be0ea0d",
+    "next_uuid": "a56c2228-3825-4014-8583-4f79d64d6f55"
+  }
+}

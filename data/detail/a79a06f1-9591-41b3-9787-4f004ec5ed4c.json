@@ -1,0 +1,28 @@
+{
+  "uuid": "a79a06f1-9591-41b3-9787-4f004ec5ed4c",
+  "platform_post_id": "1086530883709566996",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-06T23:34:45+08:00",
+  "source_url": "https://t.bilibili.com/1086530883709566996",
+  "plain_text": "[UPOWER_1954091502_波比波比]我晚安呢",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "33beadfa-110d-4fc4-b753-09db5db0984e",
+    "next_uuid": "c6c77b4c-72a4-4f14-a899-fbba5819e62c"
+  }
+}

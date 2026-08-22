@@ -1,0 +1,38 @@
+{
+  "uuid": "261bf6bf-4163-45d1-8cce-688f515cf47c",
+  "platform_post_id": "885659553939587110",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-01-12T16:11:24+08:00",
+  "source_url": "https://t.bilibili.com/885659553939587110",
+  "plain_text": "俺看不懂这上面写啥，谁哪个聪明蛋能给我讲讲写的啥",
+  "images": [
+    {
+      "filename": "885659553939587110_100@repost.png",
+      "width": 1200,
+      "height": 7800,
+      "file_size": 5970497,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 541,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "✨「岁己SUI首次3D演出」✨\n1月12日晚20:00\n✨终于能让大家看到3D的岁己了！\n为了3D花了很多时间努力，也从零基础开始学了好多舞，好想让大家看到闪闪发光的自己\n或许是岁己的人生中最重要的一天也说不定\n希望你一定要来！\n\n\n",
+    "source_url": "https://t.bilibili.com/884160253893017637"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "40455fbb-2b61-4012-84e4-0dc2993b2b05",
+    "next_uuid": "6232911a-3398-4b67-b12e-d014d34c0de2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b9fead80-069c-4583-9ff3-f6c5fb564882",
+  "platform_post_id": "947014476069077008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-26T00:19:50+08:00",
+  "source_url": "https://t.bilibili.com/947014476069077008",
+  "plain_text": "今天和你聊的很开心，晚安🍪🍪🍪🍪🍪🍪🍪😋🍪🍪🍪🍪🍪",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "83c662fc-e2c7-476a-b046-3e7b33f88858",
+    "next_uuid": "486b55f2-a975-4559-a783-17ef8c832cf1"
+  }
+}

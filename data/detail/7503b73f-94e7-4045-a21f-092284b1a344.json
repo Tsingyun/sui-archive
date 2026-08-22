@@ -1,0 +1,28 @@
+{
+  "uuid": "7503b73f-94e7-4045-a21f-092284b1a344",
+  "platform_post_id": "1170343957889024024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-17T20:12:17+08:00",
+  "source_url": "https://t.bilibili.com/1170343957889024024",
+  "plain_text": "8:20来吧！今天你想干嘛你说",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71a92f42-cbbd-4c0c-a453-636a21e734a5",
+    "next_uuid": "00e1ce19-fb1d-40b2-880f-2a3d51372016"
+  }
+}

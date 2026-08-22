@@ -1,0 +1,28 @@
+{
+  "uuid": "f7a90aba-2ce2-449a-b8d4-9eca6b2ce35a",
+  "platform_post_id": "1217093169342054404",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-23T19:43:06+08:00",
+  "source_url": "https://t.bilibili.com/1217093169342054404",
+  "plain_text": "来了来了赶来了 7:52见！今天唱聊空洞？",
+  "images": [],
+  "stats": {
+    "likes": 183,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fda194b2-dda0-4fd0-a807-a88d9a2c398d",
+    "next_uuid": "bc128c56-b71f-44c9-8512-64bbe190986d"
+  }
+}

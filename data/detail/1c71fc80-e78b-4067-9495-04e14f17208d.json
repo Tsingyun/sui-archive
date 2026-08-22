@@ -1,0 +1,28 @@
+{
+  "uuid": "1c71fc80-e78b-4067-9495-04e14f17208d",
+  "platform_post_id": "1069834795361501206",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-22T23:45:24+08:00",
+  "source_url": "https://t.bilibili.com/1069834795361501206",
+  "plain_text": "感觉好累喔 晚安大家 要早点休息[岁己收藏集表情包_倒了]",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "82de1eba-70d3-4e73-9ad3-9d9b5034d4b0",
+    "next_uuid": "7f59c6f3-b966-4e2b-9ea7-ccd833fe3d0c"
+  }
+}

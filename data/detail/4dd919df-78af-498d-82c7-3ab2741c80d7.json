@@ -1,0 +1,38 @@
+{
+  "uuid": "4dd919df-78af-498d-82c7-3ab2741c80d7",
+  "platform_post_id": "925788120604999718",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-04-29T19:30:44+08:00",
+  "source_url": "https://t.bilibili.com/925788120604999718",
+  "plain_text": "[小A和小B_应援]征集学生时代发生的好笑/尴尬/中二的事情！\n或者遇到的奇葩/神奇/风云人物\n麻烦字数最好限制在800以内！\n投稿至：https://pome.vip/Gz75k7hF 或者邮箱suiji11@qq.com\n截止时间5月4日下午5点 \n再用一次这个图\n",
+  "images": [
+    {
+      "filename": "925788120604999718_00@original.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 368,
+    "comments": 78,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b44a695e-78a0-4a07-92ae-a94ff10ea64e",
+    "next_uuid": "8fde4669-c557-4714-843b-dbc60e14bf56"
+  }
+}

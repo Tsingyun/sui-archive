@@ -1,0 +1,28 @@
+{
+  "uuid": "9ac32351-ac64-4b70-8eba-1c73dc9e35a3",
+  "platform_post_id": "1089866136266211331",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-15T23:17:14+08:00",
+  "source_url": "https://t.bilibili.com/1089866136266211331",
+  "plain_text": "恭喜你抽中一等奖 回复岁己晚安动态资格*1",
+  "images": [],
+  "stats": {
+    "likes": 323,
+    "comments": 76,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d2125c0-936a-48db-8ad4-2e0bc06ac55a",
+    "next_uuid": "66ea80a2-de26-433b-858f-26a7bc11deb6"
+  }
+}

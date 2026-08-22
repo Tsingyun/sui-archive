@@ -1,0 +1,28 @@
+{
+  "uuid": "040aa107-dc41-4162-bc50-f68e649d4abb",
+  "platform_post_id": "1092490438636470277",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-23T01:00:52+08:00",
+  "source_url": "https://t.bilibili.com/1092490438636470277",
+  "plain_text": "老板，今天上工好辛苦啊，有没有晚安神券可以拿",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5a0b6e8a-fd04-47e5-9443-b1696b8a90bb",
+    "next_uuid": "8bd5913d-eed8-45dc-8216-d825f6a60f6e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b8ce5d5c-5ec0-49da-98ee-34b7f29b35d7",
+  "platform_post_id": "874265864712486949",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-12T23:18:04+08:00",
+  "source_url": "https://t.bilibili.com/874265864712486949",
+  "plain_text": "嗓子冒烟了！晚安晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 96,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce2987cb-9573-4042-a083-741c932d8758",
+    "next_uuid": "e4295429-2f77-4c62-83eb-aa399137efdd"
+  }
+}

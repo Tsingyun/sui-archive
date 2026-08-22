@@ -1,0 +1,28 @@
+{
+  "uuid": "13bde8cd-53e1-4b8b-a2db-a5b9fabaf41a",
+  "platform_post_id": "985985183903645719",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-09T00:46:05+08:00",
+  "source_url": "https://t.bilibili.com/985985183903645719",
+  "plain_text": "感觉有小偷，把我的时间都偷走了啊啊啊啊晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "67521b81-ccad-4f2b-a2e0-4944925f6d15",
+    "next_uuid": "3e32917a-efde-436f-a8fa-0f6bac1e0c5f"
+  }
+}

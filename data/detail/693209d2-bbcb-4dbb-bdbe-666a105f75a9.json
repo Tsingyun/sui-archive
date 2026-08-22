@@ -1,0 +1,28 @@
+{
+  "uuid": "693209d2-bbcb-4dbb-bdbe-666a105f75a9",
+  "platform_post_id": "1198977637271207945",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-06T00:05:35+08:00",
+  "source_url": "https://t.bilibili.com/1198977637271207945",
+  "plain_text": "哈哈饼干岁跟不跟小岁说晚安都可以的呀（掏枪",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92ece291-d1cb-4a15-a488-40b11b8b8c82",
+    "next_uuid": "b3250eca-2dfd-4b35-be9f-e1c77ce6bfc2"
+  }
+}

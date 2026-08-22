@@ -1,0 +1,38 @@
+{
+  "uuid": "6294b37d-f49e-41cf-b192-dbb82b9a3690",
+  "platform_post_id": "834450577289117782",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-27T16:14:25+08:00",
+  "source_url": "https://t.bilibili.com/834450577289117782",
+  "plain_text": "cute捏",
+  "images": [
+    {
+      "filename": "834450577289117782_100@repost.jpg",
+      "width": 1000,
+      "height": 1000,
+      "file_size": 492826,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 276,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "麦麦脆汁鸡Ro5",
+    "author_url": "https://space.bilibili.com/37441530",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "498388df-e582-4cf9-8b93-fdfca503a220",
+    "next_uuid": "2641b369-0ed9-461b-9de5-dffec77f76d8"
+  }
+}

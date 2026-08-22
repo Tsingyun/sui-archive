@@ -1,0 +1,38 @@
+{
+  "uuid": "7c57c1c3-8a89-4b2f-a4ef-d433ebd91f04",
+  "platform_post_id": "917313170883739670",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-04-06T23:23:36+08:00",
+  "source_url": "https://t.bilibili.com/917313170883739670",
+  "plain_text": "饼干岁…晚安的说",
+  "images": [
+    {
+      "filename": "917313170883739670_00@original.jpg",
+      "width": 827,
+      "height": 827,
+      "file_size": 130751,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 484,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb3c40fc-f928-47b5-9cb8-c2a01c42b174",
+    "next_uuid": "2aafeecc-5db8-437b-8aca-d72f9dca4514"
+  }
+}

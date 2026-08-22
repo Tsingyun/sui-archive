@@ -1,0 +1,28 @@
+{
+  "uuid": "c4ed0fc0-e57e-42a1-91b3-0c4613206b3c",
+  "platform_post_id": "827333825044414480",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-08T11:57:47+08:00",
+  "source_url": "https://t.bilibili.com/827333825044414480",
+  "plain_text": "大家大家大家大家大家大家啊！！！\n没事，只是想跟你说早上好的说o(＝•𖥦＜=)",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "46d61632-7eef-41c8-9090-db0e4f410a7e",
+    "next_uuid": "24127371-965e-4475-851d-2f7b4beb43e8"
+  }
+}

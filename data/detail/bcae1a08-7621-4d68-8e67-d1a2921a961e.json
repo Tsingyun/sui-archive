@@ -1,0 +1,28 @@
+{
+  "uuid": "bcae1a08-7621-4d68-8e67-d1a2921a961e",
+  "platform_post_id": "898693972261601283",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-16T19:11:36+08:00",
+  "source_url": "https://t.bilibili.com/898693972261601283",
+  "plain_text": "7：40先唱唱聊聊然后神秘海域哈哈",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3867a9e3-8a5b-4647-a0ec-de97154789d9",
+    "next_uuid": "17583301-7b94-4988-9c3d-bb07099cd39c"
+  }
+}

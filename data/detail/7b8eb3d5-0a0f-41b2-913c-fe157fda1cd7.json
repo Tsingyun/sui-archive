@@ -1,0 +1,28 @@
+{
+  "uuid": "7b8eb3d5-0a0f-41b2-913c-fe157fda1cd7",
+  "platform_post_id": "810382229074083844",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-23T19:36:56+08:00",
+  "source_url": "https://t.bilibili.com/810382229074083844",
+  "plain_text": "今天要不先唱两首然后一起看电影？有没有好看的想看的！！",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c9730df2-03db-4cfb-9ba3-9c33280a314a",
+    "next_uuid": "6f551f8b-baee-4679-80e4-f2e7e2506606"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f6b6c6f2-2c5a-43c3-8d4d-d4a10a995d48",
+  "platform_post_id": "737643857134485576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-09T19:14:54+08:00",
+  "source_url": "https://t.bilibili.com/737643857134485576",
+  "plain_text": "今晚忙工作，累了ed了，就不来了，饼干岁也调理一下，我们明晚见吧，会狠狠想大家的！",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f39de62d-da13-45f2-bbc5-5c66aa23c81f",
+    "next_uuid": "661af3a3-9a4e-48a3-a258-0a5e9e4198a3"
+  }
+}

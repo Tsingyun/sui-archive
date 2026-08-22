@@ -1,0 +1,28 @@
+{
+  "uuid": "4498cbe1-1cd8-48ad-a968-2d3c389c2dab",
+  "platform_post_id": "1169309390477459491",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-15T01:17:38+08:00",
+  "source_url": "https://t.bilibili.com/1169309390477459491",
+  "plain_text": "聊了很多的一天~希望今天的我们也能成为未来有一天回忆起来的笑谈 晚安的说！",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2fca1730-2b02-4d17-bf33-0d8b9fcc439f",
+    "next_uuid": "5ac19d15-218a-4c4c-b882-3d446f2f0380"
+  }
+}

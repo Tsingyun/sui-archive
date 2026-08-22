@@ -1,0 +1,28 @@
+{
+  "uuid": "090e03b2-5e37-4cec-8cbd-bcf4c3f591b5",
+  "platform_post_id": "802939896873353239",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-03T18:16:53+08:00",
+  "source_url": "https://t.bilibili.com/802939896873353239",
+  "plain_text": "要不休了吧今天 休",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "532468e5-66d3-4e03-a876-e978d11a7c51",
+    "next_uuid": "3781768c-8b19-451e-ad87-51503f090610"
+  }
+}

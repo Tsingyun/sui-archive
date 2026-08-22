@@ -1,0 +1,28 @@
+{
+  "uuid": "d8da395f-7f06-4996-8d5b-7accb54ed03d",
+  "platform_post_id": "816006441521381494",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-08T23:21:45+08:00",
+  "source_url": "https://t.bilibili.com/816006441521381494",
+  "plain_text": "哎哟 播个电台？也不知道说啥捏 10分钟后见吧就",
+  "images": [],
+  "stats": {
+    "likes": 348,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e01d70a2-abb0-4b6c-a934-7df6db38a004",
+    "next_uuid": "b0544628-28e4-450a-8cc8-59803457d1bc"
+  }
+}

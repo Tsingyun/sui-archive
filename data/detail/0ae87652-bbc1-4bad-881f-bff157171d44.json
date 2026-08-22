@@ -1,0 +1,28 @@
+{
+  "uuid": "0ae87652-bbc1-4bad-881f-bff157171d44",
+  "platform_post_id": "785872418568667154",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-18T18:26:21+08:00",
+  "source_url": "https://t.bilibili.com/785872418568667154",
+  "plain_text": "你上了一天班 脏脏臭臭的 需要晚上8点准时收看岁己的直播才能净化 🙏[UP_1954091502_牛]大概是小唱小聊",
+  "images": [],
+  "stats": {
+    "likes": 439,
+    "comments": 45,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e97e9f0a-ab08-42ee-b38e-9e2965087f5a",
+    "next_uuid": "bf7a0a46-e87f-445a-92bb-2e9d3b5dcae4"
+  }
+}

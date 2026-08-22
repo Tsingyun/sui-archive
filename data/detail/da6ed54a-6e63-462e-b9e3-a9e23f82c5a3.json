@@ -1,0 +1,38 @@
+{
+  "uuid": "da6ed54a-6e63-462e-b9e3-a9e23f82c5a3",
+  "platform_post_id": "957769374835408902",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-07-24T23:54:20+08:00",
+  "source_url": "https://t.bilibili.com/957769374835408902",
+  "plain_text": "一起睡觉了 碗安",
+  "images": [
+    {
+      "filename": "957769374835408902_00@original.jpg",
+      "width": 1168,
+      "height": 2376,
+      "file_size": 488583,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 592,
+    "comments": 87,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1cf38af2-f2ac-4db4-b563-24ee58676816",
+    "next_uuid": "7e0939b5-d4fc-448c-9328-a22c8a998ecf"
+  }
+}

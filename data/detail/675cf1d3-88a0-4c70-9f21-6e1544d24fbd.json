@@ -1,0 +1,38 @@
+{
+  "uuid": "675cf1d3-88a0-4c70-9f21-6e1544d24fbd",
+  "platform_post_id": "774316615785250883",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-03-18T15:03:56+08:00",
+  "source_url": "https://t.bilibili.com/774316615785250883",
+  "plain_text": "晚8with和小悠同学",
+  "images": [
+    {
+      "filename": "774316615785250883_100@repost.jpg",
+      "width": 1146,
+      "height": 717,
+      "file_size": 666257,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 310,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "悠亚Yua",
+    "author_url": "https://space.bilibili.com/666726799",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2ffc94e2-e547-481b-be95-e5d12ad469a3",
+    "next_uuid": "28df4c41-039e-4525-bf83-2ad8c10ad6d5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8b506386-86e7-46d0-a2d5-b97572ff0c98",
+  "platform_post_id": "1124761521530863625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-18T00:09:09+08:00",
+  "source_url": "https://t.bilibili.com/1124761521530863625",
+  "plain_text": "昨天谢你晚安的时候把今天的份也一起谢了的，你不会不给我吧[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "41c9fa53-bb12-4e62-94bd-10f952ea02b3",
+    "next_uuid": "2305d3f3-8b50-4bfc-bef2-a0173d4dba91"
+  }
+}

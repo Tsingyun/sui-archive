@@ -1,0 +1,28 @@
+{
+  "uuid": "cd101b72-696a-47c2-8179-12a0351bda7a",
+  "platform_post_id": "826034013341745174",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-04T23:53:51+08:00",
+  "source_url": "https://t.bilibili.com/826034013341745174",
+  "plain_text": "不会真信了不说晚安吧 不会这么狠心yo\n晚安yo",
+  "images": [],
+  "stats": {
+    "likes": 438,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "411d0865-ad46-4c61-8c42-b135888f0a43",
+    "next_uuid": "9f0d10ba-a68c-4dc4-bd25-0a1378f6d01d"
+  }
+}

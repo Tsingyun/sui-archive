@@ -1,0 +1,28 @@
+{
+  "uuid": "b3250eca-2dfd-4b35-be9f-e1c77ce6bfc2",
+  "platform_post_id": "1199202014947442724",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-06T14:36:17+08:00",
+  "source_url": "https://t.bilibili.com/1199202014947442724",
+  "plain_text": "2:45来竞拍之王 试试好玩吗！",
+  "images": [],
+  "stats": {
+    "likes": 173,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "693209d2-bbcb-4dbb-bdbe-666a105f75a9",
+    "next_uuid": "4fcca91d-0b4e-4eb3-a4ae-a901b7b273b5"
+  }
+}

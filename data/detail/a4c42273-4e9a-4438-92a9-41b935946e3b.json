@@ -1,0 +1,38 @@
+{
+  "uuid": "a4c42273-4e9a-4438-92a9-41b935946e3b",
+  "platform_post_id": "890869710065762322",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-01-26T17:09:28+08:00",
+  "source_url": "https://t.bilibili.com/890869710065762322",
+  "plain_text": "大家好，我是岁己SUI\n这次和@690608709 @4578433一起参加斗地主大赛！希望能取得好成绩\n",
+  "images": [
+    {
+      "filename": "890869710065762322_00@original.jpg",
+      "width": 1080,
+      "height": 1791,
+      "file_size": 743034,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 345,
+    "comments": 42,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3cf5859b-4491-469b-8611-c0a86baaa05e",
+    "next_uuid": "5ee6aa55-4123-4caf-a3cf-3a1f7816b075"
+  }
+}

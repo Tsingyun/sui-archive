@@ -1,0 +1,28 @@
+{
+  "uuid": "d98f4041-d9a0-44b5-933f-7764296939ae",
+  "platform_post_id": "1041601583015526421",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-07T21:46:07+08:00",
+  "source_url": "https://t.bilibili.com/1041601583015526421",
+  "plain_text": "晚安 好难过 好开心 好难过 好开心 [UP_1954091502_哭哭]",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3e8b178-f3a3-42b5-92d7-dafda426fe7c",
+    "next_uuid": "0d3e931e-678e-4d87-b2fc-e851204c30f8"
+  }
+}

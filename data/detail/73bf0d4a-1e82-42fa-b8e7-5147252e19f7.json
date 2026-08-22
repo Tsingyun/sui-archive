@@ -1,0 +1,28 @@
+{
+  "uuid": "73bf0d4a-1e82-42fa-b8e7-5147252e19f7",
+  "platform_post_id": "1044169612714835970",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-14T19:51:23+08:00",
+  "source_url": "https://t.bilibili.com/1044169612714835970",
+  "plain_text": "还在外面，8:30来哦！！！！",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73adacb5-25ba-4d7e-9dc3-b631511acdb9",
+    "next_uuid": "be78c2a6-d728-4267-8447-5f727bb5a7d6"
+  }
+}

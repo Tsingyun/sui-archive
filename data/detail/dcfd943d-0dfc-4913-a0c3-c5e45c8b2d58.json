@@ -1,0 +1,28 @@
+{
+  "uuid": "dcfd943d-0dfc-4913-a0c3-c5e45c8b2d58",
+  "platform_post_id": "763152638575378469",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-16T13:02:00+08:00",
+  "source_url": "https://t.bilibili.com/763152638575378469",
+  "plain_text": "早。八点起床上了个厕所就一直冷着睡到现在，怎么蜷缩都冷冷冷，为什么身体没有再次变得温暖的功能啊",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ee60af8-a726-42e3-a437-ca2bdfec152c",
+    "next_uuid": "5151dd8d-44a2-496b-b23f-2ae648440569"
+  }
+}

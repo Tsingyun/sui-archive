@@ -1,0 +1,28 @@
+{
+  "uuid": "620af82b-ae5d-48d1-a06f-52d505df5a32",
+  "platform_post_id": "1225324057583419400",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-16T00:03:09+08:00",
+  "source_url": "https://t.bilibili.com/1225324057583419400",
+  "plain_text": "饼饼的干你今天过得怎么样，我今天过得特别运动系少女呀。晚安呢",
+  "images": [],
+  "stats": {
+    "likes": 181,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "880732dd-584c-4fed-b4c9-30c09aa42dbf",
+    "next_uuid": "fb901029-45b7-4537-89d0-4e0ab0799d95"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c9b82bbf-938d-4282-85bf-85c2fdad52f0",
+  "platform_post_id": "1167274125686734850",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-09T13:39:46+08:00",
+  "source_url": "https://t.bilibili.com/1167274125686734850",
+  "plain_text": "没睡好偏头痛了（左头）\n下午请假一下，晚上再来[岁己收藏集表情包_倒了]",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f00f6edd-b67e-4350-b7ee-c8fd5ed3cc17",
+    "next_uuid": "b7f205af-858b-47cb-b602-4fc488df8bab"
+  }
+}

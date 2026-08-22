@@ -1,0 +1,28 @@
+{
+  "uuid": "11a003ce-bf98-4c45-824e-b2076a9df53b",
+  "platform_post_id": "1109474981300928519",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-06T19:29:34+08:00",
+  "source_url": "https://t.bilibili.com/1109474981300928519",
+  "plain_text": "今天8:30来小小梦魇吧[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2680431-45f6-4ebb-bde6-e0c557aaf152",
+    "next_uuid": "b82dffcf-954b-4663-838f-ff0df7779919"
+  }
+}

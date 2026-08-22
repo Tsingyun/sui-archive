@@ -1,0 +1,28 @@
+{
+  "uuid": "160fff31-71e9-4700-bba6-d2d8b5a87641",
+  "platform_post_id": "1116533661240393730",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-25T20:00:51+08:00",
+  "source_url": "https://t.bilibili.com/1116533661240393730",
+  "plain_text": "刚到家～8:10来～～",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f8a0d8e6-0b32-4706-8b9b-9116aa4117b3",
+    "next_uuid": "46ab46bd-15b9-42d8-8082-9e77feca214d"
+  }
+}

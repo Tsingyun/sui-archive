@@ -1,0 +1,28 @@
+{
+  "uuid": "9d3ab216-4aad-46f7-9b76-f8bcd89fd4b4",
+  "platform_post_id": "859350882105425923",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-02T18:40:19+08:00",
+  "source_url": "https://t.bilibili.com/859350882105425923",
+  "plain_text": "7点！！！",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c7653d0-523c-46b9-844c-a8ecdd1c9358",
+    "next_uuid": "2afbf7d3-6a68-4771-86da-2521e61c2177"
+  }
+}

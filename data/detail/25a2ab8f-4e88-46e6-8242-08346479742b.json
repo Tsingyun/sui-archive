@@ -1,0 +1,38 @@
+{
+  "uuid": "25a2ab8f-4e88-46e6-8242-08346479742b",
+  "platform_post_id": "973613668093657094",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-09-05T16:38:17+08:00",
+  "source_url": "https://t.bilibili.com/973613668093657094",
+  "plain_text": "好帅的手哇",
+  "images": [
+    {
+      "filename": "973613668093657094_100@repost.png",
+      "width": 3000,
+      "height": 1687,
+      "file_size": 3071799,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 251,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c5c7e62-b758-4070-9229-5aacd6338c33",
+    "next_uuid": "57310cea-95af-4712-9948-fdc804ac2bf9"
+  }
+}

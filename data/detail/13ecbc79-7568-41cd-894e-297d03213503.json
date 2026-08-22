@@ -1,0 +1,28 @@
+{
+  "uuid": "13ecbc79-7568-41cd-894e-297d03213503",
+  "platform_post_id": "1184505397039333398",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-28T00:05:54+08:00",
+  "source_url": "https://t.bilibili.com/1184505397039333398",
+  "plain_text": "晚安大家[UP_1954091502_委屈]明天真要去拔牙了（两颗 希望一切顺利 nightnight",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "41e5fe30-21e3-4a68-8d00-1bec2f424fba",
+    "next_uuid": "9521ca0b-f61c-45bf-9907-a0a76f61b3d6"
+  }
+}

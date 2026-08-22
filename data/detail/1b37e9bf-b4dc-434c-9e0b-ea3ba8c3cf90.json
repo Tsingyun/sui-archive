@@ -1,0 +1,28 @@
+{
+  "uuid": "1b37e9bf-b4dc-434c-9e0b-ea3ba8c3cf90",
+  "platform_post_id": "1172267673711542272",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-23T00:37:17+08:00",
+  "source_url": "https://t.bilibili.com/1172267673711542272",
+  "plain_text": "[岁己收藏集表情包_哇]（岁己期待你说晚安的眼神",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb3ed311-e5d3-4fe3-a38e-9a145c18eb47",
+    "next_uuid": "64f5ed6f-1bc9-4851-8c3a-1ec0e4da69d9"
+  }
+}

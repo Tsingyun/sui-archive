@@ -1,0 +1,28 @@
+{
+  "uuid": "3b18c279-0df8-4130-b37c-a648f27a7b56",
+  "platform_post_id": "891236418646442018",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-01-27T16:52:29+08:00",
+  "source_url": "https://t.bilibili.com/891236418646442018",
+  "plain_text": "可爱的说",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ee6aa55-4123-4caf-a3cf-3a1f7816b075",
+    "next_uuid": "ee782235-bff3-4ebb-a62a-d961167209a2"
+  }
+}

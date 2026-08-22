@@ -1,0 +1,28 @@
+{
+  "uuid": "6258ecf2-215e-4f99-8327-1168907ad9dc",
+  "platform_post_id": "736913725565435923",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-07T20:01:37+08:00",
+  "source_url": "https://t.bilibili.com/736913725565435923",
+  "plain_text": "十分钟后！先聊然后可能玩游戏！",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f69c8c46-2dfa-4706-aa4d-4c2f87e52364",
+    "next_uuid": "a2d30f5b-b992-426c-8499-d35e937f6b21"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "80d95aac-fded-45a0-ae92-cab553d06574",
+  "platform_post_id": "1072910442896031744",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-31T06:40:29+08:00",
+  "source_url": "https://t.bilibili.com/1072910442896031744",
+  "plain_text": "早早早哦哦哦哦哦哦哦哦[岁己收藏集表情包_凝视][岁己收藏集表情包_凝视]\n比我晚的都是猪",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b2c1b501-1c6a-4e83-b361-a890cbe6dbc8",
+    "next_uuid": "798c0acd-93e4-4210-a519-9fd4fefe0130"
+  }
+}

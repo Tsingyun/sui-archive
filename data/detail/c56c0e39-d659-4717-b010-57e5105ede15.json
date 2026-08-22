@@ -1,0 +1,28 @@
+{
+  "uuid": "c56c0e39-d659-4717-b010-57e5105ede15",
+  "platform_post_id": "806153696335364099",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-12T10:08:04+08:00",
+  "source_url": "https://t.bilibili.com/806153696335364099",
+  "plain_text": "困个半死 早",
+  "images": [],
+  "stats": {
+    "likes": 371,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8dba344f-ccac-4384-a009-3c5294b2e91c",
+    "next_uuid": "e9197d2b-2c2c-488e-9437-4c8116108021"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "458ea8c3-dc60-4385-a43a-1e0cb27f79ba",
+  "platform_post_id": "872767741708206081",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-08T22:24:35+08:00",
+  "source_url": "https://t.bilibili.com/872767741708206081",
+  "plain_text": "10:35还是小播半小时一小时之类的吧 给大家补足一下直播时长",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f42a1cdf-cde3-42fe-af4a-c0928fdb7287",
+    "next_uuid": "08371e2e-6fa5-4431-ba58-b3936622bd96"
+  }
+}

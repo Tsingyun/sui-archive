@@ -1,0 +1,28 @@
+{
+  "uuid": "49c33e27-fc20-405e-920c-81e956e40a38",
+  "platform_post_id": "1196012855713857552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-28T00:20:43+08:00",
+  "source_url": "https://t.bilibili.com/1196012855713857552",
+  "plain_text": "嗓子好痛 岁己的四个小时大杂谈 喜不喜欢 夸一下我呢 💤💤",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "212ba590-2080-489c-912a-4cf0d40d8a05",
+    "next_uuid": "b62ba070-1c86-4d4e-9b90-9c945d5e03ab"
+  }
+}

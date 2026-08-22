@@ -1,0 +1,28 @@
+{
+  "uuid": "edf8285a-15a1-4e41-b009-eef9def15001",
+  "platform_post_id": "854427299101016085",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-20T12:14:18+08:00",
+  "source_url": "https://t.bilibili.com/854427299101016085",
+  "plain_text": "中午好哦[奶茶干杯]",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "681b3423-62ea-412b-88f0-ba6049121f7b",
+    "next_uuid": "6ec9b8c2-6772-4761-9c61-784c77423ff8"
+  }
+}

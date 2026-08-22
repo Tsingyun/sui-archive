@@ -1,0 +1,28 @@
+{
+  "uuid": "014152f2-858c-47ab-aea4-c3308904d88d",
+  "platform_post_id": "948889078952099845",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-01T01:34:15+08:00",
+  "source_url": "https://t.bilibili.com/948889078952099845",
+  "plain_text": "今天也晚安饼干岁",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d610e1d3-c8aa-4564-8e57-6a4b6b51b864",
+    "next_uuid": "fda00e39-4929-43a4-bee6-c5e589250b2e"
+  }
+}

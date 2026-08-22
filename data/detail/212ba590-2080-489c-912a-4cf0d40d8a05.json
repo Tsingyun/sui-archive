@@ -1,0 +1,28 @@
+{
+  "uuid": "212ba590-2080-489c-912a-4cf0d40d8a05",
+  "platform_post_id": "1195867561269395460",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-27T14:56:54+08:00",
+  "source_url": "https://t.bilibili.com/1195867561269395460",
+  "plain_text": "3:05来摸鱼!来干啥!还不知道 来了再说",
+  "images": [],
+  "stats": {
+    "likes": 147,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7b21935-21c8-4d14-a399-a2ff9c4ba8f0",
+    "next_uuid": "49c33e27-fc20-405e-920c-81e956e40a38"
+  }
+}

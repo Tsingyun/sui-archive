@@ -1,0 +1,28 @@
+{
+  "uuid": "77a482bd-3253-4bbe-a741-c554e52f423d",
+  "platform_post_id": "1109183378743099400",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-06T00:38:00+08:00",
+  "source_url": "https://t.bilibili.com/1109183378743099400",
+  "plain_text": "用晚安换我的赞？诶要亏本的喔 好吧好吧 看在你是老熟人的份上",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd2bbd8e-a5a3-4e51-b125-296eab1d41f2",
+    "next_uuid": "a2680431-45f6-4ebb-bde6-e0c557aaf152"
+  }
+}

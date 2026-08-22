@@ -1,0 +1,28 @@
+{
+  "uuid": "e6bc4718-09ac-4253-b9a9-f0ff836a19af",
+  "platform_post_id": "836328659109281815",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-01T17:42:20+08:00",
+  "source_url": "https://t.bilibili.com/836328659109281815",
+  "plain_text": "下午先不播了 晚上来不来我再想想好了 有点累了[UP_1954091502_投降]",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "89e2cf31-6a30-4fd0-8847-df45645fe497",
+    "next_uuid": "cd1f4b2b-c645-4731-ad42-d2ecc1cb0f24"
+  }
+}

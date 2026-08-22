@@ -1,0 +1,28 @@
+{
+  "uuid": "1a2637ba-6b5f-4bdc-8fda-58102d44fb54",
+  "platform_post_id": "1107619336345878551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-01T19:28:43+08:00",
+  "source_url": "https://t.bilibili.com/1107619336345878551",
+  "plain_text": "7:50来来(°∀°)ﾉ",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2672ed61-6444-4859-85d1-205e99b27a40",
+    "next_uuid": "43fb4904-e1a7-4a1a-8d23-8a3864d4a229"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "f72b41a1-fe1c-4a2d-a2f6-b1885bab7157",
+  "platform_post_id": "804513259604410389",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-06-08T00:02:20+08:00",
+  "source_url": "https://t.bilibili.com/804513259604410389",
+  "plain_text": "我很好，别担心。你要开心，要幸福，好吗？晚安\n",
+  "images": [
+    {
+      "filename": "804513259604410389_00@original.jpg",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1321117,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 515,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "874ef111-0e1f-4cb7-92a9-04924ae607a6",
+    "next_uuid": "31258932-3d15-424d-a009-240568c0b799"
+  }
+}

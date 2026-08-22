@@ -1,0 +1,28 @@
+{
+  "uuid": "e1cd7771-17ef-490b-a30d-b3dc4a272212",
+  "platform_post_id": "1031853579208491015",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-09T15:18:53+08:00",
+  "source_url": "https://t.bilibili.com/1031853579208491015",
+  "plain_text": "3:40来唱唱聊聊！懂我意思？嗯？呵",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7c53635-b5b4-4810-9e4c-eae89dbc9cd3",
+    "next_uuid": "5d1fbc00-ed9a-4af9-b283-ea3601164772"
+  }
+}

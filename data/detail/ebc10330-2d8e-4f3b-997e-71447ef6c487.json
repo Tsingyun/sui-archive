@@ -1,0 +1,28 @@
+{
+  "uuid": "ebc10330-2d8e-4f3b-997e-71447ef6c487",
+  "platform_post_id": "1223081814054142000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-09T23:02:06+08:00",
+  "source_url": "https://t.bilibili.com/1223081814054142000",
+  "plain_text": "三分钟后来小播一下？！来找我玩",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29777ea6-b436-4ff3-8ba0-707de10dd888",
+    "next_uuid": "d408b021-4da7-4a64-80f2-08e42b134732"
+  }
+}

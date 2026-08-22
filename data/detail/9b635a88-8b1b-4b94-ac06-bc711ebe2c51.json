@@ -1,0 +1,28 @@
+{
+  "uuid": "9b635a88-8b1b-4b94-ac06-bc711ebe2c51",
+  "platform_post_id": "1010114207108038665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-13T01:19:01+08:00",
+  "source_url": "https://t.bilibili.com/1010114207108038665",
+  "plain_text": "晚安 眼睛眼睛",
+  "images": [],
+  "stats": {
+    "likes": 266,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "477428eb-05b9-428d-aec7-e31d3db60c53",
+    "next_uuid": "f80cc5d0-95a4-408b-9532-ae206d4bff92"
+  }
+}

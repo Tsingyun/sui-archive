@@ -1,0 +1,28 @@
+{
+  "uuid": "ee9633b5-6dcc-4e2f-aea1-544645b1f0df",
+  "platform_post_id": "1235347888475734037",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-12T00:20:44+08:00",
+  "source_url": "https://t.bilibili.com/1235347888475734037",
+  "plain_text": "晚安（冷脸萌感",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1bee79fb-fb0c-4a60-9255-6db59f7dc979",
+    "next_uuid": "06bb2068-1158-4e83-8b80-f3cc67e14365"
+  }
+}

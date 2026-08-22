@@ -1,0 +1,28 @@
+{
+  "uuid": "b4dcc367-a106-4f22-a671-41303eb97fd4",
+  "platform_post_id": "990723400420818967",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-21T19:12:47+08:00",
+  "source_url": "https://t.bilibili.com/990723400420818967",
+  "plain_text": "7:40来捏[UPOWER_1954091502_爱你]今天我们干嘛呀",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a00a2bee-ec20-4774-bfe9-29a5ea18310e",
+    "next_uuid": "9b85d340-6f19-435c-a4cf-4587e59519b4"
+  }
+}

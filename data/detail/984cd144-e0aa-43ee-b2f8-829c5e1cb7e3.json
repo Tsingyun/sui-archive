@@ -1,0 +1,38 @@
+{
+  "uuid": "984cd144-e0aa-43ee-b2f8-829c5e1cb7e3",
+  "platform_post_id": "1208865807308685320",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-06-01T15:36:44+08:00",
+  "source_url": "https://t.bilibili.com/1208865807308685320",
+  "plain_text": "愣着干嘛 去给我推秋千",
+  "images": [
+    {
+      "filename": "1208865807308685320_100@repost.jpg",
+      "width": 2970,
+      "height": 5503,
+      "file_size": 9201323,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 282,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "85cf6830-2c9f-4416-9025-bf6841f3b6a2",
+    "next_uuid": "9d736031-2576-4a7b-af42-ea872a5d1945"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3cac4c4f-1146-49e6-944c-f73153a9c496",
+  "platform_post_id": "1220531037272014865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-03T02:03:47+08:00",
+  "source_url": "https://t.bilibili.com/1220531037272014865",
+  "plain_text": "我需要饼干岁的晚安，未来的饼干岁快逆转回来给岁己发送晚安！",
+  "images": [],
+  "stats": {
+    "likes": 266,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d2402e6-792b-48b1-9755-93937a5d8eda",
+    "next_uuid": "86b1bba4-6338-493d-adab-eccb71fd2082"
+  }
+}

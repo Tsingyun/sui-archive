@@ -1,0 +1,28 @@
+{
+  "uuid": "a5031eb3-b837-42d7-bb44-28012264cdff",
+  "platform_post_id": "786148726710206497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-19T12:18:34+08:00",
+  "source_url": "https://t.bilibili.com/786148726710206497",
+  "plain_text": "周三周三，又是一天\n浑浑噩噩，吃个饭先\n吃了些啥，给我看看\n让我买单，把你揍翻\n就算心烦，不许恰🚬！\n",
+  "images": [],
+  "stats": {
+    "likes": 373,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf7a0a46-e87f-445a-92bb-2e9d3b5dcae4",
+    "next_uuid": "0ef917d9-5c93-4d42-92ad-a74061ce2cb8"
+  }
+}

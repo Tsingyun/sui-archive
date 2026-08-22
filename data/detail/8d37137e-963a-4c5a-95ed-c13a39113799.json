@@ -1,0 +1,28 @@
+{
+  "uuid": "8d37137e-963a-4c5a-95ed-c13a39113799",
+  "platform_post_id": "1170062787858137124",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-17T02:01:12+08:00",
+  "source_url": "https://t.bilibili.com/1170062787858137124",
+  "plain_text": "一起度过的第四年新年，今年也悠闲愉悦地一起度过吧，从今天起要一起一点一点给今年编织出美好的回忆了～晚安。",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f71b291c-98d0-4235-82a9-e36ad736bb35",
+    "next_uuid": "71a92f42-cbbd-4c0c-a453-636a21e734a5"
+  }
+}

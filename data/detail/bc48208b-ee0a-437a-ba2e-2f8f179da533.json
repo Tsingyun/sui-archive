@@ -1,0 +1,28 @@
+{
+  "uuid": "bc48208b-ee0a-437a-ba2e-2f8f179da533",
+  "platform_post_id": "903595440474161155",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-01T00:11:48+08:00",
+  "source_url": "https://t.bilibili.com/903595440474161155",
+  "plain_text": "饼干岁日快乐。希望岁己给你带来了快乐，希望岁己没播的时间你也在快乐。今天也晚安",
+  "images": [],
+  "stats": {
+    "likes": 388,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f3eb672-752b-4fc4-ba5b-46bfb7284439",
+    "next_uuid": "d19888b1-5876-4901-abf2-868fa9d24d9f"
+  }
+}

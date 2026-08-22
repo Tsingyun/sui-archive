@@ -1,0 +1,28 @@
+{
+  "uuid": "6fa00618-e00c-437a-add5-b8fc9e646569",
+  "platform_post_id": "856760978171232325",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-26T19:10:10+08:00",
+  "source_url": "https://t.bilibili.com/856760978171232325",
+  "plain_text": "好冷啊哇哇哇撒啊7:30来",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f8dbdb69-fb24-45d8-b6e5-c1d98412744a",
+    "next_uuid": "29eafc0d-7134-42a5-9a82-563627ae680a"
+  }
+}

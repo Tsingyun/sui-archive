@@ -1,0 +1,38 @@
+{
+  "uuid": "cb05b172-daac-4a27-8769-b69b49e51d46",
+  "platform_post_id": "798023989222965252",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-05-21T12:20:39+08:00",
+  "source_url": "https://t.bilibili.com/798023989222965252",
+  "plain_text": "帅晕！小朋友们早",
+  "images": [
+    {
+      "filename": "798023989222965252_100@repost.jpg",
+      "width": 3000,
+      "height": 4000,
+      "file_size": 3315301,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 365,
+    "comments": 27,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "90d73865-c715-48fd-a86e-7a27b58a8e23",
+    "next_uuid": "2d413720-b41c-43e4-9576-549f9c675f85"
+  }
+}

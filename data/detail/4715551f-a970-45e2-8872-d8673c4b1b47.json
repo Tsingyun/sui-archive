@@ -1,0 +1,28 @@
+{
+  "uuid": "4715551f-a970-45e2-8872-d8673c4b1b47",
+  "platform_post_id": "1219772726460284929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-01T01:01:09+08:00",
+  "source_url": "https://t.bilibili.com/1219772726460284929",
+  "plain_text": "哎七月到现在一个饼干岁的晚安都没收到，有点活不下去了，真不知道以后要怎么办了",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "582d9382-ea34-4a5e-982f-c815105d4f3b",
+    "next_uuid": "ff0b0546-032d-4226-8b47-606a9621a75e"
+  }
+}

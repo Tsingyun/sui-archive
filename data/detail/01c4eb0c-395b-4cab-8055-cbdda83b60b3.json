@@ -1,0 +1,28 @@
+{
+  "uuid": "01c4eb0c-395b-4cab-8055-cbdda83b60b3",
+  "platform_post_id": "810757480371978257",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-24T19:53:06+08:00",
+  "source_url": "https://t.bilibili.com/810757480371978257",
+  "plain_text": "迟二十分钟\n大家 我外卖还没到 \n气昏了 将进行一个低质量直播",
+  "images": [],
+  "stats": {
+    "likes": 348,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ecbd0b6b-f91e-4197-9ec8-d226f0624258",
+    "next_uuid": "aec21917-941c-4753-8542-430c59b5bead"
+  }
+}

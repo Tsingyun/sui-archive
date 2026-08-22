@@ -1,0 +1,38 @@
+{
+  "uuid": "af1e6d38-9f1c-4df5-bdc7-76335a1116d8",
+  "platform_post_id": "907315345978556422",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-11T00:46:56+08:00",
+  "source_url": "https://t.bilibili.com/907315345978556422",
+  "plain_text": "要看吗",
+  "images": [
+    {
+      "filename": "907315345978556422_100@repost.jpg",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 839084,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 327,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "济物忘机",
+    "author_url": "https://space.bilibili.com/94892628",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24b81bfe-54df-4b83-a099-9845815fbcdf",
+    "next_uuid": "72b29db7-b2c5-4c28-865b-3aa573bd1838"
+  }
+}

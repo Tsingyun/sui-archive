@@ -1,0 +1,38 @@
+{
+  "uuid": "ed18382f-20f8-47b7-8f8f-9ccf01fe26c1",
+  "platform_post_id": "922510798536835090",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-04-20T23:33:03+08:00",
+  "source_url": "https://t.bilibili.com/922510798536835090",
+  "plain_text": "#VirtuaReal五周年\n\n五周年系列活动进行中！详情请关注@VirtuaReal官号~",
+  "images": [
+    {
+      "filename": "922510798536835090_00@original.jpg",
+      "width": 3827,
+      "height": 5669,
+      "file_size": 12351021,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 396,
+    "comments": 43,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f157a4f-a29f-42a2-a74f-2cdd7a1da99d",
+    "next_uuid": "eeb2d6b5-3895-4d07-bfd3-e5c81bdb9a9e"
+  }
+}

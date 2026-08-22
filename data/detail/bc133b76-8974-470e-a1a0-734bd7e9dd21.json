@@ -1,0 +1,28 @@
+{
+  "uuid": "bc133b76-8974-470e-a1a0-734bd7e9dd21",
+  "platform_post_id": "760198637389086724",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-08T13:58:58+08:00",
+  "source_url": "https://t.bilibili.com/760198637389086724",
+  "plain_text": "午休结束了吗！我也准备工作了，今天要做的事情很多。为了咱们家越来越好，加油！[UP_1954091502_牛]",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4f5945a5-b786-4f8b-9202-eab606bee96d",
+    "next_uuid": "bea33cd4-d335-44db-878e-4ca254408a88"
+  }
+}

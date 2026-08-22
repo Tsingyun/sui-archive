@@ -1,0 +1,28 @@
+{
+  "uuid": "a6c2d645-ed9e-44f7-8ea6-797bb7addbc8",
+  "platform_post_id": "818924631526211638",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-16T20:05:49+08:00",
+  "source_url": "https://t.bilibili.com/818924631526211638",
+  "plain_text": "想看什么直播？",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a1483131-602c-45f2-97d1-2602821a475e",
+    "next_uuid": "6d68b9c6-c277-4d7b-a705-c5a9052a0eea"
+  }
+}

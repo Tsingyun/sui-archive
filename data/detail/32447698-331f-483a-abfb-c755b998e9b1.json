@@ -1,0 +1,28 @@
+{
+  "uuid": "32447698-331f-483a-abfb-c755b998e9b1",
+  "platform_post_id": "805565152689651714",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-10T20:04:13+08:00",
+  "source_url": "https://t.bilibili.com/805565152689651714",
+  "plain_text": "8:30见 大家期待已久的合唱歌会\n这次投稿比较多，可能会分两次唱！今天能唱到哪里唱到哪里哦，会尽力的。",
+  "images": [],
+  "stats": {
+    "likes": 300,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "569ebc19-babf-4a8d-94c2-84f29a003313",
+    "next_uuid": "48392b1c-9f1f-45d9-a8a5-be7d1ec61817"
+  }
+}

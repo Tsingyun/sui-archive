@@ -1,0 +1,28 @@
+{
+  "uuid": "59018887-e74f-4492-a523-66b984bc7227",
+  "platform_post_id": "848967699890438166",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-05T19:08:16+08:00",
+  "source_url": "https://t.bilibili.com/848967699890438166",
+  "plain_text": "回家路上了。7:40见 聊下唱下然后把超能力女儿看完～",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8324d1ca-4a62-4e29-bbc2-5a5d9d918c8e",
+    "next_uuid": "d7e96b07-9c52-4b54-a33f-a185bef848fb"
+  }
+}

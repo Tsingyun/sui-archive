@@ -1,0 +1,28 @@
+{
+  "uuid": "cb166437-2617-402b-ad63-709d5c67f0f3",
+  "platform_post_id": "815254040545853459",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-06T22:42:03+08:00",
+  "source_url": "https://t.bilibili.com/815254040545853459",
+  "plain_text": "在绞尽脑汁写最后几封印象信，头发都愁掉几根。\n以及我也在边写边到处黑听别人的直播，原来你们平时过着这样的生活 ~哼哼\n好困啊，先晚安",
+  "images": [],
+  "stats": {
+    "likes": 552,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "44166c04-3917-42f5-a746-854bf28183e0",
+    "next_uuid": "778cd5b7-844a-4b95-a2ce-59628edb1787"
+  }
+}

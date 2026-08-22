@@ -1,0 +1,28 @@
+{
+  "uuid": "ad3f95dc-5104-4ef6-b385-eba8fe7434d1",
+  "platform_post_id": "1120305973943074821",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-05T23:59:21+08:00",
+  "source_url": "https://t.bilibili.com/1120305973943074821",
+  "plain_text": "​诶诶麻烦帮我传纸条给倒数第二排的饼干岁问问他能不能回复我的晚安[岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48923e27-624b-4c22-a855-46800891675c",
+    "next_uuid": "eabc662c-4bcf-4eb7-972d-55ae526f4eee"
+  }
+}

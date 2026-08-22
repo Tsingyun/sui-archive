@@ -1,0 +1,38 @@
+{
+  "uuid": "310f59f9-2162-45fc-9e3c-a138d6eee4f2",
+  "platform_post_id": "1033042559339855872",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-02-12T20:12:44+08:00",
+  "source_url": "https://t.bilibili.com/1033042559339855872",
+  "plain_text": "今晚20:00，我将作为嘉宾出演#虚拟UP新春会#，并为大家带来有趣的节目！点击预约不迷路，记得来虚拟UP新春会看我哦~\n网页链接\n",
+  "images": [
+    {
+      "filename": "1033042559339855872_00@original.jpg",
+      "width": 2500,
+      "height": 3333,
+      "file_size": 893300,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 246,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "808952bc-4cdc-41d9-a617-d19a58d2f34a",
+    "next_uuid": "10b69713-d219-4fce-a25d-2619030198c7"
+  }
+}

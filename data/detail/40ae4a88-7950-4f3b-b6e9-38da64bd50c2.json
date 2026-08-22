@@ -1,0 +1,28 @@
+{
+  "uuid": "40ae4a88-7950-4f3b-b6e9-38da64bd50c2",
+  "platform_post_id": "988500235143610385",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-15T19:25:46+08:00",
+  "source_url": "https://t.bilibili.com/988500235143610385",
+  "plain_text": "直播 7:40",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3838e8e5-c2be-4b8a-a1b0-3b0fa8e7c87f",
+    "next_uuid": "73e87588-2d48-45a4-8cde-de6580863e00"
+  }
+}

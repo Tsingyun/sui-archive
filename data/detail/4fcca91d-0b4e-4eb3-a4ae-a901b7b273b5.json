@@ -1,0 +1,28 @@
+{
+  "uuid": "4fcca91d-0b4e-4eb3-a4ae-a901b7b273b5",
+  "platform_post_id": "1199368393407332358",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-07T01:21:55+08:00",
+  "source_url": "https://t.bilibili.com/1199368393407332358",
+  "plain_text": "跑车钥匙我的跑车钥匙…晚安 岁己不是软蛋",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3250eca-2dfd-4b35-be9f-e1c77ce6bfc2",
+    "next_uuid": "d646f62c-847a-4893-be17-ec6b3883c070"
+  }
+}

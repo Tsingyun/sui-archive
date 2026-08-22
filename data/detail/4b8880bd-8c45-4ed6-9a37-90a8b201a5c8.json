@@ -1,0 +1,28 @@
+{
+  "uuid": "4b8880bd-8c45-4ed6-9a37-90a8b201a5c8",
+  "platform_post_id": "907236348672344082",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-10T19:40:23+08:00",
+  "source_url": "https://t.bilibili.com/907236348672344082",
+  "plain_text": "八点哦 今天是jojo",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8e54e780-0b60-4a9f-a08c-0881a99e3347",
+    "next_uuid": "24b81bfe-54df-4b83-a099-9845815fbcdf"
+  }
+}

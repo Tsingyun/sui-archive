@@ -1,0 +1,28 @@
+{
+  "uuid": "eb1fd63a-404d-4958-9d31-97c787e85508",
+  "platform_post_id": "817135365070520325",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-12T00:22:33+08:00",
+  "source_url": "https://t.bilibili.com/817135365070520325",
+  "plain_text": "一个有创意的晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "236edbd1-0814-4bbb-b11b-78015db503f3",
+    "next_uuid": "7445b294-39a4-472f-b2b0-0ec374b0031c"
+  }
+}

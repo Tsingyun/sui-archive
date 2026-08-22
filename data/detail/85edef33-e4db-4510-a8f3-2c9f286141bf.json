@@ -1,0 +1,38 @@
+{
+  "uuid": "85edef33-e4db-4510-a8f3-2c9f286141bf",
+  "platform_post_id": "873478348109512740",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-10T20:22:06+08:00",
+  "source_url": "https://t.bilibili.com/873478348109512740",
+  "plain_text": "但是没人聊天好无聊！来给我发点消息\nhttps://pome.vip/Gz75k7hF\n",
+  "images": [
+    {
+      "filename": "873478348109512740_00@original.png",
+      "width": 1170,
+      "height": 2532,
+      "file_size": 1896959,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 437,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2882ada-2c0a-449b-85b2-e401e9fe3948",
+    "next_uuid": "382d1122-8865-4427-a82a-69f70dc26ae2"
+  }
+}

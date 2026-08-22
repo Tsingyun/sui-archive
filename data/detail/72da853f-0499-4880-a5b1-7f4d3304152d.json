@@ -1,0 +1,28 @@
+{
+  "uuid": "72da853f-0499-4880-a5b1-7f4d3304152d",
+  "platform_post_id": "848215444936458248",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-03T18:29:08+08:00",
+  "source_url": "https://t.bilibili.com/848215444936458248",
+  "plain_text": "岁己将于7点降临你身边😇\n唱唱然后看点什么免费的东东 各位同学提前想一下\n再想下问想听什么歌的时候回答哪首",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6c71332-83a5-4f3b-a58e-351e61beecf3",
+    "next_uuid": "50c098e6-cade-41b2-9add-5ab2d4676227"
+  }
+}

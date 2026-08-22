@@ -1,0 +1,28 @@
+{
+  "uuid": "a06a83f4-d8d5-41e2-a342-131920c87af4",
+  "platform_post_id": "810630757361909816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-24T11:41:21+08:00",
+  "source_url": "https://t.bilibili.com/810630757361909816",
+  "plain_text": "早啊十五字十五字十五字",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "09abfc66-0edd-4e31-9b59-83e0cc1e5ead",
+    "next_uuid": "cb236206-7917-4e62-9e61-3f9e001d9846"
+  }
+}

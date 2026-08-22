@@ -1,0 +1,110 @@
+{
+  "uuid": "c9b3878e-4dbf-4687-8a0b-0119e04b85bb",
+  "platform_post_id": "833702647373496359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-25T15:52:04+08:00",
+  "source_url": "https://t.bilibili.com/833702647373496359",
+  "plain_text": "#岁己3d #岁己新衣装 好可爱啊！",
+  "images": [
+    {
+      "filename": "833702647373496359_100@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 937937,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_101@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 996467,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_102@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 967875,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_103@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 977093,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_104@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 925274,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_105@repost.jpg",
+      "width": 1080,
+      "height": 1439,
+      "file_size": 937152,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_106@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 919770,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_107@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 928504,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "833702647373496359_108@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 912630,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 388,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "庸医密汤",
+    "author_url": "https://space.bilibili.com/3096889",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "76e6eff8-39ef-468f-9948-1283eb883499",
+    "next_uuid": "97fb27fc-609e-48ad-9462-5b0b5051c05f"
+  }
+}

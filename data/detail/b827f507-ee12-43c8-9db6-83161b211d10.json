@@ -1,0 +1,28 @@
+{
+  "uuid": "b827f507-ee12-43c8-9db6-83161b211d10",
+  "platform_post_id": "812856985197215765",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-30T11:40:15+08:00",
+  "source_url": "https://t.bilibili.com/812856985197215765",
+  "plain_text": "早上好！今天是！6月最后一天，岁己直播300天，可喜可贺。祝大家今天开心🥳",
+  "images": [],
+  "stats": {
+    "likes": 463,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "62e31ee8-3de0-42f9-af90-9bf6647178e8",
+    "next_uuid": "fdde5d40-1b01-40b7-887b-30896afe0e4a"
+  }
+}

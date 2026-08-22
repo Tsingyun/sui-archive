@@ -1,0 +1,28 @@
+{
+  "uuid": "f8035685-8ebb-4fef-b681-0df1ec9476eb",
+  "platform_post_id": "871670098140594182",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-05T23:25:10+08:00",
+  "source_url": "https://t.bilibili.com/871670098140594182",
+  "plain_text": "多ze雷闷来涕我侅直播啊 我祝雷好梦啊！",
+  "images": [],
+  "stats": {
+    "likes": 381,
+    "comments": 68,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "628e00ef-d7fc-4758-b201-78f668e487c5",
+    "next_uuid": "43f75468-6372-47ec-8e65-1786ca9e3d6a"
+  }
+}

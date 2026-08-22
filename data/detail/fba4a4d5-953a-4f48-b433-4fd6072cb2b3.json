@@ -1,0 +1,28 @@
+{
+  "uuid": "fba4a4d5-953a-4f48-b433-4fd6072cb2b3",
+  "platform_post_id": "1014905951807864833",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-25T23:13:26+08:00",
+  "source_url": "https://t.bilibili.com/1014905951807864833",
+  "plain_text": "啊啊啊我的直播间，现在看好像是一天，我还在问什么情况，大家别急喔 好难受[UPOWER_1954091502_分号分号][UPOWER_1954091502_分号分号][UPOWER_1954091502_分号分号]",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 124,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6527baf9-a4d8-4493-b293-550a330f34e4",
+    "next_uuid": "aef26b2e-5dce-4221-a48b-426ae3a838a3"
+  }
+}

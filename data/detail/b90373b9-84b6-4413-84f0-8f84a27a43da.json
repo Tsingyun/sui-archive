@@ -1,0 +1,38 @@
+{
+  "uuid": "b90373b9-84b6-4413-84f0-8f84a27a43da",
+  "platform_post_id": "769917456877617188",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-06T18:32:57+08:00",
+  "source_url": "https://t.bilibili.com/769917456877617188",
+  "plain_text": "⌓‿⌓   八点来谢谢昨天的礼物！然后唱唱聊聊～\n",
+  "images": [
+    {
+      "filename": "769917456877617188_00@original.png",
+      "width": 1170,
+      "height": 1817,
+      "file_size": 1587698,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 377,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b3f10b8-303a-4e67-b236-0db5488cfbb8",
+    "next_uuid": "07573753-d391-45bc-9fc3-70345f458cba"
+  }
+}

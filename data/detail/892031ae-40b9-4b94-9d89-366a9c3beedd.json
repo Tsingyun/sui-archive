@@ -1,0 +1,28 @@
+{
+  "uuid": "892031ae-40b9-4b94-9d89-366a9c3beedd",
+  "platform_post_id": "789573915933409302",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-28T17:50:03+08:00",
+  "source_url": "https://t.bilibili.com/789573915933409302",
+  "plain_text": "【肥岁代发】今天6:30见大家 岁己还在欣赏自己的可爱中",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "62d46c9a-c3d1-414f-9bbf-3936d440c97b",
+    "next_uuid": "21d8fa89-96a8-4740-a0a0-f1a30b9bca69"
+  }
+}

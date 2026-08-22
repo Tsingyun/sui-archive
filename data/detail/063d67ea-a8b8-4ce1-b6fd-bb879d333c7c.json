@@ -1,0 +1,28 @@
+{
+  "uuid": "063d67ea-a8b8-4ce1-b6fd-bb879d333c7c",
+  "platform_post_id": "1197060544243171361",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-30T20:06:17+08:00",
+  "source_url": "https://t.bilibili.com/1197060544243171361",
+  "plain_text": "在煮泡面吃 晚一点  8:30来喔",
+  "images": [],
+  "stats": {
+    "likes": 160,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1a421d54-e176-44b6-a294-e8147263b763",
+    "next_uuid": "f685b699-1e4c-443a-aaf0-428265cf0369"
+  }
+}

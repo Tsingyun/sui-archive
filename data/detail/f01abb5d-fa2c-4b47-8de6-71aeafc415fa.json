@@ -1,0 +1,28 @@
+{
+  "uuid": "f01abb5d-fa2c-4b47-8de6-71aeafc415fa",
+  "platform_post_id": "947383495341113360",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-27T00:11:49+08:00",
+  "source_url": "https://t.bilibili.com/947383495341113360",
+  "plain_text": "岁己在这给你留下了一份晚安",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "486b55f2-a975-4559-a783-17ef8c832cf1",
+    "next_uuid": "ad400938-7ad4-4bc5-8c7f-818866bfb516"
+  }
+}

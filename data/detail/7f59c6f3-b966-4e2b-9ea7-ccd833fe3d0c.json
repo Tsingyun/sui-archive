@@ -1,0 +1,38 @@
+{
+  "uuid": "7f59c6f3-b966-4e2b-9ea7-ccd833fe3d0c",
+  "platform_post_id": "1070072783812165654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-23T15:08:55+08:00",
+  "source_url": "https://t.bilibili.com/1070072783812165654",
+  "plain_text": "Lovelove的说哟(＾Ｕ＾)ノ",
+  "images": [
+    {
+      "filename": "1070072783812165654_100@repost.jpg",
+      "width": 1180,
+      "height": 1900,
+      "file_size": 304512,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 215,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Attento阿饨荼",
+    "author_url": "https://space.bilibili.com/15492814",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c71fc80-e78b-4067-9495-04e14f17208d",
+    "next_uuid": "c7ba02ef-9b2f-44c8-b90c-11bb9d8095f0"
+  }
+}

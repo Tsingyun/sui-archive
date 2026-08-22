@@ -1,0 +1,28 @@
+{
+  "uuid": "c858f5f2-5580-4475-9025-00c6e1a4ad09",
+  "platform_post_id": "1140944374142599169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-30T14:46:53+08:00",
+  "source_url": "https://t.bilibili.com/1140944374142599169",
+  "plain_text": "3点来播播 所有人[UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d182fbc-3ce5-4960-b68a-d200cede45c0",
+    "next_uuid": "d14ea4dd-f141-4323-b89e-39348a3923ee"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4fe37209-06f2-42d0-b857-3b85adaee6b4",
+  "platform_post_id": "751765250059010053",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-16T20:33:07+08:00",
+  "source_url": "https://t.bilibili.com/751765250059010053",
+  "plain_text": "哎？我的身体更新了！等我五分钟咱们来观察一下，要问出死亡问题之一了：今天的我有哪里不一样？",
+  "images": [],
+  "stats": {
+    "likes": 387,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4304cfee-8ef3-4c1f-a596-d79a41d3ee8c",
+    "next_uuid": "0d060533-7225-48a0-8402-5ae2f53f74ef"
+  }
+}

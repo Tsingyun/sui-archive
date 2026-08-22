@@ -1,0 +1,28 @@
+{
+  "uuid": "1af3d05b-8c0f-4bda-92f1-5e690dcd748f",
+  "platform_post_id": "871501138422136852",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-05T12:29:31+08:00",
+  "source_url": "https://t.bilibili.com/871501138422136852",
+  "plain_text": "早啊早 被蚊子在眼角咬了 整个下眼睑都肿了",
+  "images": [],
+  "stats": {
+    "likes": 388,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8222952d-0017-41d5-a12a-d5793563cc0d",
+    "next_uuid": "628e00ef-d7fc-4758-b201-78f668e487c5"
+  }
+}

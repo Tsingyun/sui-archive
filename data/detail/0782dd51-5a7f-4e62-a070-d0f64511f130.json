@@ -1,0 +1,38 @@
+{
+  "uuid": "0782dd51-5a7f-4e62-a070-d0f64511f130",
+  "platform_post_id": "1056721895153467411",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-04-17T15:40:39+08:00",
+  "source_url": "https://t.bilibili.com/1056721895153467411",
+  "plain_text": "饼干岁的白月光小红帽来袭",
+  "images": [
+    {
+      "filename": "1056721895153467411_100@repost.jpg",
+      "width": 1024,
+      "height": 1024,
+      "file_size": 101724,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 238,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "薄荷糖8辣",
+    "author_url": "https://space.bilibili.com/3493084472019038",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2544b16e-b73a-4c4d-8ff0-f3c479bf9f4f",
+    "next_uuid": "d6b49a76-c1d6-4276-929b-7ee8d8406bd9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "bd49928c-658c-4660-bf66-80069f0f23e5",
+  "platform_post_id": "1182655601853857810",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-23T00:27:45+08:00",
+  "source_url": "https://t.bilibili.com/1182655601853857810",
+  "plain_text": "岁己把好运分给你一点🪄🔮 晚安哟",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "63316fcc-7211-4427-801a-8c97e57e9a95",
+    "next_uuid": "cb53db4d-0e43-4b2d-9376-5d5973f6496f"
+  }
+}

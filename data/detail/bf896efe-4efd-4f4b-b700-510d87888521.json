@@ -1,0 +1,28 @@
+{
+  "uuid": "bf896efe-4efd-4f4b-b700-510d87888521",
+  "platform_post_id": "961043625941139478",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-02T19:40:06+08:00",
+  "source_url": "https://t.bilibili.com/961043625941139478",
+  "plain_text": "7:55我来 唱点看点！",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5e68331-7345-46fe-8bc9-a0ff4f5c8cc5",
+    "next_uuid": "fae0ef51-3f1e-4aa3-97a6-2110a8fcbf0e"
+  }
+}

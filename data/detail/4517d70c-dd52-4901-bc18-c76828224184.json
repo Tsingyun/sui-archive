@@ -1,0 +1,28 @@
+{
+  "uuid": "4517d70c-dd52-4901-bc18-c76828224184",
+  "platform_post_id": "1102419840374669331",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-18T19:12:01+08:00",
+  "source_url": "https://t.bilibili.com/1102419840374669331",
+  "plain_text": "今晚几点碰面通知你了吧，到时候看我眼神行事！",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "15febbf3-7082-44e8-9515-fbc9d69dd464",
+    "next_uuid": "dda15ee5-55fd-4bfc-9598-d3f5ec5476a3"
+  }
+}

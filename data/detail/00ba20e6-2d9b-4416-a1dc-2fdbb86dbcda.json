@@ -1,0 +1,28 @@
+{
+  "uuid": "00ba20e6-2d9b-4416-a1dc-2fdbb86dbcda",
+  "platform_post_id": "820467155882475526",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-20T23:51:36+08:00",
+  "source_url": "https://t.bilibili.com/820467155882475526",
+  "plain_text": "推荐的视频不好笑也不会嫌弃你的哦大概！晚安",
+  "images": [],
+  "stats": {
+    "likes": 475,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca994e26-53cc-4d61-b037-e2ef4c6e6298",
+    "next_uuid": "b1f9daea-247e-43a6-b2aa-7d30c3f7ad6e"
+  }
+}

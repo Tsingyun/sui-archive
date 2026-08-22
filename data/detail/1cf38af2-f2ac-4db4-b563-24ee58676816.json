@@ -1,0 +1,28 @@
+{
+  "uuid": "1cf38af2-f2ac-4db4-b563-24ee58676816",
+  "platform_post_id": "957706939096104962",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-24T19:52:03+08:00",
+  "source_url": "https://t.bilibili.com/957706939096104962",
+  "plain_text": "lovelove[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c23e036d-afb0-43ec-b21d-c983f90fd963",
+    "next_uuid": "da6ed54a-6e63-462e-b9e3-a9e23f82c5a3"
+  }
+}

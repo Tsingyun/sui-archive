@@ -1,0 +1,28 @@
+{
+  "uuid": "870d45d2-47cc-4dbb-81e0-12967ddfa8ae",
+  "platform_post_id": "841204623803940869",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-14T21:03:34+08:00",
+  "source_url": "https://t.bilibili.com/841204623803940869",
+  "plain_text": "病来小鸟倒☹️ 争取明天见吧大家 呜呜呜大家没把我忘记吧大家",
+  "images": [],
+  "stats": {
+    "likes": 525,
+    "comments": 101,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2dc521b0-826c-4010-87f7-80ea7635f5d4",
+    "next_uuid": "132c9113-b1ba-43bc-a587-3048a0af3095"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d3cbf555-aa27-43ca-bbc4-035977ac464a",
+  "platform_post_id": "791055061129101362",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-02T17:37:39+08:00",
+  "source_url": "https://t.bilibili.com/791055061129101362",
+  "plain_text": "6:15件同学们 我看谁迟到！！",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96dcc980-d227-4b0b-9fe0-7719ade2f7b3",
+    "next_uuid": "1b80f2e6-6ef8-4bc1-86b5-801a913d3940"
+  }
+}

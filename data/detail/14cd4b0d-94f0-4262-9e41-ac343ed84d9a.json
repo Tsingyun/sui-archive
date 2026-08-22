@@ -1,0 +1,38 @@
+{
+  "uuid": "14cd4b0d-94f0-4262-9e41-ac343ed84d9a",
+  "platform_post_id": "1100276913681727495",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-13T00:36:22+08:00",
+  "source_url": "https://t.bilibili.com/1100276913681727495",
+  "plain_text": "我来找你要什么 你知道的\n",
+  "images": [
+    {
+      "filename": "1100276913681727495_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 894658,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 396,
+    "comments": 87,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d973832-15c0-40b4-931a-468cddd82d28",
+    "next_uuid": "bd4535cc-6991-4a5a-b38b-ab1bd64a2ba0"
+  }
+}

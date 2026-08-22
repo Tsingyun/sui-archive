@@ -1,0 +1,38 @@
+{
+  "uuid": "33eebfa4-f494-4582-a731-567cdadca3a0",
+  "platform_post_id": "1168929152712048645",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-02-14T00:42:07+08:00",
+  "source_url": "https://t.bilibili.com/1168929152712048645",
+  "plain_text": "嘟嘟嘟——终于接通了，2月14日快乐~\n",
+  "images": [
+    {
+      "filename": "1168929152712048645_00@original.png",
+      "width": 576,
+      "height": 1080,
+      "file_size": 577497,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 410,
+    "comments": 92,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cf0c38eb-31c1-43b8-8b13-f9f42575d4e4",
+    "next_uuid": "622bfcd2-53cb-4274-9984-8a81a622c656"
+  }
+}

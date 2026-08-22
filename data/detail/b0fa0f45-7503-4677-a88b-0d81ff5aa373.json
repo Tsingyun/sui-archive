@@ -1,0 +1,28 @@
+{
+  "uuid": "b0fa0f45-7503-4677-a88b-0d81ff5aa373",
+  "platform_post_id": "1049641723147321352",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-29T13:45:58+08:00",
+  "source_url": "https://t.bilibili.com/1049641723147321352",
+  "plain_text": "岁己SUI2:30来啵啵",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7df4a6e-4b42-4876-8538-7b29529ecdb1",
+    "next_uuid": "569d72bb-6e93-42da-902d-b4c651f5a41b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c450326b-d912-436c-a961-712c1a7ef517",
+  "platform_post_id": "1145171897606995972",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-12T00:11:50+08:00",
+  "source_url": "https://t.bilibili.com/1145171897606995972",
+  "plain_text": "为什么你的筷子可以分享你的食物，为什么你的鞋子可以和你去所有地方， 为什么你的手机可以和你玩一天，我的晚安呢",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99c7cf16-15fb-40e6-b0ad-d6deba3d8f0e",
+    "next_uuid": "746a22bb-4ad6-4f6e-860e-ecca48f48053"
+  }
+}

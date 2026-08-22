@@ -1,0 +1,28 @@
+{
+  "uuid": "2a295d84-908c-4f1c-90f7-f71de99bac5c",
+  "platform_post_id": "841595684867014791",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-15T22:21:05+08:00",
+  "source_url": "https://t.bilibili.com/841595684867014791",
+  "plain_text": "omg今天不播的话好像就是五天没跟大家见面了！十点四十还是来播一个小时吧，鼻涕邋遢说话缓慢呼吸声超大低质量直播请注意⚠️",
+  "images": [],
+  "stats": {
+    "likes": 388,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "132c9113-b1ba-43bc-a587-3048a0af3095",
+    "next_uuid": "9b25adc2-4e0b-4995-b8ae-cd534d14c7bd"
+  }
+}

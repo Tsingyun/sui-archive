@@ -1,0 +1,28 @@
+{
+  "uuid": "e2436264-ef88-4280-b796-e0bbc757e6b2",
+  "platform_post_id": "1104361461943107586",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-24T00:46:30+08:00",
+  "source_url": "https://t.bilibili.com/1104361461943107586",
+  "plain_text": "您好，这里招聘线上兼职，主要工作是在线打字。\n感兴趣的话这边有个小小测试，您试试在10分钟内能否正确打出“晚安”这两个字，测试通过即可入职，薪酬丰厚喔！",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 92,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a97ffe45-6b96-43bd-ac43-a6a592c9916a",
+    "next_uuid": "f98299ac-0951-4e1a-9838-4c78f62b9080"
+  }
+}

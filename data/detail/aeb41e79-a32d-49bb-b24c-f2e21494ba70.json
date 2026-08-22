@@ -1,0 +1,28 @@
+{
+  "uuid": "aeb41e79-a32d-49bb-b24c-f2e21494ba70",
+  "platform_post_id": "1174122558412292121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-28T00:35:11+08:00",
+  "source_url": "https://t.bilibili.com/1174122558412292121",
+  "plain_text": "你怎么知道岁己初见就过了狮子猿一阶段的，谁这么大嘴巴到处说[岁己收藏集表情包_哈哈][岁己收藏集表情包_哈哈]晚安吧",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d851cbef-ca4c-4e8b-8387-1667ec065124",
+    "next_uuid": "2a3bb076-70d0-4396-94b2-5cfa688130cb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "37a9acae-0fb9-4eb9-b4dd-41ec975ba906",
+  "platform_post_id": "863021739097980931",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-11-12T16:05:07+08:00",
+  "source_url": "https://t.bilibili.com/863021739097980931",
+  "plain_text": "喵喵喵喵喵",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c577423-73c5-4c7e-bce3-b277eddc7ed9",
+    "next_uuid": "7755b240-3f45-4b83-9521-249f7ac264cf"
+  }
+}

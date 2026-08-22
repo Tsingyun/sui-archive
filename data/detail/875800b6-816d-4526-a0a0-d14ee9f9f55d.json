@@ -1,0 +1,28 @@
+{
+  "uuid": "875800b6-816d-4526-a0a0-d14ee9f9f55d",
+  "platform_post_id": "854908292484300819",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-21T19:20:48+08:00",
+  "source_url": "https://t.bilibili.com/854908292484300819",
+  "plain_text": "7:35先来唱唱 然后jo或者酒保行动 你们更想看哪个呢",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6baa8da8-f7b6-400b-9822-87846b6692cb",
+    "next_uuid": "1328e708-c28b-426a-9913-5a79593c5ca7"
+  }
+}

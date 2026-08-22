@@ -1,0 +1,28 @@
+{
+  "uuid": "2970fc75-3fa1-4a41-9e52-da46ed751765",
+  "platform_post_id": "885202170009354292",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-11T10:36:31+08:00",
+  "source_url": "https://t.bilibili.com/885202170009354292",
+  "plain_text": "我是小岁同住的朋友，她现在懒床到翻身把内啥露了出来omg！",
+  "images": [],
+  "stats": {
+    "likes": 799,
+    "comments": 156,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "683c0c68-f4a9-4487-b9d9-6cedf7d5b8b9",
+    "next_uuid": "a32a846b-31fc-428f-a433-8afa22cbb12b"
+  }
+}

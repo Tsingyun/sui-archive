@@ -1,0 +1,28 @@
+{
+  "uuid": "f96776d6-3ed7-45c5-b8ce-3c032263188d",
+  "platform_post_id": "985166790769246216",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-06T19:50:18+08:00",
+  "source_url": "https://t.bilibili.com/985166790769246216",
+  "plain_text": "诶？你好 我们8点见 先唱唱",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "02eca34b-5e3e-4986-8424-bcbc94c81469",
+    "next_uuid": "0101cb79-2dbe-40d7-8f23-4945299505ed"
+  }
+}

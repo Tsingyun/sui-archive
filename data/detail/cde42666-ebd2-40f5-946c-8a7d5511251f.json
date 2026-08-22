@@ -1,0 +1,28 @@
+{
+  "uuid": "cde42666-ebd2-40f5-946c-8a7d5511251f",
+  "platform_post_id": "828241068169363492",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-10T22:38:21+08:00",
+  "source_url": "https://t.bilibili.com/828241068169363492",
+  "plain_text": "大家！谁懂啊！我最喜欢的饼干岁Cookie-official今天居然没直播！！哭死了都，晚安了，希望明天能见到它[UP_1954091502_想岁了]",
+  "images": [],
+  "stats": {
+    "likes": 430,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fafc68e6-b8cf-44f7-852f-6245066e62ab",
+    "next_uuid": "300eab6f-2fdb-497b-aeeb-da3a4d2dbbdf"
+  }
+}

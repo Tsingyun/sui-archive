@@ -1,0 +1,28 @@
+{
+  "uuid": "c54f091e-1ed4-462b-978d-801987a8a140",
+  "platform_post_id": "1152520934543851559",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-12-31T19:29:51+08:00",
+  "source_url": "https://t.bilibili.com/1152520934543851559",
+  "plain_text": "小岁还没吃饭呢 我们8:50来直播看看这个聊聊天你说好不好呀",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "2025你最喜欢的岁己切片是什么呢！\n请在此评论下附上bv号我们晚上一起来回顾一下这一整年的岁己都说了些什么～\n直播片段也可以，请附上录播+时间点[UPOWER_1954091502_唔哇]\n最终解释权归岁己所有！",
+    "source_url": "https://t.bilibili.com/1152425500329639939"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e0757085-0130-4c7e-8494-b5babdfa5456",
+    "next_uuid": "a5489fc9-ce68-4c3a-aa1c-ea1f2ac7bb86"
+  }
+}

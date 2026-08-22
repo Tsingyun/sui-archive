@@ -1,0 +1,38 @@
+{
+  "uuid": "488d0cd8-db54-4eec-8fee-341d93227124",
+  "platform_post_id": "1160412829532028929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-01-22T01:54:26+08:00",
+  "source_url": "https://t.bilibili.com/1160412829532028929",
+  "plain_text": "嗯..岁己就是这样等到半夜悄悄转发",
+  "images": [
+    {
+      "filename": "1160412829532028929_100@repost.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 1498383,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 297,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "人活着是为了02",
+    "author_url": "https://space.bilibili.com/8481710",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a78e5b63-a048-4383-a3b7-828e14538ca6",
+    "next_uuid": "e7e7c551-7229-42e8-9f70-83e4b0939c41"
+  }
+}

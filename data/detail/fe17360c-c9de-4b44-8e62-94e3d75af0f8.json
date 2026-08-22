@@ -1,0 +1,28 @@
+{
+  "uuid": "fe17360c-c9de-4b44-8e62-94e3d75af0f8",
+  "platform_post_id": "1155202643406094355",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-08T00:56:15+08:00",
+  "source_url": "https://t.bilibili.com/1155202643406094355",
+  "plain_text": "晚安晚安大家 早点休息喔[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ad03370-5519-4c17-8d20-de46bb8b447e",
+    "next_uuid": "efef96db-062b-461e-92e4-a8adc0da7a67"
+  }
+}

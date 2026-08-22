@@ -1,0 +1,28 @@
+{
+  "uuid": "1b4fcd52-3895-42b7-9122-a1e98b2a13c0",
+  "platform_post_id": "749598318801190915",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-11T00:24:19+08:00",
+  "source_url": "https://t.bilibili.com/749598318801190915",
+  "plain_text": "先晚安[UP_1954091502_晚安] 继续学歌去了",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5a160fbf-76b5-4182-882e-bc8a441e62b7",
+    "next_uuid": "94af7162-34f8-42f8-aac8-4e76fbf210eb"
+  }
+}

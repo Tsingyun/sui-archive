@@ -1,0 +1,28 @@
+{
+  "uuid": "9455a9ad-8462-4afb-aecb-fe4578c2505a",
+  "platform_post_id": "1016746293742010375",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-30T22:14:54+08:00",
+  "source_url": "https://t.bilibili.com/1016746293742010375",
+  "plain_text": "是不是很想评论我？呵呵，发条晚安动态满足你",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00269eab-4aa3-4d8a-887f-b8518e08ef09",
+    "next_uuid": "3b4ac8ce-6952-4c07-869f-f1b98ebd8191"
+  }
+}

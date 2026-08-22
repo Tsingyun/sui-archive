@@ -1,0 +1,28 @@
+{
+  "uuid": "c3840111-d8c2-4179-9d8a-72fa4c2bbdf2",
+  "platform_post_id": "925107668933148697",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-27T23:30:14+08:00",
+  "source_url": "https://t.bilibili.com/925107668933148697",
+  "plain_text": "可惜没有吃到番茄炒蛋，晚安捏",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f0cd8f5f-d54e-489f-bcac-8f84554ac1f0",
+    "next_uuid": "f3fca996-a41a-4edf-8664-56b27e0747e0"
+  }
+}

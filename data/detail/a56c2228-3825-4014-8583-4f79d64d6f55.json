@@ -1,0 +1,28 @@
+{
+  "uuid": "a56c2228-3825-4014-8583-4f79d64d6f55",
+  "platform_post_id": "1185458295701241863",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-30T13:43:38+08:00",
+  "source_url": "https://t.bilibili.com/1185458295701241863",
+  "plain_text": "楼上打呼堪比电钻早上接了好多电话，非常没睡好好困脑袋晕，申请下午请个假晚上来[UP_1954091502_投降]",
+  "images": [],
+  "stats": {
+    "likes": 222,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6b1bc462-4b54-430b-a44a-f3cff987b26d",
+    "next_uuid": "e5a47841-4997-4edc-8b17-2073511d76f0"
+  }
+}

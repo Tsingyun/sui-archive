@@ -1,0 +1,28 @@
+{
+  "uuid": "b2c1b501-1c6a-4e83-b361-a890cbe6dbc8",
+  "platform_post_id": "1072800835377823751",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-30T23:35:09+08:00",
+  "source_url": "https://t.bilibili.com/1072800835377823751",
+  "plain_text": "已经躺下了 有了这么多大家的祝福感觉会睡得很香 谢谢大家陪岁己直到此时此刻 晚安大家[岁己收藏集表情包_啵啵]",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "132b440f-6ce5-48fc-bcd5-e846dbaf5077",
+    "next_uuid": "80d95aac-fded-45a0-ae92-cab553d06574"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ddd23b2d-3c3b-40ee-b599-3cff9b7f1e67",
+  "platform_post_id": "1179614773662187543",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-14T19:47:47+08:00",
+  "source_url": "https://t.bilibili.com/1179614773662187543",
+  "plain_text": "白**人节快乐 8:10来见面吧！",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aac6859b-741b-4bb1-8ddf-8ee8b3f532de",
+    "next_uuid": "4815b680-6128-4d1a-822e-13d699768bf8"
+  }
+}

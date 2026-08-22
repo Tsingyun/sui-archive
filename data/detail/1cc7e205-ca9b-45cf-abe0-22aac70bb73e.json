@@ -1,0 +1,38 @@
+{
+  "uuid": "1cc7e205-ca9b-45cf-abe0-22aac70bb73e",
+  "platform_post_id": "880894652792700953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-12-30T20:01:09+08:00",
+  "source_url": "https://t.bilibili.com/880894652792700953",
+  "plain_text": "这里见的说//@弥希Miki:又来咯 到瑞总直播间看哦【Cat2_OddFriend】//@九十九_Tsukumo:哈！！荣升特邀",
+  "images": [
+    {
+      "filename": "880894652792700953_100@repost.jpg",
+      "width": 1146,
+      "height": 717,
+      "file_size": 383024,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 189,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "瑞娅_Rhea",
+    "author_url": "https://space.bilibili.com/690608698",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5adca676-c401-44fc-87c0-c73b19c962a4",
+    "next_uuid": "00924cdd-4790-4b8c-9498-6715b5450760"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "78958a82-e836-4447-ad1f-bd0166d62628",
+  "platform_post_id": "1093592789185200163",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-07-26T00:18:33+08:00",
+  "source_url": "https://t.bilibili.com/1093592789185200163",
+  "plain_text": "晚安 新衣剪影前瞻part1~~\n",
+  "images": [
+    {
+      "filename": "1093592789185200163_00@original.png",
+      "width": 295,
+      "height": 193,
+      "file_size": 104730,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 305,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59b9b070-3af3-451f-981b-b17ca20adc56",
+    "next_uuid": "467902f2-8bea-4a82-a31e-df09b90c9d2b"
+  }
+}

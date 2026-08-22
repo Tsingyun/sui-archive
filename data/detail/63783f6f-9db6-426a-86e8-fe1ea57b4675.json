@@ -1,0 +1,28 @@
+{
+  "uuid": "63783f6f-9db6-426a-86e8-fe1ea57b4675",
+  "platform_post_id": "900917365388083202",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-22T18:59:30+08:00",
+  "source_url": "https://t.bilibili.com/900917365388083202",
+  "plain_text": "7:40 先这个那个 再罪恶王冠\n",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "614b8f09-351b-4d0f-80f7-64a9f4b05548",
+    "next_uuid": "403be4aa-31db-4fce-89b1-8e0030b97782"
+  }
+}

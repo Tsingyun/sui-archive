@@ -1,0 +1,28 @@
+{
+  "uuid": "72a45f12-811e-47f3-92af-9c257f457041",
+  "platform_post_id": "781041194577690692",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-05T17:58:44+08:00",
+  "source_url": "https://t.bilibili.com/781041194577690692",
+  "plain_text": "不播，晚点电台！",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef3b6092-3a36-4621-937c-b0d80271eade",
+    "next_uuid": "056ad276-391b-42ed-abcf-15d08ac045c8"
+  }
+}

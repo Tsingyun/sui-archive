@@ -1,0 +1,38 @@
+{
+  "uuid": "728d7710-7fd0-458d-a510-54d5ee83c405",
+  "platform_post_id": "988816911678570502",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-10-16T15:54:38+08:00",
+  "source_url": "https://t.bilibili.com/988816911678570502",
+  "plain_text": "🌟 饼干岁出道回！🌟 \n看了这么多次virtuareal新人出道，你是否有总结出出道经验呢，还是说你有更好的想法！\n说了好久的出道回，终于轮到大家播给我看了，首播内容可以且不限于是杂谈/唱歌/PPT/棉花糖，视频时间请尽量控制在4-8分钟内。  \n由观众和岁己一起拍板总结出你会成为头部？中部？还是脚部主播\n投稿至：suiji11@qq.com    \n截止时间:11月1日\n",
+  "images": [
+    {
+      "filename": "988816911678570502_00@original.png",
+      "width": 1600,
+      "height": 1000,
+      "file_size": 1882249,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 430,
+    "comments": 58,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73e87588-2d48-45a4-8cde-de6580863e00",
+    "next_uuid": "79cc0129-cb95-4b87-93cb-c359197b81ed"
+  }
+}

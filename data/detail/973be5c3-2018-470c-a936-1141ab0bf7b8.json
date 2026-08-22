@@ -1,0 +1,28 @@
+{
+  "uuid": "973be5c3-2018-470c-a936-1141ab0bf7b8",
+  "platform_post_id": "834854239772606515",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-28T18:20:50+08:00",
+  "source_url": "https://t.bilibili.com/834854239772606515",
+  "plain_text": "很多人 好吧虽然没人问\n但是岁己今天也是6:35直播哦哦哦！唱聊然后悄悄的进行机密的低质量直播🤫",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd7e70b8-2670-41fb-aac3-67614e2a439f",
+    "next_uuid": "cff678c9-81bc-4800-8cd5-9cad19cfc248"
+  }
+}

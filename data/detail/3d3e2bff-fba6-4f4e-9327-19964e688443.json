@@ -1,0 +1,28 @@
+{
+  "uuid": "3d3e2bff-fba6-4f4e-9327-19964e688443",
+  "platform_post_id": "794662103512252437",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-12T10:54:49+08:00",
+  "source_url": "https://t.bilibili.com/794662103512252437",
+  "plain_text": "被吵醒了，亲们早🌹🫰\n",
+  "images": [],
+  "stats": {
+    "likes": 352,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b1d38e3-0456-4b97-bfc4-19ad5e4abb9d",
+    "next_uuid": "49a3f0e6-8224-416d-b9c5-e9e71bb798cd"
+  }
+}

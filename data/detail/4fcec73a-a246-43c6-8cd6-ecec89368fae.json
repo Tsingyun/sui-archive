@@ -1,0 +1,28 @@
+{
+  "uuid": "4fcec73a-a246-43c6-8cd6-ecec89368fae",
+  "platform_post_id": "995176456920236081",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-02T19:12:55+08:00",
+  "source_url": "https://t.bilibili.com/995176456920236081",
+  "plain_text": "今天7:50来看看釜山行怎么说！",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "995ea96c-524a-4a65-afcd-c2625394ac8b",
+    "next_uuid": "96868103-85f0-4df7-9531-7c41801f70da"
+  }
+}

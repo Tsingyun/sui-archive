@@ -1,0 +1,38 @@
+{
+  "uuid": "2a2b3471-c217-4864-8f3a-4d5e1877be38",
+  "platform_post_id": "862512467662602246",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-11-11T07:08:53+08:00",
+  "source_url": "https://t.bilibili.com/862512467662602246",
+  "plain_text": "全世界醒的最早的人诞生了！比我晚起的都是猪🐽！\n",
+  "images": [
+    {
+      "filename": "862512467662602246_00@original.jpg",
+      "width": 540,
+      "height": 432,
+      "file_size": 56908,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 526,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "526f20ed-0b53-4727-98c5-87e07091a7f4",
+    "next_uuid": "ee5efae7-3300-4a34-8a71-da79de47d6e2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "01a456b3-83e6-4e23-8090-771439f48297",
+  "platform_post_id": "1046753151473942551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-21T18:56:50+08:00",
+  "source_url": "https://t.bilibili.com/1046753151473942551",
+  "plain_text": "刚忙完！嗦个面先，我们7：30见~~~",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "84d8b7ef-1660-44bf-a150-4d7634769598",
+    "next_uuid": "8c41bad4-32b3-4b27-9623-f486f2ab8c86"
+  }
+}

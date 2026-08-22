@@ -1,0 +1,28 @@
+{
+  "uuid": "420499b7-8c8b-41f0-ab5b-55b599192891",
+  "platform_post_id": "952134970411843593",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-09T19:29:58+08:00",
+  "source_url": "https://t.bilibili.com/952134970411843593",
+  "plain_text": "直播。7:40的直播，来一来看一看",
+  "images": [],
+  "stats": {
+    "likes": 219,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "390d491c-4d9f-4979-8280-c06e02699ff5",
+    "next_uuid": "6d794ed7-d751-4a3f-a6b0-61d33afdda47"
+  }
+}

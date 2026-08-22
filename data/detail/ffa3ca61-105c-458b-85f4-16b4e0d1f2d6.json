@@ -1,0 +1,28 @@
+{
+  "uuid": "ffa3ca61-105c-458b-85f4-16b4e0d1f2d6",
+  "platform_post_id": "747334845253812261",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-04T22:00:53+08:00",
+  "source_url": "https://t.bilibili.com/747334845253812261",
+  "plain_text": "晚上好哦，待会12点10分48秒见。会上架剩下的十来个表情包，今晚就先和大家叙叙旧聊聊天！",
+  "images": [],
+  "stats": {
+    "likes": 455,
+    "comments": 54,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9dd9971d-e114-4724-97a7-1cbd1b86148d",
+    "next_uuid": "808c8a75-e6c7-432d-b0fd-a991f92d747a"
+  }
+}

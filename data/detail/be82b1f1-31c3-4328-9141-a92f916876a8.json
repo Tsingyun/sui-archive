@@ -1,0 +1,28 @@
+{
+  "uuid": "be82b1f1-31c3-4328-9141-a92f916876a8",
+  "platform_post_id": "944347571958054917",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-18T19:50:53+08:00",
+  "source_url": "https://t.bilibili.com/944347571958054917",
+  "plain_text": "现在立刻征集一下好笑视频！",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 169,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "65d9b85b-8bae-4af8-9263-7fe50300c6aa",
+    "next_uuid": "150c335e-cf92-4574-821a-da2feac92136"
+  }
+}

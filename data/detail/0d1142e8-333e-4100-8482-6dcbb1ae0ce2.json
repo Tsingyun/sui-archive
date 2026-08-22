@@ -1,0 +1,28 @@
+{
+  "uuid": "0d1142e8-333e-4100-8482-6dcbb1ae0ce2",
+  "platform_post_id": "800970877954949124",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-29T10:56:05+08:00",
+  "source_url": "https://t.bilibili.com/800970877954949124",
+  "plain_text": "早早早，梦里还在谢礼物，无语啦",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c68b85c3-7923-4294-9eaa-ce6736d94d3c",
+    "next_uuid": "00f36577-103e-4941-b47f-5835acdf6674"
+  }
+}

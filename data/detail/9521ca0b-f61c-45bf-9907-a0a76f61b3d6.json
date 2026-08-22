@@ -1,0 +1,28 @@
+{
+  "uuid": "9521ca0b-f61c-45bf-9907-a0a76f61b3d6",
+  "platform_post_id": "1184876396311216131",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-29T00:05:34+08:00",
+  "source_url": "https://t.bilibili.com/1184876396311216131",
+  "plain_text": "晚安晚安大家，妈妈要回来了打扫客厅中，希望明天牙齿就恢复正常了。[UPOWER_1954091502_小肥鸟][UP_1954091502_岁觉鸟]",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "13ecbc79-7568-41cd-894e-297d03213503",
+    "next_uuid": "7e311711-126f-4d2d-a863-468a8be0ea0d"
+  }
+}

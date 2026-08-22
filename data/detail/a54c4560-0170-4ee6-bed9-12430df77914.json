@@ -1,0 +1,28 @@
+{
+  "uuid": "a54c4560-0170-4ee6-bed9-12430df77914",
+  "platform_post_id": "1236761980696526872",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-15T19:48:08+08:00",
+  "source_url": "https://t.bilibili.com/1236761980696526872",
+  "plain_text": "8点来！唱唱聊聊绣湖解解谜怎么样 没怎么玩过好怕搞不懂！",
+  "images": [],
+  "stats": {
+    "likes": 168,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a390bc85-134b-4c0b-aa44-e91daf37e6b2",
+    "next_uuid": "8384e725-47e1-4fbd-8805-683e2c6a3330"
+  }
+}

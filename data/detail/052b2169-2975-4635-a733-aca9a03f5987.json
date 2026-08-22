@@ -1,0 +1,28 @@
+{
+  "uuid": "052b2169-2975-4635-a733-aca9a03f5987",
+  "platform_post_id": "1122157186470903817",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-10T23:43:00+08:00",
+  "source_url": "https://t.bilibili.com/1122157186470903817",
+  "plain_text": "那个有点高麻烦帮我递一下，就是你手边的那个，就是那个",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e2c5619-e989-4ae2-8554-bdffa400d1fe",
+    "next_uuid": "3243d098-bf6a-4de2-a4e2-313c2df55052"
+  }
+}

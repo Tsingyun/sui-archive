@@ -1,0 +1,28 @@
+{
+  "uuid": "7dd6d8b4-b5b0-4947-94d4-67c332ae8533",
+  "platform_post_id": "794416895294963751",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-11T19:03:17+08:00",
+  "source_url": "https://t.bilibili.com/794416895294963751",
+  "plain_text": "7:40见 岁姐姐倾听烦恼回 把大家之前的烦恼投稿看一看安慰安慰 嗯嗯 小播 咳咳咳哼哧哼",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af247ede-1aac-49cd-8468-ba1c5c8c0bd9",
+    "next_uuid": "3a7bf8a0-c61d-4eda-b93e-564da71fad9f"
+  }
+}

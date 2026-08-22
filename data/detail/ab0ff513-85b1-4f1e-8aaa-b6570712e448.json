@@ -1,0 +1,28 @@
+{
+  "uuid": "ab0ff513-85b1-4f1e-8aaa-b6570712e448",
+  "platform_post_id": "773917072196370512",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-17T13:13:30+08:00",
+  "source_url": "https://t.bilibili.com/773917072196370512",
+  "plain_text": "早。周五喽！恭喜恭喜，下午摸摸鱼，晚上吃点好吃的吧！",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d6a22cf0-ee95-403d-be28-585b950f4d7c",
+    "next_uuid": "bfcc8c75-2939-468c-ba29-a4f2fa8161e1"
+  }
+}

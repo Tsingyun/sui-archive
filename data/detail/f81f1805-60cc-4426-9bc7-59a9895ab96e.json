@@ -1,0 +1,28 @@
+{
+  "uuid": "f81f1805-60cc-4426-9bc7-59a9895ab96e",
+  "platform_post_id": "993003250669060104",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-27T22:39:46+08:00",
+  "source_url": "https://t.bilibili.com/993003250669060104",
+  "plain_text": "岁己的神秘值又-1，今天你过得开心吗，晚安啦晚安啦晚安啦",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e27357e-353f-4497-8259-622d413716d1",
+    "next_uuid": "d17f1f24-39c8-4073-98dc-34043683c579"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c551a978-6032-48ce-b83e-15e442fe4897",
+  "platform_post_id": "1161067434128441368",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-23T20:14:38+08:00",
+  "source_url": "https://t.bilibili.com/1161067434128441368",
+  "plain_text": "我靠怎么八点了，刚吃完饭收拾完桌面，8:25来！[辣眼睛]",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "616dfe04-c309-41d6-8235-01ea9c000cc8",
+    "next_uuid": "89fa0d7e-14d6-4794-ad50-3c98543c9424"
+  }
+}

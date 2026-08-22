@@ -1,0 +1,28 @@
+{
+  "uuid": "7b381941-1fa6-4d93-bbe1-4726d24d3d6c",
+  "platform_post_id": "732464306947358755",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-25T20:15:36+08:00",
+  "source_url": "https://t.bilibili.com/732464306947358755",
+  "plain_text": "8.2 13今天真的直播一个小诗",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 8,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e37d1db3-fc69-49e0-97b1-94e2e72e986a",
+    "next_uuid": "0cb35cee-84a2-427b-b899-96e961c89856"
+  }
+}

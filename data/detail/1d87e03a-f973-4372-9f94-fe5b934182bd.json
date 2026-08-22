@@ -1,0 +1,28 @@
+{
+  "uuid": "1d87e03a-f973-4372-9f94-fe5b934182bd",
+  "platform_post_id": "957315147660001314",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-23T18:31:42+08:00",
+  "source_url": "https://t.bilibili.com/957315147660001314",
+  "plain_text": "7：20岁己来 记得准时到[小A和小B_喝茶]",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "89a5b866-e65e-4d21-8f60-cfad9a9d8fc4",
+    "next_uuid": "18d6ea06-1fb0-4872-976f-3d12159f0049"
+  }
+}

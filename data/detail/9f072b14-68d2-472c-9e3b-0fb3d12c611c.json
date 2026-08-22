@@ -1,0 +1,28 @@
+{
+  "uuid": "9f072b14-68d2-472c-9e3b-0fb3d12c611c",
+  "platform_post_id": "906861063014711300",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-09T19:24:05+08:00",
+  "source_url": "https://t.bilibili.com/906861063014711300",
+  "plain_text": "7:50嗷 唱聊然后这个那个杀手可能",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3db013df-907e-40b2-b78c-1083cae18963",
+    "next_uuid": "8e54e780-0b60-4a9f-a08c-0881a99e3347"
+  }
+}

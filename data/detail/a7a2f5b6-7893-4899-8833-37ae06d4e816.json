@@ -1,0 +1,28 @@
+{
+  "uuid": "a7a2f5b6-7893-4899-8833-37ae06d4e816",
+  "platform_post_id": "926586512098721795",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-01T23:08:54+08:00",
+  "source_url": "https://t.bilibili.com/926586512098721795",
+  "plain_text": "这份五月一日的晚安是你的吗 请查收",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f4c91e9-2599-447a-aa0e-ceafba8a288e",
+    "next_uuid": "9b028eb9-cdba-4969-94f1-dd7353ab89ba"
+  }
+}

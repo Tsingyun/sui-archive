@@ -1,0 +1,28 @@
+{
+  "uuid": "afd68bb2-05f7-4377-9084-7e59d77d6942",
+  "platform_post_id": "716840890973290521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-10-14T17:48:46+08:00",
+  "source_url": "https://t.bilibili.com/716840890973290521",
+  "plain_text": "千春前辈生日快乐！🎂",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7cc88b43-762b-47df-976f-bd3e70980309",
+    "next_uuid": "50eef880-d307-415d-b095-eba697d4b4f9"
+  }
+}

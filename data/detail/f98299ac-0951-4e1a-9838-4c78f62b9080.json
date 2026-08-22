@@ -1,0 +1,28 @@
+{
+  "uuid": "f98299ac-0951-4e1a-9838-4c78f62b9080",
+  "platform_post_id": "1104572297551806471",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-24T14:24:39+08:00",
+  "source_url": "https://t.bilibili.com/1104572297551806471",
+  "plain_text": "下午好  我们2:40见～",
+  "images": [],
+  "stats": {
+    "likes": 191,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2436264-ef88-4280-b796-e0bbc757e6b2",
+    "next_uuid": "9bc8c1f0-6c08-4175-aa7a-773f0503d948"
+  }
+}

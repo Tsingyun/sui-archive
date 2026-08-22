@@ -1,0 +1,28 @@
+{
+  "uuid": "65cb5035-58f0-43c7-9762-787b212e964d",
+  "platform_post_id": "732751769121062948",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-26T14:51:06+08:00",
+  "source_url": "https://t.bilibili.com/732751769121062948",
+  "plain_text": "下午好！🍪在干嘛在干嘛",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0cb35cee-84a2-427b-b899-96e961c89856",
+    "next_uuid": "de19bab8-4199-43ac-83f8-107ee74ac3de"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3c051ac3-ea77-4c91-961e-215032c1f4ac",
+  "platform_post_id": "1209736448746455064",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-03T23:55:16+08:00",
+  "source_url": "https://t.bilibili.com/1209736448746455064",
+  "plain_text": "💩饼干岁晚安 今天过得还行吗",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7c570515-b11b-41e7-8cbb-1634530af37b",
+    "next_uuid": "418922f5-8a50-4f23-aa8e-278962cb17e5"
+  }
+}

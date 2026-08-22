@@ -1,0 +1,28 @@
+{
+  "uuid": "433df166-98d3-4fcd-889c-88c337b5d4fa",
+  "platform_post_id": "1054623975379828740",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-11T23:59:39+08:00",
+  "source_url": "https://t.bilibili.com/1054623975379828740",
+  "plain_text": "[岁己收藏集表情包_那很好了]晚安孩子们，已经开始思考明天中午吃什么了",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be6e8d26-5b76-4bf3-a90c-a15a139efc11",
+    "next_uuid": "81a62923-9ce8-4f14-8cff-245e9154eefb"
+  }
+}

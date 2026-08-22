@@ -1,0 +1,28 @@
+{
+  "uuid": "532468e5-66d3-4e03-a876-e978d11a7c51",
+  "platform_post_id": "802562206028791833",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-02T17:51:15+08:00",
+  "source_url": "https://t.bilibili.com/802562206028791833",
+  "plain_text": "倦怠的下午，还是从床上爬起来了。那么我们6:10分见！[tv_鼓掌]",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d62a66da-c281-441c-b11c-04d5ff67552b",
+    "next_uuid": "090e03b2-5e37-4cec-8cbd-bcf4c3f591b5"
+  }
+}

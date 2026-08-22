@@ -1,0 +1,38 @@
+{
+  "uuid": "a899f1b0-33eb-46e0-9d57-839f301b81f4",
+  "platform_post_id": "1035632467564822551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-19T19:42:54+08:00",
+  "source_url": "https://t.bilibili.com/1035632467564822551",
+  "plain_text": "这位美人，请收下这只花˶ｰ`֊´ｰ",
+  "images": [
+    {
+      "filename": "1035632467564822551_100@repost.jpg",
+      "width": 1807,
+      "height": 2427,
+      "file_size": 842268,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 239,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0de98d2f-cb8c-4c75-a9c3-b85829f33916",
+    "next_uuid": "c5e3c57e-fe13-4569-b138-2aad67620555"
+  }
+}

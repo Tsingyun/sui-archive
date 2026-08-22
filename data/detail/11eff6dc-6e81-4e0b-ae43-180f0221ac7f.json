@@ -1,0 +1,38 @@
+{
+  "uuid": "11eff6dc-6e81-4e0b-ae43-180f0221ac7f",
+  "platform_post_id": "1111806525753524226",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-13T02:17:09+08:00",
+  "source_url": "https://t.bilibili.com/1111806525753524226",
+  "plain_text": "啊啊啊准备了好久的3D演出就这么结束了，还有点神游天外的感觉。\n三周年了！谢谢你此刻还在我面前。\n希望今天带来的一切有让你感到惊喜。\n磕磕绊绊也好，我们继续往下走吧",
+  "images": [
+    {
+      "filename": "1111806525753524226_00@original.png",
+      "width": 3840,
+      "height": 2160,
+      "file_size": 2452188,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 458,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e156ebcd-5fe1-4055-a1b7-43ffdafcd94f",
+    "next_uuid": "3dc54bfc-c366-418a-98d3-8536a2f1d160"
+  }
+}

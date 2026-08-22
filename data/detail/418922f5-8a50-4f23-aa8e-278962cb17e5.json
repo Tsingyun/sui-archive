@@ -1,0 +1,47 @@
+{
+  "uuid": "418922f5-8a50-4f23-aa8e-278962cb17e5",
+  "platform_post_id": "1210001435340570626",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-06-04T17:03:33+08:00",
+  "source_url": "https://t.bilibili.com/1210001435340570626",
+  "plain_text": "💫你好呀，我是岁己的说。\n是叽叽喳喳，喜欢唱歌的小鸟。\n\n直播时间：晚7:40  周1.3.5下午2:40\n\n生日：2月5日\n\n身高：158.5\n\n二创tag：#旺旺岁岁饼\n\n日常分享tag：#吃了岁岁了吃\n\n歌单：suijisui.space\n\n粉丝牌：饼干岁\n\n成就：初见幻影破戒僧/水生凛/狮子猿一阶段等等…\n\n一起开心悠闲地度过很多时间吧！\n",
+  "images": [
+    {
+      "filename": "1210001435340570626_00@original.png",
+      "width": 4042,
+      "height": 2560,
+      "file_size": 6150364,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1210001435340570626_01@original.png",
+      "width": 2028,
+      "height": 1500,
+      "file_size": 2342039,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 334,
+    "comments": 59,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c051ac3-ea77-4c91-961e-215032c1f4ac",
+    "next_uuid": "f5090640-4451-4155-8926-2dfaa15a3dcf"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "uuid": "f9bc0087-b8e0-4d7a-9943-920ab789e110",
+  "platform_post_id": "1217759413282013185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-06-25T14:48:28+08:00",
+  "source_url": "https://t.bilibili.com/1217759413282013185",
+  "plain_text": "有用双眼记录岁己的每一次出现吗",
+  "images": [
+    {
+      "filename": "1217759413282013185_100@repost.png",
+      "width": 2756,
+      "height": 4073,
+      "file_size": 16051626,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1217759413282013185_101@repost.png",
+      "width": 2756,
+      "height": 4073,
+      "file_size": 13915250,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 204,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Iro4s",
+    "author_url": "https://space.bilibili.com/2955509",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f5071dee-dd0b-4578-95e3-c47b3bdeb121",
+    "next_uuid": "378db502-4c98-4343-bea4-68c691022dbf"
+  }
+}

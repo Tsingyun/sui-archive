@@ -1,0 +1,28 @@
+{
+  "uuid": "e00c1aa2-82a4-4977-a0f9-d3591b0acfde",
+  "platform_post_id": "950601490993512448",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-05T16:19:17+08:00",
+  "source_url": "https://t.bilibili.com/950601490993512448",
+  "plain_text": "可爱无料的说！大家可以去拿！",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e9f576db-3ee9-4913-b491-bed1c38edd50",
+    "next_uuid": "28a10789-462f-497e-9b34-449d7e32083b"
+  }
+}

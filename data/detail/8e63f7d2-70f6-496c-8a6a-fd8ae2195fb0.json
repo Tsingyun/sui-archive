@@ -1,0 +1,28 @@
+{
+  "uuid": "8e63f7d2-70f6-496c-8a6a-fd8ae2195fb0",
+  "platform_post_id": "1238684700065660944",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-21T00:09:16+08:00",
+  "source_url": "https://t.bilibili.com/1238684700065660944",
+  "plain_text": "一个人在一个普通的夜晚打字后发送了条动态跟你说晚安",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f45a0173-161d-492d-9db7-2cfbe489effe",
+    "next_uuid": "17788567-3884-4ffb-a600-989faba780af"
+  }
+}

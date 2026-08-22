@@ -1,0 +1,28 @@
+{
+  "uuid": "ad38cfa1-c9b7-43a8-80a0-c0412697186d",
+  "platform_post_id": "1218119357312270336",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-26T14:05:14+08:00",
+  "source_url": "https://t.bilibili.com/1218119357312270336",
+  "plain_text": "2:30 继续高手玩空洞洞 接下来该去哪了",
+  "images": [],
+  "stats": {
+    "likes": 180,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2359d249-b076-4750-9962-a81e70238ebd",
+    "next_uuid": "04a5dbe3-95ee-4cd3-83c9-5876ab920dc8"
+  }
+}

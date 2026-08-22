@@ -1,0 +1,28 @@
+{
+  "uuid": "2ec5201c-36da-4b77-acea-1ac9f76bdc6a",
+  "platform_post_id": "941748519704723458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-11T19:45:14+08:00",
+  "source_url": "https://t.bilibili.com/941748519704723458",
+  "plain_text": "什么！七点四十了，现在就来 五分钟后",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f4b1f945-57a5-4535-97a8-b5016267e703",
+    "next_uuid": "263d6a76-80fa-40d9-915f-66da5ed9fd26"
+  }
+}

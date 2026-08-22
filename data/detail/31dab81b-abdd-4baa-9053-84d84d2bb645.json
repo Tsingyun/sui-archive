@@ -1,0 +1,28 @@
+{
+  "uuid": "31dab81b-abdd-4baa-9053-84d84d2bb645",
+  "platform_post_id": "997865497233981440",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-10T01:07:46+08:00",
+  "source_url": "https://t.bilibili.com/997865497233981440",
+  "plain_text": "晚安[UPOWER_1954091502_爱你][UPOWER_1954091502_爱你]后天见好么好的",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "34d67b4c-9ec3-4594-aff4-927fd13d4518",
+    "next_uuid": "a6a8288b-207a-4ee2-872c-d88030760717"
+  }
+}

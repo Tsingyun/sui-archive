@@ -1,0 +1,28 @@
+{
+  "uuid": "96dcc980-d227-4b0b-9fe0-7719ade2f7b3",
+  "platform_post_id": "790918399590924308",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-02T08:47:20+08:00",
+  "source_url": "https://t.bilibili.com/790918399590924308",
+  "plain_text": "还在睡？！比我晚的都是猪！",
+  "images": [],
+  "stats": {
+    "likes": 395,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b96585bc-3b60-411b-a080-06a939aca010",
+    "next_uuid": "d3cbf555-aa27-43ca-bbc4-035977ac464a"
+  }
+}

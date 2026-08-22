@@ -1,0 +1,28 @@
+{
+  "uuid": "9bc8c1f0-6c08-4175-aa7a-773f0503d948",
+  "platform_post_id": "1104717390174748689",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-24T23:47:41+08:00",
+  "source_url": "https://t.bilibili.com/1104717390174748689",
+  "plain_text": "东西交出来！不然找人弄你🔫",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f98299ac-0951-4e1a-9838-4c78f62b9080",
+    "next_uuid": "d3b2ec1a-a10b-4bc1-9456-88b233584f17"
+  }
+}

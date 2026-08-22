@@ -1,0 +1,28 @@
+{
+  "uuid": "ffc79158-89ef-41f7-acb5-310a59ec524f",
+  "platform_post_id": "807662454180937733",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-16T11:42:49+08:00",
+  "source_url": "https://t.bilibili.com/807662454180937733",
+  "plain_text": "中午好啾\n每天都说早上好，想着今天来说中午好会比较特别啾，不是睡到现在啾",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1f17c83f-21ee-4b05-ae60-d8e60995d330",
+    "next_uuid": "f0f10807-d662-4883-986e-0b1a0a1acd9a"
+  }
+}

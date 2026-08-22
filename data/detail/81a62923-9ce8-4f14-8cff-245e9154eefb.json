@@ -1,0 +1,38 @@
+{
+  "uuid": "81a62923-9ce8-4f14-8cff-245e9154eefb",
+  "platform_post_id": "1054919228667199511",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-04-12T19:05:23+08:00",
+  "source_url": "https://t.bilibili.com/1054919228667199511",
+  "plain_text": "本月舰长礼物！重磅激萌摇摇乐和超实用饭勺，从此告别液体勺\n然后今天7:30先来唱唱歌聊聊天再说[岁己收藏集表情包_那很好了]\n",
+  "images": [
+    {
+      "filename": "1054919228667199511_00@original.png",
+      "width": 720,
+      "height": 480,
+      "file_size": 159167,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 219,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "433df166-98d3-4fcd-889c-88c337b5d4fa",
+    "next_uuid": "1743b853-6851-4aa3-814e-d086e556976f"
+  }
+}

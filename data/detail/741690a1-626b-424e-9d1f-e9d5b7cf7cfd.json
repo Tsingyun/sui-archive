@@ -1,0 +1,28 @@
+{
+  "uuid": "741690a1-626b-424e-9d1f-e9d5b7cf7cfd",
+  "platform_post_id": "787804007153270822",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-23T23:21:54+08:00",
+  "source_url": "https://t.bilibili.com/787804007153270822",
+  "plain_text": "天天见的小饼好久不见的小饼都晚安\n岁己元气注入———！ ୧( \"̮ )୨✧ᐦ̤",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b5f1186-efd3-4cda-81a6-564efa957b74",
+    "next_uuid": "72a22aae-44ef-4dbe-8f96-f7234ec09fa3"
+  }
+}

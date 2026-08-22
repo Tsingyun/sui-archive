@@ -1,0 +1,28 @@
+{
+  "uuid": "403be4aa-31db-4fce-89b1-8e0030b97782",
+  "platform_post_id": "901014457191235589",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-23T01:16:16+08:00",
+  "source_url": "https://t.bilibili.com/901014457191235589",
+  "plain_text": "盲盒..罪恶王冠，，我的嗓子。。。晚安nyo",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "63783f6f-9db6-426a-86e8-fe1ea57b4675",
+    "next_uuid": "ef9bb092-6bc5-40cd-b9e7-78502774704a"
+  }
+}

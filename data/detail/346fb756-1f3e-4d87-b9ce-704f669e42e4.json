@@ -1,0 +1,28 @@
+{
+  "uuid": "346fb756-1f3e-4d87-b9ce-704f669e42e4",
+  "platform_post_id": "769175531378704449",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-04T18:33:54+08:00",
+  "source_url": "https://t.bilibili.com/769175531378704449",
+  "plain_text": "半周年舰长礼物投票\n评论点赞。速来！",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 32,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "edd321c5-a14f-459a-8be2-8b2c013875b4",
+    "next_uuid": "5c0d66a2-de1c-455f-a91b-6123313b96db"
+  }
+}

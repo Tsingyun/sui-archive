@@ -1,0 +1,38 @@
+{
+  "uuid": "d66a0eb8-2fa5-43bc-8e4a-0ae4b190686d",
+  "platform_post_id": "1062253216037601298",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-02T13:25:00+08:00",
+  "source_url": "https://t.bilibili.com/1062253216037601298",
+  "plain_text": "大家到现场了吗[岁己收藏集表情包_羞死人了]好紧张\n来见岁己辛苦啦，今天给大家准备了一点自己喜欢喝的奶茶！可以到剧院门口无料摊位凭21级饼干岁牌子领取～～奶茶3-3:30到达[岁己收藏集表情包_哇]",
+  "images": [
+    {
+      "filename": "1062253216037601298_100@repost.jpg",
+      "width": 1620,
+      "height": 1080,
+      "file_size": 1094250,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 288,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa194ff4-0994-4a38-b14d-f5847bb8fbd0",
+    "next_uuid": "5020fab2-eac3-4841-a77b-2e9d7d4daf34"
+  }
+}

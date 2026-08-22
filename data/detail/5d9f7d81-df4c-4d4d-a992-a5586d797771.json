@@ -1,0 +1,28 @@
+{
+  "uuid": "5d9f7d81-df4c-4d4d-a992-a5586d797771",
+  "platform_post_id": "929868592924590081",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-10T19:25:03+08:00",
+  "source_url": "https://t.bilibili.com/929868592924590081",
+  "plain_text": "本来以为是青春回忆回，确认了一下发现今天申请了jojo，那今天还是唱唱聊聊jojo",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9e993c5b-fc11-4df2-84af-baa71c7be213",
+    "next_uuid": "93b3cd45-e2d1-4227-91cf-220dc8b1afc6"
+  }
+}

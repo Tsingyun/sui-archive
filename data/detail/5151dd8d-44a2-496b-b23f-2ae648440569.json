@@ -1,0 +1,28 @@
+{
+  "uuid": "5151dd8d-44a2-496b-b23f-2ae648440569",
+  "platform_post_id": "763211599894806534",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-16T16:50:48+08:00",
+  "source_url": "https://t.bilibili.com/763211599894806534",
+  "plain_text": "思考了很久，终于下定决心了。怀着悲痛的心情通知一下大家：岁己SUI2月16日不直播。",
+  "images": [],
+  "stats": {
+    "likes": 426,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dcfd943d-0dfc-4913-a0c3-c5e45c8b2d58",
+    "next_uuid": "d3e46bb2-ae17-4b67-9a78-356bae5492bd"
+  }
+}

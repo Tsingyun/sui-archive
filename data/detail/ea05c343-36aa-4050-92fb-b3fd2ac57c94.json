@@ -1,0 +1,28 @@
+{
+  "uuid": "ea05c343-36aa-4050-92fb-b3fd2ac57c94",
+  "platform_post_id": "1145915072940343300",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-14T00:15:44+08:00",
+  "source_url": "https://t.bilibili.com/1145915072940343300",
+  "plain_text": "晚安不帅气但可爱的饼子晚安帅气但不可爱的饼子晚安又帅气又可爱的饼子[UPOWER_1954091502_唔哇][UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2563aa1f-7b5d-4048-9f1d-69096447f25d",
+    "next_uuid": "cf544a97-98fc-4c6a-8b1a-c497e6b0b418"
+  }
+}

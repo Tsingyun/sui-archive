@@ -1,0 +1,47 @@
+{
+  "uuid": "4778fd04-9c86-4914-a5fd-428c9b04cb1d",
+  "platform_post_id": "748761856736231462",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-08T18:18:25+08:00",
+  "source_url": "https://t.bilibili.com/748761856736231462",
+  "plain_text": "朋友帮忙做的徽章预览图，都好可爱难以抉择，大家投下票！ [投票]\n",
+  "images": [
+    {
+      "filename": "748761856736231462_00@original.jpg",
+      "width": 1090,
+      "height": 1076,
+      "file_size": 120757,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "748761856736231462_01@original.jpg",
+      "width": 1067,
+      "height": 1061,
+      "file_size": 121771,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 325,
+    "comments": 26,
+    "forwards": 42,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4f4f3ca0-bce5-4c1a-9f40-258f4d52f50f",
+    "next_uuid": "30c23e32-d63c-4259-ab72-2847e749bdeb"
+  }
+}

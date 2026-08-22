@@ -1,0 +1,28 @@
+{
+  "uuid": "b83da6cf-eb38-498f-a576-d66567c8792c",
+  "platform_post_id": "936224491935105090",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-27T22:29:11+08:00",
+  "source_url": "https://t.bilibili.com/936224491935105090",
+  "plain_text": "晚安波比波比",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "26853a94-f1f2-452c-8de1-7b77b984e14a",
+    "next_uuid": "a7dcc6b2-a1a3-4ab8-9728-48be6134a1d1"
+  }
+}

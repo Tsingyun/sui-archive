@@ -1,0 +1,28 @@
+{
+  "uuid": "df2a8e8f-fb1e-40f6-9d89-af2c150be9b8",
+  "platform_post_id": "744307666414731299",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-27T18:13:53+08:00",
+  "source_url": "https://t.bilibili.com/744307666414731299",
+  "plain_text": "八点玩暴雨哦",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a9e1b5fa-2192-47ee-9a08-26a4a4edc96c",
+    "next_uuid": "07a2adeb-8555-4d42-9f35-62d8c134dd93"
+  }
+}

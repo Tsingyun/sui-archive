@@ -1,0 +1,38 @@
+{
+  "uuid": "22e31dbe-9f06-4c96-99a0-79680ae07105",
+  "platform_post_id": "759122009344966665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T16:21:06+08:00",
+  "source_url": "https://t.bilibili.com/759122009344966665",
+  "plain_text": "哇我好可爱！",
+  "images": [
+    {
+      "filename": "759122009344966665_100@repost.png",
+      "width": 1024,
+      "height": 1024,
+      "file_size": 1122074,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 279,
+    "comments": 6,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "风霜已尽惊蛰至",
+    "author_url": "https://space.bilibili.com/4041465",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5e67caa-fa7e-4fda-914d-323223d15612",
+    "next_uuid": "c541d5dd-22c9-4163-8fee-32d967aff8f8"
+  }
+}

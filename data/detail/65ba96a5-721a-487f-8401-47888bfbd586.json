@@ -1,0 +1,28 @@
+{
+  "uuid": "65ba96a5-721a-487f-8401-47888bfbd586",
+  "platform_post_id": "707677595432386561",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-20T01:10:30+08:00",
+  "source_url": "https://t.bilibili.com/707677595432386561",
+  "plain_text": "晚安的说！谢谢大家！",
+  "images": [],
+  "stats": {
+    "likes": 480,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6a3f8488-2d20-43b2-b0e7-7a9bc1d486e7",
+    "next_uuid": "b3f1fb3c-361e-4341-a95f-43e061bb73fb"
+  }
+}

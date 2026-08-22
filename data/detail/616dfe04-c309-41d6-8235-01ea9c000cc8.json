@@ -1,0 +1,28 @@
+{
+  "uuid": "616dfe04-c309-41d6-8235-01ea9c000cc8",
+  "platform_post_id": "1160777712773627912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-23T01:30:22+08:00",
+  "source_url": "https://t.bilibili.com/1160777712773627912",
+  "plain_text": "啾咪啾晚安，小天才啊岁己是。\n今天下午3:00初见鸣潮波比波比！",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 70,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "31ea19b2-a4e0-4a6b-9568-d6b0ee2df492",
+    "next_uuid": "c551a978-6032-48ce-b83e-15e442fe4897"
+  }
+}

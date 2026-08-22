@@ -1,0 +1,38 @@
+{
+  "uuid": "b5c6bba1-2cf6-4e4e-8d5d-df3d24206c46",
+  "platform_post_id": "1215610666927259656",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-06-19T19:50:14+08:00",
+  "source_url": "https://t.bilibili.com/1215610666927259656",
+  "plain_text": "8:30和栞弥理瑞一起好物分享~！",
+  "images": [
+    {
+      "filename": "1215610666927259656_100@repost.jpg",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 579731,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 165,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "瑞娅_Rhea",
+    "author_url": "https://space.bilibili.com/690608698",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3fc0c041-8344-41c3-bcb6-969b35c8fb51",
+    "next_uuid": "3c888c65-1845-425d-a02c-aa7acd9de5e0"
+  }
+}

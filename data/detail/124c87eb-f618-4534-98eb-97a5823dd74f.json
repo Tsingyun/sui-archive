@@ -1,0 +1,28 @@
+{
+  "uuid": "124c87eb-f618-4534-98eb-97a5823dd74f",
+  "platform_post_id": "757321713674354691",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-31T19:55:02+08:00",
+  "source_url": "https://t.bilibili.com/757321713674354691",
+  "plain_text": "九点！还没想好今晚干嘛，但是是九点！",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9aef9469-ff8d-49c8-b653-e45e76536953",
+    "next_uuid": "59700b3a-3949-4c59-9cd6-b19b8f19846c"
+  }
+}

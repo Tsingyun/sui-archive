@@ -1,0 +1,28 @@
+{
+  "uuid": "bb730c21-3cc3-4eef-bb38-9abcac6c6594",
+  "platform_post_id": "935876234303242248",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-26T23:57:46+08:00",
+  "source_url": "https://t.bilibili.com/935876234303242248",
+  "plain_text": "走咯，大概十五分钟后就播啦",
+  "images": [],
+  "stats": {
+    "likes": 318,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d2ba6081-4fe6-4a60-8e32-2268aaebf12b",
+    "next_uuid": "d4f2b67d-779a-4ac7-b822-672ef877c256"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4a52d983-2dbd-4014-910c-3e35df9b978a",
+  "platform_post_id": "750708722489098354",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-14T00:13:15+08:00",
+  "source_url": "https://t.bilibili.com/750708722489098354",
+  "plain_text": "晚安饼干岁，这周也辛苦了，晚安，祝你睡得香香，我们周六见。[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e1303e7-0de0-44a2-88db-3ad54099f6dc",
+    "next_uuid": "c8b900af-01d2-47bd-97d9-537b4a9a4398"
+  }
+}

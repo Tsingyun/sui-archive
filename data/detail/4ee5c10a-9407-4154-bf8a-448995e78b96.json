@@ -1,0 +1,28 @@
+{
+  "uuid": "4ee5c10a-9407-4154-bf8a-448995e78b96",
+  "platform_post_id": "753282683466940432",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-20T22:41:32+08:00",
+  "source_url": "https://t.bilibili.com/753282683466940432",
+  "plain_text": "这个话题里包含了饼干岁生活的点点滴滴，可以在这里发吃了的饭去过的地方以及一切想分享给岁己我的东西~那么首先在这里征集一下大家的年夜饭~",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9d73cab2-f36c-4277-9801-a926eed8e151",
+    "next_uuid": "af0155ed-4eb1-4a1e-807f-3106eb64a817"
+  }
+}

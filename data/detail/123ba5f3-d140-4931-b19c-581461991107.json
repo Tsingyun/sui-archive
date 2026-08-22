@@ -1,0 +1,28 @@
+{
+  "uuid": "123ba5f3-d140-4931-b19c-581461991107",
+  "platform_post_id": "715374486044540945",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-10T18:58:22+08:00",
+  "source_url": "https://t.bilibili.com/715374486044540945",
+  "plain_text": "今晚9点来看主播玩价值18元的to the moon 希望我录完歌还能吃个饭然后还剩时间学点新的music能给大家唱下",
+  "images": [],
+  "stats": {
+    "likes": 502,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9289188f-0368-4e54-813c-11e6ac038d08",
+    "next_uuid": "ca7c894f-f862-4573-82d5-c2b7fb8f13b5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "92d73c28-6670-476b-9ec5-c850bd13b480",
+  "platform_post_id": "954050139309211697",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-14T23:21:48+08:00",
+  "source_url": "https://t.bilibili.com/954050139309211697",
+  "plain_text": "有什么要对岁己说的吗(*❦ω❦) 期待期待",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 114,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "95d806e1-6fdf-422e-b1de-928eed88a3ac",
+    "next_uuid": "c7a4cc75-39c2-44ce-839d-60b3fffe0590"
+  }
+}

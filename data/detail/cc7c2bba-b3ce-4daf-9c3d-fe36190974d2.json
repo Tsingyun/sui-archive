@@ -1,0 +1,28 @@
+{
+  "uuid": "cc7c2bba-b3ce-4daf-9c3d-fe36190974d2",
+  "platform_post_id": "892101459459440677",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-30T00:49:17+08:00",
+  "source_url": "https://t.bilibili.com/892101459459440677",
+  "plain_text": "下课！晚安 把你记忆清除一下",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 80,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b30ae120-13a8-4d58-a6ab-f490c3c38f19",
+    "next_uuid": "8f3f2808-7428-462c-ad0d-b6e449f74960"
+  }
+}

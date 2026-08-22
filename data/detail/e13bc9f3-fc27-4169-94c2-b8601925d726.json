@@ -1,0 +1,28 @@
+{
+  "uuid": "e13bc9f3-fc27-4169-94c2-b8601925d726",
+  "platform_post_id": "1027555077153357833",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-29T01:18:30+08:00",
+  "source_url": "https://t.bilibili.com/1027555077153357833",
+  "plain_text": "新年快乐呀呀呀！被饼干岁包围着热热闹闹开开心心地度过了新年，谢谢大家一直用爱包围着岁己。晚安啦明天见",
+  "images": [],
+  "stats": {
+    "likes": 375,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "deacafe1-4ed2-4935-a672-41c16c600660",
+    "next_uuid": "e86efff3-390c-496a-9a6e-ee558e64424f"
+  }
+}

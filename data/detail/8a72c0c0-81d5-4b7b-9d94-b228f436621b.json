@@ -1,0 +1,38 @@
+{
+  "uuid": "8a72c0c0-81d5-4b7b-9d94-b228f436621b",
+  "platform_post_id": "1099742125818380297",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-08-11T14:01:07+08:00",
+  "source_url": "https://t.bilibili.com/1099742125818380297",
+  "plain_text": "小岁好看吗[UPOWER_1954091502_右扭扭][UPOWER_1954091502_左扭扭][UPOWER_1954091502_右扭扭][UPOWER_1954091502_左扭扭]",
+  "images": [
+    {
+      "filename": "1099742125818380297_100@repost.png",
+      "width": 2000,
+      "height": 3000,
+      "file_size": 2681102,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 277,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f34fa4e3-6a9c-4c51-84f1-61aa7d8e9f15",
+    "next_uuid": "7d11894e-95af-4f07-b7a0-0465d2b9e89f"
+  }
+}

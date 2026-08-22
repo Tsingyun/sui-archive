@@ -1,0 +1,28 @@
+{
+  "uuid": "a13d4fbb-810c-4b65-86c9-ac506c0e470a",
+  "platform_post_id": "759265693180887057",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-06T01:38:40+08:00",
+  "source_url": "https://t.bilibili.com/759265693180887057",
+  "plain_text": "哇！谢谢老师！好有氛围感的一张！最后一条啦 大家晚安",
+  "images": [],
+  "stats": {
+    "likes": 387,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "876a4934-565a-4a8f-a9a2-0bff6efded13",
+    "next_uuid": "78429362-cf34-41c6-bf8d-ac9efb83ea81"
+  }
+}

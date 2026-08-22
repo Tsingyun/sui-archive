@@ -1,0 +1,28 @@
+{
+  "uuid": "78429362-cf34-41c6-bf8d-ac9efb83ea81",
+  "platform_post_id": "759431998635769881",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-06T12:24:01+08:00",
+  "source_url": "https://t.bilibili.com/759431998635769881",
+  "plain_text": "哇昨晚玩着玩着直接睡死过去，闹钟都没订！手机也没电了。凭借强大的生物钟准时醒来了，真棒啊我。\n好像3万关注了！谢谢大家，恭喜岁女士喜提新衣服一件，预计将在6-12个月以内跟大家见面！",
+  "images": [],
+  "stats": {
+    "likes": 606,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a13d4fbb-810c-4b65-86c9-ac506c0e470a",
+    "next_uuid": "93319783-2fc5-4550-884e-7b586570c57a"
+  }
+}

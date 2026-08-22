@@ -1,0 +1,28 @@
+{
+  "uuid": "90a3698d-263b-4fc0-b61e-27113c183c8b",
+  "platform_post_id": "961780526351384600",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-04T19:19:39+08:00",
+  "source_url": "https://t.bilibili.com/961780526351384600",
+  "plain_text": "今天没啦 明天再来找你玩[UPOWER_1954091502_分号分号]",
+  "images": [],
+  "stats": {
+    "likes": 353,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4eae71d9-c823-4dfc-bda2-1844c2c7a625",
+    "next_uuid": "9d3bdbc3-8b75-4ae4-b84f-d92549b0a8ed"
+  }
+}

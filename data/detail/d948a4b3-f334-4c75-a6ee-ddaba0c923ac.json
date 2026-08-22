@@ -1,0 +1,28 @@
+{
+  "uuid": "d948a4b3-f334-4c75-a6ee-ddaba0c923ac",
+  "platform_post_id": "733329407861587974",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-28T04:12:38+08:00",
+  "source_url": "https://t.bilibili.com/733329407861587974",
+  "plain_text": "晚安饼干岁，大家辛苦惹，感觉更了解大家了！做个好梦😴",
+  "images": [],
+  "stats": {
+    "likes": 352,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f14aa67-d180-49dc-8eaf-d8acb25ead08",
+    "next_uuid": "8e40927c-4623-4f08-8082-83b1b2e43c40"
+  }
+}

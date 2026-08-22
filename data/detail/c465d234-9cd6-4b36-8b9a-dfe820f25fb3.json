@@ -1,0 +1,28 @@
+{
+  "uuid": "c465d234-9cd6-4b36-8b9a-dfe820f25fb3",
+  "platform_post_id": "1131814295884005412",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-06T00:17:31+08:00",
+  "source_url": "https://t.bilibili.com/1131814295884005412",
+  "plain_text": "到点了 再不交晚安要逾期了！晚安了u",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d35eeedc-04bf-4012-bacb-1b5d01ef48bd",
+    "next_uuid": "fc5d907e-4a5f-4f37-9241-aa31d33eda9f"
+  }
+}

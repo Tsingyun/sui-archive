@@ -1,0 +1,28 @@
+{
+  "uuid": "3e5f6517-ea40-486e-ac68-382c1965d6d3",
+  "platform_post_id": "774681035210227732",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-19T14:38:04+08:00",
+  "source_url": "https://t.bilibili.com/774681035210227732",
+  "plain_text": "嗯…那个这个这个那个，下午好",
+  "images": [],
+  "stats": {
+    "likes": 421,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "28df4c41-039e-4525-bf83-2ad8c10ad6d5",
+    "next_uuid": "a2518329-45c6-41ca-abf3-d709d860fc87"
+  }
+}

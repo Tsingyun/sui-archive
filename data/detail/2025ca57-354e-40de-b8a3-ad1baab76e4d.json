@@ -1,0 +1,28 @@
+{
+  "uuid": "2025ca57-354e-40de-b8a3-ad1baab76e4d",
+  "platform_post_id": "1108051749386584099",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-02T23:26:42+08:00",
+  "source_url": "https://t.bilibili.com/1108051749386584099",
+  "plain_text": "晚安晚安 今天有发生什么想告诉给我的吗",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bdc892c1-f5fd-4e9b-ba84-8810f6389a03",
+    "next_uuid": "d87b152d-3b0c-4ff0-9367-527eb8e6ebc8"
+  }
+}

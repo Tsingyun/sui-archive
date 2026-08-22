@@ -1,0 +1,38 @@
+{
+  "uuid": "b906d104-653d-4263-ab43-936521a50e36",
+  "platform_post_id": "928705004688113665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-05-07T16:09:44+08:00",
+  "source_url": "https://t.bilibili.com/928705004688113665",
+  "plain_text": "hi，你是我当年的同桌小饼吗？",
+  "images": [
+    {
+      "filename": "928705004688113665_100@repost.jpg",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 1948254,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 389,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7c5431e-7e81-4172-a8eb-86822ea39462",
+    "next_uuid": "2311fa00-f16c-45fc-a7df-539aafdd78e1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "97b2912b-8928-4f00-8d5d-51b613537880",
+  "platform_post_id": "990795697600069649",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-21T23:53:20+08:00",
+  "source_url": "https://t.bilibili.com/990795697600069649",
+  "plain_text": "太能赖了大家也，晚安喔喔喔",
+  "images": [],
+  "stats": {
+    "likes": 310,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b85d340-6f19-435c-a4cf-4587e59519b4",
+    "next_uuid": "f55a7176-20db-4161-b4c4-ee0cb12ba8e9"
+  }
+}

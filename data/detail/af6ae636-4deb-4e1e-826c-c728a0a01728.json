@@ -1,0 +1,28 @@
+{
+  "uuid": "af6ae636-4deb-4e1e-826c-c728a0a01728",
+  "platform_post_id": "845609886106517520",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-26T17:58:14+08:00",
+  "source_url": "https://t.bilibili.com/845609886106517520",
+  "plain_text": "快直播了我竟然困了 快！🍪快跳性感热舞让我打起精神！",
+  "images": [],
+  "stats": {
+    "likes": 222,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5359b401-1603-4ecc-8db8-0d09ab120fcf",
+    "next_uuid": "605ea0ee-500a-41da-858c-267419c6fb0c"
+  }
+}

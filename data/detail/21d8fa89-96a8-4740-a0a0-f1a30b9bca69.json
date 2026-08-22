@@ -1,0 +1,28 @@
+{
+  "uuid": "21d8fa89-96a8-4740-a0a0-f1a30b9bca69",
+  "platform_post_id": "789580332566315008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-28T18:14:57+08:00",
+  "source_url": "https://t.bilibili.com/789580332566315008",
+  "plain_text": "不行 吃不了那么快 晚十分钟好吗 呜呜呜呜呜呜呜呜呜",
+  "images": [],
+  "stats": {
+    "likes": 289,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "892031ae-40b9-4b94-9d89-366a9c3beedd",
+    "next_uuid": "e6483971-2adc-45e4-9799-8f02774aded6"
+  }
+}

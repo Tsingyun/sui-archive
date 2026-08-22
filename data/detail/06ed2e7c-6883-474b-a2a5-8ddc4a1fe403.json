@@ -1,0 +1,28 @@
+{
+  "uuid": "06ed2e7c-6883-474b-a2a5-8ddc4a1fe403",
+  "platform_post_id": "775506789916475625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-21T20:02:25+08:00",
+  "source_url": "https://t.bilibili.com/775506789916475625",
+  "plain_text": "感觉是不是有人很急着看岁己的直播啊 挠头挠头\n那8:20好了",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4190f385-1621-4de0-88e0-ae4f0ddb354d",
+    "next_uuid": "e7a95393-a29d-4d42-a9eb-b33e6d4f3ab2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3340cd71-e985-407e-9557-77e8c4b6db13",
+  "platform_post_id": "779101059040673858",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-31T12:30:01+08:00",
+  "source_url": "https://t.bilibili.com/779101059040673858",
+  "plain_text": "梦到桌子碎成满地玻璃渣，走路踩到了啊好痛！周五了早！",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23a02d54-d3b8-4c14-b673-834d46fbbf45",
+    "next_uuid": "1b23709d-245c-429c-aa71-342f9b17ccfb"
+  }
+}

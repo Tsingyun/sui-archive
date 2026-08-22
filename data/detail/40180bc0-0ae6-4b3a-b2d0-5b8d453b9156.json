@@ -1,0 +1,47 @@
+{
+  "uuid": "40180bc0-0ae6-4b3a-b2d0-5b8d453b9156",
+  "platform_post_id": "1189988936389230612",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-04-11T18:44:50+08:00",
+  "source_url": "https://t.bilibili.com/1189988936389230612",
+  "plain_text": "臣服吧人类！",
+  "images": [
+    {
+      "filename": "1189988936389230612_100@repost.png",
+      "width": 2481,
+      "height": 3776,
+      "file_size": 8387005,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1189988936389230612_101@repost.png",
+      "width": 1080,
+      "height": 1644,
+      "file_size": 2101059,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 185,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "557b7c63-84ac-440d-84bb-e37c85915ce3",
+    "next_uuid": "c5c03261-9e2d-4bac-863f-abdfa5232d7c"
+  }
+}

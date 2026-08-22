@@ -1,0 +1,28 @@
+{
+  "uuid": "e2e6b626-f847-445c-8c3c-28e6ada8bf8f",
+  "platform_post_id": "917708771722002454",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-08T00:58:44+08:00",
+  "source_url": "https://t.bilibili.com/917708771722002454",
+  "plain_text": "晚安【TAB-左轮手枪-威胁】",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88a22333-eb8f-4828-8eba-f370df23ee26",
+    "next_uuid": "cacc9226-6903-44be-a3c3-ed5735d86b36"
+  }
+}

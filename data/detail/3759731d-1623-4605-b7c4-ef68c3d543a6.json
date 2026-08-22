@@ -1,0 +1,28 @@
+{
+  "uuid": "3759731d-1623-4605-b7c4-ef68c3d543a6",
+  "platform_post_id": "1165979717078089747",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-06T01:56:48+08:00",
+  "source_url": "https://t.bilibili.com/1165979717078089747",
+  "plain_text": "晚安大家，过去的一岁谢谢你陪着岁己，新的一岁也互相陪伴吧！\n分你一点岁己的时间、快乐和爱",
+  "images": [],
+  "stats": {
+    "likes": 348,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c5856cc-412c-48b6-baba-91e42ffce88b",
+    "next_uuid": "d1cfa31f-558d-40a6-8a50-d3524a87a6f8"
+  }
+}

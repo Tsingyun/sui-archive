@@ -1,0 +1,28 @@
+{
+  "uuid": "2bd422f5-e344-425f-b1b5-21cb2d131ad5",
+  "platform_post_id": "846058216006615111",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-27T22:57:59+08:00",
+  "source_url": "https://t.bilibili.com/846058216006615111",
+  "plain_text": "为什么不跟我说晚安！？网络不佳吗？键盘坏了吗？不知道这两个字的拼音吗？今天要通宵吗？\n说！！快说！！！",
+  "images": [],
+  "stats": {
+    "likes": 446,
+    "comments": 98,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "01dd4447-bc5f-4292-8531-f665cea6b598",
+    "next_uuid": "5b2fd1fa-2ff5-41c3-a514-a587e07035f5"
+  }
+}

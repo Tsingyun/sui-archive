@@ -1,0 +1,28 @@
+{
+  "uuid": "70584c2e-9f1e-40f3-b245-b96b34d3d6f6",
+  "platform_post_id": "991462748987588611",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-23T19:01:50+08:00",
+  "source_url": "https://t.bilibili.com/991462748987588611",
+  "plain_text": "今天是十点的煮煮，都知道吧，嗯嗯？嗯？",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71853d32-d2ba-4d0c-9c7c-ee0a2bf79d0d",
+    "next_uuid": "c069f253-116e-4648-9c3f-d9da2d16ecc9"
+  }
+}
