@@ -1,0 +1,28 @@
+{
+  "uuid": "9b028eb9-cdba-4969-94f1-dd7353ab89ba",
+  "platform_post_id": "926899512087150616",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-02T19:23:30+08:00",
+  "source_url": "https://t.bilibili.com/926899512087150616",
+  "plain_text": "小饼啊7:40！直播！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a7a2f5b6-7893-4899-8833-37ae06d4e816",
+    "next_uuid": "2d0e595d-42d2-4280-9461-5067b6ea3b68"
+  }
+}

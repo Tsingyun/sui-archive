@@ -1,0 +1,28 @@
+{
+  "uuid": "ad5b8895-ec57-4f42-be90-becb497fb706",
+  "platform_post_id": "859790008147509271",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-03T23:04:21+08:00",
+  "source_url": "https://t.bilibili.com/859790008147509271",
+  "plain_text": "唱爽了 晚安晚安！",
+  "images": [],
+  "stats": {
+    "likes": 291,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f253cd1-6008-413a-a4e9-9126624be30c",
+    "next_uuid": "449a724b-2d65-41b2-9abf-00f0b94d3e3b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d22d670f-1a51-428d-bfb4-20d8c37a1a12",
+  "platform_post_id": "914719672030461956",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-30T23:39:30+08:00",
+  "source_url": "https://t.bilibili.com/914719672030461956",
+  "plain_text": "晚安啊晚安（挤眼，暗示，催促",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 83,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ecdbb120-0c1b-46c6-851a-afe15846d247",
+    "next_uuid": "58f5ae1d-f626-45a1-ab80-72315f942112"
+  }
+}

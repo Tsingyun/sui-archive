@@ -1,0 +1,28 @@
+{
+  "uuid": "60f062c7-6256-4fdc-92f6-551559b5c9e8",
+  "platform_post_id": "1204852778860544001",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-21T20:04:08+08:00",
+  "source_url": "https://t.bilibili.com/1204852778860544001",
+  "plain_text": "怎么八点了！8:18见！",
+  "images": [],
+  "stats": {
+    "likes": 165,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd39ada3-e47b-4a3a-a124-f05a391c350e",
+    "next_uuid": "f78ce47b-8a34-42ab-a147-df2032db3bdd"
+  }
+}

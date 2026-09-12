@@ -1,0 +1,28 @@
+{
+  "uuid": "55cf3d5d-e650-4f83-a6dc-4127f88303c6",
+  "platform_post_id": "1158386171946991625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-16T14:49:58+08:00",
+  "source_url": "https://t.bilibili.com/1158386171946991625",
+  "plain_text": "啵啵哔啵3点来摸🐟",
+  "images": [],
+  "stats": {
+    "likes": 181,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "902421de-51cb-49ee-a165-fc0de63b92ee",
+    "next_uuid": "6026d58d-fd35-438b-b7d3-493f728806b3"
+  }
+}

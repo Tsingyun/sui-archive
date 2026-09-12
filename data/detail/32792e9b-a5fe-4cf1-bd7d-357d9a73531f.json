@@ -1,0 +1,28 @@
+{
+  "uuid": "32792e9b-a5fe-4cf1-bd7d-357d9a73531f",
+  "platform_post_id": "1019675452855287826",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-07T19:41:32+08:00",
+  "source_url": "https://t.bilibili.com/1019675452855287826",
+  "plain_text": "大家想念的岁己来了，7点50见┗|｀O′|┛ 嗷~~",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4caa6712-b29f-4d5d-9d92-78cfafe24031",
+    "next_uuid": "d2e5536a-321b-4ed1-bcbf-715893454e6f"
+  }
+}

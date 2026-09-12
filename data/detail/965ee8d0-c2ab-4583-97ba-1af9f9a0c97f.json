@@ -1,0 +1,83 @@
+{
+  "uuid": "965ee8d0-c2ab-4583-97ba-1af9f9a0c97f",
+  "platform_post_id": "956657085646372901",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-07-21T23:58:05+08:00",
+  "source_url": "https://t.bilibili.com/956657085646372901",
+  "plain_text": "晚安安捏，谢谢你今天来看我。还要度过很多个像今天一样的一天\n",
+  "images": [
+    {
+      "filename": "956657085646372901_00@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 658593,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "956657085646372901_01@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 612333,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "956657085646372901_02@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 477684,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "956657085646372901_03@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1181127,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "956657085646372901_04@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1400166,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "956657085646372901_05@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1540689,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 713,
+    "comments": 122,
+    "forwards": 6,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68dde852-e95d-4c91-8c1f-498682f6f8eb",
+    "next_uuid": "1eeac783-e946-42fd-991c-d9b8e0c91430"
+  }
+}

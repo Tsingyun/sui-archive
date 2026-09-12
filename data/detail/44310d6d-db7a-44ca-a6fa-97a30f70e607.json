@@ -1,0 +1,28 @@
+{
+  "uuid": "44310d6d-db7a-44ca-a6fa-97a30f70e607",
+  "platform_post_id": "784693699191767057",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-15T14:12:19+08:00",
+  "source_url": "https://t.bilibili.com/784693699191767057",
+  "plain_text": "早。我闹钟呢？我知道，你又要说猪吧睡这么久，但你却不知道岁己睡这么久睡得脖子背有多酸痛，也不知道岁己没听到闹钟的慌张无助！你心里只有你自己！你这个自私的饼！",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 42,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f6bddab6-f1b4-43f9-af82-78db033f8086",
+    "next_uuid": "9cd0e034-7631-4da2-b5e8-e1bf5755046c"
+  }
+}

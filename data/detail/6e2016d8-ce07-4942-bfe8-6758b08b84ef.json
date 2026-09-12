@@ -1,0 +1,28 @@
+{
+  "uuid": "6e2016d8-ce07-4942-bfe8-6758b08b84ef",
+  "platform_post_id": "995629202326683655",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-04T00:29:48+08:00",
+  "source_url": "https://t.bilibili.com/995629202326683655",
+  "plain_text": "晚安晚安，快六小时了哎，一不小心播太多了，饼干岁该营养过剩重度依赖了",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "644fbe90-e53f-4c82-907c-4849d5cd1ef9",
+    "next_uuid": "a35872ab-1daa-4565-8596-1ef7b522373f"
+  }
+}

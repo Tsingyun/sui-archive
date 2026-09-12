@@ -1,0 +1,28 @@
+{
+  "uuid": "b30ae120-13a8-4d58-a6ab-f490c3c38f19",
+  "platform_post_id": "892013352506621953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-29T19:07:23+08:00",
+  "source_url": "https://t.bilibili.com/892013352506621953",
+  "plain_text": "7:30 聊 接着看学院孤岛 该4进3了",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "022cd574-d9ec-416f-8dc0-d371d702ead7",
+    "next_uuid": "cc7c2bba-b3ce-4daf-9c3d-fe36190974d2"
+  }
+}

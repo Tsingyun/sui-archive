@@ -1,0 +1,38 @@
+{
+  "uuid": "0d0d92c1-4174-4787-951a-566006b384a0",
+  "platform_post_id": "1057960709751570441",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-04-20T23:47:53+08:00",
+  "source_url": "https://t.bilibili.com/1057960709751570441",
+  "plain_text": "[抽奖]<VirtuaReal 2025 Music Mixup!! 演唱会>  \n用双眼见证舞台上的岁己吧！\n\n◖ 购票链接              \n线下票：网页链接\n线上票：网页链接",
+  "images": [
+    {
+      "filename": "1057960709751570441_00@original.jpg",
+      "width": 3827,
+      "height": 5669,
+      "file_size": 11220267,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 604,
+    "comments": 125,
+    "forwards": 821,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "45ae2a31-0cc0-47c0-8456-c5d8401cf51d",
+    "next_uuid": "057d8aaf-9ea2-4a89-aefa-a461d42e61ee"
+  }
+}

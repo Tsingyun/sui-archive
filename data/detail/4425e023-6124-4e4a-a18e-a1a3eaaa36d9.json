@@ -1,0 +1,28 @@
+{
+  "uuid": "4425e023-6124-4e4a-a18e-a1a3eaaa36d9",
+  "platform_post_id": "1120603675329298469",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-06T19:14:35+08:00",
+  "source_url": "https://t.bilibili.com/1120603675329298469",
+  "plain_text": "7:✌️✌️十👋来直播！总之先来唱唱",
+  "images": [],
+  "stats": {
+    "likes": 206,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eabc662c-4bcf-4eb7-972d-55ae526f4eee",
+    "next_uuid": "00d471a9-6e0d-4116-b51b-75d9c2d28a4f"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "e7e7c551-7229-42e8-9f70-83e4b0939c41",
+  "platform_post_id": "1160609788142288913",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-01-22T14:38:44+08:00",
+  "source_url": "https://t.bilibili.com/1160609788142288913",
+  "plain_text": "岁己将于近期发货6-1月的舰长礼物，任一一个月有在大航海回馈填写地址即可，需要补填的大家可以在这里进行填写，截止日期1月26日喔！\nhttps://docs.qq.com/form/page/DRkFGdXh6YnZZR0hj \n另外9月3D舰礼的应援手环已升级为26cm应援棒，设计如下图，感谢大家的等待和支持的说~\n",
+  "images": [
+    {
+      "filename": "1160609788142288913_00@original.png",
+      "width": 1064,
+      "height": 1655,
+      "file_size": 1813024,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 241,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "488d0cd8-db54-4eec-8fee-341d93227124",
+    "next_uuid": "31ea19b2-a4e0-4a6b-9568-d6b0ee2df492"
+  }
+}

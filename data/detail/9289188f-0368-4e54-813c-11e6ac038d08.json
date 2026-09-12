@@ -1,0 +1,28 @@
+{
+  "uuid": "9289188f-0368-4e54-813c-11e6ac038d08",
+  "platform_post_id": "714997254790840325",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-09T18:34:31+08:00",
+  "source_url": "https://t.bilibili.com/714997254790840325",
+  "plain_text": "今晚9点来看主播花36元巨款原价购入的高价正版Steam平台发售的精美游戏to the moon 不见不散啊",
+  "images": [],
+  "stats": {
+    "likes": 667,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2cc492d9-ee1b-428f-8240-452b81bd871d",
+    "next_uuid": "123ba5f3-d140-4931-b19c-581461991107"
+  }
+}

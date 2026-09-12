@@ -1,0 +1,28 @@
+{
+  "uuid": "705e1587-2cfd-4e3a-bf99-fd2cad5bf7f0",
+  "platform_post_id": "1243886111682461698",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-04T00:33:24+08:00",
+  "source_url": "https://t.bilibili.com/1243886111682461698",
+  "plain_text": "晚安！遇见大家四周年了！我们明天见\n如果能成为很美好的记忆就好了",
+  "images": [],
+  "stats": {
+    "likes": 423,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "554e2bbe-6426-4d1a-bdee-e8a7a0bd983f",
+    "next_uuid": "945de19b-05ae-4bb7-8c79-68c7ee789165"
+  }
+}

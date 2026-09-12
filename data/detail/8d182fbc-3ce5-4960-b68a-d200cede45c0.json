@@ -1,0 +1,28 @@
+{
+  "uuid": "8d182fbc-3ce5-4960-b68a-d200cede45c0",
+  "platform_post_id": "1140715705790890022",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-29T23:59:32+08:00",
+  "source_url": "https://t.bilibili.com/1140715705790890022",
+  "plain_text": "大家都希望我来说几句，那我就来说几句，今天是周六，明天是周日，那么我们在今天周六的同时也不要忘记明天是什么日子，现在是夜晚了，晚上应该干什么，该睡觉，当然也不要忘记白天岁己的直播。也不要忘记岁己明天下午还会来直播。晚安",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9df15f0f-4621-4a59-9db6-e9a1cdeca300",
+    "next_uuid": "c858f5f2-5580-4475-9025-00c6e1a4ad09"
+  }
+}

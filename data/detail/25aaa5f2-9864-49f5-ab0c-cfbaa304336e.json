@@ -1,0 +1,28 @@
+{
+  "uuid": "25aaa5f2-9864-49f5-ab0c-cfbaa304336e",
+  "platform_post_id": "1015257413248352289",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-26T21:57:17+08:00",
+  "source_url": "https://t.bilibili.com/1015257413248352289",
+  "plain_text": "11点05分51秒出来 记得来接我 小播一会 [温泉物语轻漾幻景表情包_小岁]\n然后转盘延续 今天也能转",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0074f8fe-166c-4a81-970e-3c4e982b08c5",
+    "next_uuid": "eec82b79-e080-4614-aee7-caa038045775"
+  }
+}

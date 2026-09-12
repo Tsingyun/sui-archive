@@ -1,0 +1,28 @@
+{
+  "uuid": "f9a8c80b-f262-4b49-a6bc-8650673d0150",
+  "platform_post_id": "704329659768111104",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-11T00:38:48+08:00",
+  "source_url": "https://t.bilibili.com/704329659768111104",
+  "plain_text": "晚安！今天我也辛苦了！haha感谢来看的大家！",
+  "images": [],
+  "stats": {
+    "likes": 800,
+    "comments": 59,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d6d8249-4ffd-436b-8a42-5cb994f728c8",
+    "next_uuid": "eef9e984-0f85-4bb3-a472-90e131379358"
+  }
+}

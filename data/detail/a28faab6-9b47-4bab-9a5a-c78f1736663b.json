@@ -1,0 +1,28 @@
+{
+  "uuid": "a28faab6-9b47-4bab-9a5a-c78f1736663b",
+  "platform_post_id": "1101351033440829491",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-15T22:04:30+08:00",
+  "source_url": "https://t.bilibili.com/1101351033440829491",
+  "plain_text": "我发起了一个投票[投票]",
+  "images": [],
+  "stats": {
+    "likes": 144,
+    "comments": 27,
+    "forwards": 22,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c30957aa-f1ba-4711-8ec5-d8b49d930438",
+    "next_uuid": "510dd1aa-d93a-4010-bde4-d32a7b8847e6"
+  }
+}

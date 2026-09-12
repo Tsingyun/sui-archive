@@ -1,0 +1,28 @@
+{
+  "uuid": "0b8343c5-dd62-4953-907a-fc11490d62f8",
+  "platform_post_id": "1048699716589584384",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-27T00:50:30+08:00",
+  "source_url": "https://t.bilibili.com/1048699716589584384",
+  "plain_text": "一条让你的眼里只有岁己的魔法晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e20c73b7-f741-41a2-a045-dfce16948562",
+    "next_uuid": "3a46aa9b-f4ea-44f8-8e39-2899a05521f9"
+  }
+}

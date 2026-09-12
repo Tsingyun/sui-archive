@@ -1,0 +1,28 @@
+{
+  "uuid": "23a02d54-d3b8-4c14-b673-834d46fbbf45",
+  "platform_post_id": "778921224463974407",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-31T00:52:10+08:00",
+  "source_url": "https://t.bilibili.com/778921224463974407",
+  "plain_text": "Zzz",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b5d07c6-293c-451c-9165-bf25b52b5c4c",
+    "next_uuid": "3340cd71-e985-407e-9557-77e8c4b6db13"
+  }
+}

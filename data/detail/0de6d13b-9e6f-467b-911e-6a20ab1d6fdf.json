@@ -1,0 +1,28 @@
+{
+  "uuid": "0de6d13b-9e6f-467b-911e-6a20ab1d6fdf",
+  "platform_post_id": "1201582904265670659",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-13T00:35:21+08:00",
+  "source_url": "https://t.bilibili.com/1201582904265670659",
+  "plain_text": "刚魄力拍下一个仓 你帮我看看里面有最珍稀的大红晚安吗",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f6403263-60dd-40b1-a89b-b01305fe7240",
+    "next_uuid": "a9864f9d-3aad-4921-b909-2882961c88de"
+  }
+}

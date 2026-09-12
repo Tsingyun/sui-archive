@@ -1,0 +1,28 @@
+{
+  "uuid": "1134b91f-a723-4976-9b9d-e3d4ac7a69ea",
+  "platform_post_id": "1241957177399181315",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-29T19:48:09+08:00",
+  "source_url": "https://t.bilibili.com/1241957177399181315",
+  "plain_text": "今天我们8:30见哦饼饼的猪",
+  "images": [],
+  "stats": {
+    "likes": 206,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8cb50ce1-d83b-4cf0-94fc-3faeb3639657",
+    "next_uuid": "bde6b2d3-6b85-4201-bcaa-3ba9b5459cb0"
+  }
+}

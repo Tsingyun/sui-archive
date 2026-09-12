@@ -1,0 +1,28 @@
+{
+  "uuid": "6b4dc661-8955-4bd9-89e9-7c9ce7ce8275",
+  "platform_post_id": "742593617981341767",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-23T03:22:30+08:00",
+  "source_url": "https://t.bilibili.com/742593617981341767",
+  "plain_text": "晚安 guizhouheguangxixiangbi🎵\n",
+  "images": [],
+  "stats": {
+    "likes": 294,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f86ee204-7e58-436e-9f69-ed8c3b376508",
+    "next_uuid": "31465b93-4e85-40a5-9132-4fe9c442e9f2"
+  }
+}

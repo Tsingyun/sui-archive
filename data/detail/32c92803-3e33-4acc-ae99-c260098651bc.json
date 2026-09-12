@@ -1,0 +1,28 @@
+{
+  "uuid": "32c92803-3e33-4acc-ae99-c260098651bc",
+  "platform_post_id": "1241655455929860103",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-29T00:17:19+08:00",
+  "source_url": "https://t.bilibili.com/1241655455929860103",
+  "plain_text": "晚安晚安哟大家，今天操作有点变形了嗯，改天再发挥真正的实力吧。时间越来越近了怎么办亚达哟",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6380b75-721a-4612-aeb5-7f8e208dcb65",
+    "next_uuid": "8cb50ce1-d83b-4cf0-94fc-3faeb3639657"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "19ca37d8-d398-4af1-adc8-e66fdd5b9d1e",
+  "platform_post_id": "1003719288565006336",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-25T19:43:28+08:00",
+  "source_url": "https://t.bilibili.com/1003719288565006336",
+  "plain_text": "直播 直播 十分钟来 今天zuoshenme",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea921ae6-de47-4a83-84e0-609b3a4dc97b",
+    "next_uuid": "5b20b900-7332-428c-9e33-7b48fe2bd25e"
+  }
+}

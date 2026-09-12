@@ -1,0 +1,28 @@
+{
+  "uuid": "0fe27b32-237a-4d0f-9729-8c7b54ebc402",
+  "platform_post_id": "791435578094649368",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-03T18:14:15+08:00",
+  "source_url": "https://t.bilibili.com/791435578094649368",
+  "plain_text": "岁长工太累了 休息休息  7:30见吧 先定这个时间",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "143a091b-8c6c-4b42-a9dc-4059f8ad5705",
+    "next_uuid": "724a6eed-ac2a-4a44-a0c4-28b58697c583"
+  }
+}

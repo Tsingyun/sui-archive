@@ -1,0 +1,28 @@
+{
+  "uuid": "e9a734bb-055e-4808-b42f-f3bf40aa11c8",
+  "platform_post_id": "1240469469455712359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-25T19:35:05+08:00",
+  "source_url": "https://t.bilibili.com/1240469469455712359",
+  "plain_text": "今天也练练舞 8:30来！你说我们今天干嘛",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4cbec5f1-6f61-4766-a693-9ab6e4cab485",
+    "next_uuid": "6ba9d72d-ce2d-4685-920f-ce624cbfbcc7"
+  }
+}

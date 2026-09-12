@@ -1,0 +1,28 @@
+{
+  "uuid": "5ee0f691-51f7-479d-af3a-c2f794824810",
+  "platform_post_id": "790659576288509955",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-01T16:02:58+08:00",
+  "source_url": "https://t.bilibili.com/790659576288509955",
+  "plain_text": "待会有个投稿～\n今晚直播时间不定，大概在8:30-9:30之间",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6850662-de18-40e6-bb8b-943187e84a42",
+    "next_uuid": "8b469eae-7c67-4a62-b5a7-be181515a5ba"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6aec78a3-e66c-4514-8c7e-e2a0b9bb1047",
+  "platform_post_id": "814456340821835784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-04T19:06:34+08:00",
+  "source_url": "https://t.bilibili.com/814456340821835784",
+  "plain_text": "好肉麻啊你们 那就7:30来聊一个小时然后同步试听点什么！因为我还没吃饭",
+  "images": [],
+  "stats": {
+    "likes": 383,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "63f5f605-3857-44df-823c-3b5b6f80fc7d",
+    "next_uuid": "0438a78c-587d-4d9c-8e86-335c65a7bfcb"
+  }
+}

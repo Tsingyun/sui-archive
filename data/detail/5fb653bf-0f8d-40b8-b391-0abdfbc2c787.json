@@ -1,0 +1,28 @@
+{
+  "uuid": "5fb653bf-0f8d-40b8-b391-0abdfbc2c787",
+  "platform_post_id": "820032569634455601",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-19T19:45:11+08:00",
+  "source_url": "https://t.bilibili.com/820032569634455601",
+  "plain_text": "外卖才到啊大家呜呜呜8:30来",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2104a783-c10f-4a03-a4f5-627156f9db76",
+    "next_uuid": "18fed4e4-eb43-4418-b0a4-8f8f1986409e"
+  }
+}

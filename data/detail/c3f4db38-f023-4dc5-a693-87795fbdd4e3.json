@@ -1,0 +1,28 @@
+{
+  "uuid": "c3f4db38-f023-4dc5-a693-87795fbdd4e3",
+  "platform_post_id": "1186297459274416129",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-04-01T20:00:01+08:00",
+  "source_url": "https://t.bilibili.com/1186297459274416129",
+  "plain_text": "彩排有点久 还在吃饭！8:30来这个喔",
+  "images": [],
+  "stats": {
+    "likes": 143,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "写2-3条混杂真假的内容，并在最后空行几行后告知其中几真几假。\n愚人节当天岁己来判断一下哪个是真哪个是假\n内容可以是情感的/生活的/虚拟主播相关的，不限~\n条数不要超过4条，字数不要太长哟~\n投稿至：suiji11@qq.com\n截止时间4月1日下午7点30",
+    "source_url": "https://t.bilibili.com/1186233116377743382"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6b45d837-036d-43a3-ba44-c19cb7e608ee",
+    "next_uuid": "1e96dde7-6013-4d04-85c1-95b3a779d89e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e5148e6c-024d-487e-8fc2-d699d14173e9",
+  "platform_post_id": "1187851442878152708",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-06T00:30:16+08:00",
+  "source_url": "https://t.bilibili.com/1187851442878152708",
+  "plain_text": "检测到你的色相浑浊，数值达到110，给你开了七副岁己的直播，看完应该能恢复到正常状态。去吧去吧😴",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2fcd576-fda3-49c2-a289-832979e83e99",
+    "next_uuid": "2f6279df-367f-4061-a4c9-96e36f7d244b"
+  }
+}

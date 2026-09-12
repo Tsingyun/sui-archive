@@ -1,0 +1,38 @@
+{
+  "uuid": "6d299a17-37ba-4e07-941a-106703134b99",
+  "platform_post_id": "1125322053389385762",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-19T12:24:18+08:00",
+  "source_url": "https://t.bilibili.com/1125322053389385762",
+  "plain_text": "闪魂 & VirtuaReal 联动企划上线啦！有女仆小岁卡和线稿小岁卡！\n周日15:00和我一起直播拆卡叭\n直播中还会天选一盒送给大家～\n[UPOWER_1954091502_ctrl你]来一起抽卡",
+  "images": [
+    {
+      "filename": "1125322053389385762_00@original.jpg",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 212211,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 238,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55ab8971-a7ac-4c30-bbd8-3ea5a89a7ae4",
+    "next_uuid": "1c9c7f21-0927-4ad0-a151-9fc273088156"
+  }
+}

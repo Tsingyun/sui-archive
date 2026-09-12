@@ -1,0 +1,38 @@
+{
+  "uuid": "ddd18316-e833-43b0-82c5-dd353235805e",
+  "platform_post_id": "767040086500966440",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-27T00:27:17+08:00",
+  "source_url": "https://t.bilibili.com/767040086500966440",
+  "plain_text": "第一次跟哔哩哔哩的大家见面了，好开心！！真的好紧张，谢谢大家！！\n晚安！下次见！\n",
+  "images": [
+    {
+      "filename": "767040086500966440_00@original.jpg",
+      "width": 1168,
+      "height": 328,
+      "file_size": 65026,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 576,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fa61752-3931-4e45-ade7-e73e73512075",
+    "next_uuid": "4d71d580-db84-4e16-9fbf-f8dc114521eb"
+  }
+}

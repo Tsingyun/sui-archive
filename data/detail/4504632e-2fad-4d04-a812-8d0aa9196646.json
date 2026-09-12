@@ -1,0 +1,28 @@
+{
+  "uuid": "4504632e-2fad-4d04-a812-8d0aa9196646",
+  "platform_post_id": "1172617790879694857",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-23T23:15:55+08:00",
+  "source_url": "https://t.bilibili.com/1172617790879694857",
+  "plain_text": "7个小时是什么梗啊大家[岁己收藏集表情包_昂？]晚安 喔喔是说岁己今天播了七个小时吗",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "64f5ed6f-1bc9-4851-8c3a-1ec0e4da69d9",
+    "next_uuid": "8fc5774f-7672-4fe9-abf3-a446a0215493"
+  }
+}

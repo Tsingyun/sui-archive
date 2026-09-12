@@ -1,0 +1,28 @@
+{
+  "uuid": "8556f112-2555-4aa2-8372-6712909b62c7",
+  "platform_post_id": "849346936912740373",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-06T19:39:54+08:00",
+  "source_url": "https://t.bilibili.com/849346936912740373",
+  "plain_text": "瘫在床上额阿啊錒～\n大家很想见到我的话我还是爬起来吧7:50见 到时候对我热情点！",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a333c106-4ace-4b3c-a8e3-110e93001b69",
+    "next_uuid": "4f173dee-5563-42e8-a235-4d8d47af0a98"
+  }
+}

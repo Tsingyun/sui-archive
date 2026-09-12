@@ -1,0 +1,28 @@
+{
+  "uuid": "47a0d7b9-a840-45c7-b391-576a6c8ee3c9",
+  "platform_post_id": "785141909070807072",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-16T19:11:36+08:00",
+  "source_url": "https://t.bilibili.com/785141909070807072",
+  "plain_text": "8:30给饼干岁直播，也就是说饼干岁需要在8:30来看我的直播",
+  "images": [],
+  "stats": {
+    "likes": 317,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d512459b-0654-4361-bc62-37fd36b60877",
+    "next_uuid": "afc383ef-7671-422f-b78e-d5050c8dcc96"
+  }
+}

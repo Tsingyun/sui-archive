@@ -1,0 +1,28 @@
+{
+  "uuid": "c7dd536c-1ffb-45c1-9bd8-b13e0ee9d686",
+  "platform_post_id": "773150343224623109",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-15T11:38:12+08:00",
+  "source_url": "https://t.bilibili.com/773150343224623109",
+  "plain_text": "早，醒了二十分钟了，为什么睡了九小时还想睡，真能睡啊，一拳揍你[UP_1954091502_吃我一拳]",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "54ff7708-8344-4f76-ba94-fb9d56538f58",
+    "next_uuid": "53c763cd-b3ac-45a0-89fe-c7df863ee0a4"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "uuid": "86ebd522-5411-4fe8-8967-fe8b2077053b",
+  "platform_post_id": "984761448965079043",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-05T17:37:22+08:00",
+  "source_url": "https://t.bilibili.com/984761448965079043",
+  "plain_text": "帅帅岁己",
+  "images": [
+    {
+      "filename": "984761448965079043_100@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2722166,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "984761448965079043_101@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2719145,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "984761448965079043_102@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2722779,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "984761448965079043_103@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2719796,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 230,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Varuna030",
+    "author_url": "https://space.bilibili.com/95751201",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2bd39432-060a-41ae-8d5d-366a7278aebe",
+    "next_uuid": "9a34552b-4263-4f20-b6d1-0781a431aeb4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0590013c-4f39-4048-b72a-fdbe8b68781d",
+  "platform_post_id": "800108873713188870",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-27T03:11:04+08:00",
+  "source_url": "https://t.bilibili.com/800108873713188870",
+  "plain_text": "晚安晚安 我就说游戏太恐怖了！！",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "61c31f3c-4eb4-46de-903f-621b0f6406e1",
+    "next_uuid": "6ca149cd-607f-4330-9298-b9e28b6c9023"
+  }
+}

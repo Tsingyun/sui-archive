@@ -1,0 +1,28 @@
+{
+  "uuid": "eaaf4500-2a59-4cad-afc4-afc45d132b9a",
+  "platform_post_id": "1181012776893546517",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-18T14:12:45+08:00",
+  "source_url": "https://t.bilibili.com/1181012776893546517",
+  "plain_text": "2:35 牛羊才成群 猛狼只独行！ 小饼仔今天我们打谁",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cf8721d7-c536-4809-ab64-64730333e0a7",
+    "next_uuid": "2fe88b31-65ae-4705-b8ce-4f5c615ab80c"
+  }
+}

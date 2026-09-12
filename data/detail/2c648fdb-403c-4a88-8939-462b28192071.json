@@ -1,0 +1,28 @@
+{
+  "uuid": "2c648fdb-403c-4a88-8939-462b28192071",
+  "platform_post_id": "1233009613796802577",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-08-05T17:07:02+08:00",
+  "source_url": "https://t.bilibili.com/1233009613796802577",
+  "plain_text": "这个岁己好像有点可爱",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Iro4s",
+    "author_url": "https://space.bilibili.com/2955509",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48317020-764e-4ef4-a368-802857bafc5b",
+    "next_uuid": "67610431-8d32-43a0-a410-b29edf73d6e4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6cccc2da-aa32-4bc6-bc52-332c92b37674",
+  "platform_post_id": "923997497179766819",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-24T23:42:12+08:00",
+  "source_url": "https://t.bilibili.com/923997497179766819",
+  "plain_text": "饼干岁呢！我那么大一个饼干岁呢，虽然今天没有岁能量，但应该还没有变质成别的品种吧？嗯嗯？说话！说晚安然后加点别的文字，20个字以上，开始作答！",
+  "images": [],
+  "stats": {
+    "likes": 456,
+    "comments": 121,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0fa20d58-4fe7-41c7-b46d-f1637907b0a2",
+    "next_uuid": "04b83959-5c50-4555-8f8b-298e1b54c506"
+  }
+}

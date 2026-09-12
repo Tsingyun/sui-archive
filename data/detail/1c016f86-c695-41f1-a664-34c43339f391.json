@@ -1,0 +1,28 @@
+{
+  "uuid": "1c016f86-c695-41f1-a664-34c43339f391",
+  "platform_post_id": "1247235258432094227",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-13T01:09:48+08:00",
+  "source_url": "https://t.bilibili.com/1247235258432094227",
+  "plain_text": "这个就是小岁呀，冷冷的但很可爱，然后呢，每天吃的饱饱的，然后呢这是小岁发的晚安，在等你回复呀",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e19e86b-64a7-4f51-8623-29e156dfa378",
+    "next_uuid": null
+  }
+}

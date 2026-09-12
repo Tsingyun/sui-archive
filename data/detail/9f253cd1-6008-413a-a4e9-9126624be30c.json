@@ -1,0 +1,28 @@
+{
+  "uuid": "9f253cd1-6008-413a-a4e9-9126624be30c",
+  "platform_post_id": "859720051706560515",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-03T18:32:53+08:00",
+  "source_url": "https://t.bilibili.com/859720051706560515",
+  "plain_text": "7:10分 我们唱唱我们聊聊然后我们酒保！我现在去挑战极限洗头！！",
+  "images": [],
+  "stats": {
+    "likes": 214,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1d6c6d19-d3fb-44f0-aa9f-542d958bc31d",
+    "next_uuid": "ad5b8895-ec57-4f42-be90-becb497fb706"
+  }
+}

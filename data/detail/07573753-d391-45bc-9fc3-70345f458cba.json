@@ -1,0 +1,28 @@
+{
+  "uuid": "07573753-d391-45bc-9fc3-70345f458cba",
+  "platform_post_id": "770006384175480834",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-07T00:18:02+08:00",
+  "source_url": "https://t.bilibili.com/770006384175480834",
+  "plain_text": "今天的岁己就展示到此了，晚安喽",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b90373b9-84b6-4413-84f0-8f84a27a43da",
+    "next_uuid": "60f6c957-10f6-4264-9c91-f39f69e7b5ed"
+  }
+}

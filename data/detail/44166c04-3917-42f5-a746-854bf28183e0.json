@@ -1,0 +1,28 @@
+{
+  "uuid": "44166c04-3917-42f5-a746-854bf28183e0",
+  "platform_post_id": "815093687941857284",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-06T12:19:48+08:00",
+  "source_url": "https://t.bilibili.com/815093687941857284",
+  "plain_text": "大家最喜欢的岁宝驾到─=≡Σ(((つ•̀ω•́)つ",
+  "images": [],
+  "stats": {
+    "likes": 476,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad837142-7292-4578-a735-e8a7a2e8212c",
+    "next_uuid": "cb166437-2617-402b-ad63-709d5c67f0f3"
+  }
+}

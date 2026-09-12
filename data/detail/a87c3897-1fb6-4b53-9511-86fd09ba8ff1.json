@@ -1,0 +1,38 @@
+{
+  "uuid": "a87c3897-1fb6-4b53-9511-86fd09ba8ff1",
+  "platform_post_id": "949622178297413672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-03T00:59:03+08:00",
+  "source_url": "https://t.bilibili.com/949622178297413672",
+  "plain_text": "旗袍岁己的说~",
+  "images": [
+    {
+      "filename": "949622178297413672_100@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 3570979,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 338,
+    "comments": 25,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "12114d80-77e4-479e-b6bb-ecfe8a550a9c",
+    "next_uuid": "6793c72f-4fff-404d-a6f8-db717c22830b"
+  }
+}

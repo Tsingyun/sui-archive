@@ -1,0 +1,28 @@
+{
+  "uuid": "28362614-4a25-47d5-92e0-b8c3b1bd86fc",
+  "platform_post_id": "973254802101239815",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-09-04T17:25:42+08:00",
+  "source_url": "https://t.bilibili.com/973254802101239815",
+  "plain_text": "来对视一分钟吧",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "481a9911-4618-4a49-a627-e0cf8773516b",
+    "next_uuid": "0372719d-dbc5-4d43-a8f7-10569bfdc3bc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "83fb8cd4-7c3a-4a35-bd82-0e4d2dcd280c",
+  "platform_post_id": "839701677289242644",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-10T19:51:22+08:00",
+  "source_url": "https://t.bilibili.com/839701677289242644",
+  "plain_text": "教师节啊！干点啥好呢。我来想想今天演什么小剧场，你们来想想要不要看点什么！八点十！",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c29999f-5910-471e-a334-8f689bf0dce6",
+    "next_uuid": "fd891a5d-17f0-458b-8d42-17b127c50bfb"
+  }
+}

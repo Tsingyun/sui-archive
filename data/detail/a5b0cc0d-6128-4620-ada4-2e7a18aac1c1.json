@@ -1,0 +1,28 @@
+{
+  "uuid": "a5b0cc0d-6128-4620-ada4-2e7a18aac1c1",
+  "platform_post_id": "1122755960763318273",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-12T14:26:33+08:00",
+  "source_url": "https://t.bilibili.com/1122755960763318273",
+  "plain_text": "吃饭中 3点来播～谁敢看",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f12f8422-a73c-40be-af87-b3c078f2c70b",
+    "next_uuid": "0a274860-cc2e-4a3b-86e8-c142c2814b59"
+  }
+}

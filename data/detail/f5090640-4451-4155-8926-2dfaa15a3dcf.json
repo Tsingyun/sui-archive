@@ -1,0 +1,28 @@
+{
+  "uuid": "f5090640-4451-4155-8926-2dfaa15a3dcf",
+  "platform_post_id": "1210042709973139458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-04T19:43:43+08:00",
+  "source_url": "https://t.bilibili.com/1210042709973139458",
+  "plain_text": "8:10和@1609526545这个臭栞栞玩玩五子棋以及各种小游戏！",
+  "images": [],
+  "stats": {
+    "likes": 310,
+    "comments": 51,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "418922f5-8a50-4f23-aa8e-278962cb17e5",
+    "next_uuid": "23f98f93-6b63-45ef-82f9-7f5c0e421b60"
+  }
+}

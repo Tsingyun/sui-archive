@@ -1,0 +1,28 @@
+{
+  "uuid": "5b2fd1fa-2ff5-41c3-a514-a587e07035f5",
+  "platform_post_id": "846283388272771078",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-28T13:31:46+08:00",
+  "source_url": "https://t.bilibili.com/846283388272771078",
+  "plain_text": "10点就起了，特意在大家午休结束后来问好哦！\n下午好 马上放假喽！加油加油",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2bd422f5-e344-425f-b1b5-21cb2d131ad5",
+    "next_uuid": "9db60588-0b34-4bb8-a3c9-8390eed9489b"
+  }
+}

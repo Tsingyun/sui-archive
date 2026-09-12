@@ -1,0 +1,28 @@
+{
+  "uuid": "18ce25a1-f323-4461-a14c-1c68b3b229ef",
+  "platform_post_id": "847778775623008288",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-02T14:14:38+08:00",
+  "source_url": "https://t.bilibili.com/847778775623008288",
+  "plain_text": "[UP_1954091502_可爱捏]好漂漂 可以用来做动态壁纸哦哦！",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 21,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Ted007zz",
+    "author_url": "https://space.bilibili.com/31252864",
+    "text": "哈哈嗯",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "33f06cde-9aa4-45d6-8f02-400227d8ed68",
+    "next_uuid": "f58e3115-96d8-4c4e-bdff-81a13302853e"
+  }
+}

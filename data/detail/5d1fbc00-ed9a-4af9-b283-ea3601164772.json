@@ -1,0 +1,28 @@
+{
+  "uuid": "5d1fbc00-ed9a-4af9-b283-ea3601164772",
+  "platform_post_id": "1031954223218032647",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-09T21:49:26+08:00",
+  "source_url": "https://t.bilibili.com/1031954223218032647",
+  "plain_text": "百灵鸟倒了[UP_1954091502_岁觉鸟][UP_1954091502_岁觉鸟]好累 好累 晚安了",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e1cd7771-17ef-490b-a30d-b3dc4a272212",
+    "next_uuid": "e0feb5f1-725b-4f2d-b4f6-5bd7f572466f"
+  }
+}

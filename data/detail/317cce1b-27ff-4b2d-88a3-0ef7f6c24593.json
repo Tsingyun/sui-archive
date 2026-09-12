@@ -1,0 +1,74 @@
+{
+  "uuid": "317cce1b-27ff-4b2d-88a3-0ef7f6c24593",
+  "platform_post_id": "920161142221832211",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-04-14T15:35:11+08:00",
+  "source_url": "https://t.bilibili.com/920161142221832211",
+  "plain_text": "可爱滴捏",
+  "images": [
+    {
+      "filename": "920161142221832211_100@repost.jpg",
+      "width": 3000,
+      "height": 4000,
+      "file_size": 2230570,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "920161142221832211_101@repost.jpg",
+      "width": 1861,
+      "height": 4047,
+      "file_size": 2092620,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "920161142221832211_102@repost.jpg",
+      "width": 2672,
+      "height": 4123,
+      "file_size": 2763542,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "920161142221832211_103@repost.jpg",
+      "width": 1698,
+      "height": 4084,
+      "file_size": 2747061,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "920161142221832211_104@repost.jpg",
+      "width": 2070,
+      "height": 4044,
+      "file_size": 2148372,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 315,
+    "comments": 19,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "凌迭",
+    "author_url": "https://space.bilibili.com/834234",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a555937-51ca-491f-a3c8-16ee90a0d602",
+    "next_uuid": "3e87ddd4-8d46-40cc-996f-18f0c989420b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "772f3dfc-08c6-4167-b999-85107c6c6e6b",
+  "platform_post_id": "855651278878933000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-23T19:23:58+08:00",
+  "source_url": "https://t.bilibili.com/855651278878933000",
+  "plain_text": "7:35接着画头像的说[小A和小B_喝茶]",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd84d060-5a56-471c-a11b-f67e28a8236d",
+    "next_uuid": "f5097322-4e97-4922-ad8a-af282a7583ef"
+  }
+}

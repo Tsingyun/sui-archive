@@ -1,0 +1,28 @@
+{
+  "uuid": "72b03794-f728-4c52-af02-3c38046ef1bd",
+  "platform_post_id": "1166694236384395301",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-08T00:09:30+08:00",
+  "source_url": "https://t.bilibili.com/1166694236384395301",
+  "plain_text": "正在吹头呢！怎么十二点了都，赶紧来跟你说晚安。晚安晚安嘟[UP_1954091502_啾咪啾]",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6a078ab3-d13e-4cf0-a480-b60617623796",
+    "next_uuid": "ee339cba-4488-422c-9acc-f21623311880"
+  }
+}

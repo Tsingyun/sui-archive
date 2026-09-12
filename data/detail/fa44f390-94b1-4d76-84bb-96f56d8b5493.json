@@ -1,0 +1,28 @@
+{
+  "uuid": "fa44f390-94b1-4d76-84bb-96f56d8b5493",
+  "platform_post_id": "974334037174779920",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-07T15:13:41+08:00",
+  "source_url": "https://t.bilibili.com/974334037174779920",
+  "plain_text": "五分钟内开！和yuayua大镖客竞技😼",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e53560f7-934d-4f94-9019-2be9b7518c18",
+    "next_uuid": "53fa3f31-c61e-4f6b-a756-84c788521f43"
+  }
+}

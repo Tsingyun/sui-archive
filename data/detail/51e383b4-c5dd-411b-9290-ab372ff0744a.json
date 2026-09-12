@@ -1,0 +1,28 @@
+{
+  "uuid": "51e383b4-c5dd-411b-9290-ab372ff0744a",
+  "platform_post_id": "938407168545128567",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-02T19:39:05+08:00",
+  "source_url": "https://t.bilibili.com/938407168545128567",
+  "plain_text": "明天见明天见，以及投了个稿明天中午12点会有\n昨天转盘出bug了在试着联系客服，很可能联系不上。应该是8:28以后上的舰长有bug，如果处理不了的话就这28个人除了头像以外任选往期舰礼1个吧！\n",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ec550f2-16c3-4425-90b0-9f69311e1fe8",
+    "next_uuid": "21bb7298-2c3a-45cf-897b-f9c87f02b48e"
+  }
+}

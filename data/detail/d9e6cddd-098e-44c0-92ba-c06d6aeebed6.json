@@ -1,0 +1,28 @@
+{
+  "uuid": "d9e6cddd-098e-44c0-92ba-c06d6aeebed6",
+  "platform_post_id": "850156954850426885",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-09T00:03:11+08:00",
+  "source_url": "https://t.bilibili.com/850156954850426885",
+  "plain_text": "一切不好的都过去了，明天是更好的一天。晚安！",
+  "images": [],
+  "stats": {
+    "likes": 406,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "925b5961-164d-43fe-aea2-3609bc8b9375",
+    "next_uuid": "76b241c8-372f-4348-a35d-cac31625170c"
+  }
+}

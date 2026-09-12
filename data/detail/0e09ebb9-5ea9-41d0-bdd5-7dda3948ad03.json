@@ -1,0 +1,28 @@
+{
+  "uuid": "0e09ebb9-5ea9-41d0-bdd5-7dda3948ad03",
+  "platform_post_id": "1221170828501057556",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-04T19:26:30+08:00",
+  "source_url": "https://t.bilibili.com/1221170828501057556",
+  "plain_text": "7点50来哦大家大家 唱聊然后呢然后呢",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "01324707-e6e7-4fac-a98a-81c15fa65e6f",
+    "next_uuid": "cff5f033-8f3a-4e5b-b658-5c0965db5b1a"
+  }
+}

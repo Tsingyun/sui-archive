@@ -1,0 +1,28 @@
+{
+  "uuid": "f860bb87-8b8b-44cb-8a3b-73fa13f4c528",
+  "platform_post_id": "898391391811403784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-15T23:37:26+08:00",
+  "source_url": "https://t.bilibili.com/898391391811403784",
+  "plain_text": "❤️‍🔥❤️‍🔥晚安❤️‍🔥小饼❤️‍🔥",
+  "images": [],
+  "stats": {
+    "likes": 399,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "adadf604-c60f-487a-a3cf-2079be47a953",
+    "next_uuid": "3867a9e3-8a5b-4647-a0ec-de97154789d9"
+  }
+}

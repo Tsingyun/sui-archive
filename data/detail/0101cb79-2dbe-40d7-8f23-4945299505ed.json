@@ -1,0 +1,28 @@
+{
+  "uuid": "0101cb79-2dbe-40d7-8f23-4945299505ed",
+  "platform_post_id": "985228303290859569",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-06T23:49:00+08:00",
+  "source_url": "https://t.bilibili.com/985228303290859569",
+  "plain_text": "晚安晚安 别忘记我的名字",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f96776d6-3ed7-45c5-b8ce-3c032263188d",
+    "next_uuid": "9476d52d-36a4-40a6-8a1b-094a57f43486"
+  }
+}

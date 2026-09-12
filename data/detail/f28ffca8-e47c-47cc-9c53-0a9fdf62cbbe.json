@@ -1,0 +1,28 @@
+{
+  "uuid": "f28ffca8-e47c-47cc-9c53-0a9fdf62cbbe",
+  "platform_post_id": "738848518133776392",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-13T01:09:36+08:00",
+  "source_url": "https://t.bilibili.com/738848518133776392",
+  "plain_text": "拜拜 13号不播",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4cf39c4a-749e-49e3-91e3-b0a624aed0ec",
+    "next_uuid": "7cf3388e-8cfd-4a93-b8b1-f25b89d58144"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f7cbddb5-0e10-44ae-997f-fb0aebf82664",
+  "platform_post_id": "975968663101243395",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-12T00:56:52+08:00",
+  "source_url": "https://t.bilibili.com/975968663101243395",
+  "plain_text": "大人，希望大人有听得开心！晚安捏",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee0638fb-0062-40e2-bd45-3a12544211e8",
+    "next_uuid": "5af54053-5593-4df1-83be-a210f4cac571"
+  }
+}

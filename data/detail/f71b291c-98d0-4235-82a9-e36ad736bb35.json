@@ -1,0 +1,28 @@
+{
+  "uuid": "f71b291c-98d0-4235-82a9-e36ad736bb35",
+  "platform_post_id": "1169981003095080981",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-16T20:43:50+08:00",
+  "source_url": "https://t.bilibili.com/1169981003095080981",
+  "plain_text": "9:30来一起跨年好吗～看看大家发在话题里的饭",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c41a9142-7156-4ce7-8617-49df0f85fa3c",
+    "next_uuid": "8d37137e-963a-4c5a-95ed-c13a39113799"
+  }
+}

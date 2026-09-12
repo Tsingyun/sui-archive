@@ -1,0 +1,28 @@
+{
+  "uuid": "a67bab12-8bdb-4840-b3a0-04ea53d0466f",
+  "platform_post_id": "1021528933122703363",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-12T19:33:59+08:00",
+  "source_url": "https://t.bilibili.com/1021528933122703363",
+  "plain_text": "好困(‘-ωก̀ )好困。谢谢大家来看~明天见的说",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "911e6dc3-277e-4ee6-b9e0-45cb5e49baa1",
+    "next_uuid": "bf2bc262-58e3-45cb-8be9-cb5e4e60a8af"
+  }
+}

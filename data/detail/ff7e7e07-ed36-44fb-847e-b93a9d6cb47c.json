@@ -1,0 +1,28 @@
+{
+  "uuid": "ff7e7e07-ed36-44fb-847e-b93a9d6cb47c",
+  "platform_post_id": "772205102503034936",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-12T22:30:11+08:00",
+  "source_url": "https://t.bilibili.com/772205102503034936",
+  "plain_text": "梁木回圆满结束了！这下我们饼干园一根多余的木头都没啦，耶咿！晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 405,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1abb27d9-d0dc-429e-9156-3e808532b577",
+    "next_uuid": "eb401aa9-85ed-4b09-9913-eea7da845d0a"
+  }
+}

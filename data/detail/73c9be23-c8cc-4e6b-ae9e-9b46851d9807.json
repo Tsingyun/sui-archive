@@ -1,0 +1,28 @@
+{
+  "uuid": "73c9be23-c8cc-4e6b-ae9e-9b46851d9807",
+  "platform_post_id": "1142214172646309896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-04T00:54:21+08:00",
+  "source_url": "https://t.bilibili.com/1142214172646309896",
+  "plain_text": "[UPOWER_1954091502_唔哇]岁己什么也不说就这么看着你",
+  "images": [],
+  "stats": {
+    "likes": 297,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3a6b84e-899f-430d-8156-f544b27d5cfd",
+    "next_uuid": "5a708521-a2b0-4024-80ea-0e8eb13780d1"
+  }
+}

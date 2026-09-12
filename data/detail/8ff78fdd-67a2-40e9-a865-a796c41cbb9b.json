@@ -1,0 +1,38 @@
+{
+  "uuid": "8ff78fdd-67a2-40e9-a865-a796c41cbb9b",
+  "platform_post_id": "844104139044552721",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-09-22T16:35:10+08:00",
+  "source_url": "https://t.bilibili.com/844104139044552721",
+  "plain_text": "朋友圈分享回！\n把信箱当朋友圈一样说点最近生活的烦恼、心得吧，也可以问岁己问题、以及说一切你想说的东西\n虽然大烦恼解决不了，小烦恼不用解决。但还是！\n分享给我看看吧\nhttps://pome.vip/Gz75k7hF \n\n",
+  "images": [
+    {
+      "filename": "844104139044552721_00@original.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 324,
+    "comments": 28,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "30ed2bcf-18b7-4f92-870e-0a6e032624a5",
+    "next_uuid": "f9e8c61c-7809-41a6-bccc-2708fde4f869"
+  }
+}

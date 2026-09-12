@@ -1,0 +1,28 @@
+{
+  "uuid": "bb68b254-22f9-4657-9f02-a53905919bf0",
+  "platform_post_id": "1030880584450179095",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-07T00:23:10+08:00",
+  "source_url": "https://t.bilibili.com/1030880584450179095",
+  "plain_text": "大家晚安[UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安][UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22f3a9dc-9020-4ab6-89ff-7304c64d3323",
+    "next_uuid": "b5efd612-6e3e-44d8-93fb-6e1a339d5e0a"
+  }
+}

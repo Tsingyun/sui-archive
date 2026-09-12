@@ -1,0 +1,28 @@
+{
+  "uuid": "d56b71df-1a45-4db1-bb40-7d1a4ef933b2",
+  "platform_post_id": "895701642780868665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-08T17:39:50+08:00",
+  "source_url": "https://t.bilibili.com/895701642780868665",
+  "plain_text": "出门聚聚餐 明天见吧🫰🫰🫰",
+  "images": [],
+  "stats": {
+    "likes": 367,
+    "comments": 68,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "20cad517-73f4-4986-ab87-2218706588cf",
+    "next_uuid": "92028793-6c05-4443-8322-5c4f8e458526"
+  }
+}

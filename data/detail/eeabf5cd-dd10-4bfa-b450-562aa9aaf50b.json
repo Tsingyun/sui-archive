@@ -1,0 +1,28 @@
+{
+  "uuid": "eeabf5cd-dd10-4bfa-b450-562aa9aaf50b",
+  "platform_post_id": "1041934266916667416",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-08T19:17:06+08:00",
+  "source_url": "https://t.bilibili.com/1041934266916667416",
+  "plain_text": "好饼们！晚安muamua[UP_1954091502_抱抱][UP_1954091502_啾咪啾]\n坏饼们   。。。",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d3e931e-678e-4d87-b2fc-e851204c30f8",
+    "next_uuid": "c866e348-85e5-4378-a836-2187934d2159"
+  }
+}

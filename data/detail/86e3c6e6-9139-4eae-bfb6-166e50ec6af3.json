@@ -1,0 +1,28 @@
+{
+  "uuid": "86e3c6e6-9139-4eae-bfb6-166e50ec6af3",
+  "platform_post_id": "815844362325852168",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-08T12:52:48+08:00",
+  "source_url": "https://t.bilibili.com/815844362325852168",
+  "plain_text": "早！\n梦到在拯救世界，紧急地收集材料中，以防止爆炸！边收集边用手机点个冰淇淋，11点过了要打烊了还一直没找到想吃的那款急都急死了！真不好说哪边更急了",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "74a8ae56-fb52-44e9-a95e-bf0bbad8258f",
+    "next_uuid": "0889ecb2-6e17-41ce-b8d9-594fa0452572"
+  }
+}

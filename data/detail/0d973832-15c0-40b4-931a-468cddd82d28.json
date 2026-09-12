@@ -1,0 +1,28 @@
+{
+  "uuid": "0d973832-15c0-40b4-931a-468cddd82d28",
+  "platform_post_id": "1100191345071357972",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-12T19:04:19+08:00",
+  "source_url": "https://t.bilibili.com/1100191345071357972",
+  "plain_text": "7:40我要干什么你懂的",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f9031a56-02cd-447b-bab5-597189c84726",
+    "next_uuid": "14cd4b0d-94f0-4262-9e41-ac343ed84d9a"
+  }
+}

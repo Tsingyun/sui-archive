@@ -1,0 +1,28 @@
+{
+  "uuid": "e4e8c006-eb02-4a08-a640-ef07c62a073f",
+  "platform_post_id": "724640641782382593",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-11-04T18:15:47+08:00",
+  "source_url": "https://t.bilibili.com/724640641782382593",
+  "plain_text": "哇这个人好可爱 求安利",
+  "images": [],
+  "stats": {
+    "likes": 401,
+    "comments": 31,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d0b16d3-4121-44fd-be67-8fb83ee1d65a",
+    "next_uuid": "adbab190-4169-465b-a82c-b7dd7454c1cb"
+  }
+}

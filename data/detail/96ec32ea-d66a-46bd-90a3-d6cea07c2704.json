@@ -1,0 +1,28 @@
+{
+  "uuid": "96ec32ea-d66a-46bd-90a3-d6cea07c2704",
+  "platform_post_id": "924726391823401000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-26T22:50:41+08:00",
+  "source_url": "https://t.bilibili.com/924726391823401000",
+  "plain_text": "晚安。（对于“晚”这个字，可以参照新华字典496页右半边词条第五个 ）",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 94,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9522c4f6-cdb0-4a14-afa5-42980e49a6af",
+    "next_uuid": "f0cd8f5f-d54e-489f-bcac-8f84554ac1f0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ab5c5b36-12c3-4fe2-b71c-1597e1d981dc",
+  "platform_post_id": "1058628607221432355",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-22T18:59:40+08:00",
+  "source_url": "https://t.bilibili.com/1058628607221432355",
+  "plain_text": "7:40我直播[岁己收藏集表情包_倒了]今天玩游戏还是看看",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "057d8aaf-9ea2-4a89-aefa-a461d42e61ee",
+    "next_uuid": "ccc9cf26-dc55-4f28-bdc6-f64c4c710520"
+  }
+}

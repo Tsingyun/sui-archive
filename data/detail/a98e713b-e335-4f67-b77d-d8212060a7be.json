@@ -1,0 +1,28 @@
+{
+  "uuid": "a98e713b-e335-4f67-b77d-d8212060a7be",
+  "platform_post_id": "699865453593362537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-08-29T23:55:24+08:00",
+  "source_url": "https://t.bilibili.com/699865453593362537",
+  "plain_text": "我先放一个提问箱在这，有什么问题可以发一下，首播可能会用到。\n然后粉丝牌还是决定了饼干岁，我觉得可爱！饼干岁晚安！\nhttps://pome.ink/Gz75k7hF",
+  "images": [],
+  "stats": {
+    "likes": 935,
+    "comments": 128,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "15d715a6-ced7-4ebb-a265-0f3922f06cab",
+    "next_uuid": "aca3af44-abb1-4107-9907-88b7e2ed4fd1"
+  }
+}

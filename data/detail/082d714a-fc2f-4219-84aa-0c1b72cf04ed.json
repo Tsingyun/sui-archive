@@ -1,0 +1,28 @@
+{
+  "uuid": "082d714a-fc2f-4219-84aa-0c1b72cf04ed",
+  "platform_post_id": "760630053966970932",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-09T17:53:05+08:00",
+  "source_url": "https://t.bilibili.com/760630053966970932",
+  "plain_text": "什么！今晚岁己竟然还是八点来唱歌！天道酬勤，必须支持一下，肯定得准时到啊这",
+  "images": [],
+  "stats": {
+    "likes": 341,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e795f5ac-99ea-4132-bd5d-dff06ecfac98",
+    "next_uuid": "3347d0fd-44e1-457a-9069-edd059e5d79d"
+  }
+}

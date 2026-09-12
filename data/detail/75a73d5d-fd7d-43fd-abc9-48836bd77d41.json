@@ -1,0 +1,28 @@
+{
+  "uuid": "75a73d5d-fd7d-43fd-abc9-48836bd77d41",
+  "platform_post_id": "912066335733710850",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-23T20:03:12+08:00",
+  "source_url": "https://t.bilibili.com/912066335733710850",
+  "plain_text": "直播 8:10分[UP_1954091502_岁觉鸟]",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8dcf7b17-8ab3-41a0-a133-13821f7b8b56",
+    "next_uuid": "5b99b65b-b538-45b3-a52f-332bdbb6f5ad"
+  }
+}

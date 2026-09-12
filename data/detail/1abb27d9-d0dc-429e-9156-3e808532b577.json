@@ -1,0 +1,28 @@
+{
+  "uuid": "1abb27d9-d0dc-429e-9156-3e808532b577",
+  "platform_post_id": "772093029622218789",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-12T15:15:17+08:00",
+  "source_url": "https://t.bilibili.com/772093029622218789",
+  "plain_text": "哇第520条动态，饼干岁！\n",
+  "images": [],
+  "stats": {
+    "likes": 444,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d66b910-d63c-44c6-b453-fa3b027efe3d",
+    "next_uuid": "ff7e7e07-ed36-44fb-847e-b93a9d6cb47c"
+  }
+}

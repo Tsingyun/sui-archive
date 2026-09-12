@@ -1,0 +1,28 @@
+{
+  "uuid": "fd5ebf25-a72b-4783-9712-f01c055d8822",
+  "platform_post_id": "910085544062484497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-18T11:56:43+08:00",
+  "source_url": "https://t.bilibili.com/910085544062484497",
+  "plain_text": "早！！今天忙吗（我11:20起的哦",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 60,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4afd3ff6-ea9d-4e5c-8b0d-c30f69a73369",
+    "next_uuid": "92e23276-ecbe-4dee-97eb-918e653d7b8c"
+  }
+}

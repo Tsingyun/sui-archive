@@ -1,0 +1,28 @@
+{
+  "uuid": "d69560f8-a4f3-4c57-ac2a-e8847ab08ab7",
+  "platform_post_id": "1162541325115981828",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-27T19:34:05+08:00",
+  "source_url": "https://t.bilibili.com/1162541325115981828",
+  "plain_text": "待会我7:55来直播，先唱歌聊天然后画头像或者辉夜姬，你就和我一起看，结束了你就依依不舍说晚安，就这样",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24e80d15-65bd-477e-b108-b7e267e44f4b",
+    "next_uuid": "d6c2599a-22c1-4fe7-81d5-8561056acd28"
+  }
+}

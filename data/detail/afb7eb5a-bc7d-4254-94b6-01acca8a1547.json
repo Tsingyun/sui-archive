@@ -1,0 +1,28 @@
+{
+  "uuid": "afb7eb5a-bc7d-4254-94b6-01acca8a1547",
+  "platform_post_id": "977000425853026312",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-14T19:40:38+08:00",
+  "source_url": "https://t.bilibili.com/977000425853026312",
+  "plain_text": "7:55的说 老师 我们干嘛",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fa95f9a7-5f70-4a48-827d-b5ceda3c29f3",
+    "next_uuid": "79c037f2-fe2c-4d78-9520-ac2b53cb7192"
+  }
+}

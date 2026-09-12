@@ -1,0 +1,28 @@
+{
+  "uuid": "ee339cba-4488-422c-9acc-f21623311880",
+  "platform_post_id": "1166918601171533832",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-08T14:40:09+08:00",
+  "source_url": "https://t.bilibili.com/1166918601171533832",
+  "plain_text": "想战斗了 2:50来唱一下然后只狼咋样",
+  "images": [],
+  "stats": {
+    "likes": 201,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "72b03794-f728-4c52-af02-3c38046ef1bd",
+    "next_uuid": "f00f6edd-b67e-4350-b7ee-c8fd5ed3cc17"
+  }
+}

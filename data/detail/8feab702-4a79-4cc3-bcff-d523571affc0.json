@@ -1,0 +1,28 @@
+{
+  "uuid": "8feab702-4a79-4cc3-bcff-d523571affc0",
+  "platform_post_id": "821012170074488855",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-22T11:06:32+08:00",
+  "source_url": "https://t.bilibili.com/821012170074488855",
+  "plain_text": "提前醒了4次！好怕睡过，早哇\n大家都在干嘛了",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24814e97-a1a2-4490-8eeb-501ef7a2a319",
+    "next_uuid": "e90bb9fa-c663-4499-a644-b0ece55af1d2"
+  }
+}

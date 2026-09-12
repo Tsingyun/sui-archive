@@ -1,0 +1,28 @@
+{
+  "uuid": "996fe027-1485-490b-b434-c64b6f5608bc",
+  "platform_post_id": "930980624400908294",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-13T19:20:18+08:00",
+  "source_url": "https://t.bilibili.com/930980624400908294",
+  "plain_text": "睡了十一个小时为什么现在还是有点困，本人将于7:45直播~~~~~~~~~~~~~~~~~~~~~",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c94a9c46-68fc-4666-9605-ea3ab3d0a149",
+    "next_uuid": "4bf5e052-3fce-415e-a5b6-f3b026780e8f"
+  }
+}

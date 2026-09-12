@@ -1,0 +1,28 @@
+{
+  "uuid": "54075415-5dbc-485c-ad62-f5c27b665d26",
+  "platform_post_id": "1142922270991187968",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-05T22:42:08+08:00",
+  "source_url": "https://t.bilibili.com/1142922270991187968",
+  "plain_text": "大家晚安 这周辛苦了 周末快乐~(・ω< )ﾉ(._.`)",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "91939d75-5cca-46e4-9e36-e7bf3369c2cb",
+    "next_uuid": "eccb7bd3-3f9f-4f80-93d9-690553f95c97"
+  }
+}

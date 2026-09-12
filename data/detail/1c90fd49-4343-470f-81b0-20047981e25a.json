@@ -1,0 +1,28 @@
+{
+  "uuid": "1c90fd49-4343-470f-81b0-20047981e25a",
+  "platform_post_id": "761404501023260850",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-11T19:58:20+08:00",
+  "source_url": "https://t.bilibili.com/761404501023260850",
+  "plain_text": "推迟20分钟 8:20来 有点重要的事情要处理\n家里最后一个粽子消失了",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "42c7f712-a756-478d-9c9f-94a50a18ae0b",
+    "next_uuid": "a82c2ccb-1f77-4d19-a606-03ef167dad7f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "586ba325-deef-4a7f-9cfe-28eef074d2c0",
+  "platform_post_id": "699345414650855464",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-08-28T14:17:23+08:00",
+  "source_url": "https://t.bilibili.com/699345414650855464",
+  "plain_text": "可爱可爱 我更凶ヽ(`Д´)ﾉ//@1739085910:大家都太可爱了！谢谢！！【暹罗猫小豆泥_探头】//@1116072703:太可爱了！我们的团体图耶[tv_大哭]177谢谢你！[给心心]",
+  "images": [],
+  "stats": {
+    "likes": 537,
+    "comments": 23,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d47d957b-4849-4424-ac18-1031de38160e",
+    "next_uuid": "e081b83f-a128-4e43-b9ec-59715071ef56"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e4295429-2f77-4c62-83eb-aa399137efdd",
+  "platform_post_id": "874580020082769923",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-13T19:37:09+08:00",
+  "source_url": "https://t.bilibili.com/874580020082769923",
+  "plain_text": "接着玩千爵还是接着玩ghost trick呢！先上播聊聊再说！十分钟后！",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b8ce5d5c-5ec0-49da-98ee-34b7f29b35d7",
+    "next_uuid": "ca01e6b9-b60b-4b0f-be79-8a5520d93756"
+  }
+}

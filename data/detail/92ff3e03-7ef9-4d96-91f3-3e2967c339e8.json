@@ -1,0 +1,28 @@
+{
+  "uuid": "92ff3e03-7ef9-4d96-91f3-3e2967c339e8",
+  "platform_post_id": "991851684048142341",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-24T20:11:06+08:00",
+  "source_url": "https://t.bilibili.com/991851684048142341",
+  "plain_text": "[喜极而泣][歪嘴][吃瓜][笑哭][doge_金箍][调皮][尴尬][黑眼圈_金箍][思考][再见][疼][灵魂出窍][抱拳][热]，3分钟",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c069f253-116e-4648-9c3f-d9da2d16ecc9",
+    "next_uuid": "480acee2-281a-4a93-b1b2-74da8c21e65c"
+  }
+}

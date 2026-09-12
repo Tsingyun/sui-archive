@@ -1,0 +1,28 @@
+{
+  "uuid": "2885a3b8-9aa7-41ed-b593-88e62f23feff",
+  "platform_post_id": "1129884360921579526",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-31T19:28:23+08:00",
+  "source_url": "https://t.bilibili.com/1129884360921579526",
+  "plain_text": "今天晚一丢丢来 8点来！读大家投稿的恐怖故事和唱歌！还有空的话再看看恐怖电影",
+  "images": [],
+  "stats": {
+    "likes": 181,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4899f67e-2cbe-4641-82fe-af624d2d2476",
+    "next_uuid": "15780d61-9ae2-40d8-b83d-df35d17a3102"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "d0dee90b-9645-41d8-9c1a-6f0a3ef04585",
+  "platform_post_id": "1052319055428452369",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-04-05T18:55:23+08:00",
+  "source_url": "https://t.bilibili.com/1052319055428452369",
+  "plain_text": "哇小岁的收藏集！将于4月6日19:00发售哦\n现已开启预约：网页链接\n\n限定表情包，以及收藏家勋章，动态个性主题，11连典藏卡~！多张卡面都追加了音声！\n2w抽可以做动态表情包！\n\n你好，恶魔小岁和书包小岁都非常可爱，要堂食还是打包带走呢\n请来抽抽看世界上最可爱的岁己SUI收藏集·飞鸟羽集吧！",
+  "images": [
+    {
+      "filename": "1052319055428452369_00@original.jpg",
+      "width": 1125,
+      "height": 8115,
+      "file_size": 3403807,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 445,
+    "comments": 71,
+    "forwards": 12,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e41d00a5-bce1-48aa-af67-4a54701bc62d",
+    "next_uuid": "89033896-418c-483c-bfb6-7984a5dc3f62"
+  }
+}

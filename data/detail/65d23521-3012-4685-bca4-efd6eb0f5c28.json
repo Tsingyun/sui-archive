@@ -1,0 +1,28 @@
+{
+  "uuid": "65d23521-3012-4685-bca4-efd6eb0f5c28",
+  "platform_post_id": "741810847309889552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-21T00:44:57+08:00",
+  "source_url": "https://t.bilibili.com/741810847309889552",
+  "plain_text": "全て繋げてく　\nどこにだって[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 322,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "034bb284-858c-4928-970a-fb674481b47c",
+    "next_uuid": "f6eec3c0-72e1-4b0d-af9a-7c2135f37f92"
+  }
+}

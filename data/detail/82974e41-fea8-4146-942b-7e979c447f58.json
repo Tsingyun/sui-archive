@@ -1,0 +1,28 @@
+{
+  "uuid": "82974e41-fea8-4146-942b-7e979c447f58",
+  "platform_post_id": "1227188133474336804",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-21T00:36:43+08:00",
+  "source_url": "https://t.bilibili.com/1227188133474336804",
+  "plain_text": "😴 好想 吃 好吃的",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd4ee762-d65f-4e15-bc85-69256ad58320",
+    "next_uuid": "79375c45-a664-4a75-bfe8-302b765f9d48"
+  }
+}

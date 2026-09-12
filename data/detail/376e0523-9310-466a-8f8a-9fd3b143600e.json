@@ -1,0 +1,28 @@
+{
+  "uuid": "376e0523-9310-466a-8f8a-9fd3b143600e",
+  "platform_post_id": "803319937300955154",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-04T18:51:38+08:00",
+  "source_url": "https://t.bilibili.com/803319937300955154",
+  "plain_text": "♾️点见",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b0380958-2f19-4397-a1bc-a9955b574c34",
+    "next_uuid": "9268ba8a-6949-465e-bd6b-42859a40081b"
+  }
+}

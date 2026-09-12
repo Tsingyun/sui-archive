@@ -1,0 +1,28 @@
+{
+  "uuid": "1e0e0658-50d2-4cb3-b4eb-3d43900ae32c",
+  "platform_post_id": "883210258647875589",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-06T01:46:53+08:00",
+  "source_url": "https://t.bilibili.com/883210258647875589",
+  "plain_text": "晚安 都多多学习岁己的勇敢吧！",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b1553fc-535e-411f-be68-708d1df4caaf",
+    "next_uuid": "b28d139e-6c07-4c19-a686-1c93315bb5dd"
+  }
+}

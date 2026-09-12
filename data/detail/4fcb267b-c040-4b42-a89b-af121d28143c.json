@@ -1,0 +1,28 @@
+{
+  "uuid": "4fcb267b-c040-4b42-a89b-af121d28143c",
+  "platform_post_id": "789434819102638103",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-28T08:50:17+08:00",
+  "source_url": "https://t.bilibili.com/789434819102638103",
+  "plain_text": "什么？？？ 8:50的岁己 这么多年了没见过啊！什么啊！！！哼哼 早",
+  "images": [],
+  "stats": {
+    "likes": 446,
+    "comments": 97,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11089830-94c6-46ea-8bfc-9fae3e83ce61",
+    "next_uuid": "05d8fa55-c02d-4c4e-976d-f023188f732d"
+  }
+}

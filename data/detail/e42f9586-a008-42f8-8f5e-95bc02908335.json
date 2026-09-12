@@ -1,0 +1,28 @@
+{
+  "uuid": "e42f9586-a008-42f8-8f5e-95bc02908335",
+  "platform_post_id": "1074065913644318727",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-03T09:24:18+08:00",
+  "source_url": "https://t.bilibili.com/1074065913644318727",
+  "plain_text": "早！gogogo出发了现在",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "35366837-1cc1-4145-8ae5-66a18f3b9664",
+    "next_uuid": "5977fb9c-9aff-46d6-82df-b18c654a646a"
+  }
+}

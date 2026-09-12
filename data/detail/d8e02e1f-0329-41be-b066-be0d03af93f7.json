@@ -1,0 +1,28 @@
+{
+  "uuid": "d8e02e1f-0329-41be-b066-be0d03af93f7",
+  "platform_post_id": "1073898702025785351",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-02T22:35:26+08:00",
+  "source_url": "https://t.bilibili.com/1073898702025785351",
+  "plain_text": "速度赶来 小啵一下",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "60a506bd-7315-47aa-a35d-c062290a3578",
+    "next_uuid": "35366837-1cc1-4145-8ae5-66a18f3b9664"
+  }
+}

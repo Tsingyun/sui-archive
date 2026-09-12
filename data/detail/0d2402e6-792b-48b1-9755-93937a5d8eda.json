@@ -1,0 +1,28 @@
+{
+  "uuid": "0d2402e6-792b-48b1-9755-93937a5d8eda",
+  "platform_post_id": "1220436277434777632",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-02T19:56:04+08:00",
+  "source_url": "https://t.bilibili.com/1220436277434777632",
+  "plain_text": "醒了！8:10见 依然唱唱聊聊 然后看点什么吗",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5156137d-25db-4631-9880-5bcec8f350f0",
+    "next_uuid": "3cac4c4f-1146-49e6-944c-f73153a9c496"
+  }
+}

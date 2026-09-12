@@ -1,0 +1,28 @@
+{
+  "uuid": "2311fa00-f16c-45fc-a7df-539aafdd78e1",
+  "platform_post_id": "928753104015327235",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-07T19:16:23+08:00",
+  "source_url": "https://t.bilibili.com/928753104015327235",
+  "plain_text": "老同学，今晚7:40一起看个电影",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b906d104-653d-4263-ab43-936521a50e36",
+    "next_uuid": "c0320106-bf44-48ba-bb1e-e934752dd31e"
+  }
+}

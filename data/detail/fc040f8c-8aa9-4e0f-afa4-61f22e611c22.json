@@ -1,0 +1,38 @@
+{
+  "uuid": "fc040f8c-8aa9-4e0f-afa4-61f22e611c22",
+  "platform_post_id": "816290081156366407",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-07-09T17:42:25+08:00",
+  "source_url": "https://t.bilibili.com/816290081156366407",
+  "plain_text": "饼干岁穿搭鉴赏回！\n要被抓出门吃饭，我们暂定今晚8:20见\n",
+  "images": [
+    {
+      "filename": "816290081156366407_00@original.jpg",
+      "width": 1146,
+      "height": 717,
+      "file_size": 833116,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 384,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b2a2ebd9-0289-4a19-a9df-72f97cceafc1",
+    "next_uuid": "f6333c2a-adda-4c7f-b437-1aa4e5cc14a7"
+  }
+}

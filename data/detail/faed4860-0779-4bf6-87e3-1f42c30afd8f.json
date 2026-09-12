@@ -1,0 +1,28 @@
+{
+  "uuid": "faed4860-0779-4bf6-87e3-1f42c30afd8f",
+  "platform_post_id": "720600731114012692",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-24T20:58:52+08:00",
+  "source_url": "https://t.bilibili.com/720600731114012692",
+  "plain_text": "9.25来健身环初见一下！累了就随便聊聊唱唱！",
+  "images": [],
+  "stats": {
+    "likes": 401,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9cd6e624-8158-4057-b32b-030aa448f2a1",
+    "next_uuid": "d0476649-3d71-4f91-8a2f-6d268f0e652b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ce7e09c3-b94e-404e-9696-36dfa46008a4",
+  "platform_post_id": "754706877453959169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-24T18:48:08+08:00",
+  "source_url": "https://t.bilibili.com/754706877453959169",
+  "plain_text": "今天不播。",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 50,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e004a979-e2b4-4737-9609-974ed8864329",
+    "next_uuid": "b4258127-34ba-4cff-9d7b-819e650e62d3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c21c6b72-fd4d-45e9-b0c4-b4543ede8806",
+  "platform_post_id": "1018558881625800709",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-04T19:28:40+08:00",
+  "source_url": "https://t.bilibili.com/1018558881625800709",
+  "plain_text": "直播，来直播，岁己来直播，岁己7:40来直播",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "621c6cfe-60d7-45e8-b1d3-cc36018bad48",
+    "next_uuid": "ee1b217d-975c-43cf-a3e6-1cf761df6972"
+  }
+}

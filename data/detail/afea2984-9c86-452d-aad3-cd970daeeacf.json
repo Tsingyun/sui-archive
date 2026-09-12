@@ -1,0 +1,28 @@
+{
+  "uuid": "afea2984-9c86-452d-aad3-cd970daeeacf",
+  "platform_post_id": "743215997396189203",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-24T19:37:39+08:00",
+  "source_url": "https://t.bilibili.com/743215997396189203",
+  "plain_text": "9点来哦！\n先躺一下再吃饭洗头然后准备直播内容，能完成上述两项就算赢。",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cefff1ff-7b07-4baf-818c-ea008a68d077",
+    "next_uuid": "82ba7535-d2d6-49e3-9e28-eff890d55028"
+  }
+}

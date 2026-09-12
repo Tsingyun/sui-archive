@@ -1,0 +1,28 @@
+{
+  "uuid": "45ab983d-d364-4215-abfb-49a85f6c9fb1",
+  "platform_post_id": "958507181466976309",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-26T23:37:24+08:00",
+  "source_url": "https://t.bilibili.com/958507181466976309",
+  "plain_text": "和今天的直播一样朴素的，晚安",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 102,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "295b1a69-3d6f-49de-9d88-0332a4ea1f0b",
+    "next_uuid": "f639e251-98cc-4b3f-8102-ed5fdf201f00"
+  }
+}

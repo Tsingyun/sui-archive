@@ -1,0 +1,28 @@
+{
+  "uuid": "557b7c63-84ac-440d-84bb-e37c85915ce3",
+  "platform_post_id": "1189711661933527107",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-11T00:48:52+08:00",
+  "source_url": "https://t.bilibili.com/1189711661933527107",
+  "plain_text": "一天一度的晚安回复岁己获点赞的活动开始啦！",
+  "images": [],
+  "stats": {
+    "likes": 227,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dcb4fe47-a47c-4329-bef9-a28f75cc301a",
+    "next_uuid": "40180bc0-0ae6-4b3a-b2d0-5b8d453b9156"
+  }
+}

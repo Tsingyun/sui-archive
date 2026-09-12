@@ -1,0 +1,28 @@
+{
+  "uuid": "efef96db-062b-461e-92e4-a8adc0da7a67",
+  "platform_post_id": "1155561934595031057",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-09T00:10:29+08:00",
+  "source_url": "https://t.bilibili.com/1155561934595031057",
+  "plain_text": "好巧，这一秒我们都在看手机。既然这么有缘分，我就送你一个晚安吧[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fe17360c-c9de-4b44-8e62-94e3d75af0f8",
+    "next_uuid": "23ce2e94-6f6b-4588-bbf4-372e3fd6924c"
+  }
+}

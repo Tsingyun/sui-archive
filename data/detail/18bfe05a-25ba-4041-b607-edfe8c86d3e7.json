@@ -1,0 +1,28 @@
+{
+  "uuid": "18bfe05a-25ba-4041-b607-edfe8c86d3e7",
+  "platform_post_id": "963356607565004835",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-09T01:15:39+08:00",
+  "source_url": "https://t.bilibili.com/963356607565004835",
+  "plain_text": "一个直球晚安，一个直球今天很开心谢谢大家陪伴",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b564f3b-af1f-414e-93b7-c7357595d50c",
+    "next_uuid": "11a60ecc-1977-46b5-9165-47d5ef59146e"
+  }
+}

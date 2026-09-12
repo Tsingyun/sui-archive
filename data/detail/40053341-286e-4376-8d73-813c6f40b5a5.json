@@ -1,0 +1,28 @@
+{
+  "uuid": "40053341-286e-4376-8d73-813c6f40b5a5",
+  "platform_post_id": "848489094493241369",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-04T12:11:02+08:00",
+  "source_url": "https://t.bilibili.com/848489094493241369",
+  "plain_text": "美美😇",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b63b4798-c41e-4cfa-be3d-f123b9385ecb",
+    "next_uuid": "855b02a9-ccb0-4602-bf8e-ed460b284b73"
+  }
+}

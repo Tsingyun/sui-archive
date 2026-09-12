@@ -1,0 +1,28 @@
+{
+  "uuid": "c15b6c8b-2504-4463-aef9-2957fb1aaa96",
+  "platform_post_id": "916218753071448065",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-04T00:36:42+08:00",
+  "source_url": "https://t.bilibili.com/916218753071448065",
+  "plain_text": "晚安捏 今天互相陪伴了好长时间的说",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24a95727-2d9f-4901-a3d1-44d2c79ecdc9",
+    "next_uuid": "263cb040-d7a8-4219-a640-f3329dbf5170"
+  }
+}

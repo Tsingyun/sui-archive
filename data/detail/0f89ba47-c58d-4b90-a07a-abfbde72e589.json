@@ -1,0 +1,28 @@
+{
+  "uuid": "0f89ba47-c58d-4b90-a07a-abfbde72e589",
+  "platform_post_id": "1017893097255731264",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-03T00:25:05+08:00",
+  "source_url": "https://t.bilibili.com/1017893097255731264",
+  "plain_text": "晚安。今晚岁己不在，记得关好门窗，不要让别人把你的心偷走了❤️丫头",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3e2b48a-ff76-4d80-8af3-df5f39f63593",
+    "next_uuid": "621c6cfe-60d7-45e8-b1d3-cc36018bad48"
+  }
+}

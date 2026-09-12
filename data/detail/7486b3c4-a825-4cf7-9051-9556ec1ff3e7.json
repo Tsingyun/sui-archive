@@ -1,0 +1,28 @@
+{
+  "uuid": "7486b3c4-a825-4cf7-9051-9556ec1ff3e7",
+  "platform_post_id": "1061905671548567592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-01T14:56:21+08:00",
+  "source_url": "https://t.bilibili.com/1061905671548567592",
+  "plain_text": "阶段性彩排结束 还要待机很久 [UP_1954091502_抱抱]\n来限时评论区1v1聊天！",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 127,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6331c07a-7ea6-41be-ba4d-fe0d7724ca6d",
+    "next_uuid": "44fa4a1c-811b-4710-8050-41442366985e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "692c4a68-440e-40c8-877e-7195f098c164",
+  "platform_post_id": "796665400862441479",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-17T20:28:38+08:00",
+  "source_url": "https://t.bilibili.com/796665400862441479",
+  "plain_text": "不播了",
+  "images": [],
+  "stats": {
+    "likes": 454,
+    "comments": 98,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a4c5011-012b-42d6-9faa-d82a76796366",
+    "next_uuid": "0c21b640-1cc9-4633-887e-248bbffe21e1"
+  }
+}

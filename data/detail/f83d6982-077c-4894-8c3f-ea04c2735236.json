@@ -1,0 +1,28 @@
+{
+  "uuid": "f83d6982-077c-4894-8c3f-ea04c2735236",
+  "platform_post_id": "1171521156884201505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-21T00:20:25+08:00",
+  "source_url": "https://t.bilibili.com/1171521156884201505",
+  "plain_text": "谁是饼干岁，来签收一下这个货到付款的晚安",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd91bcbe-191a-43b8-8955-049f9140e413",
+    "next_uuid": "631a3892-2c4e-4dd7-b1ab-23bcf173f8bf"
+  }
+}

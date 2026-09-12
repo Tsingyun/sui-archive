@@ -1,0 +1,28 @@
+{
+  "uuid": "aab52a70-47ca-45e8-bc47-44193f903907",
+  "platform_post_id": "1088980282068959234",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-13T13:59:40+08:00",
+  "source_url": "https://t.bilibili.com/1088980282068959234",
+  "plain_text": "3点来～唱唱聊聊 有时间的话可能玩玩游戏",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "83f2adc5-df0d-481e-8fbe-fd151064ced3",
+    "next_uuid": "6c7d0e09-460a-43ef-96b1-618eaa0cab4b"
+  }
+}

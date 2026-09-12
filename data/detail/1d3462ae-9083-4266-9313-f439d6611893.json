@@ -1,0 +1,28 @@
+{
+  "uuid": "1d3462ae-9083-4266-9313-f439d6611893",
+  "platform_post_id": "1206252581683200003",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-25T14:36:05+08:00",
+  "source_url": "https://t.bilibili.com/1206252581683200003",
+  "plain_text": "2:50 空洞骑士with新手柄 战斗战斗",
+  "images": [],
+  "stats": {
+    "likes": 159,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0bf308b0-89b9-4dcd-bd45-325f3756080b",
+    "next_uuid": "106e839c-5ad9-4e28-9861-78794eefa756"
+  }
+}

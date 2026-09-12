@@ -1,0 +1,28 @@
+{
+  "uuid": "be657642-264f-458f-81cf-644024711b0e",
+  "platform_post_id": "959124059017183234",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-28T15:31:12+08:00",
+  "source_url": "https://t.bilibili.com/959124059017183234",
+  "plain_text": "4点二十，岁己出现，准时收看",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0042507d-b232-4a16-9052-b4e5c6f430db",
+    "next_uuid": "cf7c4233-4b63-4b52-a12c-a13bfe2dfa36"
+  }
+}

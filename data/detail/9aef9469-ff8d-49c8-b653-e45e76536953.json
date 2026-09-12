@@ -1,0 +1,28 @@
+{
+  "uuid": "9aef9469-ff8d-49c8-b653-e45e76536953",
+  "platform_post_id": "756976707540353107",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-30T21:36:14+08:00",
+  "source_url": "https://t.bilibili.com/756976707540353107",
+  "plain_text": "晚安。注定度过一个相对比较悲伤的夜晚。",
+  "images": [],
+  "stats": {
+    "likes": 400,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "520c57de-d078-48f7-bd35-219d5ec73e99",
+    "next_uuid": "124c87eb-f618-4534-98eb-97a5823dd74f"
+  }
+}

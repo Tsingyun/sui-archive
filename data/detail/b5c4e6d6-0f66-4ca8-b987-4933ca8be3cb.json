@@ -1,0 +1,38 @@
+{
+  "uuid": "b5c4e6d6-0f66-4ca8-b987-4933ca8be3cb",
+  "platform_post_id": "769257977544704080",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-04T23:53:50+08:00",
+  "source_url": "https://t.bilibili.com/769257977544704080",
+  "plain_text": "晚安。岁己加油去了\n",
+  "images": [
+    {
+      "filename": "769257977544704080_00@original.png",
+      "width": 959,
+      "height": 977,
+      "file_size": 864722,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 440,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4842f70e-808e-4fc0-ac81-af64d264975e",
+    "next_uuid": "4b860ed9-799e-4e05-97e0-247359cbee28"
+  }
+}

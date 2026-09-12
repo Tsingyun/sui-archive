@@ -1,0 +1,28 @@
+{
+  "uuid": "730da39a-3145-4805-8f25-77b328301077",
+  "platform_post_id": "777624406334636036",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-27T12:59:51+08:00",
+  "source_url": "https://t.bilibili.com/777624406334636036",
+  "plain_text": "连我什么时间起床你都想知道！下一步你还想知道什么我都不敢想了。早🐤，起了几分钟了，具体几分钟不告诉你",
+  "images": [],
+  "stats": {
+    "likes": 387,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "09f8669a-6a99-4b30-a36c-67cd89c2c6ea",
+    "next_uuid": "03f3b47e-0f58-4aa1-9e78-a66cf14e3684"
+  }
+}

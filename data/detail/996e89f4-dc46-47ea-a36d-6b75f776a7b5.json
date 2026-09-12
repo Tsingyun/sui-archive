@@ -1,0 +1,28 @@
+{
+  "uuid": "996e89f4-dc46-47ea-a36d-6b75f776a7b5",
+  "platform_post_id": "901654660724555793",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-24T18:40:35+08:00",
+  "source_url": "https://t.bilibili.com/901654660724555793",
+  "plain_text": "7点40岁来直播\n今天晚上干什么\n聊聊天又唱唱歌 \n神秘海域欢乐多 \n神枪手般的操作 \n马上完结好落寞 \n以后还能看到么 \n小饼们都哭哭了",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 102,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d3b71aa6-db1b-4d5a-9705-e13682f4e34b",
+    "next_uuid": "91e6cc8c-3acc-4b69-b195-6dc5e675c8d4"
+  }
+}

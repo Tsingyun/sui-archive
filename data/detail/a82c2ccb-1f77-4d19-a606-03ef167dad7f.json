@@ -1,0 +1,28 @@
+{
+  "uuid": "a82c2ccb-1f77-4d19-a606-03ef167dad7f",
+  "platform_post_id": "761481346579169379",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-12T00:56:32+08:00",
+  "source_url": "https://t.bilibili.com/761481346579169379",
+  "plain_text": "[UP_1954091502_吃我一拳][UP_1954091502_吃我一拳][UP_1954091502_吃我一拳][UP_1954091502_吃我一拳][UP_1954091502_吃我一拳]回我",
+  "images": [],
+  "stats": {
+    "likes": 447,
+    "comments": 124,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c90fd49-4343-470f-81b0-20047981e25a",
+    "next_uuid": "eaaba33c-30b3-4aa1-8fb1-14cec49559b8"
+  }
+}

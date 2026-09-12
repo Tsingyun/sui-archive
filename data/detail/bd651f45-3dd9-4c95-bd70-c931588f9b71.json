@@ -1,0 +1,28 @@
+{
+  "uuid": "bd651f45-3dd9-4c95-bd70-c931588f9b71",
+  "platform_post_id": "1135156471930028069",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-15T00:26:52+08:00",
+  "source_url": "https://t.bilibili.com/1135156471930028069",
+  "plain_text": "什么！你要给小岁写100字的晚安回复，丫头我不允许！不准累到自己，只准你写30字，哼。晚安",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9560f4a5-1290-47e2-ba90-68a7e3d0f32e",
+    "next_uuid": "e0b902af-0615-4af1-9b88-8373a6b03f9a"
+  }
+}

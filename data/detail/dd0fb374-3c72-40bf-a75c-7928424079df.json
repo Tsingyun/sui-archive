@@ -1,0 +1,38 @@
+{
+  "uuid": "dd0fb374-3c72-40bf-a75c-7928424079df",
+  "platform_post_id": "740667312252649475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-12-17T22:47:27+08:00",
+  "source_url": "https://t.bilibili.com/740667312252649475",
+  "plain_text": "有什么想和大家分享的：\n",
+  "images": [
+    {
+      "filename": "740667312252649475_00@original.png",
+      "width": 390,
+      "height": 890,
+      "file_size": 224987,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 379,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55eac292-076c-41a5-a3bc-e3e237355c35",
+    "next_uuid": "54326493-ccb8-489f-8425-8abd3699f01c"
+  }
+}

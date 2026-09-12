@@ -1,0 +1,28 @@
+{
+  "uuid": "fbd23145-f75f-4867-ac91-f635e7f4185e",
+  "platform_post_id": "1147759516575596549",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-18T23:33:07+08:00",
+  "source_url": "https://t.bilibili.com/1147759516575596549",
+  "plain_text": "晚安。咖啡馆见",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "934b7467-136b-44a6-8d0a-1366e03ebca2",
+    "next_uuid": "7e4ae5f4-5f13-4c35-9d3d-85d0c66b627e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "97799096-91ff-4a55-8282-c4ab22ae0693",
+  "platform_post_id": "1075392388574216200",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-06T23:11:42+08:00",
+  "source_url": "https://t.bilibili.com/1075392388574216200",
+  "plain_text": "终于回到温馨的小家了 晚安大家[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32738ae6-168a-415a-a72d-556c13b8e15f",
+    "next_uuid": "2c18112d-5fa1-42a3-ad08-cfa839692834"
+  }
+}

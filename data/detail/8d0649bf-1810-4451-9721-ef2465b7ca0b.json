@@ -1,0 +1,28 @@
+{
+  "uuid": "8d0649bf-1810-4451-9721-ef2465b7ca0b",
+  "platform_post_id": "782440739736911974",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-09T12:29:41+08:00",
+  "source_url": "https://t.bilibili.com/782440739736911974",
+  "plain_text": "起床了 今天要重新写to签[UP_1954091502_流汗]",
+  "images": [],
+  "stats": {
+    "likes": 358,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e4869cbc-1b99-498d-906e-562b80f6d70e",
+    "next_uuid": "5033c9b2-1e0e-4eb4-8d03-64da8a40f9a5"
+  }
+}

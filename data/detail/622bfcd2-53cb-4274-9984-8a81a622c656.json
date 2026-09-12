@@ -1,0 +1,28 @@
+{
+  "uuid": "622bfcd2-53cb-4274-9984-8a81a622c656",
+  "platform_post_id": "1169224629244395523",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-14T19:48:43+08:00",
+  "source_url": "https://t.bilibili.com/1169224629244395523",
+  "plain_text": "8:20来～一起过过今天！",
+  "images": [],
+  "stats": {
+    "likes": 183,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "33eebfa4-f494-4582-a731-567cdadca3a0",
+    "next_uuid": "2fca1730-2b02-4d17-bf33-0d8b9fcc439f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "327212ff-4731-47b1-b345-24af5300e77d",
+  "platform_post_id": "1126164494069792774",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-21T18:53:24+08:00",
+  "source_url": "https://t.bilibili.com/1126164494069792774",
+  "plain_text": "7:30来见！唱唱歌 玩最后生还者 期待[UPOWER_1954091502_唔哇]",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d5237837-2685-4de5-837d-ceef05b4d934",
+    "next_uuid": "0c40f8ac-cf9c-4392-af7e-b2327421c0cb"
+  }
+}

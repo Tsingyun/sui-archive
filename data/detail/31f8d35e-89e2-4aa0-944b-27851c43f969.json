@@ -1,0 +1,28 @@
+{
+  "uuid": "31f8d35e-89e2-4aa0-944b-27851c43f969",
+  "platform_post_id": "807102519292461091",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-14T23:29:59+08:00",
+  "source_url": "https://t.bilibili.com/807102519292461091",
+  "plain_text": "晚安饼干侠",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a05ba3e4-cb7c-4c38-a13e-5711c1492565",
+    "next_uuid": "c71e1879-29b2-4fd4-8772-77ec6ed88152"
+  }
+}

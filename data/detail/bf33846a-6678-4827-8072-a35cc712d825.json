@@ -1,0 +1,28 @@
+{
+  "uuid": "bf33846a-6678-4827-8072-a35cc712d825",
+  "platform_post_id": "994524601149030416",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-01T01:03:23+08:00",
+  "source_url": "https://t.bilibili.com/994524601149030416",
+  "plain_text": "啊又要晚安了，说晚安好不好，那要怎么才能说晚安，球球你了[大哭]",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e92d455-b375-4881-8ff6-f8fc4bbc380b",
+    "next_uuid": "a087d25b-d1fc-4b13-8c56-5064cd3a016d"
+  }
+}

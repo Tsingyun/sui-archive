@@ -1,0 +1,28 @@
+{
+  "uuid": "60d28d4d-92a9-4df7-93cb-75ebbf8da755",
+  "platform_post_id": "1152152890171719748",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-30T19:41:39+08:00",
+  "source_url": "https://t.bilibili.com/1152152890171719748",
+  "plain_text": "十分钟后来！今天要看高分电影利刃出鞘3啊期待期待啊",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c45ace0d-9526-4ef3-8145-620d35ac694c",
+    "next_uuid": "1a48f448-8e15-495a-a6b6-3cee81d65145"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7a9ce11d-fc3b-4d40-8572-3d5665d2d852",
+  "platform_post_id": "753128343832887316",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-20T12:42:37+08:00",
+  "source_url": "https://t.bilibili.com/753128343832887316",
+  "plain_text": "早！放假第一天！有我起得早吗 我12:20醒的～",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "61f86e3b-8b10-4f27-8e1f-684d35af7874",
+    "next_uuid": "4dfddbb7-7276-44bf-8cae-b7817239a578"
+  }
+}

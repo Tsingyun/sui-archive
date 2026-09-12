@@ -1,0 +1,28 @@
+{
+  "uuid": "fce031ad-2957-4a3a-8b77-ba69ed413e42",
+  "platform_post_id": "853479644877291557",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-17T22:56:55+08:00",
+  "source_url": "https://t.bilibili.com/853479644877291557",
+  "plain_text": "好困 今天应该会早睡了 晚安💤",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6547a72d-70f7-4f91-a5d4-92e556c9ece9",
+    "next_uuid": "d0940649-ef58-4204-a75f-2b25cb4e51e7"
+  }
+}

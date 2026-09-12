@@ -1,0 +1,28 @@
+{
+  "uuid": "94dc8f06-ae00-418a-8600-bc5d6c044a03",
+  "platform_post_id": "1001187409624301571",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-18T23:58:29+08:00",
+  "source_url": "https://t.bilibili.com/1001187409624301571",
+  "plain_text": "你知道饼干岁有多好吗，就算我想不出很幽默的晚安动态他也会回复我的。不信你看",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 103,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fafe78b8-f42f-413f-95ae-a2ac49533f5a",
+    "next_uuid": "0e403c8b-dcc3-484b-8e22-f0675d71ed48"
+  }
+}

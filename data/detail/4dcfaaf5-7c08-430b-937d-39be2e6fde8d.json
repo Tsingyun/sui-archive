@@ -1,0 +1,28 @@
+{
+  "uuid": "4dcfaaf5-7c08-430b-937d-39be2e6fde8d",
+  "platform_post_id": "821066419784384530",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-22T14:37:03+08:00",
+  "source_url": "https://t.bilibili.com/821066419784384530",
+  "plain_text": "第一次和大家线下见面好新奇的体验！开心开心！谢谢来场的大家，也谢谢看直播的大家！",
+  "images": [],
+  "stats": {
+    "likes": 432,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e90bb9fa-c663-4499-a644-b0ece55af1d2",
+    "next_uuid": "30fcbebf-b99e-411e-9f4d-637ac065347e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "816ffd4f-1a16-4f18-95c3-519c1347b427",
+  "platform_post_id": "1245010671553216515",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-07T01:17:16+08:00",
+  "source_url": "https://t.bilibili.com/1245010671553216515",
+  "plain_text": "我今天打那个黄金树帅不帅[岁己收藏集表情包_诶嘿]不要太迷恋岁己哦 晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 317,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3f7a3f8-03c3-4b54-bd4e-099189cb4c58",
+    "next_uuid": "21558cbf-7c6d-4868-be28-cf0ad6f751db"
+  }
+}

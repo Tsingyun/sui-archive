@@ -1,0 +1,28 @@
+{
+  "uuid": "4c5856b7-0d8f-43d5-9cdb-c04939667686",
+  "platform_post_id": "1169674441175597058",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-16T00:54:13+08:00",
+  "source_url": "https://t.bilibili.com/1169674441175597058",
+  "plain_text": "除夕快乐~！！！！！晚安大家",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ac19d15-218a-4c4c-b882-3d446f2f0380",
+    "next_uuid": "c41a9142-7156-4ce7-8617-49df0f85fa3c"
+  }
+}

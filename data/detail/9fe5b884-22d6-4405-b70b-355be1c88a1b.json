@@ -1,0 +1,28 @@
+{
+  "uuid": "9fe5b884-22d6-4405-b70b-355be1c88a1b",
+  "platform_post_id": "750456972979994626",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-13T07:56:20+08:00",
+  "source_url": "https://t.bilibili.com/750456972979994626",
+  "plain_text": "早早早，起了，8:10分来早台！电脑还是电台，还是电脑吧？",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb42f7d1-9849-4f37-9e58-bbcfd209cf66",
+    "next_uuid": "34a81e65-6dec-4d68-84e8-7521074efcc7"
+  }
+}

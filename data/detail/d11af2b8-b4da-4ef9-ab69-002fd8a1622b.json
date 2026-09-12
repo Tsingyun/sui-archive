@@ -1,0 +1,28 @@
+{
+  "uuid": "d11af2b8-b4da-4ef9-ab69-002fd8a1622b",
+  "platform_post_id": "1066130291594100744",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-13T00:10:02+08:00",
+  "source_url": "https://t.bilibili.com/1066130291594100744",
+  "plain_text": "人 晚安",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8038d940-2b5c-48ea-a4b4-2d2a34b1d778",
+    "next_uuid": "543871d2-c462-4500-ae84-de241e32053b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3fa03e9b-4881-4227-bff5-c9fa16ab4425",
+  "platform_post_id": "764207559861075991",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-19T09:15:38+08:00",
+  "source_url": "https://t.bilibili.com/764207559861075991",
+  "plain_text": "早。希望你永远不知道星期天清晨9点的天空是什么样的\n困吐了",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 49,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6991f081-cd5c-4270-87d1-c102165e92a3",
+    "next_uuid": "5aef8419-a53b-4986-b141-f80802d49111"
+  }
+}

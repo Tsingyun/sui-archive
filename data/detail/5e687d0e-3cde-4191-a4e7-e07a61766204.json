@@ -1,0 +1,28 @@
+{
+  "uuid": "5e687d0e-3cde-4191-a4e7-e07a61766204",
+  "platform_post_id": "1186359972540186647",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-02T00:02:36+08:00",
+  "source_url": "https://t.bilibili.com/1186359972540186647",
+  "plain_text": "晚安喔新的一天了，多亏了大家的存在今天也过得很有意思。[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1e96dde7-6013-4d04-85c1-95b3a779d89e",
+    "next_uuid": "21577d96-bdb8-4300-a9ac-92746e1a680e"
+  }
+}

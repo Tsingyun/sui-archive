@@ -1,0 +1,28 @@
+{
+  "uuid": "681b3423-62ea-412b-88f0-ba6049121f7b",
+  "platform_post_id": "854230168693112852",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-19T23:29:20+08:00",
+  "source_url": "https://t.bilibili.com/854230168693112852",
+  "plain_text": "交一下晚安公粮👉晚安",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e6039ffe-f53a-40e2-9554-98a2516d7c33",
+    "next_uuid": "edf8285a-15a1-4e41-b009-eef9def15001"
+  }
+}

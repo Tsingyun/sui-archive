@@ -1,0 +1,28 @@
+{
+  "uuid": "ce5e3148-dedb-4fa2-861c-335d976137c2",
+  "platform_post_id": "781154070615294001",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-06T01:16:45+08:00",
+  "source_url": "https://t.bilibili.com/781154070615294001",
+  "plain_text": "让你喜欢整个明天～晚安",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c17a3bdd-6198-4598-802a-11b40e8c239e",
+    "next_uuid": "c2581b04-c9db-4278-9d07-6029f5f74bfe"
+  }
+}

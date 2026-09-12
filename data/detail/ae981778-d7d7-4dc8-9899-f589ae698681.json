@@ -1,0 +1,28 @@
+{
+  "uuid": "ae981778-d7d7-4dc8-9899-f589ae698681",
+  "platform_post_id": "1193807475899367428",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-22T01:42:43+08:00",
+  "source_url": "https://t.bilibili.com/1193807475899367428",
+  "plain_text": "晚安大家。不知道说什么了就谢谢你陪我度过又一天吧，今天也聊得很开心[岁己收藏集表情包_啵啵]",
+  "images": [],
+  "stats": {
+    "likes": 205,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c502744a-adb3-46c9-8f8b-4b912328edb5",
+    "next_uuid": "b42ef81d-8257-4429-8439-6092f7070434"
+  }
+}

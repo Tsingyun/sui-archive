@@ -1,0 +1,28 @@
+{
+  "uuid": "bc6c8abc-c2f3-4b0d-b3d3-7f987fd3862d",
+  "platform_post_id": "810387224382144545",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-23T19:56:19+08:00",
+  "source_url": "https://t.bilibili.com/810387224382144545",
+  "plain_text": "8:40÷5分见！",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f551f8b-baee-4679-80e4-f2e7e2506606",
+    "next_uuid": "09abfc66-0edd-4e31-9b59-83e0cc1e5ead"
+  }
+}

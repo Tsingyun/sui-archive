@@ -1,0 +1,28 @@
+{
+  "uuid": "d27b0e8f-0956-43d5-a210-525645ab3a1c",
+  "platform_post_id": "811439109119672352",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-26T15:58:10+08:00",
+  "source_url": "https://t.bilibili.com/811439109119672352",
+  "plain_text": "系统检测到您已七日未和最可爱最温柔的岁己SUI互动，请及时进行互动，否则我将获取您的“摄像头权限”以及“定位权限”以确认您的安全，请见谅。",
+  "images": [],
+  "stats": {
+    "likes": 687,
+    "comments": 124,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "713effd3-f921-40e8-9a07-86b9cc57f25a",
+    "next_uuid": "eaa526d5-2110-4928-8495-2691ec7cfedd"
+  }
+}

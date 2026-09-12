@@ -1,0 +1,28 @@
+{
+  "uuid": "9a16bfcb-61c7-4aa4-9915-55998a7fef1f",
+  "platform_post_id": "1064287866584039429",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-08T01:00:29+08:00",
+  "source_url": "https://t.bilibili.com/1064287866584039429",
+  "plain_text": "hello饼干岁我是小岁呀我来跟你说晚安啦，你打不打算回我呀，你不回我我就一直这样看着你哈[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "08c4271b-c85d-426b-ac62-e1e9a901fa79",
+    "next_uuid": "f654b32b-953b-46c1-ad49-8dc701207051"
+  }
+}

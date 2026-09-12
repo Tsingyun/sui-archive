@@ -1,0 +1,28 @@
+{
+  "uuid": "2ebc340c-147e-4de8-b1d3-4e3461594e1b",
+  "platform_post_id": "811839674685325320",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-27T17:52:34+08:00",
+  "source_url": "https://t.bilibili.com/811839674685325320",
+  "plain_text": "休了吧休了休了",
+  "images": [],
+  "stats": {
+    "likes": 461,
+    "comments": 79,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "adf08d04-a6ff-41ef-9456-c39de9957a7b",
+    "next_uuid": "adf9d5d4-d1ac-4040-81ec-81efb4336f84"
+  }
+}

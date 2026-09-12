@@ -1,0 +1,28 @@
+{
+  "uuid": "a93eba27-9508-47b0-a99d-1b437e90a8e9",
+  "platform_post_id": "734360891487682567",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-11-30T22:55:19+08:00",
+  "source_url": "https://t.bilibili.com/734360891487682567",
+  "plain_text": "截至目前共计收到7份repo，请还没有交作业的同学抓紧时间，不要交头接耳，互通答案。（🥰嘻嘻嘻嘻嘻被夸得好开心哈哈哈哈唔噗噗",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "10816176-acba-4edc-b27a-667428c81c73",
+    "next_uuid": "c7505c9e-a562-414b-8131-4f6dce55b09b"
+  }
+}

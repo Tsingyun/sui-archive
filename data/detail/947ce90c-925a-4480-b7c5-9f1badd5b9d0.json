@@ -1,0 +1,28 @@
+{
+  "uuid": "947ce90c-925a-4480-b7c5-9f1badd5b9d0",
+  "platform_post_id": "1063456850556485665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-05T19:15:43+08:00",
+  "source_url": "https://t.bilibili.com/1063456850556485665",
+  "plain_text": "7:30来来来来来干嘛呢今天",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4296f1a-b848-4132-8767-749920444258",
+    "next_uuid": "dade54f7-40e1-4705-bd0b-d295c123efba"
+  }
+}

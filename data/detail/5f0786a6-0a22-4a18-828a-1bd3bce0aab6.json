@@ -1,0 +1,28 @@
+{
+  "uuid": "5f0786a6-0a22-4a18-828a-1bd3bce0aab6",
+  "platform_post_id": "763723895033298999",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-18T01:58:46+08:00",
+  "source_url": "https://t.bilibili.com/763723895033298999",
+  "plain_text": "周六下午有没有人给我陪练女巫来了！！大约3.4点 总之下午我要先出个门 ，为什么我抓不到人啊？！！",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c2a8803a-239f-4bdf-a858-7b7a4359d77f",
+    "next_uuid": "a2ba6b38-d87a-462b-b978-6f6407372a1d"
+  }
+}

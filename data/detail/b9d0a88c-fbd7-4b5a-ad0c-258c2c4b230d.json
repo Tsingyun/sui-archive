@@ -1,0 +1,38 @@
+{
+  "uuid": "b9d0a88c-fbd7-4b5a-ad0c-258c2c4b230d",
+  "platform_post_id": "1204171811813589012",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-05-20T00:01:38+08:00",
+  "source_url": "https://t.bilibili.com/1204171811813589012",
+  "plain_text": "今天先把晚安提交上来，岁己要做一个初步调查！",
+  "images": [
+    {
+      "filename": "1204171811813589012_00@original.png",
+      "width": 3000,
+      "height": 3000,
+      "file_size": 10899967,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 306,
+    "comments": 53,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c0a7f33-8094-4ab8-a295-bae97ee6a3ff",
+    "next_uuid": "6a72852b-dd19-4f99-a749-a486e250fe86"
+  }
+}

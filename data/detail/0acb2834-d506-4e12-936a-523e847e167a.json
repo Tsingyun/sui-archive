@@ -1,0 +1,28 @@
+{
+  "uuid": "0acb2834-d506-4e12-936a-523e847e167a",
+  "platform_post_id": "968163865682509831",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-22T00:10:16+08:00",
+  "source_url": "https://t.bilibili.com/968163865682509831",
+  "plain_text": "。。TT。。大家晚安 喔 明天还能见到你吗",
+  "images": [],
+  "stats": {
+    "likes": 362,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef2cf01e-c3fc-420e-ac9a-412b997ca4b2",
+    "next_uuid": "0cae54a5-9a9e-458d-bf4e-16780d2642ac"
+  }
+}

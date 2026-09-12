@@ -1,0 +1,28 @@
+{
+  "uuid": "3838e8e5-c2be-4b8a-a1b0-3b0fa8e7c87f",
+  "platform_post_id": "988204569646333956",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-15T00:18:26+08:00",
+  "source_url": "https://t.bilibili.com/988204569646333956",
+  "plain_text": "尊敬的饼干岁们，祝你今晚以很快的速度进入睡眠状态，岁己明晚同一时间也会为你带来直播。再见",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c5939a4-de46-47d5-ba2e-4f3346049074",
+    "next_uuid": "40ae4a88-7950-4f3b-b6e9-38da64bd50c2"
+  }
+}

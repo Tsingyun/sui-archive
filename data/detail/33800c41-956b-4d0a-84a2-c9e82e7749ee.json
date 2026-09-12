@@ -1,0 +1,38 @@
+{
+  "uuid": "33800c41-956b-4d0a-84a2-c9e82e7749ee",
+  "platform_post_id": "745784173082443811",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-12-31T17:43:29+08:00",
+  "source_url": "https://t.bilibili.com/745784173082443811",
+  "plain_text": "如果有时间🕒，你会来看一👀我吗？～～～\n如果你看见我的话，请转过身去再惊讶。\n\n本月常规上舰壁纸和限定上舰圣诞音声已发送完毕，没有收到的可以试着关闭消息拦截并私信我。嗯虽然音声我听得砸桌子，但可以的话还是请在“旺旺岁岁饼”话题里repo一下\n\n",
+  "images": [
+    {
+      "filename": "745784173082443811_00@original.jpg",
+      "width": 1024,
+      "height": 768,
+      "file_size": 140406,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 602,
+    "comments": 50,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f95c3726-c309-4c03-970c-3f819f389bcd",
+    "next_uuid": "a101838c-e79e-4b5b-b9c5-d4742eb3a22a"
+  }
+}

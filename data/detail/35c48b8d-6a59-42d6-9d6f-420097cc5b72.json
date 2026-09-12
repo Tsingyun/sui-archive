@@ -1,0 +1,28 @@
+{
+  "uuid": "35c48b8d-6a59-42d6-9d6f-420097cc5b72",
+  "platform_post_id": "928380635863580729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-06T19:11:01+08:00",
+  "source_url": "https://t.bilibili.com/928380635863580729",
+  "plain_text": "今天是休息日你知道的吧！明天晚上就可以看电影咯好期待好期待",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ed7d743-6ff1-4273-9865-ed0ddce1930b",
+    "next_uuid": "b7c5431e-7e81-4172-a8eb-86822ea39462"
+  }
+}

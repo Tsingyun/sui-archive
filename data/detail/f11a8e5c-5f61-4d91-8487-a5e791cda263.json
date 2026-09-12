@@ -1,0 +1,28 @@
+{
+  "uuid": "f11a8e5c-5f61-4d91-8487-a5e791cda263",
+  "platform_post_id": "965124944370335744",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-13T19:37:42+08:00",
+  "source_url": "https://t.bilibili.com/965124944370335744",
+  "plain_text": "播啊播 7:55来地狱钱汤",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e78e49e-629b-4ed2-bb1e-4fb7a04ee3e3",
+    "next_uuid": "0e2625e6-da4a-4c2e-aa78-4d61a070bd9f"
+  }
+}

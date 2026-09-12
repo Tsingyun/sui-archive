@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive.suijisui.uk/sitemap.xml
+
+Disallow: /data/
+Disallow: /build-info.json

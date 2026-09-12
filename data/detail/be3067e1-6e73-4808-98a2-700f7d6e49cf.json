@@ -1,0 +1,28 @@
+{
+  "uuid": "be3067e1-6e73-4808-98a2-700f7d6e49cf",
+  "platform_post_id": "792156484061364231",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-05T16:51:44+08:00",
+  "source_url": "https://t.bilibili.com/792156484061364231",
+  "plain_text": "你最近有没有吃到好吃到翘jiojio的东西？是什么",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "50a8ba93-d6be-4450-8655-836f682d0723",
+    "next_uuid": "2d32773c-160c-4f3f-a865-09b89ab8dae0"
+  }
+}

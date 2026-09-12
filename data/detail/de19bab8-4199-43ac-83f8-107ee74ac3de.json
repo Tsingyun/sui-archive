@@ -1,0 +1,28 @@
+{
+  "uuid": "de19bab8-4199-43ac-83f8-107ee74ac3de",
+  "platform_post_id": "732812517138497584",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-26T18:46:50+08:00",
+  "source_url": "https://t.bilibili.com/732812517138497584",
+  "plain_text": "洗头洗澡去了，外卖买了几瓶酒，如果直播前能到的话今晚小喝一下试试。\n今晚是准时八点直播哦，想把底特律结局改变一下，进入一条拯救三个人的世界线。",
+  "images": [],
+  "stats": {
+    "likes": 384,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "65cb5035-58f0-43c7-9762-787b212e964d",
+    "next_uuid": "05c0e054-f96d-4202-ba82-2f5128f84d76"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "65d9b85b-8bae-4af8-9263-7fe50300c6aa",
+  "platform_post_id": "944342456652005409",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-18T19:31:02+08:00",
+  "source_url": "https://t.bilibili.com/944342456652005409",
+  "plain_text": "孩子们 我干嘛呀今天 7:40总之",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8286ab88-b732-46e4-b9de-2a86c8196e1a",
+    "next_uuid": "be82b1f1-31c3-4328-9141-a92f916876a8"
+  }
+}

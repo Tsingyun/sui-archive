@@ -1,0 +1,28 @@
+{
+  "uuid": "e8fe6943-8944-4ac2-8686-a9de205fc636",
+  "platform_post_id": "1164677143633854500",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-02T13:42:09+08:00",
+  "source_url": "https://t.bilibili.com/1164677143633854500",
+  "plain_text": "最近想赶在年前发货舰长礼物有点忙，今天就只有晚台喔 7:40见好咩",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8e7ccb6e-a6e0-4af2-8c57-927d3cb6464b",
+    "next_uuid": "65c7a79d-df56-406d-a9ad-1f04eb27c1f1"
+  }
+}

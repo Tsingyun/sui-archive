@@ -1,0 +1,28 @@
+{
+  "uuid": "8f7b6fe1-1aab-4ebe-a9c7-fdb12ce1afcd",
+  "platform_post_id": "973984456876490771",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-09-06T16:37:08+08:00",
+  "source_url": "https://t.bilibili.com/973984456876490771",
+  "plain_text": "好多岁己！",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1e7999ce-6c4d-40c9-869a-af1430d9ed31",
+    "next_uuid": "df686285-1c9d-4b6c-b6b4-db7aad7ae985"
+  }
+}

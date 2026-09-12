@@ -1,0 +1,28 @@
+{
+  "uuid": "2e0fd729-d3b8-4ef1-abb2-2e2470fe69cf",
+  "platform_post_id": "1190083782154125329",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-12T00:52:53+08:00",
+  "source_url": "https://t.bilibili.com/1190083782154125329",
+  "plain_text": "晚安晚安，小心床下小心衣柜小心窗外小心头发小心房间门总之小心！",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c5c03261-9e2d-4bac-863f-abdfa5232d7c",
+    "next_uuid": "9914f014-0914-4702-8d74-629ef6e70010"
+  }
+}

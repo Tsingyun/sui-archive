@@ -1,0 +1,28 @@
+{
+  "uuid": "6bb7b6e1-8a79-4325-a671-8c600c4aa0e5",
+  "platform_post_id": "983017876931739652",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-01T00:51:25+08:00",
+  "source_url": "https://t.bilibili.com/983017876931739652",
+  "plain_text": "晚安！假期快乐，希望大家十月开开心心捏",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 89,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11a73d9e-69e9-4edd-bb7c-75de3ca99f07",
+    "next_uuid": "53cabedd-7053-446f-b16d-900d1782b4af"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "1eeac783-e946-42fd-991c-d9b8e0c91430",
+  "platform_post_id": "956860456676360199",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-22T13:07:16+08:00",
+  "source_url": "https://t.bilibili.com/956860456676360199",
+  "plain_text": "耶——拍好了吗",
+  "images": [
+    {
+      "filename": "956860456676360199_100@repost.jpg",
+      "width": 1440,
+      "height": 2723,
+      "file_size": 1310789,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 403,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VremyaTsay",
+    "author_url": "https://space.bilibili.com/10280363",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "965ee8d0-c2ab-4583-97ba-1af9f9a0c97f",
+    "next_uuid": "ac2a7b4d-20b9-4101-ad93-1e61fa9d8f62"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "77ce4f53-5e36-4db7-8b52-1832a6e1f5e0",
+  "platform_post_id": "1240101223250526213",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-24T19:46:06+08:00",
+  "source_url": "https://t.bilibili.com/1240101223250526213",
+  "plain_text": "8:30来喔 再练练舞[UPOWER_1954091502_右扭扭]（没这么开心\n大树守卫！就在今天",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6fc3816-49d8-4439-919a-c4df6b86f5f7",
+    "next_uuid": "4cbec5f1-6f61-4766-a693-9ab6e4cab485"
+  }
+}

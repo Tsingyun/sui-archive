@@ -1,0 +1,28 @@
+{
+  "uuid": "661a5b00-04d9-4a49-930d-6dc8fb8593c0",
+  "platform_post_id": "1011065473625751617",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-15T14:50:25+08:00",
+  "source_url": "https://t.bilibili.com/1011065473625751617",
+  "plain_text": "本人将于3:30使用27寸的显示器播播！",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c413e92-38c8-489a-b947-f084230ddd73",
+    "next_uuid": "e61eaa47-db4f-4ce7-a432-119e2754302f"
+  }
+}

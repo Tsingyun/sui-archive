@@ -1,0 +1,47 @@
+{
+  "uuid": "adf33520-2494-445d-8eca-e83d8ec1455b",
+  "platform_post_id": "960971479067918368",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-02T15:00:08+08:00",
+  "source_url": "https://t.bilibili.com/960971479067918368",
+  "plain_text": "[UP_1954091502_打call][UP_1954091502_打call]祝演唱会圆满成功",
+  "images": [
+    {
+      "filename": "960971479067918368_100@repost.png",
+      "width": 1477,
+      "height": 2146,
+      "file_size": 4894966,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "960971479067918368_101@repost.jpg",
+      "width": 1500,
+      "height": 14572,
+      "file_size": 3234338,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 331,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "阿萨Aza",
+    "author_url": "https://space.bilibili.com/480680646",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "39dad94f-2222-4efa-8020-9b912d6c8994",
+    "next_uuid": "b5e68331-7345-46fe-8bc9-a0ff4f5c8cc5"
+  }
+}

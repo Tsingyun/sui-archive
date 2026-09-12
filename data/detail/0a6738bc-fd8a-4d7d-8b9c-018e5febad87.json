@@ -1,0 +1,28 @@
+{
+  "uuid": "0a6738bc-fd8a-4d7d-8b9c-018e5febad87",
+  "platform_post_id": "1155867684732141576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-09T19:56:57+08:00",
+  "source_url": "https://t.bilibili.com/1155867684732141576",
+  "plain_text": "8:10见！今天依然是石头门 期待之",
+  "images": [],
+  "stats": {
+    "likes": 180,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23ce2e94-6f6b-4588-bbf4-372e3fd6924c",
+    "next_uuid": "9e14e19d-57e8-4f1c-b107-190ffcd281a3"
+  }
+}

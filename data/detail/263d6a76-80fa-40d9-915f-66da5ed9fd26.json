@@ -1,0 +1,28 @@
+{
+  "uuid": "263d6a76-80fa-40d9-915f-66da5ed9fd26",
+  "platform_post_id": "941812128185057283",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-11T23:52:04+08:00",
+  "source_url": "https://t.bilibili.com/941812128185057283",
+  "plain_text": "一个情真意切黏黏糊糊的晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 367,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2ec5201c-36da-4b77-acea-1ac9f76bdc6a",
+    "next_uuid": "dd5cf578-3721-477c-ab6c-74c6569c1bb4"
+  }
+}

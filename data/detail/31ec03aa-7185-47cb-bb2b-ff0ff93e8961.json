@@ -1,0 +1,38 @@
+{
+  "uuid": "31ec03aa-7185-47cb-bb2b-ff0ff93e8961",
+  "platform_post_id": "1166535911018594342",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-02-07T13:55:07+08:00",
+  "source_url": "https://t.bilibili.com/1166535911018594342",
+  "plain_text": "岁己从天而降 到你的世界来了！",
+  "images": [
+    {
+      "filename": "1166535911018594342_100@repost.png",
+      "width": 2582,
+      "height": 4500,
+      "file_size": 19887485,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 207,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2fcd4f1-c3d4-4809-a82d-3b78c1e628a6",
+    "next_uuid": "e37fea79-336d-4d84-bfce-9f45a444b831"
+  }
+}

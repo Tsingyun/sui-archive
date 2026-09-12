@@ -1,0 +1,28 @@
+{
+  "uuid": "c80f9b21-9e18-4be4-830b-3ce8d983aa84",
+  "platform_post_id": "1088694787002859557",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-12T19:31:48+08:00",
+  "source_url": "https://t.bilibili.com/1088694787002859557",
+  "plain_text": "怎么就7点了[岁己收藏集表情包_凝视]45来",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7f484eb-db34-453b-9585-454fec321cc7",
+    "next_uuid": "83f2adc5-df0d-481e-8fbe-fd151064ced3"
+  }
+}

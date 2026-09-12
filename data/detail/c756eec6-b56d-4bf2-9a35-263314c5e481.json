@@ -1,0 +1,28 @@
+{
+  "uuid": "c756eec6-b56d-4bf2-9a35-263314c5e481",
+  "platform_post_id": "1020776935861518337",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-10T18:55:51+08:00",
+  "source_url": "https://t.bilibili.com/1020776935861518337",
+  "plain_text": "所有饼干岁听令，岁己7:40来啵啵，都做好准备！",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dce7b15e-a62d-4a4f-a773-2a62fed4bc10",
+    "next_uuid": "b4fb43fa-d70c-42a8-a345-157bac4f9cbe"
+  }
+}

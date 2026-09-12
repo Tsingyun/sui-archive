@@ -1,0 +1,38 @@
+{
+  "uuid": "a8e3c657-fdf4-44c2-807e-157b1c2db725",
+  "platform_post_id": "828550314661511189",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-11T18:38:23+08:00",
+  "source_url": "https://t.bilibili.com/828550314661511189",
+  "plain_text": "秘密分享回！\n你有什么秘密，来分享分享吧\n可以是跟岁己相关的秘密，也可以是别的秘密！希望做一下分段，一行的字数不要太多~\n投稿邮箱：suiji11@qq.com  \n投稿标题：【秘密回投稿】，如果是只想给岁己看，不想公开的话标题为【秘密回投稿】 不公开\n截止时间：8月16日\n",
+  "images": [
+    {
+      "filename": "828550314661511189_00@original.png",
+      "width": 579,
+      "height": 758,
+      "file_size": 433743,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 313,
+    "comments": 23,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24f8aee5-c99a-4cd7-ab7a-157d8e29debf",
+    "next_uuid": "387ab7ce-006a-4476-b70b-775291ee8308"
+  }
+}

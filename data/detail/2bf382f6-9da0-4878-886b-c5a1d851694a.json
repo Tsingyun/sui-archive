@@ -1,0 +1,28 @@
+{
+  "uuid": "2bf382f6-9da0-4878-886b-c5a1d851694a",
+  "platform_post_id": "1035258410245816324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-18T19:31:22+08:00",
+  "source_url": "https://t.bilibili.com/1035258410245816324",
+  "plain_text": "7:43出来一趟，请你看看电影，头脑特工队",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f68c971-3a4e-46c9-86cd-2b705f530dcc",
+    "next_uuid": "fc326f01-8707-4705-99f4-511f1c00f4fc"
+  }
+}

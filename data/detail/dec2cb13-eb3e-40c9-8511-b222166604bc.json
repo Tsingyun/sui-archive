@@ -1,0 +1,28 @@
+{
+  "uuid": "dec2cb13-eb3e-40c9-8511-b222166604bc",
+  "platform_post_id": "735036575745835043",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-02T18:37:19+08:00",
+  "source_url": "https://t.bilibili.com/735036575745835043",
+  "plain_text": "八点就随便聊聊天然后看看视频之类的！",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77704e2f-e7f5-4a86-acaa-f179b55b8976",
+    "next_uuid": "8bf9481e-210b-4b34-a3c7-ea9c6d38b92c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "10eed893-3250-406e-af42-bc0cc1c4cc51",
+  "platform_post_id": "1149552214453256192",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-23T19:29:42+08:00",
+  "source_url": "https://t.bilibili.com/1149552214453256192",
+  "plain_text": "友友们7:45来见喔！",
+  "images": [],
+  "stats": {
+    "likes": 167,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8df2cbef-f919-4f76-8439-05983796d29b",
+    "next_uuid": "768b834d-0907-4e1d-80ff-6bd80504dc83"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "581a281f-8c77-4010-86f2-e362e755724f",
+  "platform_post_id": "974828160252116997",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-08T23:11:08+08:00",
+  "source_url": "https://t.bilibili.com/974828160252116997",
+  "plain_text": "小饼子们 速来给岁己大人请安！",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 120,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7b0a6da-3614-4998-95f9-3976c070926c",
+    "next_uuid": "4ce3522a-5105-4ab2-899c-0c2142d78503"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c8902e3b-f2ac-42cd-91ed-41c7b0c78060",
+  "platform_post_id": "935064043100569636",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-24T19:26:03+08:00",
+  "source_url": "https://t.bilibili.com/935064043100569636",
+  "plain_text": "活动结束啦，谢谢大家今天来！好开心的说！！！出行辛苦了，也muamua没空来的大家",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d7146f8e-226a-49cc-b96a-4813ad859c5e",
+    "next_uuid": "a530cc92-8eb5-4041-9f0e-89dab549603b"
+  }
+}

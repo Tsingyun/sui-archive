@@ -1,0 +1,28 @@
+{
+  "uuid": "c3a81152-16f5-4567-a9d4-aa5901e6ad69",
+  "platform_post_id": "766226100028178519",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-24T19:48:36+08:00",
+  "source_url": "https://t.bilibili.com/766226100028178519",
+  "plain_text": "由于岁己还没想出来播什么，咱们8:30准时见！！可以先准备点瓜子花生什么的小零食",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "36bf85d1-8c73-4741-8359-b6e73a00b0b9",
+    "next_uuid": "546fcdeb-059a-4922-8a4e-cf1e3f107ce4"
+  }
+}

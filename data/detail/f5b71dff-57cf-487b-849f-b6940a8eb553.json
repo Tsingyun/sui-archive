@@ -1,0 +1,38 @@
+{
+  "uuid": "f5b71dff-57cf-487b-849f-b6940a8eb553",
+  "platform_post_id": "884160253893017637",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-01-08T15:13:21+08:00",
+  "source_url": "https://t.bilibili.com/884160253893017637",
+  "plain_text": "✨「岁己SUI首次3D演出」✨\n1月12日晚20:00\n✨终于能让大家看到3D的岁己了！\n为了3D花了很多时间努力，也从零基础开始学了好多舞，好想让大家看到闪闪发光的自己\n或许是岁己的人生中最重要的一天也说不定\n希望你一定要来！\n\n\n",
+  "images": [
+    {
+      "filename": "884160253893017637_00@original.png",
+      "width": 1200,
+      "height": 7800,
+      "file_size": 5970497,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 1197,
+    "comments": 148,
+    "forwards": 55,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c040b97-15ab-4ea8-9745-16e3bbb24adf",
+    "next_uuid": "a5164091-4ec8-4bb3-a4ec-c2f452236107"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9b658eb3-33c6-4838-852c-54e7d6692c9f",
+  "platform_post_id": "929189507070165032",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-08T23:29:51+08:00",
+  "source_url": "https://t.bilibili.com/929189507070165032",
+  "plain_text": "谢谢大家的陪伴，希望岁己有温暖到你。晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27df468d-31d6-4360-bd1b-71203668f842",
+    "next_uuid": "6ca7f0b8-561f-4503-9c0b-f21b2eab1389"
+  }
+}

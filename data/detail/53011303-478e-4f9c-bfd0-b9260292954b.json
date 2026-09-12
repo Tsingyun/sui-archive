@@ -1,0 +1,28 @@
+{
+  "uuid": "53011303-478e-4f9c-bfd0-b9260292954b",
+  "platform_post_id": "764633221188026371",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-20T12:47:25+08:00",
+  "source_url": "https://t.bilibili.com/764633221188026371",
+  "plain_text": "哼哼，居然睡到12:30，有几个人这么是能睡的，这下饼干岁肯定要狠狠迷上我了！",
+  "images": [],
+  "stats": {
+    "likes": 426,
+    "comments": 54,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad859157-049c-4602-a4cf-82b7e03701b5",
+    "next_uuid": "6ca3046c-ab20-4867-bde0-f2cc5d8ac542"
+  }
+}

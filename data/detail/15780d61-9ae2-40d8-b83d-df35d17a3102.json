@@ -1,0 +1,28 @@
+{
+  "uuid": "15780d61-9ae2-40d8-b83d-df35d17a3102",
+  "platform_post_id": "1129970264536252437",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-01T01:01:44+08:00",
+  "source_url": "https://t.bilibili.com/1129970264536252437",
+  "plain_text": "晚安的说～想平稳地度过今晚吗 用什么来兑换吧！不然会发生什么我也不知道哼哼[UP_1954091502_地雷]",
+  "images": [],
+  "stats": {
+    "likes": 229,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2885a3b8-9aa7-41ed-b593-88e62f23feff",
+    "next_uuid": "b44b9277-cc1e-4ee4-8c12-5fa4cfc32a47"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9ef4df14-82ea-4e38-81b2-4d83a36ce45f",
+  "platform_post_id": "1028575003042381845",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-31T19:16:20+08:00",
+  "source_url": "https://t.bilibili.com/1028575003042381845",
+  "plain_text": "十点来煮面，煮死你哈[UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "46c0c298-6d0c-42f2-8e99-e46f9d326c2c",
+    "next_uuid": "29166673-7768-4978-977e-71c76706f3d1"
+  }
+}

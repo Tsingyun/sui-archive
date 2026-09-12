@@ -1,0 +1,28 @@
+{
+  "uuid": "507c48b3-4675-40ca-b81d-0cc79a44fe18",
+  "platform_post_id": "927944439022747654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-05T14:58:21+08:00",
+  "source_url": "https://t.bilibili.com/927944439022747654",
+  "plain_text": "3:30来！今天是很随随便便的短短的化妆直播",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e57a03e5-b686-4b48-a1fa-63b01bbbfdb6",
+    "next_uuid": "4ed7d743-6ff1-4273-9865-ed0ddce1930b"
+  }
+}

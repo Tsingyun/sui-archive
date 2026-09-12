@@ -1,0 +1,28 @@
+{
+  "uuid": "74a8ae56-fb52-44e9-a95e-bf0bbad8258f",
+  "platform_post_id": "815641949116563456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-07T23:47:20+08:00",
+  "source_url": "https://t.bilibili.com/815641949116563456",
+  "plain_text": "晚安啾！",
+  "images": [],
+  "stats": {
+    "likes": 463,
+    "comments": 115,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71de8adb-707e-40dc-a030-3b8d7f1fc1ce",
+    "next_uuid": "86e3c6e6-9139-4eae-bfb6-166e50ec6af3"
+  }
+}

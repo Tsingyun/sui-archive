@@ -1,0 +1,28 @@
+{
+  "uuid": "203cbcaa-1817-44d3-9e39-ef03e1798821",
+  "platform_post_id": "1047543227895250949",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-23T22:02:44+08:00",
+  "source_url": "https://t.bilibili.com/1047543227895250949",
+  "plain_text": "我的好人格说 晚安饼干岁 \n我的坏人格说 不跟我说晚安就打死你",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef085e9d-3445-4452-88c3-9eeb4bda81d1",
+    "next_uuid": "9cc9603d-313b-4aed-ab14-603095234c5f"
+  }
+}

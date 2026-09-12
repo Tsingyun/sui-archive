@@ -1,0 +1,28 @@
+{
+  "uuid": "fb718df6-bc6f-4c48-8b20-4110ee37c546",
+  "platform_post_id": "1087608237605257217",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-09T21:15:26+08:00",
+  "source_url": "https://t.bilibili.com/1087608237605257217",
+  "plain_text": "十点来煮你一夏",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e753fe07-de99-4b3f-90fe-2f8c629c81c9",
+    "next_uuid": "685d335a-7fc6-4ff8-a0c6-77e3d16ac916"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "fc8d7e93-344d-4e68-be75-ae042e566abd",
+  "platform_post_id": "1136638652253732902",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-19T00:18:29+08:00",
+  "source_url": "https://t.bilibili.com/1136638652253732902",
+  "plain_text": "提示！给角色【岁己】赠送晚安，+1好感度",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "84ff5b6e-4171-489a-9e16-62217e26b313",
+    "next_uuid": "a4714264-3071-4b69-ad77-c15106f7d0d9"
+  }
+}

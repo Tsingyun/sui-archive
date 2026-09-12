@@ -1,0 +1,28 @@
+{
+  "uuid": "8c41bad4-32b3-4b27-9623-f486f2ab8c86",
+  "platform_post_id": "1046818160107323399",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-21T23:09:06+08:00",
+  "source_url": "https://t.bilibili.com/1046818160107323399",
+  "plain_text": "和小岁说晚安的名额 限时开售 限额60份",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 93,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "01a456b3-83e6-4e23-8090-771439f48297",
+    "next_uuid": "a7e8e627-5244-4a35-99c1-86e63ec97963"
+  }
+}

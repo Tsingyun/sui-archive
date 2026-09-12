@@ -1,0 +1,28 @@
+{
+  "uuid": "2bd39432-060a-41ae-8d5d-366a7278aebe",
+  "platform_post_id": "984478956098945024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-04T23:21:09+08:00",
+  "source_url": "https://t.bilibili.com/984478956098945024",
+  "plain_text": "下雨了！一个人在家看有点恐怖的电视，有点吓人啊，整个人缩在椅子上了。晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8d18400-acc3-4e02-8a28-485d9d6aff8f",
+    "next_uuid": "86ebd522-5411-4fe8-8967-fe8b2077053b"
+  }
+}

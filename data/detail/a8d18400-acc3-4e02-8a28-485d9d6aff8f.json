@@ -1,0 +1,28 @@
+{
+  "uuid": "a8d18400-acc3-4e02-8a28-485d9d6aff8f",
+  "platform_post_id": "984106359097131048",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-03T23:15:17+08:00",
+  "source_url": "https://t.bilibili.com/984106359097131048",
+  "plain_text": "晚安晚安 明天要开心 后天见咯",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ee1416b-eb95-40b5-b326-bdb50d0b9e4f",
+    "next_uuid": "2bd39432-060a-41ae-8d5d-366a7278aebe"
+  }
+}

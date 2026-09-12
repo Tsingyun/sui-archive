@@ -1,0 +1,28 @@
+{
+  "uuid": "1a421d54-e176-44b6-a294-e8147263b763",
+  "platform_post_id": "1196768538006650902",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-30T01:13:09+08:00",
+  "source_url": "https://t.bilibili.com/1196768538006650902",
+  "plain_text": "哎…不知道让饼干岁跟我说晚安会不会累到饼干岁的手指呀…要点击好几下呢…而且会消耗手机电量，万一他手机电量不是很多呢…",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 51,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e0602d8-7f96-4d60-a3be-8c23adebfef1",
+    "next_uuid": "063d67ea-a8b8-4ce1-b6fd-bb879d333c7c"
+  }
+}

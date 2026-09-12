@@ -1,0 +1,28 @@
+{
+  "uuid": "4833b526-f2ac-44ec-9d1b-be4103cae019",
+  "platform_post_id": "894692845117505593",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-06T00:25:11+08:00",
+  "source_url": "https://t.bilibili.com/894692845117505593",
+  "plain_text": "晚安\n感谢你的出现～",
+  "images": [],
+  "stats": {
+    "likes": 395,
+    "comments": 94,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d270ee6d-1757-4d2d-8a57-55489b63a268",
+    "next_uuid": "4bd0e446-322e-4403-b816-764a9c93c530"
+  }
+}

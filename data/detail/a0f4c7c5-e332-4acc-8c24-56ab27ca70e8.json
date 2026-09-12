@@ -1,0 +1,28 @@
+{
+  "uuid": "a0f4c7c5-e332-4acc-8c24-56ab27ca70e8",
+  "platform_post_id": "759087035415789577",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T14:05:23+08:00",
+  "source_url": "https://t.bilibili.com/759087035415789577",
+  "plain_text": "嗯嗯吃的夜宵都长对了地方！",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9415cd57-880d-4c71-8a93-14439912552a",
+    "next_uuid": "b5e67caa-fa7e-4fda-914d-323223d15612"
+  }
+}

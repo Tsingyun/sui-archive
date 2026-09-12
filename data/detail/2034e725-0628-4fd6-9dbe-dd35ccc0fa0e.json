@@ -1,0 +1,28 @@
+{
+  "uuid": "2034e725-0628-4fd6-9dbe-dd35ccc0fa0e",
+  "platform_post_id": "723927995026243608",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-02T20:10:21+08:00",
+  "source_url": "https://t.bilibili.com/723927995026243608",
+  "plain_text": "8:30来一下 还没想好干嘛 但是来一下",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24f97af7-1845-47d0-944f-619a2e6f0e9c",
+    "next_uuid": "5d0b16d3-4121-44fd-be67-8fb83ee1d65a"
+  }
+}

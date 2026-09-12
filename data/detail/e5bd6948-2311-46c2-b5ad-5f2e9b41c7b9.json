@@ -1,0 +1,28 @@
+{
+  "uuid": "e5bd6948-2311-46c2-b5ad-5f2e9b41c7b9",
+  "platform_post_id": "1000372280706990098",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-16T19:15:22+08:00",
+  "source_url": "https://t.bilibili.com/1000372280706990098",
+  "plain_text": "7:45！今天来看点什么呢有没有推荐",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a43698a6-e4a8-48cf-b853-bcbb548f5712",
+    "next_uuid": "81bd043f-75e1-48f2-85de-2045260b9488"
+  }
+}

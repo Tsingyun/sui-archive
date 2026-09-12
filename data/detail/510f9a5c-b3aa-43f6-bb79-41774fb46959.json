@@ -1,0 +1,28 @@
+{
+  "uuid": "510f9a5c-b3aa-43f6-bb79-41774fb46959",
+  "platform_post_id": "842294811066105880",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-17T19:34:03+08:00",
+  "source_url": "https://t.bilibili.com/842294811066105880",
+  "plain_text": "才吃上饭 8点05来那个这个哪个",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "04baaaee-cf1d-483d-8886-f5cc37369e06",
+    "next_uuid": "1d7e2819-94aa-49b2-b923-6e85e0818ed7"
+  }
+}

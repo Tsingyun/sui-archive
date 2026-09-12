@@ -1,0 +1,28 @@
+{
+  "uuid": "3da6cd2d-bf15-415e-bdaf-f7a462b851eb",
+  "platform_post_id": "985609485981581315",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-08T00:28:11+08:00",
+  "source_url": "https://t.bilibili.com/985609485981581315",
+  "plain_text": "晚安晚安 可以说一直都会在 晚安  吗（对手指",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 102,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9476d52d-36a4-40a6-8a1b-094a57f43486",
+    "next_uuid": "67521b81-ccad-4f2b-a2e0-4944925f6d15"
+  }
+}

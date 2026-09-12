@@ -1,0 +1,28 @@
+{
+  "uuid": "7a4fd9cf-c818-4417-91b6-c439d41ce774",
+  "platform_post_id": "1081189121255276546",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-22T14:05:59+08:00",
+  "source_url": "https://t.bilibili.com/1081189121255276546",
+  "plain_text": "2:59来播好吗好吗[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1ce10979-23e4-49a5-921d-d00e35ee7410",
+    "next_uuid": "d6d8eea3-0bd4-4481-aba0-b6afe772518f"
+  }
+}

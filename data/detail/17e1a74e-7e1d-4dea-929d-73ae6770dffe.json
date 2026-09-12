@@ -1,0 +1,28 @@
+{
+  "uuid": "17e1a74e-7e1d-4dea-929d-73ae6770dffe",
+  "platform_post_id": "775777759379062784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-22T13:33:55+08:00",
+  "source_url": "https://t.bilibili.com/775777759379062784",
+  "plain_text": "起了，怎样！今天又要怎么羞辱小岁！一起上吧，没关系的，小岁会忍住不哭的",
+  "images": [],
+  "stats": {
+    "likes": 523,
+    "comments": 81,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7a95393-a29d-4d42-a9eb-b33e6d4f3ab2",
+    "next_uuid": "46a70c04-def9-4ec8-9c49-599a92df435f"
+  }
+}

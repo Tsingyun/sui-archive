@@ -1,0 +1,28 @@
+{
+  "uuid": "c78db5bb-63c0-4679-9e15-21dc54ea2213",
+  "platform_post_id": "1213016064261095463",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-12T20:01:51+08:00",
+  "source_url": "https://t.bilibili.com/1213016064261095463",
+  "plain_text": "8:20来孩子们呀",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "42d5a59b-0cad-438b-80e2-c050c1d4dbb6",
+    "next_uuid": "cdd313a5-ece1-4f9b-8e34-0dd45c62f0c4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4fe7688d-5d44-4625-a0a4-ffb47ed9080b",
+  "platform_post_id": "1080239366520963090",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-20T00:40:27+08:00",
+  "source_url": "https://t.bilibili.com/1080239366520963090",
+  "plain_text": "新手机第一条晚安动态！晚安捏 好困😪",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b5a6f5b-1eee-4ded-b9b0-b8f92559d8f3",
+    "next_uuid": "d962b8aa-5499-4933-b20b-78af802350ba"
+  }
+}

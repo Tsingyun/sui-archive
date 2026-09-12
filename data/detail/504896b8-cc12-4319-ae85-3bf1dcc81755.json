@@ -1,0 +1,28 @@
+{
+  "uuid": "504896b8-cc12-4319-ae85-3bf1dcc81755",
+  "platform_post_id": "709143179987779590",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-23T23:57:43+08:00",
+  "source_url": "https://t.bilibili.com/709143179987779590",
+  "plain_text": "趁着夜色悄悄偷走你",
+  "images": [],
+  "stats": {
+    "likes": 500,
+    "comments": 26,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af26fd42-bb7e-4bdc-9fa3-0ceb044efe55",
+    "next_uuid": "4ab78ca8-d594-4198-9a2a-d8fafd65a63d"
+  }
+}

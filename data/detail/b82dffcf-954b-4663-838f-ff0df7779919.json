@@ -1,0 +1,28 @@
+{
+  "uuid": "b82dffcf-954b-4663-838f-ff0df7779919",
+  "platform_post_id": "1109543236891836422",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-06T23:54:26+08:00",
+  "source_url": "https://t.bilibili.com/1109543236891836422",
+  "plain_text": "好困好困 替岁己早点睡吧 晚安喔[岁己收藏集表情包_晚安][岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11a003ce-bf98-4c45-824e-b2076a9df53b",
+    "next_uuid": "55844ed4-c1ec-4f97-8b5d-6def8784a005"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ab0eb97b-3ac8-497f-b752-8d120a267ef0",
+  "platform_post_id": "802093242844708952",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-01T11:31:26+08:00",
+  "source_url": "https://t.bilibili.com/802093242844708952",
+  "plain_text": "外面小孩吵疯啦一直大叫，原来是儿童节么，那我也要大叫吵你们哇啊啊啊啊啊啊，早啊啊啊啊啊啊啊！",
+  "images": [],
+  "stats": {
+    "likes": 410,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0cb6b227-1599-4279-8338-636bcdb3ec9c",
+    "next_uuid": "463c0039-8386-443f-be71-bd0610867f88"
+  }
+}

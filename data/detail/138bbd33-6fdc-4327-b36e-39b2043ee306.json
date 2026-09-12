@@ -1,0 +1,28 @@
+{
+  "uuid": "138bbd33-6fdc-4327-b36e-39b2043ee306",
+  "platform_post_id": "763525446029541376",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-17T13:08:41+08:00",
+  "source_url": "https://t.bilibili.com/763525446029541376",
+  "plain_text": "下午好哦，马上放假了，工作加油",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "163382db-2527-4629-931c-5684b565912a",
+    "next_uuid": "751ad32d-2eb3-4d17-a52a-2b8c17d0cc99"
+  }
+}

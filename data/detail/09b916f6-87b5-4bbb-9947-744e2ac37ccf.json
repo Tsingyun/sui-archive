@@ -1,0 +1,28 @@
+{
+  "uuid": "09b916f6-87b5-4bbb-9947-744e2ac37ccf",
+  "platform_post_id": "812991202676703362",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-30T20:21:05+08:00",
+  "source_url": "https://t.bilibili.com/812991202676703362",
+  "plain_text": "洗澡去了，9：10见，应该不会播太久啦，有点脑死，每个人都准备点聊天卡组！",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f070fefe-e1f2-4bcf-aeb6-50507c25bdb9",
+    "next_uuid": "7bc0c64e-2916-4fad-a6c6-125dfe808b04"
+  }
+}

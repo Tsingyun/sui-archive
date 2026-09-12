@@ -1,0 +1,28 @@
+{
+  "uuid": "23d89266-04bc-40f9-8ed2-ae71538f17ae",
+  "platform_post_id": "1078299742116511749",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-14T19:13:43+08:00",
+  "source_url": "https://t.bilibili.com/1078299742116511749",
+  "plain_text": "7:35来 今天也是没空调的一天，，我们干嘛的说",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "546eb1a2-eba1-4f4a-b90f-52ffead3dc7b",
+    "next_uuid": "00705e20-2b83-4f10-addb-262fbd22b6d1"
+  }
+}

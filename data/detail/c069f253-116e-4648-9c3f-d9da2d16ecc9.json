@@ -1,0 +1,28 @@
+{
+  "uuid": "c069f253-116e-4648-9c3f-d9da2d16ecc9",
+  "platform_post_id": "991556572526149638",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-24T01:05:55+08:00",
+  "source_url": "https://t.bilibili.com/991556572526149638",
+  "plain_text": "早点睡好吗好吗好吗好的 晚安噢噢噢噢",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "70584c2e-9f1e-40f3-b245-b96b34d3d6f6",
+    "next_uuid": "92ff3e03-7ef9-4d96-91f3-3e2967c339e8"
+  }
+}

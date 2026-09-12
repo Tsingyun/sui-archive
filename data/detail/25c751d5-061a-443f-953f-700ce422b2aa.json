@@ -1,0 +1,28 @@
+{
+  "uuid": "25c751d5-061a-443f-953f-700ce422b2aa",
+  "platform_post_id": "835670068822016056",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-30T23:06:40+08:00",
+  "source_url": "https://t.bilibili.com/835670068822016056",
+  "plain_text": "今天过得如何？\n困意袭来 再东弄弄西弄弄就睡了  先说晚安",
+  "images": [],
+  "stats": {
+    "likes": 459,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b1001878-3781-4509-a95d-6747217c1e50",
+    "next_uuid": "53b32dcc-d718-4101-87d8-5d4d5e354363"
+  }
+}

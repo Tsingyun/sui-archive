@@ -1,0 +1,28 @@
+{
+  "uuid": "5bf565db-0002-4a8b-b241-771d000585e8",
+  "platform_post_id": "753686285838712836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-22T00:47:43+08:00",
+  "source_url": "https://t.bilibili.com/753686285838712836",
+  "plain_text": "晚安饼干岁！新的一年也想陪你一起度过！",
+  "images": [],
+  "stats": {
+    "likes": 505,
+    "comments": 66,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "90bbb9e5-7f64-4bdf-ace4-708906349d0c",
+    "next_uuid": "714341c3-045a-44f3-9712-25d6fa0b6f28"
+  }
+}

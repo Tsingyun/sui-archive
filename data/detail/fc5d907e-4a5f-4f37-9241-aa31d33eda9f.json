@@ -1,0 +1,28 @@
+{
+  "uuid": "fc5d907e-4a5f-4f37-9241-aa31d33eda9f",
+  "platform_post_id": "1132116373791571977",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-06T19:49:44+08:00",
+  "source_url": "https://t.bilibili.com/1132116373791571977",
+  "plain_text": "诶睡着了！8点来 今天唱歌聊天一下然后助眠吧！\n然后今天好像是一个什么日子来着哼哼",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c465d234-9cd6-4b36-8b9a-dfe820f25fb3",
+    "next_uuid": "1bd080c7-c2ee-40c6-b9be-a94d43133b79"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ee0638fb-0062-40e2-bd45-3a12544211e8",
+  "platform_post_id": "975880431538798600",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-11T19:14:29+08:00",
+  "source_url": "https://t.bilibili.com/975880431538798600",
+  "plain_text": "9：30内 温柔大姐姐煮面抚平你周三的疲惫说是",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e8ec39a9-33c9-42d2-900a-5ff82f444faf",
+    "next_uuid": "f7cbddb5-0e10-44ae-997f-fb0aebf82664"
+  }
+}

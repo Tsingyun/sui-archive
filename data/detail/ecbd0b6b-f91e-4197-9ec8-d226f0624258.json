@@ -1,0 +1,28 @@
+{
+  "uuid": "ecbd0b6b-f91e-4197-9ec8-d226f0624258",
+  "platform_post_id": "810738823289896996",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-24T18:40:42+08:00",
+  "source_url": "https://t.bilibili.com/810738823289896996",
+  "plain_text": "私はeight点来进行为期one hourのhigh质量配信　就不播太long了",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb236206-7917-4e62-9e61-3f9e001d9846",
+    "next_uuid": "01c4eb0c-395b-4cab-8055-cbdda83b60b3"
+  }
+}

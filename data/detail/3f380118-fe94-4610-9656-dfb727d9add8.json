@@ -1,0 +1,28 @@
+{
+  "uuid": "3f380118-fe94-4610-9656-dfb727d9add8",
+  "platform_post_id": "907670977860599816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-11T23:46:58+08:00",
+  "source_url": "https://t.bilibili.com/907670977860599816",
+  "plain_text": "好累 饼干岁今天累吗 ？辛苦了喔 晚安",
+  "images": [],
+  "stats": {
+    "likes": 362,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7c374a0f-b538-4925-b1c1-c4ad418869af",
+    "next_uuid": "81676896-7d6b-41ca-b5a5-4af0d8d38b66"
+  }
+}

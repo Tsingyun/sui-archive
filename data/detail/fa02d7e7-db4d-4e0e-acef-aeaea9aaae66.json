@@ -1,0 +1,28 @@
+{
+  "uuid": "fa02d7e7-db4d-4e0e-acef-aeaea9aaae66",
+  "platform_post_id": "1110218873881231364",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-08T19:36:15+08:00",
+  "source_url": "https://t.bilibili.com/1110218873881231364",
+  "plain_text": "8:30来小播 [岁己收藏集表情包_哭死]",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf904901-4f61-4be9-bcc0-8783e58f3b2b",
+    "next_uuid": "d6064a32-b5e1-40e8-9640-03733c93bee2"
+  }
+}

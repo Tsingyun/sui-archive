@@ -1,0 +1,28 @@
+{
+  "uuid": "c494cc7c-ab30-4265-9d25-d125c1de9595",
+  "platform_post_id": "758416775744323636",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-03T18:44:26+08:00",
+  "source_url": "https://t.bilibili.com/758416775744323636",
+  "plain_text": "今天新成员首播就先不播啦！可能晚点电台也可能没有！",
+  "images": [],
+  "stats": {
+    "likes": 358,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d9785991-dff7-47b4-a00d-a972ba1dff24",
+    "next_uuid": "ea122910-0d4a-4d50-ad8e-964b7f66828d"
+  }
+}

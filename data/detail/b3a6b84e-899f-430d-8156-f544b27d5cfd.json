@@ -1,0 +1,28 @@
+{
+  "uuid": "b3a6b84e-899f-430d-8156-f544b27d5cfd",
+  "platform_post_id": "1142150104638029827",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-03T20:45:44+08:00",
+  "source_url": "https://t.bilibili.com/1142150104638029827",
+  "plain_text": "晚上是10:30的煮面嗷 粑粑（baobao）们",
+  "images": [],
+  "stats": {
+    "likes": 214,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22e19d19-bdbc-4ca0-8159-5f42f65ecca5",
+    "next_uuid": "73c9be23-c8cc-4e6b-ae9e-9b46851d9807"
+  }
+}

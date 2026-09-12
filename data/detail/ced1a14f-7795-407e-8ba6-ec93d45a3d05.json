@@ -1,0 +1,28 @@
+{
+  "uuid": "ced1a14f-7795-407e-8ba6-ec93d45a3d05",
+  "platform_post_id": "1138485367931928576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-23T23:44:41+08:00",
+  "source_url": "https://t.bilibili.com/1138485367931928576",
+  "plain_text": "来交好朋友费了：\n                                    晚安",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1101df87-736e-4b1b-baee-c2f4e7bf8941",
+    "next_uuid": "e9a98166-4ab7-4851-8a70-b391fb63f7c0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7a17e5f6-cd4d-44cf-b4a9-ef85371b8e1d",
+  "platform_post_id": "1197425826932457473",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-01T19:43:46+08:00",
+  "source_url": "https://t.bilibili.com/1197425826932457473",
+  "plain_text": "我去门吃饭了！吃完还想转转再回家，我们10:30见好吗！",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d9ab5d62-66fa-44b3-9e90-cd21be3785bb",
+    "next_uuid": "38486d8f-7a64-436b-b595-15139648940f"
+  }
+}

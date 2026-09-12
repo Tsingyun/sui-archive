@@ -1,0 +1,28 @@
+{
+  "uuid": "7509d528-1936-4a2c-bff0-5dc51e39e953",
+  "platform_post_id": "798356823418601495",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-22T09:52:13+08:00",
+  "source_url": "https://t.bilibili.com/798356823418601495",
+  "plain_text": "早早！也太困了，周一很辛苦吧，振作振作哦",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea19126a-fa30-44fb-b345-84e5d98fe6fd",
+    "next_uuid": "54140cd9-ab36-4f23-88e4-762283755d4c"
+  }
+}

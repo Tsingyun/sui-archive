@@ -1,0 +1,28 @@
+{
+  "uuid": "d6d8eea3-0bd4-4481-aba0-b6afe772518f",
+  "platform_post_id": "1081337349128847384",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-22T23:41:11+08:00",
+  "source_url": "https://t.bilibili.com/1081337349128847384",
+  "plain_text": "大家大家明天见嘟 晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a4fd9cf-c818-4417-91b6-c439d41ce774",
+    "next_uuid": "fead5a01-c96e-40ad-b3ef-d16d5a20d394"
+  }
+}

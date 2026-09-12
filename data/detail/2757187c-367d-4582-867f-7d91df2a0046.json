@@ -1,0 +1,28 @@
+{
+  "uuid": "2757187c-367d-4582-867f-7d91df2a0046",
+  "platform_post_id": "796172450294399013",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-16T12:35:44+08:00",
+  "source_url": "https://t.bilibili.com/796172450294399013",
+  "plain_text": "什么？要跟你说早上好？哎呀妹妹，你真是把叔叔逗笑了，那好吧，叔叔平时很忙，但偶尔陪你玩玩你喜欢的这些小情调也可以，早上好☀️👏",
+  "images": [],
+  "stats": {
+    "likes": 441,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d5e71a75-8168-4eb8-a5e7-ad0777718783",
+    "next_uuid": "edfe87dc-cab2-4721-845c-3b810af90b0b"
+  }
+}

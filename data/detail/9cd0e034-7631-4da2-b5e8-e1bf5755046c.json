@@ -1,0 +1,38 @@
+{
+  "uuid": "9cd0e034-7631-4da2-b5e8-e1bf5755046c",
+  "platform_post_id": "784705733691179045",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-04-15T14:59:01+08:00",
+  "source_url": "https://t.bilibili.com/784705733691179045",
+  "plain_text": "夏天就快到啦！",
+  "images": [
+    {
+      "filename": "784705733691179045_100@repost.jpg",
+      "width": 1080,
+      "height": 1620,
+      "file_size": 1303657,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 326,
+    "comments": 19,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "44310d6d-db7a-44ca-a6fa-97a30f70e607",
+    "next_uuid": "c0d54d4e-e542-49ae-b0d6-66b57d06c32c"
+  }
+}

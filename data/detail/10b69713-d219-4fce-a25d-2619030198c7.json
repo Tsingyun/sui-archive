@@ -1,0 +1,28 @@
+{
+  "uuid": "10b69713-d219-4fce-a25d-2619030198c7",
+  "platform_post_id": "1033049903715057671",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-12T20:41:14+08:00",
+  "source_url": "https://t.bilibili.com/1033049903715057671",
+  "plain_text": "10点来煮你😉😗😊😇拒绝也没用，放弃抵抗吧 呵",
+  "images": [],
+  "stats": {
+    "likes": 300,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "310f59f9-2162-45fc-9e3c-a138d6eee4f2",
+    "next_uuid": "cbbcf6b7-c81e-4e93-b417-f2e488635026"
+  }
+}

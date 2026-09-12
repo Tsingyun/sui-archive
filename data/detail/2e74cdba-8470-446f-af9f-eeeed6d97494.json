@@ -1,0 +1,28 @@
+{
+  "uuid": "2e74cdba-8470-446f-af9f-eeeed6d97494",
+  "platform_post_id": "1115495103769608201",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-23T00:50:43+08:00",
+  "source_url": "https://t.bilibili.com/1115495103769608201",
+  "plain_text": "晚安岁体没电了..发送晚安助力岁己振作起来",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3fb93efd-358b-4cb3-a455-7332b872f73d",
+    "next_uuid": "cd93586e-a853-4492-8c16-1904b7710e63"
+  }
+}

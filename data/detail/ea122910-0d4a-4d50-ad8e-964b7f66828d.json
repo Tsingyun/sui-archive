@@ -1,0 +1,28 @@
+{
+  "uuid": "ea122910-0d4a-4d50-ad8e-964b7f66828d",
+  "platform_post_id": "758470870854270979",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-03T22:14:21+08:00",
+  "source_url": "https://t.bilibili.com/758470870854270979",
+  "plain_text": "认真录歌录歌中！11:30来电台随便睡前聊聊好了！顺利的话可能提前一些",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c494cc7c-ab30-4265-9d25-d125c1de9595",
+    "next_uuid": "060f8ce6-64c7-452f-9583-8462e22897a3"
+  }
+}

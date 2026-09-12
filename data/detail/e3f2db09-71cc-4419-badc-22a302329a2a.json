@@ -1,0 +1,28 @@
+{
+  "uuid": "e3f2db09-71cc-4419-badc-22a302329a2a",
+  "platform_post_id": "787643925083979778",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-23T13:00:42+08:00",
+  "source_url": "https://t.bilibili.com/787643925083979778",
+  "plain_text": "周日周日，会有好事\n麦辣鸡翅，多吃多吃\n下班上班，周而复始\n苦尽甘来，拨云见日！",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1ec2049-065b-4b48-9aff-12999b4b79fc",
+    "next_uuid": "69b763a2-0c2a-4c35-9f45-f90280a5b264"
+  }
+}

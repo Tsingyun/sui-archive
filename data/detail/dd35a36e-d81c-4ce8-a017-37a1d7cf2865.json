@@ -1,0 +1,28 @@
+{
+  "uuid": "dd35a36e-d81c-4ce8-a017-37a1d7cf2865",
+  "platform_post_id": "878282488059789368",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-23T19:04:37+08:00",
+  "source_url": "https://t.bilibili.com/878282488059789368",
+  "plain_text": "孩子们，7:20直播！\n先唱歌聊天！然后这样再那样",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f31aafb2-580b-454b-82a9-162beecc2fef",
+    "next_uuid": "3ac4209c-3ccb-48d0-b5be-c091757ec6c2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3b5f1186-efd3-4cda-81a6-564efa957b74",
+  "platform_post_id": "787752729494683682",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-23T20:02:55+08:00",
+  "source_url": "https://t.bilibili.com/787752729494683682",
+  "plain_text": "开播哦 一边直播一边等待四周年大富翁",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 5,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bafdcdfd-2210-429a-a430-633947e7de75",
+    "next_uuid": "741690a1-626b-424e-9d1f-e9d5b7cf7cfd"
+  }
+}

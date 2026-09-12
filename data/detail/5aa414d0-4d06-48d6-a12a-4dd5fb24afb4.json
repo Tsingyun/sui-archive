@@ -1,0 +1,28 @@
+{
+  "uuid": "5aa414d0-4d06-48d6-a12a-4dd5fb24afb4",
+  "platform_post_id": "856402249615671335",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-25T19:58:07+08:00",
+  "source_url": "https://t.bilibili.com/856402249615671335",
+  "plain_text": "在床上闻猫肚子一不小心睡着了[小A和小B_无语]\n8:10见！聊聊唱唱然后低质量一下\n",
+  "images": [],
+  "stats": {
+    "likes": 235,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "070cd0ab-f9b2-44a6-ad9c-32b80034066b",
+    "next_uuid": "24d86dc3-582d-43eb-ad95-dedd48191d2c"
+  }
+}

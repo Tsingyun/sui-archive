@@ -1,0 +1,28 @@
+{
+  "uuid": "741da0ca-c563-418a-854f-24ab62c2f756",
+  "platform_post_id": "788839004076245012",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-26T18:18:13+08:00",
+  "source_url": "https://t.bilibili.com/788839004076245012",
+  "plain_text": "把你们今晚吃的发进来！！！！！！！！",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e73826cd-fa37-4f56-b794-16578fa4a39a",
+    "next_uuid": "731f80a3-1707-47b2-90c9-089cb6308e43"
+  }
+}

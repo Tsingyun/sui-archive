@@ -1,0 +1,28 @@
+{
+  "uuid": "06be5b3b-afa9-474b-a9ec-faaa1dbf71c2",
+  "platform_post_id": "800481406293639172",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-28T03:16:41+08:00",
+  "source_url": "https://t.bilibili.com/800481406293639172",
+  "plain_text": "谢谢大家来看今天的直播，九个小时的直播omger！希望大家看得开心，至少别生气。很有纪念意义的一天，想一起做的事情还很多~",
+  "images": [],
+  "stats": {
+    "likes": 476,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3828b893-f4d6-4b08-b9dd-727d75df08c2",
+    "next_uuid": "37a2084d-941a-4cdf-aca6-cba2435cd669"
+  }
+}

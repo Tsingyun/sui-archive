@@ -1,0 +1,28 @@
+{
+  "uuid": "79cb37ba-69c4-42b2-abfe-2c7590c642cf",
+  "platform_post_id": "1173674747974647815",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-26T19:37:27+08:00",
+  "source_url": "https://t.bilibili.com/1173674747974647815",
+  "plain_text": "八点钟我在那等你，地址你知道的。别让等待成为遗憾",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "67e5807b-6894-45b2-8256-959d152fa89a",
+    "next_uuid": "84f748cf-93b6-4bee-9dee-736bb8ee9b95"
+  }
+}

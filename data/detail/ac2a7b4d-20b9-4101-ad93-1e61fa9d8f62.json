@@ -1,0 +1,28 @@
+{
+  "uuid": "ac2a7b4d-20b9-4101-ad93-1e61fa9d8f62",
+  "platform_post_id": "956949555729924103",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-22T18:53:01+08:00",
+  "source_url": "https://t.bilibili.com/956949555729924103",
+  "plain_text": "新衣服day2  7:25直播的说说说说说",
+  "images": [],
+  "stats": {
+    "likes": 291,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1eeac783-e946-42fd-991c-d9b8e0c91430",
+    "next_uuid": "3c5b98dc-a050-49c3-ac69-fe7455be9e75"
+  }
+}

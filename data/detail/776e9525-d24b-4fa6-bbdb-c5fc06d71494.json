@@ -1,0 +1,28 @@
+{
+  "uuid": "776e9525-d24b-4fa6-bbdb-c5fc06d71494",
+  "platform_post_id": "867799074181480505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-25T13:03:37+08:00",
+  "source_url": "https://t.bilibili.com/867799074181480505",
+  "plain_text": "中午好。\n做梦点了个香辣鸡腿堡，外卖员空着手到了跟我说这款汉堡没了，我说没了咋办我吃啥啊，他边说你想吃点什么菜边走进厨房开始炒菜了",
+  "images": [],
+  "stats": {
+    "likes": 371,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "518e7605-dec4-43f4-a84a-d333d17489f8",
+    "next_uuid": "d90fc55a-2001-4531-a32b-3218c1612beb"
+  }
+}

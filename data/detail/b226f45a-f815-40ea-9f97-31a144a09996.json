@@ -1,0 +1,28 @@
+{
+  "uuid": "b226f45a-f815-40ea-9f97-31a144a09996",
+  "platform_post_id": "1016334363442282501",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-29T19:36:24+08:00",
+  "source_url": "https://t.bilibili.com/1016334363442282501",
+  "plain_text": "7:50见 收拾了半天桌子 今晚干嘛捏你说说 看视频画头像游戏",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "723a160d-411c-4a48-a974-a76f90bcaf97",
+    "next_uuid": "a9351146-c6ae-45dc-b247-60e3d90ff759"
+  }
+}

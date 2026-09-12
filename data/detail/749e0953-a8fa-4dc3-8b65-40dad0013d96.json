@@ -1,0 +1,28 @@
+{
+  "uuid": "749e0953-a8fa-4dc3-8b65-40dad0013d96",
+  "platform_post_id": "945086044315844608",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-20T19:36:32+08:00",
+  "source_url": "https://t.bilibili.com/945086044315844608",
+  "plain_text": "我播我播。十分钟就来",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9c77ded9-b499-4b48-b6ef-d3766cc2efd1",
+    "next_uuid": "6326af2d-36ac-4b37-b0c7-816254a20c0b"
+  }
+}

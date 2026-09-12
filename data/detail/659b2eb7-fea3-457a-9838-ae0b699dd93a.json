@@ -1,0 +1,28 @@
+{
+  "uuid": "659b2eb7-fea3-457a-9838-ae0b699dd93a",
+  "platform_post_id": "823374664064565320",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-28T19:54:13+08:00",
+  "source_url": "https://t.bilibili.com/823374664064565320",
+  "plain_text": "播不播呢播不播呢播不播呢",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa1fdef9-8245-4bd2-9de9-8c7dfc502bc2",
+    "next_uuid": "11e76b38-90b5-42ac-bf3b-562e7beaf7b7"
+  }
+}

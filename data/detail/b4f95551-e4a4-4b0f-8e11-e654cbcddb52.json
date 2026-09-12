@@ -1,0 +1,28 @@
+{
+  "uuid": "b4f95551-e4a4-4b0f-8e11-e654cbcddb52",
+  "platform_post_id": "768346993534697475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-02T12:58:45+08:00",
+  "source_url": "https://t.bilibili.com/768346993534697475",
+  "plain_text": "我们来玩123木头人吧。\n我动了，我心动了🌹",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7126229c-897b-4be3-b894-42c83e67defe",
+    "next_uuid": "22e9215d-7c79-4816-a9ae-0d4f8993e75b"
+  }
+}

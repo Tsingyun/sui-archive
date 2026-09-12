@@ -1,0 +1,38 @@
+{
+  "uuid": "6670151d-2e16-408f-8c15-d0c2941c46d7",
+  "platform_post_id": "731059096731516933",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-11-22T01:22:40+08:00",
+  "source_url": "https://t.bilibili.com/731059096731516933",
+  "plain_text": "给你一点甜甜 让你今夜都好眠  晚安饼饼饼饼饼饼饼饼饼干岁\n",
+  "images": [
+    {
+      "filename": "731059096731516933_00@original.png",
+      "width": 1222,
+      "height": 973,
+      "file_size": 1755071,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 523,
+    "comments": 28,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7541c999-b2f4-4ddc-ae00-d5975672e1f9",
+    "next_uuid": "8d4bf1c3-96d4-4523-9b74-c54a809e6595"
+  }
+}

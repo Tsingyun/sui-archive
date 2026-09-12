@@ -1,0 +1,38 @@
+{
+  "uuid": "f3424446-70ff-4d4b-ae79-6ffb94e6de70",
+  "platform_post_id": "1083858735456059395",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-06-29T18:45:27+08:00",
+  "source_url": "https://t.bilibili.com/1083858735456059395",
+  "plain_text": "[岁己收藏集表情包_凝视]就躺了 怎么了嘛",
+  "images": [
+    {
+      "filename": "1083858735456059395_100@repost.png",
+      "width": 3443,
+      "height": 4000,
+      "file_size": 13628593,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 241,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e6a62ed-d0c8-4bb0-ad22-54ab8140e3d4",
+    "next_uuid": "1a659d40-d3f9-4689-ba7d-08d7bd91a481"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "a4acfdee-1463-4cc0-8335-713dce6f019b",
+  "platform_post_id": "1052799146886430743",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-04-07T01:58:23+08:00",
+  "source_url": "https://t.bilibili.com/1052799146886430743",
+  "plain_text": "饼干岁好厉害[岁己收藏集表情包_哇][岁己收藏集表情包_哇]",
+  "images": [
+    {
+      "filename": "1052799146886430743_100@repost.jpg",
+      "width": 1806,
+      "height": 764,
+      "file_size": 257191,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 275,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "misuji",
+    "author_url": "https://space.bilibili.com/4184347",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "44eee981-048f-4c16-b411-1c9e8c40fd6d",
+    "next_uuid": "0edc7929-450a-4d85-9345-10ccfc83830e"
+  }
+}

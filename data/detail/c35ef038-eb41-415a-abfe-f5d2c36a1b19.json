@@ -1,0 +1,28 @@
+{
+  "uuid": "c35ef038-eb41-415a-abfe-f5d2c36a1b19",
+  "platform_post_id": "868631971434070025",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-27T18:55:41+08:00",
+  "source_url": "https://t.bilibili.com/868631971434070025",
+  "plain_text": "oh no今天更咳了感觉可能是太干燥了 在看加湿器了 \n7:10分吧 可以唱一首歌 然后随便😿看看 不然就只能休息了因为因为 所以所以\n",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37212834-a484-4e84-a2ee-44cabe254338",
+    "next_uuid": "1499a4f8-902c-4173-b9aa-d5dc278c7667"
+  }
+}

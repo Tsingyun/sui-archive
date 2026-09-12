@@ -1,0 +1,28 @@
+{
+  "uuid": "20a26918-97d1-4d82-a09f-ebaff5a36ac2",
+  "platform_post_id": "814109844075184215",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-03T20:41:59+08:00",
+  "source_url": "https://t.bilibili.com/814109844075184215",
+  "plain_text": "/* 简约气泡样式 mod by LAPLACE */\n/* 一个朴素的动画效果 */\n@316232045 eventIn {\n  0% {\n    opacity: 0;\n    transform: translate3d(calc(var(--1px) * -10), 0, 0);\n  }\n  100% {\n    opacity: 1;\n    transform: translate3d(0, 0, 0);\n  }\n}\n\n/* 弹幕自定义样式 */\n.event-type--message {\n  --text: #ffffff;\n  --bg: #53545c;\n  --avatar-size: calc(var(--1px) * 32);\n  display: flex;\n  align-items: start;\n  animation: eventIn .6s ease;\n  will-change: transform;\n}\n\n/* 总督变量 */\n.event-type--message.guard-level--1 {\n  --bg: rgb(233, 88, 110);\n}\n\n/* 提督变量 */\n.event-type--message.guard-level--2 {\n  --bg: rgb(159, 102, 173);\n}\n\n/* 舰长变量 */\n.event-type--message.guard-level--3 {\n  --bg: rgb(87, 117, 227);\n}\n\n/* 主播变量 */\n.event-type--message.user-type--streamer {\n  --bg: rgb(180, 94, 54);\n}\n\n/* 隐藏不必要元素 */\n.event-type--message .fans-medal,\n.event-type--message .username,\n.event-type--message .guard-badge {\n  display: none;\n}\n\n/* 弹幕正文改为聊天泡泡样式 */\n.event-type--message .message {\n  position: relative;\n  display: block;\n  padding: calc(var(--1px) * 4) calc(var(--1px) * 12);\n  color: var(--text);\n  font-weight: bold;\n  background-color: var(--bg);\n  width: fit-content;\n  border-radius: calc(var(--1px) * 18);\n  border-top-left-radius: 0;\n  filter: drop-shadow(0 2px 2px #000);\n}\n\n/* 为聊天泡泡增加尾巴 */\n.event-type--message .message::before {\n  content: \"\";\n  display: inline-block;\n  position: absolute;\n  top: 0;\n  left: -6px;\n  border: 10px solid transparent;\n  border-top: 10px solid var(--bg);\n  transform: rotate(0);\n}",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 36,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ccce8692-e509-43d7-8a83-e5d8f3a0f35f",
+    "next_uuid": "d656987d-e1c2-4d7b-9f41-359944c5dc5a"
+  }
+}

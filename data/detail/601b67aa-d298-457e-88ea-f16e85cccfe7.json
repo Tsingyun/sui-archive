@@ -1,0 +1,28 @@
+{
+  "uuid": "601b67aa-d298-457e-88ea-f16e85cccfe7",
+  "platform_post_id": "959989928700149760",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-30T23:31:13+08:00",
+  "source_url": "https://t.bilibili.com/959989928700149760",
+  "plain_text": "还记得我吗，我是岁己啊，好久不见了。明天出来聚聚吧，晚安",
+  "images": [],
+  "stats": {
+    "likes": 467,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc04adfc-ccbb-4212-9ce5-7c9844c06349",
+    "next_uuid": "744cbf08-8586-4fe4-ac4b-bf680f211d0d"
+  }
+}

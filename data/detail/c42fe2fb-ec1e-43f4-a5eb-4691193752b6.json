@@ -1,0 +1,28 @@
+{
+  "uuid": "c42fe2fb-ec1e-43f4-a5eb-4691193752b6",
+  "platform_post_id": "1031175498382704657",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-07T19:27:35+08:00",
+  "source_url": "https://t.bilibili.com/1031175498382704657",
+  "plain_text": "臭小饼们 7:40 我们来加勒比海盗！",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5efd612-6e3e-44d8-93fb-6e1a339d5e0a",
+    "next_uuid": "e73f4538-9365-4612-bc8a-0d8b2f6d835e"
+  }
+}

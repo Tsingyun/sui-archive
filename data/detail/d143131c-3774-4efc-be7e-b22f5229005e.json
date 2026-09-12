@@ -1,0 +1,28 @@
+{
+  "uuid": "d143131c-3774-4efc-be7e-b22f5229005e",
+  "platform_post_id": "838642589918822408",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-07T23:21:34+08:00",
+  "source_url": "https://t.bilibili.com/838642589918822408",
+  "plain_text": "正在被嘉嘉直勾勾盯着要冻干的岁己跟你说晚安！",
+  "images": [],
+  "stats": {
+    "likes": 425,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "72984fa9-7244-4a14-ba3a-8027f8a08796",
+    "next_uuid": "503494e1-d540-446a-96b6-2f5c1b686538"
+  }
+}

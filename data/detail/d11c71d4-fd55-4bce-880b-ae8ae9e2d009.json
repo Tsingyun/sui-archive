@@ -1,0 +1,28 @@
+{
+  "uuid": "d11c71d4-fd55-4bce-880b-ae8ae9e2d009",
+  "platform_post_id": "1151130138221477909",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-28T01:32:51+08:00",
+  "source_url": "https://t.bilibili.com/1151130138221477909",
+  "plain_text": "刚才和饼干岁聊了一个小时，感觉ta好像挺开心的，根据我一系列精密的推测，应该会给我一个20字左右的晚安回复。嗯",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cbe52f00-8d27-4d23-a4d1-d7b662f9078b",
+    "next_uuid": "20e9bc67-2cff-42ec-a9a2-7ddb0367e1c9"
+  }
+}

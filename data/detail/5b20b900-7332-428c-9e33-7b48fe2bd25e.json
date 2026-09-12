@@ -1,0 +1,28 @@
+{
+  "uuid": "5b20b900-7332-428c-9e33-7b48fe2bd25e",
+  "platform_post_id": "1003808082719932421",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-26T01:28:02+08:00",
+  "source_url": "https://t.bilibili.com/1003808082719932421",
+  "plain_text": "晚安，穿着深蓝色睡衣掉色睡衣xxxl睡衣秋衣睡衣T恤睡衣的小饼以及裸睡派小饼",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "19ca37d8-d398-4af1-adc8-e66fdd5b9d1e",
+    "next_uuid": "93fcaea0-78e9-4765-b0ee-091a4c4f4061"
+  }
+}

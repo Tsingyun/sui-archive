@@ -1,0 +1,28 @@
+{
+  "uuid": "e7968346-fa71-4569-bc03-720b8cc00d27",
+  "platform_post_id": "796999373233848328",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-18T18:04:37+08:00",
+  "source_url": "https://t.bilibili.com/796999373233848328",
+  "plain_text": "谢谢大家的投票，为了让大家都满意，我两个都点了[UP_1954091502_啾咪啾]",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee54a1fe-1c18-4db3-95c5-60eae60039fa",
+    "next_uuid": "83661a5e-6f20-4cd4-aeac-50b3a58514fd"
+  }
+}

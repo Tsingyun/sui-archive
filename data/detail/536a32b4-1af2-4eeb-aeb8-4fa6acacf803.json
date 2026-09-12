@@ -1,0 +1,28 @@
+{
+  "uuid": "536a32b4-1af2-4eeb-aeb8-4fa6acacf803",
+  "platform_post_id": "1148813377029537811",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-21T19:42:38+08:00",
+  "source_url": "https://t.bilibili.com/1148813377029537811",
+  "plain_text": "7:55来喔大家 你今天想看什么的说[星星眼]",
+  "images": [],
+  "stats": {
+    "likes": 185,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "09f39fc3-6fc0-4fe2-a46e-032f8c1c0c12",
+    "next_uuid": "7228f1cb-80d6-4c1d-b3f1-ff533939c69d"
+  }
+}

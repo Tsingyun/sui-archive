@@ -1,0 +1,28 @@
+{
+  "uuid": "a337f1cb-f55a-4597-9b6e-1d3e548337c7",
+  "platform_post_id": "781678000762519576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-07T11:09:52+08:00",
+  "source_url": "https://t.bilibili.com/781678000762519576",
+  "plain_text": "为什么门窗都关着的房间会突然有蜜蜂嗡嗡嗡嗡就超大声地飞起来啊！！崩溃啦，早",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68a79f77-2ac8-4f9f-a80f-170d5d6d82ed",
+    "next_uuid": "b11d2e8c-762f-434f-82e8-db05739a3e70"
+  }
+}

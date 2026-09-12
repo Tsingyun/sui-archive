@@ -1,0 +1,28 @@
+{
+  "uuid": "79cc0129-cb95-4b87-93cb-c359197b81ed",
+  "platform_post_id": "988855815533232153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-16T18:25:36+08:00",
+  "source_url": "https://t.bilibili.com/988855815533232153",
+  "plain_text": "今天是十点的煮煮。有很多新道具，来试用一下！",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "728d7710-7fd0-458d-a510-54d5ee83c405",
+    "next_uuid": "1f4e0bff-3c00-466a-9c9f-f478de54f176"
+  }
+}

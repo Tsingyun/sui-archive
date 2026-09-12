@@ -1,0 +1,28 @@
+{
+  "uuid": "8c0a7f33-8094-4ab8-a295-bae97ee6a3ff",
+  "platform_post_id": "1204111600625123345",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-19T20:07:59+08:00",
+  "source_url": "https://t.bilibili.com/1204111600625123345",
+  "plain_text": "吃饱了 洗个手来 8:15见！",
+  "images": [],
+  "stats": {
+    "likes": 153,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "177b1b8e-e959-45ef-933f-c84f7cfaba8e",
+    "next_uuid": "b9d0a88c-fbd7-4b5a-ad0c-258c2c4b230d"
+  }
+}

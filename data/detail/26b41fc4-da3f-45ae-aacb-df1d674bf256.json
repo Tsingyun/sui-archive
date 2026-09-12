@@ -1,0 +1,28 @@
+{
+  "uuid": "26b41fc4-da3f-45ae-aacb-df1d674bf256",
+  "platform_post_id": "839377944137695271",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-09T22:55:07+08:00",
+  "source_url": "https://t.bilibili.com/839377944137695271",
+  "plain_text": "完案(‘-ωก̀ )好困看看就睡了",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0cb59693-ca2e-4450-8985-8ec0bafa5194",
+    "next_uuid": "3c29999f-5910-471e-a334-8f689bf0dce6"
+  }
+}

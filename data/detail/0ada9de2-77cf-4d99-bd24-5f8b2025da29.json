@@ -1,0 +1,28 @@
+{
+  "uuid": "0ada9de2-77cf-4d99-bd24-5f8b2025da29",
+  "platform_post_id": "872982283665014816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-09T12:17:07+08:00",
+  "source_url": "https://t.bilibili.com/872982283665014816",
+  "plain_text": "做噩梦了好伤心！但是忘了\n早啊早",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "08371e2e-6fa5-4431-ba58-b3936622bd96",
+    "next_uuid": "2e82ea42-81f7-4edd-8ea5-f8c12df8c491"
+  }
+}

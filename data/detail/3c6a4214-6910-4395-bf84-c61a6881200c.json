@@ -1,0 +1,38 @@
+{
+  "uuid": "3c6a4214-6910-4395-bf84-c61a6881200c",
+  "platform_post_id": "837368204383748105",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-04T12:56:18+08:00",
+  "source_url": "https://t.bilibili.com/837368204383748105",
+  "plain_text": "太可爱啦！不会夸了都\n你来夸",
+  "images": [
+    {
+      "filename": "837368204383748105_100@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 746585,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 319,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Attento阿饨荼",
+    "author_url": "https://space.bilibili.com/15492814",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b24dc2f5-e79c-45a4-95cd-e443a8eac593",
+    "next_uuid": "09fadcf9-ac97-4787-9798-34420dd50486"
+  }
+}

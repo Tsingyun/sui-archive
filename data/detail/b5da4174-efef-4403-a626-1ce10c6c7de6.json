@@ -1,0 +1,38 @@
+{
+  "uuid": "b5da4174-efef-4403-a626-1ce10c6c7de6",
+  "platform_post_id": "755041021618814978",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-25T16:24:47+08:00",
+  "source_url": "https://t.bilibili.com/755041021618814978",
+  "plain_text": "​这张图已经私信收到七八次了，不允许再发给我了！不像！！望周知\n",
+  "images": [
+    {
+      "filename": "755041021618814978_00@original.jpg",
+      "width": 1280,
+      "height": 720,
+      "file_size": 199710,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 775,
+    "comments": 96,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4258127-34ba-4cff-9d7b-819e650e62d3",
+    "next_uuid": "dbe405e5-6e85-4269-b6f0-182ec2f9e376"
+  }
+}

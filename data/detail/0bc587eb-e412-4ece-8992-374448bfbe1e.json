@@ -1,0 +1,28 @@
+{
+  "uuid": "0bc587eb-e412-4ece-8992-374448bfbe1e",
+  "platform_post_id": "822299805545922562",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-25T22:23:13+08:00",
+  "source_url": "https://t.bilibili.com/822299805545922562",
+  "plain_text": "哎 11点",
+  "images": [],
+  "stats": {
+    "likes": 383,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5ea13f7-50d9-49ae-b16a-c97148b0f927",
+    "next_uuid": "81da6f8c-5f41-44cf-8efa-e916cc937d49"
+  }
+}

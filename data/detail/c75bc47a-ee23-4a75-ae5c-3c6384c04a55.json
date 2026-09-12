@@ -1,0 +1,38 @@
+{
+  "uuid": "c75bc47a-ee23-4a75-ae5c-3c6384c04a55",
+  "platform_post_id": "1105369671120453653",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-08-26T17:58:52+08:00",
+  "source_url": "https://t.bilibili.com/1105369671120453653",
+  "plain_text": "嗯...走慢点",
+  "images": [
+    {
+      "filename": "1105369671120453653_100@repost.png",
+      "width": 1001,
+      "height": 1433,
+      "file_size": 1168596,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 224,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Varuna030",
+    "author_url": "https://space.bilibili.com/95751201",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e02720b-5c66-4b92-a5e0-0dbb963310d0",
+    "next_uuid": "5ee70a15-7f5c-4451-a940-6c73560eeee1"
+  }
+}

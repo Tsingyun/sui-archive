@@ -1,0 +1,38 @@
+{
+  "uuid": "0cb35cee-84a2-427b-b899-96e961c89856",
+  "platform_post_id": "732530217518628885",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-11-26T00:31:22+08:00",
+  "source_url": "https://t.bilibili.com/732530217518628885",
+  "plain_text": "先晚安(・ω< )★ 这个角度是不是可爱\n",
+  "images": [
+    {
+      "filename": "732530217518628885_00@original.png",
+      "width": 1417,
+      "height": 1890,
+      "file_size": 1884884,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 630,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b381941-1fa6-4d93-bbe1-4726d24d3d6c",
+    "next_uuid": "65cb5035-58f0-43c7-9762-787b212e964d"
+  }
+}

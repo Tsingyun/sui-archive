@@ -1,0 +1,28 @@
+{
+  "uuid": "8a579be9-8521-458e-9647-06f2411ad8fa",
+  "platform_post_id": "795550912683704324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-14T20:23:51+08:00",
+  "source_url": "https://t.bilibili.com/795550912683704324",
+  "plain_text": "要不9点见吧？我好想洗头洗澡啊🛁",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4977b20f-4d49-4308-b80e-239c5ec7810f",
+    "next_uuid": "22751333-a546-4a21-8a07-ef619886f3b3"
+  }
+}

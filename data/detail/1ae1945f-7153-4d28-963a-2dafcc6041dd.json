@@ -1,0 +1,28 @@
+{
+  "uuid": "1ae1945f-7153-4d28-963a-2dafcc6041dd",
+  "platform_post_id": "1075783011539091465",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-08T00:27:31+08:00",
+  "source_url": "https://t.bilibili.com/1075783011539091465",
+  "plain_text": "孩子们呐 诶多 民那桑 呐 你会回我的晚安动态吗 哦呀粟米",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c18112d-5fa1-42a3-ad08-cfa839692834",
+    "next_uuid": "f381b3fb-1bc3-4ae0-a591-39d16162633d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ff6799de-182b-4e55-a4a6-aeff6cfa3b5a",
+  "platform_post_id": "1243076755113115654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-01T20:12:41+08:00",
+  "source_url": "https://t.bilibili.com/1243076755113115654",
+  "plain_text": "本小鸟会在8:20来直播一小会，谁想来看",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "178bd223-8f30-4ee7-b421-dd61f2f3dfed",
+    "next_uuid": "d7b59191-9d7c-419a-b1e2-3db151c5387a"
+  }
+}

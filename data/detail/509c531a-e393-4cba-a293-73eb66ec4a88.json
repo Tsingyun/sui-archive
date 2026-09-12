@@ -1,0 +1,28 @@
+{
+  "uuid": "509c531a-e393-4cba-a293-73eb66ec4a88",
+  "platform_post_id": "1198605959371423781",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-05T00:03:17+08:00",
+  "source_url": "https://t.bilibili.com/1198605959371423781",
+  "plain_text": "走了五千步！较为充实的一天 晚安大家家！",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "79013c85-fab6-4f44-9135-5e7a68a7452d",
+    "next_uuid": "92ece291-d1cb-4a15-a488-40b11b8b8c82"
+  }
+}

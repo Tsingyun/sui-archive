@@ -1,0 +1,28 @@
+{
+  "uuid": "27df593a-bbe1-417f-b91c-b87dbc49b9f2",
+  "platform_post_id": "1233505038256570369",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-07T01:09:32+08:00",
+  "source_url": "https://t.bilibili.com/1233505038256570369",
+  "plain_text": "累累的了 大家晚安的说 好饿我要去吃我的奶油火鸡面",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a846ddc8-c971-4e73-81c9-efa2bdb0e702",
+    "next_uuid": "a36eb79a-f681-4658-ba4a-175c81c0b50b"
+  }
+}

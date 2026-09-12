@@ -1,0 +1,28 @@
+{
+  "uuid": "3460d3a2-8222-4b6d-a0a2-d55cf24f394d",
+  "platform_post_id": "713436313351618569",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-10-05T13:37:16+08:00",
+  "source_url": "https://t.bilibili.com/713436313351618569",
+  "plain_text": "可爱呢，不过我抱着的是？",
+  "images": [],
+  "stats": {
+    "likes": 552,
+    "comments": 50,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b231f4dc-31d6-404f-9ea6-da58c938d037",
+    "next_uuid": "7fb7511c-3e73-4994-bdc1-cf755a8584e3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7445b294-39a4-472f-b2b0-0ec374b0031c",
+  "platform_post_id": "817282605156139028",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-12T09:53:55+08:00",
+  "source_url": "https://t.bilibili.com/817282605156139028",
+  "plain_text": "被吵醒了 早 困困困🥱",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb1fd63a-404d-4958-9d31-97c787e85508",
+    "next_uuid": "f3820af3-d008-44c1-8637-37f063e451fa"
+  }
+}

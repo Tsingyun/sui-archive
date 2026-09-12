@@ -1,0 +1,110 @@
+{
+  "uuid": "73f96804-d51e-498d-9aef-878fe19afad9",
+  "platform_post_id": "875763399549517897",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-17T00:09:16+08:00",
+  "source_url": "https://t.bilibili.com/875763399549517897",
+  "plain_text": "晚安！谢谢大家来看我的新衣服！开心开心🥳\n",
+  "images": [
+    {
+      "filename": "875763399549517897_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1701083,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_01@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1702996,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_02@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1669580,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_03@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1672787,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_04@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1838535,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_05@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1832356,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_06@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1858537,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_07@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1765120,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "875763399549517897_08@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1821687,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 1140,
+    "comments": 322,
+    "forwards": 13,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "027ae742-1947-4dd6-90e6-87340fb531af",
+    "next_uuid": "2e523ba8-37d9-47cd-85c0-a240e468a6c6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e4ac1adc-4ae9-4492-b4c5-a3c56377afa0",
+  "platform_post_id": "993392190040309760",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-28T23:49:03+08:00",
+  "source_url": "https://t.bilibili.com/993392190040309760",
+  "plain_text": "今天很开心(*^▽^*)，虽然嗓子嘎掉了晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 310,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d17f1f24-39c8-4073-98dc-34043683c579",
+    "next_uuid": "9a728325-bc58-411d-9629-8d634b595747"
+  }
+}

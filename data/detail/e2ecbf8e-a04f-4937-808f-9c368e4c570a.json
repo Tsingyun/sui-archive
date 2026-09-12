@@ -1,0 +1,38 @@
+{
+  "uuid": "e2ecbf8e-a04f-4937-808f-9c368e4c570a",
+  "platform_post_id": "969638697284665381",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-08-25T23:33:22+08:00",
+  "source_url": "https://t.bilibili.com/969638697284665381",
+  "plain_text": "​饼子。没有我你也要快乐，要幸福，好不好？但别太幸福了，太幸福我不会放过你的。晚安\n",
+  "images": [
+    {
+      "filename": "969638697284665381_00@original.png",
+      "width": 666,
+      "height": 666,
+      "file_size": 207705,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 420,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "61cafd18-f1ef-4503-8951-9ee74054f9f2",
+    "next_uuid": "43da8ab0-d04c-4d10-8170-55c103bf4a84"
+  }
+}

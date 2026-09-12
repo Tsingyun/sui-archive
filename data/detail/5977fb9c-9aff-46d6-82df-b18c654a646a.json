@@ -1,0 +1,28 @@
+{
+  "uuid": "5977fb9c-9aff-46d6-82df-b18c654a646a",
+  "platform_post_id": "1074271986225512449",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-03T22:43:58+08:00",
+  "source_url": "https://t.bilibili.com/1074271986225512449",
+  "plain_text": "五分钟后小啵一下",
+  "images": [],
+  "stats": {
+    "likes": 222,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e42f9586-a008-42f8-8f5e-95bc02908335",
+    "next_uuid": "1be55659-e91f-4e5f-a3ed-e7b767368160"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4a240f37-b925-4f68-9173-0563943e6d4d",
+  "platform_post_id": "1032656897024458776",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-11T19:16:10+08:00",
+  "source_url": "https://t.bilibili.com/1032656897024458776",
+  "plain_text": "7:38分来播哦！🤓哇塞很多事情想做，先唱唱聊聊，然后看心情，有点想2077也有点想欺诈游戏呀！加勒比海盗3也行，很纠结呀，到时候再说吧！",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e0feb5f1-725b-4f2d-b4f6-5bd7f572466f",
+    "next_uuid": "808952bc-4cdc-41d9-a617-d19a58d2f34a"
+  }
+}

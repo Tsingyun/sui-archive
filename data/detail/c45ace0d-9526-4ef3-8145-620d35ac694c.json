@@ -1,0 +1,28 @@
+{
+  "uuid": "c45ace0d-9526-4ef3-8145-620d35ac694c",
+  "platform_post_id": "1151837815697309715",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-29T23:19:00+08:00",
+  "source_url": "https://t.bilibili.com/1151837815697309715",
+  "plain_text": "我看游戏攻略说需要什么物资在这里发布需要的内容就可以拿到了，我试试\n“需要晚安若干个”",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "25e2c108-f8ed-4ef0-a039-939467af1fca",
+    "next_uuid": "60d28d4d-92a9-4df7-93cb-75ebbf8da755"
+  }
+}

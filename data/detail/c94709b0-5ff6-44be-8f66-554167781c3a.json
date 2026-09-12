@@ -1,0 +1,38 @@
+{
+  "uuid": "c94709b0-5ff6-44be-8f66-554167781c3a",
+  "platform_post_id": "1071611683462447113",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-27T18:40:38+08:00",
+  "source_url": "https://t.bilibili.com/1071611683462447113",
+  "plain_text": "这个岁己好阴暗啊看起来",
+  "images": [
+    {
+      "filename": "1071611683462447113_100@repost.jpg",
+      "width": 820,
+      "height": 1180,
+      "file_size": 421317,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 273,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Kurumimochi",
+    "author_url": "https://space.bilibili.com/1566247473",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7242acc2-7f6e-46d8-a271-1394aedf9697",
+    "next_uuid": "3736d2f5-120a-4921-8f88-fe0b4142763e"
+  }
+}

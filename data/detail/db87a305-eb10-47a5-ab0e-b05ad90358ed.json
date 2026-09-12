@@ -1,0 +1,28 @@
+{
+  "uuid": "db87a305-eb10-47a5-ab0e-b05ad90358ed",
+  "platform_post_id": "1230823840497532929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-30T19:45:07+08:00",
+  "source_url": "https://t.bilibili.com/1230823840497532929",
+  "plain_text": "7:55来捏[嫌弃]",
+  "images": [],
+  "stats": {
+    "likes": 188,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7ea7750f-17db-4b8a-908b-392728e4f105",
+    "next_uuid": "764394c0-1838-4bef-98b6-c66756b0abd3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d0990771-d2be-4abe-bb20-abb7d004eb1e",
+  "platform_post_id": "851189374793023591",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-11T18:49:30+08:00",
+  "source_url": "https://t.bilibili.com/851189374793023591",
+  "plain_text": "7点！各部门注意！七点！小唱小聊，然后开赌",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eccba301-fa12-41f4-af9f-42b1c3713ec9",
+    "next_uuid": "e9391287-7f1e-4661-8224-c28d6e87fcf5"
+  }
+}

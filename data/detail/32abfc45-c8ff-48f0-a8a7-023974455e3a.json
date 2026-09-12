@@ -1,0 +1,28 @@
+{
+  "uuid": "32abfc45-c8ff-48f0-a8a7-023974455e3a",
+  "platform_post_id": "971426473163358248",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-30T19:10:51+08:00",
+  "source_url": "https://t.bilibili.com/971426473163358248",
+  "plain_text": "唱歌+泰坦陨落 7:40🫡",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "902e1043-3067-445c-9b59-9c0a13254991",
+    "next_uuid": "a6dffe18-e545-4e30-b5ed-84cc69d49fec"
+  }
+}

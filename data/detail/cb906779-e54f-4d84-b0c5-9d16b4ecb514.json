@@ -1,0 +1,28 @@
+{
+  "uuid": "cb906779-e54f-4d84-b0c5-9d16b4ecb514",
+  "platform_post_id": "941375488955252772",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-10T19:37:41+08:00",
+  "source_url": "https://t.bilibili.com/941375488955252772",
+  "plain_text": "注意看！这个女孩要在7:45进行一场直播",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce1f7853-627f-4f54-bf53-6104a2a7b06e",
+    "next_uuid": "f4b1f945-57a5-4535-97a8-b5016267e703"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "513a3463-65e4-46fd-8026-a80cdfbb09d8",
+  "platform_post_id": "879033879703322675",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-25T19:40:24+08:00",
+  "source_url": "https://t.bilibili.com/879033879703322675",
+  "plain_text": "孩子们 我服了我发起了一个投票[投票]",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 49,
+    "forwards": 31,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "72c1be84-70a6-4ec9-9937-0efeecb20acc",
+    "next_uuid": "250af75a-9631-4435-bf2e-9f9804c039b6"
+  }
+}

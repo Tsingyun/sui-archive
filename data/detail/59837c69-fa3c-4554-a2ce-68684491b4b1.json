@@ -1,0 +1,28 @@
+{
+  "uuid": "59837c69-fa3c-4554-a2ce-68684491b4b1",
+  "platform_post_id": "863880887173906466",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-14T23:39:03+08:00",
+  "source_url": "https://t.bilibili.com/863880887173906466",
+  "plain_text": "谢谢饼干岁的晚安，虽然还没发，可能是忘了，但是提前谢谢，总不可能真的不发吧，肯定不可能，毕竟你是我最好的饼干岁，怕你发的时候看不到我的感谢，提前谢谢全宇宙最好的饼干岁",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "28942f8e-f3b4-4c01-8eab-c0824fb5c8fc",
+    "next_uuid": "e2d80402-1746-4279-bb6e-57bbe070dd3d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "054c711d-cd99-4685-819f-6486786acf25",
+  "platform_post_id": "893193678223310867",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-01T23:27:39+08:00",
+  "source_url": "https://t.bilibili.com/893193678223310867",
+  "plain_text": "上天呐！你为什么要用睡眠将我和饼干岁分开，我哭我哭我哭哭哭，呜呜呜啊啊啊咕咕咕晚安",
+  "images": [],
+  "stats": {
+    "likes": 473,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd40acf6-de72-440e-8e57-1b05cbe5593d",
+    "next_uuid": "7eca613e-7b8e-4ad2-8781-acee4cbfa1d6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f3820af3-d008-44c1-8637-37f063e451fa",
+  "platform_post_id": "817318343576911896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-12T12:12:36+08:00",
+  "source_url": "https://t.bilibili.com/817318343576911896",
+  "plain_text": "岁己是一只很有礼貌的小鸟 所以她现在来跟你说中午好",
+  "images": [],
+  "stats": {
+    "likes": 552,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7445b294-39a4-472f-b2b0-0ec374b0031c",
+    "next_uuid": "e6b32ed4-01b8-49a9-8de6-47d48138d258"
+  }
+}

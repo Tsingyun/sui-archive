@@ -1,0 +1,28 @@
+{
+  "uuid": "cd109e30-e658-4ab0-ba14-285a5f372755",
+  "platform_post_id": "899897215902810169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-20T01:00:48+08:00",
+  "source_url": "https://t.bilibili.com/899897215902810169",
+  "plain_text": "真是精彩的一天，今天和你说话非常开心，下次有机会一定再和你聊聊。祝你晚安",
+  "images": [],
+  "stats": {
+    "likes": 439,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0690277-11af-4d8b-b177-19ae80cfab83",
+    "next_uuid": "f702547a-cf5b-4276-b62e-578f1b646048"
+  }
+}

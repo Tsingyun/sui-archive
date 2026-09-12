@@ -1,0 +1,28 @@
+{
+  "uuid": "6ca7f0b8-561f-4503-9c0b-f21b2eab1389",
+  "platform_post_id": "929497507764895750",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-09T19:25:03+08:00",
+  "source_url": "https://t.bilibili.com/929497507764895750",
+  "plain_text": "写作业写的忘乎所以了，7:50来，手都要断了",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b658eb3-33c6-4838-852c-54e7d6692c9f",
+    "next_uuid": "9e993c5b-fc11-4df2-84af-baa71c7be213"
+  }
+}

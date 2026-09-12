@@ -1,0 +1,28 @@
+{
+  "uuid": "80ee7ec0-83bd-4456-97a0-6af046799a0c",
+  "platform_post_id": "749239749159419959",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-10T01:12:53+08:00",
+  "source_url": "https://t.bilibili.com/749239749159419959",
+  "plain_text": "[UP_1954091502_委屈]",
+  "images": [],
+  "stats": {
+    "likes": 384,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "26f689b3-dcfb-4a6d-b371-918d78d3fbd7",
+    "next_uuid": "3b4b99e0-2875-4d8a-84a3-495e46ac0ad9"
+  }
+}

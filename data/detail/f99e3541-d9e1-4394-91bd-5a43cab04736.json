@@ -1,0 +1,28 @@
+{
+  "uuid": "f99e3541-d9e1-4394-91bd-5a43cab04736",
+  "platform_post_id": "972547343656157191",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-02T19:40:24+08:00",
+  "source_url": "https://t.bilibili.com/972547343656157191",
+  "plain_text": "来了！十分钟后",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "47e891bd-ad84-467f-9c7d-6a8ea3587cb7",
+    "next_uuid": "6e8a0568-d9ba-4679-858c-f4fc7a82a087"
+  }
+}

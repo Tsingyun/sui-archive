@@ -1,0 +1,28 @@
+{
+  "uuid": "00fe967a-7a21-4cbe-8f36-1a73554f8478",
+  "platform_post_id": "759063997251059795",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-05T12:35:59+08:00",
+  "source_url": "https://t.bilibili.com/759063997251059795",
+  "plain_text": "早！！马上起床。元宵节快乐！",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5f8c7171-21b1-4d4d-a6c4-2b7b539016f5",
+    "next_uuid": "f0002663-173c-41fb-ac26-ea8cce9c8427"
+  }
+}

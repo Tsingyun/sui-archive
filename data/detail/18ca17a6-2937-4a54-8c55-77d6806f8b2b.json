@@ -1,0 +1,28 @@
+{
+  "uuid": "18ca17a6-2937-4a54-8c55-77d6806f8b2b",
+  "platform_post_id": "837084045054574614",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-03T18:33:37+08:00",
+  "source_url": "https://t.bilibili.com/837084045054574614",
+  "plain_text": "8点见！聊聊然后把jiojio看完 \n因为还有要忙的事情所以就不播太长了哦！⁰̷̴͈꒨⁰̷̴͈",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1a86b62e-673a-429d-8e27-e6bcbe9d839b",
+    "next_uuid": "cc71ccbb-84c2-4e1e-9d27-c492155c3b19"
+  }
+}

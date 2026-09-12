@@ -1,0 +1,28 @@
+{
+  "uuid": "200160d2-f929-414a-80ea-bbcc71ee30cf",
+  "platform_post_id": "1222286648073519113",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-07T19:36:27+08:00",
+  "source_url": "https://t.bilibili.com/1222286648073519113",
+  "plain_text": "7:50来！唱聊头像头像",
+  "images": [],
+  "stats": {
+    "likes": 183,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e1747c3b-4670-48a8-9174-68ddb71e2710",
+    "next_uuid": "85d9db67-b6f2-496f-aa23-b488a02cd4a8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f96078dd-6d82-4bf4-8f0a-e1db3ec70444",
+  "platform_post_id": "718334929705893897",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-18T18:26:24+08:00",
+  "source_url": "https://t.bilibili.com/718334929705893897",
+  "plain_text": "复活！回归！今晚九点，先联络一下感情，再小唱一下，然后开始恋爱相谈！",
+  "images": [],
+  "stats": {
+    "likes": 593,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb88c315-a6fb-4b01-9a40-b42507c3891e",
+    "next_uuid": "c8ee3d58-dc08-47ef-ab6c-45e19bed039b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a1e602dc-d88b-48ac-9d57-e381575f1c63",
+  "platform_post_id": "1071248801692385283",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-26T19:12:28+08:00",
+  "source_url": "https://t.bilibili.com/1071248801692385283",
+  "plain_text": "7:40来捏 我们来看电影吧！看啥捏",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "588b8bab-cb34-40f6-9de3-efc107736b54",
+    "next_uuid": "05a794ad-5a47-4285-8767-d149d2719f7a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "37212834-a484-4e84-a2ee-44cabe254338",
+  "platform_post_id": "868530769095557121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-27T12:22:58+08:00",
+  "source_url": "https://t.bilibili.com/868530769095557121",
+  "plain_text": "古德摸摸摸摸摸你",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb4379bb-2748-431d-aef9-3aad64c4a7d2",
+    "next_uuid": "c35ef038-eb41-415a-abfe-f5d2c36a1b19"
+  }
+}

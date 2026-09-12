@@ -1,0 +1,28 @@
+{
+  "uuid": "f641abca-2586-4653-b548-7da3314dd921",
+  "platform_post_id": "1005577884145811477",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-30T19:55:46+08:00",
+  "source_url": "https://t.bilibili.com/1005577884145811477",
+  "plain_text": "孩子们我来了轰隆隆轰隆隆闯进你家",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d634aee1-cd32-41dd-bf19-1dc389cd47fd",
+    "next_uuid": "e975474e-c2b9-49a2-8788-0a3f3aba49c1"
+  }
+}

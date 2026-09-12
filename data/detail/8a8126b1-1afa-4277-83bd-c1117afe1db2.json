@@ -1,0 +1,28 @@
+{
+  "uuid": "8a8126b1-1afa-4277-83bd-c1117afe1db2",
+  "platform_post_id": "723120936312635458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-31T15:58:33+08:00",
+  "source_url": "https://t.bilibili.com/723120936312635458",
+  "plain_text": "今晚8:30和大家过万圣节喔，开个小小的万圣节主题歌回，努力学歌中学歌中我记我记我记记记",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf284d67-e4b9-4836-8015-bd9321adabfd",
+    "next_uuid": "ba2a44df-2fc6-405c-a7ad-48ce0055c1bc"
+  }
+}

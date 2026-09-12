@@ -1,0 +1,38 @@
+{
+  "uuid": "ae4276d2-8b5a-41f2-97cd-97df241f857f",
+  "platform_post_id": "1101760622994915346",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-17T00:33:55+08:00",
+  "source_url": "https://t.bilibili.com/1101760622994915346",
+  "plain_text": "我12:30下播，自拍一下再发个精美晚安动态，你花几十秒给我写个温情晚安回复，我再给你点赞。我们就这么幸福到第二天再见面的时候\n",
+  "images": [
+    {
+      "filename": "1101760622994915346_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 1062518,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 382,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0fa24566-ccd1-4391-baa6-81f2dd907e2b",
+    "next_uuid": "9f42f9a5-5f5d-4c03-9587-7d565717c85e"
+  }
+}

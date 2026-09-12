@@ -1,0 +1,28 @@
+{
+  "uuid": "cc0bd3e9-8933-4a20-bbee-a96382ccfc96",
+  "platform_post_id": "706100191348916233",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-15T19:09:22+08:00",
+  "source_url": "https://t.bilibili.com/706100191348916233",
+  "plain_text": "9:17:55吧我感觉 有预感又是急急忙忙的！",
+  "images": [],
+  "stats": {
+    "likes": 535,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06bedc83-058b-4020-a0f8-a7ca620c7b90",
+    "next_uuid": "48e2d4b7-ba37-44b0-9d9b-816f3f8691a3"
+  }
+}

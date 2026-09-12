@@ -1,0 +1,28 @@
+{
+  "uuid": "d7557668-993d-4cc1-a6cd-ab90c976debd",
+  "platform_post_id": "940265467540406273",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-07T19:50:14+08:00",
+  "source_url": "https://t.bilibili.com/940265467540406273",
+  "plain_text": "今天没有直播的说，自由活动吧！\n刚跳完舞摊在床上的小鸟一枚呀",
+  "images": [],
+  "stats": {
+    "likes": 358,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8391e72e-4e24-4c5d-9d8b-f41811645985",
+    "next_uuid": "18476285-6fe9-468d-ae11-73fcbfd8f96f"
+  }
+}

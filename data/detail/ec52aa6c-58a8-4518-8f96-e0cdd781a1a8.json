@@ -1,0 +1,28 @@
+{
+  "uuid": "ec52aa6c-58a8-4518-8f96-e0cdd781a1a8",
+  "platform_post_id": "893938335339249700",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-03T23:37:18+08:00",
+  "source_url": "https://t.bilibili.com/893938335339249700",
+  "plain_text": "​小朋友，我来考考你。到睡觉时间了，这时候你该对我说什么呢？",
+  "images": [],
+  "stats": {
+    "likes": 505,
+    "comments": 127,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7bffa1b9-b060-418d-b4c0-883e165c0c76",
+    "next_uuid": "8510fb55-6f9f-4e3c-8396-ecc99b0fa141"
+  }
+}

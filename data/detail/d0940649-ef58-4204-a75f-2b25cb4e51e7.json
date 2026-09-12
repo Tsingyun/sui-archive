@@ -1,0 +1,28 @@
+{
+  "uuid": "d0940649-ef58-4204-a75f-2b25cb4e51e7",
+  "platform_post_id": "853788882274091045",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-18T18:56:55+08:00",
+  "source_url": "https://t.bilibili.com/853788882274091045",
+  "plain_text": "昏昏沉沉迷迷糊  受不了去洗个澡清醒一下\n今天大概7:40见🤧\n",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fce031ad-2957-4a3a-8b77-ba69ed413e42",
+    "next_uuid": "d11e3e9c-8f05-48f2-b3d8-f7e71ad3ce29"
+  }
+}

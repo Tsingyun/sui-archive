@@ -1,0 +1,28 @@
+{
+  "uuid": "3c940867-8f90-443a-ac6d-3e5541cc24a2",
+  "platform_post_id": "711636249591414791",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-30T17:12:06+08:00",
+  "source_url": "https://t.bilibili.com/711636249591414791",
+  "plain_text": "🍷点！偷窥大家房间聊聊天唱唱歌，用大家最喜欢的主播的本音-萌音直播的说！",
+  "images": [],
+  "stats": {
+    "likes": 472,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "df69c8a3-cb7e-4a8f-9c2c-bcb7130a3102",
+    "next_uuid": "9ebb7f35-cccd-4894-b916-add1c328816e"
+  }
+}

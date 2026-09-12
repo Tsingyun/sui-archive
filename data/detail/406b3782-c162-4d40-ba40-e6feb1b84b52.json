@@ -1,0 +1,28 @@
+{
+  "uuid": "406b3782-c162-4d40-ba40-e6feb1b84b52",
+  "platform_post_id": "728379092972339216",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-14T20:02:53+08:00",
+  "source_url": "https://t.bilibili.com/728379092972339216",
+  "plain_text": "八点半唱唱聊聊！",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d269c815-79ee-470d-a4fa-b3b85edcc135",
+    "next_uuid": "b3f5b535-35a6-4bc5-9200-40c3bcec7a27"
+  }
+}

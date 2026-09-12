@@ -1,0 +1,28 @@
+{
+  "uuid": "a956b533-5b42-4c85-9e63-ad7fd0723d99",
+  "platform_post_id": "740969665075871748",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-18T18:20:44+08:00",
+  "source_url": "https://t.bilibili.com/740969665075871748",
+  "plain_text": "好诶！是今晚哦！",
+  "images": [],
+  "stats": {
+    "likes": 322,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "54326493-ccb8-489f-8425-8abd3699f01c",
+    "next_uuid": "d686dd17-093d-4648-a6db-98afc7409793"
+  }
+}

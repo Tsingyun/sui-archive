@@ -1,0 +1,28 @@
+{
+  "uuid": "6991f081-cd5c-4270-87d1-c102165e92a3",
+  "platform_post_id": "764086785381761026",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-19T01:26:58+08:00",
+  "source_url": "https://t.bilibili.com/764086785381761026",
+  "plain_text": "突然有点寂寞 立刻回我一下 回！",
+  "images": [],
+  "stats": {
+    "likes": 417,
+    "comments": 116,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f2c9a0f0-7983-4a0b-bb85-e50178188a8b",
+    "next_uuid": "3fa03e9b-4881-4227-bff5-c9fa16ab4425"
+  }
+}

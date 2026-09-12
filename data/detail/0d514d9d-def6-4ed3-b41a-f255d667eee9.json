@@ -1,0 +1,28 @@
+{
+  "uuid": "0d514d9d-def6-4ed3-b41a-f255d667eee9",
+  "platform_post_id": "1177824553978560518",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-10T00:00:49+08:00",
+  "source_url": "https://t.bilibili.com/1177824553978560518",
+  "plain_text": "新的一天了！晚安晚安了你 早点睡[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "992ae0f7-72d6-4639-a8b2-af1353d8d8f5",
+    "next_uuid": "dbdf2612-50c1-4a2b-93c4-926fbfc94a1c"
+  }
+}

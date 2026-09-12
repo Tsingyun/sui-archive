@@ -1,0 +1,28 @@
+{
+  "uuid": "1b09b2eb-4737-43b7-81a9-4673c791de3f",
+  "platform_post_id": "1223772736822706185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-11T19:43:14+08:00",
+  "source_url": "https://t.bilibili.com/1223772736822706185",
+  "plain_text": "7:52来直播 好久不见的说～",
+  "images": [],
+  "stats": {
+    "likes": 197,
+    "comments": 21,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "243a11e2-6876-46d7-a639-d5fe343806a5",
+    "next_uuid": "5836770d-ea51-43a9-85ba-70ce6fc8170b"
+  }
+}

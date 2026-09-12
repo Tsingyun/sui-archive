@@ -1,0 +1,28 @@
+{
+  "uuid": "c71e1879-29b2-4fd4-8772-77ec6ed88152",
+  "platform_post_id": "807295848416280658",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-15T12:00:12+08:00",
+  "source_url": "https://t.bilibili.com/807295848416280658",
+  "plain_text": "嘿嘿睡久了，早！",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "31f8d35e-89e2-4aa0-944b-27851c43f969",
+    "next_uuid": "6e9891d4-2c56-4deb-925c-4b5a745f8a8e"
+  }
+}

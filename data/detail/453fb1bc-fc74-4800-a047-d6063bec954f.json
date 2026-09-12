@@ -1,0 +1,38 @@
+{
+  "uuid": "453fb1bc-fc74-4800-a047-d6063bec954f",
+  "platform_post_id": "1148446616851578880",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-12-20T19:59:25+08:00",
+  "source_url": "https://t.bilibili.com/1148446616851578880",
+  "plain_text": "8:10分来联动这个喔！",
+  "images": [
+    {
+      "filename": "1148446616851578880_100@repost.jpg",
+      "width": 1200,
+      "height": 900,
+      "file_size": 1151678,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 155,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "悠亚Yua",
+    "author_url": "https://space.bilibili.com/666726799",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "538838c0-51c5-4d4a-9786-1bc0a4d4c5fd",
+    "next_uuid": "09f39fc3-6fc0-4fe2-a46e-032f8c1c0c12"
+  }
+}

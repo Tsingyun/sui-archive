@@ -1,0 +1,47 @@
+{
+  "uuid": "070cd0ab-f9b2-44a6-ad9c-32b80034066b",
+  "platform_post_id": "856364483966140451",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-25T17:31:34+08:00",
+  "source_url": "https://t.bilibili.com/856364483966140451",
+  "plain_text": ". ‿˂̵✧ 装可爱中",
+  "images": [
+    {
+      "filename": "856364483966140451_100@repost.jpg",
+      "width": 1280,
+      "height": 1240,
+      "file_size": 229364,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "856364483966140451_101@repost.jpg",
+      "width": 1280,
+      "height": 1240,
+      "file_size": 229417,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 258,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "给我来打二向箔",
+    "author_url": "https://space.bilibili.com/7929905",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2efb6c75-a677-4ff6-b5b2-f2cc674cb028",
+    "next_uuid": "5aa414d0-4d06-48d6-a12a-4dd5fb24afb4"
+  }
+}

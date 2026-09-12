@@ -1,0 +1,28 @@
+{
+  "uuid": "1e7999ce-6c4d-40c9-869a-af1430d9ed31",
+  "platform_post_id": "973715858246336544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-05T23:14:50+08:00",
+  "source_url": "https://t.bilibili.com/973715858246336544",
+  "plain_text": "饼干岁大人！晚安喔",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 133,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99aeac1e-9a21-4f7e-b02f-03d415957ee3",
+    "next_uuid": "8f7b6fe1-1aab-4ebe-a9c7-fdb12ce1afcd"
+  }
+}

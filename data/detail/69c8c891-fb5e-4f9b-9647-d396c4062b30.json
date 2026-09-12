@@ -1,0 +1,28 @@
+{
+  "uuid": "69c8c891-fb5e-4f9b-9647-d396c4062b30",
+  "platform_post_id": "1070508040091861010",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-24T19:17:56+08:00",
+  "source_url": "https://t.bilibili.com/1070508040091861010",
+  "plain_text": "​还有一点点没精神不过嗯嗯我7:40来直播 大家稍微见谅捏",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0bff8228-a33e-4eef-825d-7767b9fcdb67",
+    "next_uuid": "08fd2976-45b9-4322-8e9e-cd46f0762a3b"
+  }
+}

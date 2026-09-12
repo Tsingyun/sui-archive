@@ -1,0 +1,28 @@
+{
+  "uuid": "3f9d8dde-bd2f-4499-b81a-e965d601e18f",
+  "platform_post_id": "894984172784844822",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-06T19:15:41+08:00",
+  "source_url": "https://t.bilibili.com/894984172784844822",
+  "plain_text": "❤️‍🔥❤️‍🔥7:40 ❤️‍🔥来热情❤️‍🔥地聊天 ❤️‍🔥然后❤️‍🔥看孤岛学园❤️‍🔥❤️‍🔥",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4bd0e446-322e-4403-b816-764a9c93c530",
+    "next_uuid": "d0262a94-99eb-4142-a3ff-7fc514146f5e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "13679624-df46-4bb7-a64c-77ceaa050a17",
+  "platform_post_id": "837743945323642914",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-05T13:14:22+08:00",
+  "source_url": "https://t.bilibili.com/837743945323642914",
+  "plain_text": "下午好您下午好！小岁为你来祈祷\n吃好睡好长高高，身体健康没烦恼\n轻松摸鱼下班早，得闲就来看小鸟！\n",
+  "images": [],
+  "stats": {
+    "likes": 479,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e490a4bd-18ae-4a84-9992-0c24eebaebdf",
+    "next_uuid": "d407cd78-45d2-43d5-aa1b-6bbf369bea12"
+  }
+}
