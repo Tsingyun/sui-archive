@@ -1,0 +1,28 @@
+{
+  "uuid": "a3c15ce4-1946-4508-88b6-b4ffd499fbcb",
+  "platform_post_id": "947753627266580513",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-28T00:08:07+08:00",
+  "source_url": "https://t.bilibili.com/947753627266580513",
+  "plain_text": "今天也晚安。陪完饼干岁还得陪猫玩，好辛苦",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad400938-7ad4-4bc5-8c7f-818866bfb516",
+    "next_uuid": "0600373e-7450-4706-8885-44ac35f1e3f0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "09eb0c47-6145-4821-b9a4-d882c2ff061d",
+  "platform_post_id": "741080157404528672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-19T01:29:30+08:00",
+  "source_url": "https://t.bilibili.com/741080157404528672",
+  "plain_text": "联动后跟@690608690 聊了两小时，发现她不像一个17岁小女生，更像38岁带两娃的阿姨",
+  "images": [],
+  "stats": {
+    "likes": 583,
+    "comments": 36,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d686dd17-093d-4648-a6db-98afc7409793",
+    "next_uuid": "a8b7681c-67a7-441d-882b-ebc2f7252ee1"
+  }
+}

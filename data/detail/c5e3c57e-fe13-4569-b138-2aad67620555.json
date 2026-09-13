@@ -1,0 +1,28 @@
+{
+  "uuid": "c5e3c57e-fe13-4569-b138-2aad67620555",
+  "platform_post_id": "1035660668314845201",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-19T21:32:20+08:00",
+  "source_url": "https://t.bilibili.com/1035660668314845201",
+  "plain_text": "10点来双声道 一起变困吧[轻漾幻景动态表情_喜欢]",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a899f1b0-33eb-46e0-9d57-839f301b81f4",
+    "next_uuid": "e8b24750-3ce5-48cb-a429-d2dbe1f6dffb"
+  }
+}

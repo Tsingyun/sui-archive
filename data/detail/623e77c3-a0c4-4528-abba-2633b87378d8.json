@@ -1,0 +1,28 @@
+{
+  "uuid": "623e77c3-a0c4-4528-abba-2633b87378d8",
+  "platform_post_id": "800738726377422880",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-28T19:55:13+08:00",
+  "source_url": "https://t.bilibili.com/800738726377422880",
+  "plain_text": "8:20见！周日悠闲小唱小聊然后小塞然后早睡！",
+  "images": [],
+  "stats": {
+    "likes": 229,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37a2084d-941a-4cdf-aca6-cba2435cd669",
+    "next_uuid": "c68b85c3-7923-4294-9eaa-ce6736d94d3c"
+  }
+}

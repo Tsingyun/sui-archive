@@ -1,0 +1,28 @@
+{
+  "uuid": "2b28545f-5e0d-4298-896c-6ad95aa36180",
+  "platform_post_id": "1234624517211422729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-10T01:33:41+08:00",
+  "source_url": "https://t.bilibili.com/1234624517211422729",
+  "plain_text": "回顾了第一次的3d，谢谢大家陪我确认了自己的存在。希望第三次的3D也能在大家的心里留下2年后依然耀眼的岁己。晚安[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 434,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6288414b-38a8-4af7-ab28-5c2dd9bd25ae",
+    "next_uuid": "af1c1ac5-2881-4975-9d5c-f07658ea7cf3"
+  }
+}

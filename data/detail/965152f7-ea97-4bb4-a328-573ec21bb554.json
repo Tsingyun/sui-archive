@@ -1,0 +1,28 @@
+{
+  "uuid": "965152f7-ea97-4bb4-a328-573ec21bb554",
+  "platform_post_id": "858433614514225169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-31T07:20:51+08:00",
+  "source_url": "https://t.bilibili.com/858433614514225169",
+  "plain_text": "10月最后一天！\n岁己哆哆嗦嗦爬起来赶在你也起床的时间跟你说：早上好！今天也加油哦！不加油也没关系，等你回来！\n感动吗，感动去吧！哼哼哼",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2ac17de7-8b6c-4771-8e3a-458279a9f6b7",
+    "next_uuid": "4c6b2c75-29fe-447f-814d-e84178afc75d"
+  }
+}

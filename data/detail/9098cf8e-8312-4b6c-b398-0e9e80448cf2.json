@@ -1,0 +1,28 @@
+{
+  "uuid": "9098cf8e-8312-4b6c-b398-0e9e80448cf2",
+  "platform_post_id": "820314023124795430",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-20T13:57:22+08:00",
+  "source_url": "https://t.bilibili.com/820314023124795430",
+  "plain_text": "吓死了！！9点起床后拿起手机准备发早安结果手机被偷了，追了四个小时终于追上了，下午好！ ​",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18fed4e4-eb43-4418-b0a4-8f8f1986409e",
+    "next_uuid": "adc28a18-fd52-4475-a94a-120a9bae3286"
+  }
+}

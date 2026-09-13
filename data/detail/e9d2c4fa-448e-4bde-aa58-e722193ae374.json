@@ -1,0 +1,38 @@
+{
+  "uuid": "e9d2c4fa-448e-4bde-aa58-e722193ae374",
+  "platform_post_id": "1030329183653330968",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-05T12:43:27+08:00",
+  "source_url": "https://t.bilibili.com/1030329183653330968",
+  "plain_text": "哇啊高马尾小岁，扎好头发给你做食物就是这样带有着成熟可靠的气息哦",
+  "images": [
+    {
+      "filename": "1030329183653330968_100@repost.jpg",
+      "width": 1080,
+      "height": 2139,
+      "file_size": 1252211,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 304,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7d7d2cd-14cb-4df1-8da8-daee0b443937",
+    "next_uuid": "9b78cd4f-4853-41d5-ba53-a7b713b7f6b6"
+  }
+}

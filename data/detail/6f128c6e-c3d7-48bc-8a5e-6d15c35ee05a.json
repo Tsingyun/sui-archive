@@ -1,0 +1,38 @@
+{
+  "uuid": "6f128c6e-c3d7-48bc-8a5e-6d15c35ee05a",
+  "platform_post_id": "881922958156627989",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-01-02T14:31:30+08:00",
+  "source_url": "https://t.bilibili.com/881922958156627989",
+  "plain_text": "随机捏死一个捣乱的饼干岁",
+  "images": [
+    {
+      "filename": "881922958156627989_100@repost.png",
+      "width": 1080,
+      "height": 1736,
+      "file_size": 1630780,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 415,
+    "comments": 60,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5650f547-1cc1-4601-bbe1-35b95b86553b",
+    "next_uuid": "3d3ae23e-b150-4a0c-a827-d9dc973e0fa0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0f157a4f-a29f-42a2-a74f-2cdd7a1da99d",
+  "platform_post_id": "922449453548306504",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-20T19:35:00+08:00",
+  "source_url": "https://t.bilibili.com/922449453548306504",
+  "plain_text": "在被唠叨[UP_1954091502_岁觉鸟]8点来吧！来干嘛呢你想想",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca92a324-db27-447f-b952-35bc3ef80c6d",
+    "next_uuid": "ed18382f-20f8-47b7-8f8f-9ccf01fe26c1"
+  }
+}

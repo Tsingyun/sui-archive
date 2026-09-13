@@ -1,0 +1,28 @@
+{
+  "uuid": "331d7c04-23e0-46e7-9bb9-5651f7d1a538",
+  "platform_post_id": "788597236070088713",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-26T02:40:02+08:00",
+  "source_url": "https://t.bilibili.com/788597236070088713",
+  "plain_text": "1点:不想睡\n2点:睡不着\n3点:有没有可能我进化掉睡眠了？我不需要睡觉\n第二天11点:困死 想永眠 \n为什么睡觉这么费劲啊！二十多分钟了还睡不着！差不多得了我说！！",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5e2f251a-9347-4f33-ba97-00a649b758a2",
+    "next_uuid": "37f2cfeb-6565-4c30-a8b9-eb1ac73aec19"
+  }
+}

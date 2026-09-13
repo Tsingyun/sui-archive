@@ -1,0 +1,28 @@
+{
+  "uuid": "96f83c2b-f78d-4642-b8a9-125f51dff5a9",
+  "platform_post_id": "858239769756303385",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-30T18:48:38+08:00",
+  "source_url": "https://t.bilibili.com/858239769756303385",
+  "plain_text": "yo！7点来播 先这样然后那样 懂吧！",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "42fa54e8-d8d1-42f2-9a4c-d1a894f11868",
+    "next_uuid": "2ac17de7-8b6c-4771-8e3a-458279a9f6b7"
+  }
+}

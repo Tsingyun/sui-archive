@@ -1,0 +1,28 @@
+{
+  "uuid": "084e225e-3b14-4ada-8449-ddd6548cd3ab",
+  "platform_post_id": "776984812680380439",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-25T19:37:54+08:00",
+  "source_url": "https://t.bilibili.com/776984812680380439",
+  "plain_text": "我要去拿快递然后吃饭然后洗猫砂盆消毒然后唧唧呱呱唧唧呱呱发发呆思考思考人生🤔  所以 九点",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3719af2e-7821-4433-a34c-7e5bd76fa4a1",
+    "next_uuid": "b87022c2-f7ea-4a03-8b2a-ddcae31070d3"
+  }
+}

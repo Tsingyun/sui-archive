@@ -1,0 +1,28 @@
+{
+  "uuid": "a89adb4d-85d4-48a8-9d4d-02910fbb781d",
+  "platform_post_id": "1008499685975916566",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-12-08T16:53:51+08:00",
+  "source_url": "https://t.bilibili.com/1008499685975916566",
+  "plain_text": "外卖还没到！！望眼欲穿\n 5:20好吗 怎么样 还是很下午吧",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "下午好 5点来播播怎么样 很下午吧！\n岁己将进行一个唱歌聊天的直播",
+    "source_url": "https://t.bilibili.com/1008489472525860870"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8852a17e-8cf5-482d-99f6-57b56a02038a",
+    "next_uuid": "357c3b38-5fae-4b9c-adfa-a712aed40fd4"
+  }
+}

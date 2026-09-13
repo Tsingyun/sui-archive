@@ -1,0 +1,28 @@
+{
+  "uuid": "f780deba-c977-40da-a36e-dba3cca763e8",
+  "platform_post_id": "1049092512818397232",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-28T02:14:45+08:00",
+  "source_url": "https://t.bilibili.com/1049092512818397232",
+  "plain_text": "今天唱了很多歌唱得很开心，玩游戏也开心，还唱了很多唱得很搞笑的粤语歌，很不错的一天！谢谢大家看到这么晚啦 晚安",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a46aa9b-f4ea-44f8-8e39-2899a05521f9",
+    "next_uuid": "c7df4a6e-4b42-4876-8538-7b29529ecdb1"
+  }
+}

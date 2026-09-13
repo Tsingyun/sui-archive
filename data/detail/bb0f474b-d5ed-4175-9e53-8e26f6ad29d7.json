@@ -1,0 +1,28 @@
+{
+  "uuid": "bb0f474b-d5ed-4175-9e53-8e26f6ad29d7",
+  "platform_post_id": "785030686620778533",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-16T12:00:00+08:00",
+  "source_url": "https://t.bilibili.com/785030686620778533",
+  "plain_text": "早呀。哈喽哈喽，家住几楼，可不可以，交个朋友（真的有这首歌我妈手机里听来的给我笑够呛",
+  "images": [],
+  "stats": {
+    "likes": 364,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aed876cc-4d07-4def-88b9-24b2a58c5432",
+    "next_uuid": "d512459b-0654-4361-bc62-37fd36b60877"
+  }
+}

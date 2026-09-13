@@ -1,0 +1,28 @@
+{
+  "uuid": "b68ededa-3252-463c-bec6-bac3da03b102",
+  "platform_post_id": "814068698296877060",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-03T18:02:19+08:00",
+  "source_url": "https://t.bilibili.com/814068698296877060",
+  "plain_text": "好累，七点见吧！",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75c88002-76df-4957-8bb5-97973717beb8",
+    "next_uuid": "d37ad39d-9676-43a2-ad27-1776db1ebed4"
+  }
+}

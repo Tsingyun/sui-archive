@@ -1,0 +1,28 @@
+{
+  "uuid": "00cb546a-e6a4-45cd-a154-df2cee890448",
+  "platform_post_id": "766594676913340469",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-25T19:38:52+08:00",
+  "source_url": "https://t.bilibili.com/766594676913340469",
+  "plain_text": "学点歌 然后今晚8:30来唱歌！期待一下，但是刚才有点咳嗽所以还是不要太期待，但还是要期待一下的。\n8:30嗷 八点半嗷  8時半あお 迟到了饶不了你！！　",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24c53de8-c4c6-469f-a769-2820640ce940",
+    "next_uuid": "3a3de8c8-f571-4345-a251-0f4623753f66"
+  }
+}

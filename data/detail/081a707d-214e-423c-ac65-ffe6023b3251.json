@@ -1,0 +1,28 @@
+{
+  "uuid": "081a707d-214e-423c-ac65-ffe6023b3251",
+  "platform_post_id": "1071703535627796483",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-28T00:37:04+08:00",
+  "source_url": "https://t.bilibili.com/1071703535627796483",
+  "plain_text": "会褪色吗，今晚这段算不上十分精彩的回忆 晚安",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3736d2f5-120a-4921-8f88-fe0b4142763e",
+    "next_uuid": "8d564939-370c-4f46-a74c-41315a0001c7"
+  }
+}

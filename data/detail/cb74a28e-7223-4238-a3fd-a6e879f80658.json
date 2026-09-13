@@ -1,0 +1,28 @@
+{
+  "uuid": "cb74a28e-7223-4238-a3fd-a6e879f80658",
+  "platform_post_id": "939517365792538632",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-05T19:27:13+08:00",
+  "source_url": "https://t.bilibili.com/939517365792538632",
+  "plain_text": "米娜桑 岁己7:40直播 我们今天干嘛",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d22ad2be-c708-4f79-852a-b31805251157",
+    "next_uuid": "ea79331b-4fe7-4021-8b37-176ba71a0950"
+  }
+}

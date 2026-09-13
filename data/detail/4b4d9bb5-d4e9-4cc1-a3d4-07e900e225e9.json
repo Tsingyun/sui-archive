@@ -1,0 +1,28 @@
+{
+  "uuid": "4b4d9bb5-d4e9-4cc1-a3d4-07e900e225e9",
+  "platform_post_id": "1149105387562074120",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-22T14:35:47+08:00",
+  "source_url": "https://t.bilibili.com/1149105387562074120",
+  "plain_text": "十分钟后茶水间见，大家都来摸鱼别怪我没告诉你!",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7228f1cb-80d6-4c1d-b3f1-ff533939c69d",
+    "next_uuid": "7afa26f0-166e-4a8d-8ac9-c5c21a6f4449"
+  }
+}

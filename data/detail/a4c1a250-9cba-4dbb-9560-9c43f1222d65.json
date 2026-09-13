@@ -1,0 +1,28 @@
+{
+  "uuid": "a4c1a250-9cba-4dbb-9560-9c43f1222d65",
+  "platform_post_id": "850815484992421943",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-10T18:38:37+08:00",
+  "source_url": "https://t.bilibili.com/850815484992421943",
+  "plain_text": "吃完饭了！我想洗头洗澡。7:20见 继续看赌～",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92191287-dc13-4951-8194-1a274981d350",
+    "next_uuid": "76829be8-900b-40c0-adf5-508d18a670e6"
+  }
+}

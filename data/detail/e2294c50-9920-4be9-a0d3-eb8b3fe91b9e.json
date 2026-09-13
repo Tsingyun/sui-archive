@@ -1,0 +1,28 @@
+{
+  "uuid": "e2294c50-9920-4be9-a0d3-eb8b3fe91b9e",
+  "platform_post_id": "909813904579756039",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-17T18:22:37+08:00",
+  "source_url": "https://t.bilibili.com/909813904579756039",
+  "plain_text": "闪现！吃个饭休息一下摸摸猫一下 8点来直播！",
+  "images": [],
+  "stats": {
+    "likes": 353,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "344639bd-f67a-4fc5-b7af-dff6c608897b",
+    "next_uuid": "4afd3ff6-ea9d-4e5c-8b0d-c30f69a73369"
+  }
+}

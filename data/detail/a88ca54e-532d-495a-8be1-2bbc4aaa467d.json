@@ -1,0 +1,28 @@
+{
+  "uuid": "a88ca54e-532d-495a-8be1-2bbc4aaa467d",
+  "platform_post_id": "1055377050693533715",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-14T00:41:58+08:00",
+  "source_url": "https://t.bilibili.com/1055377050693533715",
+  "plain_text": "没时间了！！很急！！！没网费了要！！快说晚安 ！！快！！",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "63448993-067f-4753-9c9e-fd0e735a6c90",
+    "next_uuid": "7f713c64-3101-4203-a4bd-04098c6310c8"
+  }
+}

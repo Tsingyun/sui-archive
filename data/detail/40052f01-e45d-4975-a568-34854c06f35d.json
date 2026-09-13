@@ -1,0 +1,28 @@
+{
+  "uuid": "40052f01-e45d-4975-a568-34854c06f35d",
+  "platform_post_id": "1069490180097835029",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-22T01:28:07+08:00",
+  "source_url": "https://t.bilibili.com/1069490180097835029",
+  "plain_text": "晚安晚安大家 第一次尝试了吃播 感觉还不错[岁己收藏集表情包_那很好了]",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7aa1866-0ed9-491f-beaa-6eab37fc26fe",
+    "next_uuid": "82de1eba-70d3-4e73-9ad3-9d9b5034d4b0"
+  }
+}

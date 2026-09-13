@@ -1,0 +1,38 @@
+{
+  "uuid": "ad0bd864-e490-4a23-8d65-79fba07bf7ac",
+  "platform_post_id": "825190288480796672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-02T17:19:46+08:00",
+  "source_url": "https://t.bilibili.com/825190288480796672",
+  "plain_text": "6:30见 已经提前在路边等你了\n",
+  "images": [
+    {
+      "filename": "825190288480796672_00@original.jpg",
+      "width": 867,
+      "height": 828,
+      "file_size": 549222,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 521,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8fe0269-446b-4ce7-83ea-fb52cbbe78a7",
+    "next_uuid": "52cec6f0-e2d7-496c-ac4c-098d397048f0"
+  }
+}

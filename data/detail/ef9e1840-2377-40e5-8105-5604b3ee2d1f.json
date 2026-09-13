@@ -1,0 +1,28 @@
+{
+  "uuid": "ef9e1840-2377-40e5-8105-5604b3ee2d1f",
+  "platform_post_id": "1033774756731551760",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-14T19:34:02+08:00",
+  "source_url": "https://t.bilibili.com/1033774756731551760",
+  "plain_text": "什么？！今天你自己一个人，想求岁己陪你过情人节，那没办法了，7:50来陪你一下吧",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ddd293f-b787-40ff-8154-5ae10e5c3571",
+    "next_uuid": "d01908e1-cd5a-4a5b-ba30-dfde1e52d5e5"
+  }
+}

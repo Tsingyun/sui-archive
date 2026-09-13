@@ -1,0 +1,28 @@
+{
+  "uuid": "2098369f-e9c2-44be-ae8e-be95440c1ff2",
+  "platform_post_id": "881296283792310354",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-31T21:59:41+08:00",
+  "source_url": "https://t.bilibili.com/881296283792310354",
+  "plain_text": "[UPOWER_1954091502_分号分号][UPOWER_1954091502_分号分号]\n我错了 10:15",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 57,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "369f6b2a-7c09-4462-90f9-d67de2ef17f2",
+    "next_uuid": "0e8c84df-46f0-4099-9bc5-af1019a8707d"
+  }
+}

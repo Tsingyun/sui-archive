@@ -1,0 +1,28 @@
+{
+  "uuid": "ee5efae7-3300-4a34-8a71-da79de47d6e2",
+  "platform_post_id": "862695433264168995",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-11T18:58:53+08:00",
+  "source_url": "https://t.bilibili.com/862695433264168995",
+  "plain_text": "今天休息休息哦 明天见[UP_1954091502_别走好吗]",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a2b3471-c217-4864-8f3a-4d5e1877be38",
+    "next_uuid": "cbb2e879-4a0f-4a6c-849e-baf34e36d15d"
+  }
+}

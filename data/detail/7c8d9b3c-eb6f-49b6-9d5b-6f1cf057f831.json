@@ -1,0 +1,47 @@
+{
+  "uuid": "7c8d9b3c-eb6f-49b6-9d5b-6f1cf057f831",
+  "platform_post_id": "798105559234510848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-05-21T17:37:11+08:00",
+  "source_url": "https://t.bilibili.com/798105559234510848",
+  "plain_text": "最近身体还没好所以推迟几天办。合唱投稿截止时间延长至5月23日下午6点。具体合唱直播时间待通知",
+  "images": [
+    {
+      "filename": "798105559234510848_100@repost.png",
+      "width": 1035,
+      "height": 9127,
+      "file_size": 3209923,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "798105559234510848_101@repost.png",
+      "width": 1035,
+      "height": 3199,
+      "file_size": 1101787,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 290,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "为增强饼干韧性，使饼干更酥脆。第三届饼干岁合唱回将于5.21号举行\n合唱歌曲请尽量选择爱情相关的苦情歌和小甜歌\n以下为歌单，请尽量选择岁己在直播中完整唱过的歌曲。（判断方法为在b站搜索：岁己+你想合唱的歌名）\n💫 请投稿至邮箱：suiji11@qq.com 截止时间：5月19号\n",
+    "source_url": "https://t.bilibili.com/788429981399121959"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2d413720-b41c-43e4-9576-549f9c675f85",
+    "next_uuid": "e13bc773-7bec-4a12-8ff8-2015446c9b2f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "68b8e320-d715-4648-a05c-d791d700ae4f",
+  "platform_post_id": "1174873808358604840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-02T01:10:25+08:00",
+  "source_url": "https://t.bilibili.com/1174873808358604840",
+  "plain_text": "​好想...变强！晚安大家，谢谢大家来看我直播~",
+  "images": [],
+  "stats": {
+    "likes": 235,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f177ddb2-526e-4a76-a5ed-89ccb47f4497",
+    "next_uuid": "2398949c-f7fc-4a0e-a46a-667e7394ae7d"
+  }
+}

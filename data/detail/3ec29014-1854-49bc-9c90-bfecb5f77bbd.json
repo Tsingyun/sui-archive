@@ -1,0 +1,28 @@
+{
+  "uuid": "3ec29014-1854-49bc-9c90-bfecb5f77bbd",
+  "platform_post_id": "1196370304320929799",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-28T23:27:48+08:00",
+  "source_url": "https://t.bilibili.com/1196370304320929799",
+  "plain_text": "快！时间不多了，要跟岁己说晚安的小朋友一个一个来。",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b62ba070-1c86-4d4e-9b90-9c945d5e03ab",
+    "next_uuid": "6e0602d8-7f96-4d60-a3be-8c23adebfef1"
+  }
+}

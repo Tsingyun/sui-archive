@@ -1,0 +1,28 @@
+{
+  "uuid": "49452f28-b5d7-49a3-81f1-29e2ff4dd4e0",
+  "platform_post_id": "802274138533134336",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-01T23:13:24+08:00",
+  "source_url": "https://t.bilibili.com/802274138533134336",
+  "plain_text": "晚安小朋友～～～我去洗头然后吹然后赶紧睡觉了。",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7ab2fda2-b5b2-4fc6-bd19-db63fd605612",
+    "next_uuid": "d62a66da-c281-441c-b11c-04d5ff67552b"
+  }
+}

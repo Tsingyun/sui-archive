@@ -1,0 +1,28 @@
+{
+  "uuid": "b56e7d30-cc8c-4115-b994-81b5d11e13c2",
+  "platform_post_id": "809613395566264345",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-21T17:53:28+08:00",
+  "source_url": "https://t.bilibili.com/809613395566264345",
+  "plain_text": "忘记吃饭了，吃一下先。那今天也6:30来！",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce48dc5f-f766-47e0-a18d-48efb96a4c69",
+    "next_uuid": "a090f785-6d5f-4fcf-915a-9ffd3200425f"
+  }
+}

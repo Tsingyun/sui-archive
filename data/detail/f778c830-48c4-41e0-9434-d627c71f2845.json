@@ -1,0 +1,28 @@
+{
+  "uuid": "f778c830-48c4-41e0-9434-d627c71f2845",
+  "platform_post_id": "804785272507072517",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-08T17:37:53+08:00",
+  "source_url": "https://t.bilibili.com/804785272507072517",
+  "plain_text": "有同学说考完想多检查一会，那咱们6:20见。今天直播需要请假的同学，麻烦让父母在申请书（500字以上）上签字后交给我。",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "892bba60-f4ab-4c7b-b8c0-f80edbeb0333",
+    "next_uuid": "d8f734dd-ef78-4dee-834f-465a7f2b7044"
+  }
+}

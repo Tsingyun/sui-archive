@@ -1,0 +1,28 @@
+{
+  "uuid": "8d564939-370c-4f46-a74c-41315a0001c7",
+  "platform_post_id": "1071885680918921240",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-28T12:23:53+08:00",
+  "source_url": "https://t.bilibili.com/1071885680918921240",
+  "plain_text": "12:35来煮——午休结束聊—— 首先主播自己就困困的 来传染给你了",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "081a707d-214e-423c-ac65-ffe6023b3251",
+    "next_uuid": "422b5a31-7937-4287-99ff-695a9194d63c"
+  }
+}

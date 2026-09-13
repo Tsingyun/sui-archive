@@ -1,0 +1,28 @@
+{
+  "uuid": "3db013df-907e-40b2-b78c-1083cae18963",
+  "platform_post_id": "906556597082259492",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-08T23:42:36+08:00",
+  "source_url": "https://t.bilibili.com/906556597082259492",
+  "plain_text": "衣柜整理得差不多了 希望能保持个十五年左右\n晚安",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 57,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "69bed612-65c0-4cf3-b857-8d850f5301fd",
+    "next_uuid": "9f072b14-68d2-472c-9e3b-0fb3d12c611c"
+  }
+}

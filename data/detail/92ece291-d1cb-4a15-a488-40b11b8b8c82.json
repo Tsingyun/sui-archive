@@ -1,0 +1,28 @@
+{
+  "uuid": "92ece291-d1cb-4a15-a488-40b11b8b8c82",
+  "platform_post_id": "1198914239257903111",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-05T19:59:34+08:00",
+  "source_url": "https://t.bilibili.com/1198914239257903111",
+  "plain_text": "8:10分见大家 (｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 177,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "509c531a-e393-4cba-a293-73eb66ec4a88",
+    "next_uuid": "693209d2-bbcb-4dbb-bdbe-666a105f75a9"
+  }
+}

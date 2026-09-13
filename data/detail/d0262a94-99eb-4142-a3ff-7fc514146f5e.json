@@ -1,0 +1,56 @@
+{
+  "uuid": "d0262a94-99eb-4142-a3ff-7fc514146f5e",
+  "platform_post_id": "895062607441952787",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-02-07T00:20:03+08:00",
+  "source_url": "https://t.bilibili.com/895062607441952787",
+  "plain_text": "壁纸的说！晚安捏 今天挺开心的说 你呢你呢 我希望你也开心\n",
+  "images": [
+    {
+      "filename": "895062607441952787_00@original.jpg",
+      "width": 1330,
+      "height": 2879,
+      "file_size": 3304773,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "895062607441952787_01@original.jpg",
+      "width": 1330,
+      "height": 2879,
+      "file_size": 3229093,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "895062607441952787_02@original.jpg",
+      "width": 1330,
+      "height": 2879,
+      "file_size": 3229092,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 446,
+    "comments": 73,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3f9d8dde-bd2f-4499-b81a-e965d601e18f",
+    "next_uuid": "defc65c2-2a03-40b2-854d-ceb5c39d2ce4"
+  }
+}

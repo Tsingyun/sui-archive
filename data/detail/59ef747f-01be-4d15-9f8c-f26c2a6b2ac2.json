@@ -1,0 +1,38 @@
+{
+  "uuid": "59ef747f-01be-4d15-9f8c-f26c2a6b2ac2",
+  "platform_post_id": "1139616365991165953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-11-27T00:53:32+08:00",
+  "source_url": "https://t.bilibili.com/1139616365991165953",
+  "plain_text": "岁己对世界拳打脚踢以延缓地球转速，让黎明晚点到来。\n晚安，不客气。\n",
+  "images": [
+    {
+      "filename": "1139616365991165953_00@original.gif",
+      "width": 320,
+      "height": 240,
+      "file_size": 294735,
+      "mime_type": "image/gif",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 321,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "662ed231-7893-456d-ad62-dc93ef42b560",
+    "next_uuid": "c51b1c0f-54a2-43ac-817e-9a45df7396fb"
+  }
+}

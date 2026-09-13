@@ -1,0 +1,28 @@
+{
+  "uuid": "034b21af-4f1f-458b-ab12-62007b0b0392",
+  "platform_post_id": "1232747710983962624",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-05T00:10:43+08:00",
+  "source_url": "https://t.bilibili.com/1232747710983962624",
+  "plain_text": "猪…我想和你说…晚安",
+  "images": [],
+  "stats": {
+    "likes": 189,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f7caea4-40bf-431e-b0de-98a9b2a1edf2",
+    "next_uuid": "48317020-764e-4ef4-a368-802857bafc5b"
+  }
+}

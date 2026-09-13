@@ -1,0 +1,28 @@
+{
+  "uuid": "ebbbcb1b-59ba-4bf7-b289-74bbf4ba470f",
+  "platform_post_id": "751383324374597683",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-01-15T19:51:03+08:00",
+  "source_url": "https://t.bilibili.com/751383324374597683",
+  "plain_text": "饼干岁..玩好大…岁己都不懂这些的😰",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6cc11393-61fa-44ea-8446-4594c2abc937",
+    "next_uuid": "73de9dd8-f3cb-4316-a22a-8260906691c3"
+  }
+}

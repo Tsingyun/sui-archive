@@ -1,0 +1,28 @@
+{
+  "uuid": "4d5b377c-982d-4ee4-a271-de04ff4e9321",
+  "platform_post_id": "855279171749806133",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-22T19:20:00+08:00",
+  "source_url": "https://t.bilibili.com/855279171749806133",
+  "plain_text": "7:40边看点什么边画头像 ！今天上舰就可获得丑丑又美美的头像哦！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a84a4bb4-9785-4ca6-bf1f-6bbb0e6c105a",
+    "next_uuid": "79bd35e4-bbab-4c99-830a-b7eb3c651872"
+  }
+}

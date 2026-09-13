@@ -1,0 +1,28 @@
+{
+  "uuid": "b5c61785-bf91-4b82-a02d-ac38d40eafa7",
+  "platform_post_id": "768826629713559588",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-03T19:59:59+08:00",
+  "source_url": "https://t.bilibili.com/768826629713559588",
+  "plain_text": "9点来 唱歌？聊天？大概",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8b3da13-4818-4267-b78f-442a2720ac8b",
+    "next_uuid": "d6fa988c-1401-465e-a0de-2dbe7ef0f3c7"
+  }
+}

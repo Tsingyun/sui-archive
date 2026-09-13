@@ -1,0 +1,38 @@
+{
+  "uuid": "702a8378-c986-4d90-aa47-f8c26c1318ad",
+  "platform_post_id": "844963063784275991",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-09-25T00:08:14+08:00",
+  "source_url": "https://t.bilibili.com/844963063784275991",
+  "plain_text": "谢谢大家来看今天177的联动哦，感觉做梦都会梦到钓鱼捡垃圾了。晚安啦\n",
+  "images": [
+    {
+      "filename": "844963063784275991_00@original.png",
+      "width": 2560,
+      "height": 1440,
+      "file_size": 1495827,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 383,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "df574307-4588-44e8-81ed-8d7672a0ec0d",
+    "next_uuid": "8f1754a5-a915-4b24-a892-3e660ff45f40"
+  }
+}

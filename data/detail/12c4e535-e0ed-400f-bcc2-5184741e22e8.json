@@ -1,0 +1,28 @@
+{
+  "uuid": "12c4e535-e0ed-400f-bcc2-5184741e22e8",
+  "platform_post_id": "740188947392495671",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-16T15:51:09+08:00",
+  "source_url": "https://t.bilibili.com/740188947392495671",
+  "plain_text": "很好建议, 来自岁己SUI, 177, vr  可免费商用",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 6,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ce11b0e-b770-4f4a-8b57-b3eea6d13e98",
+    "next_uuid": "7f150f56-0e10-4dcb-99cd-fa478b903c2d"
+  }
+}

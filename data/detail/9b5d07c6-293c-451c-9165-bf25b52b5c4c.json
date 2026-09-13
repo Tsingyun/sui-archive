@@ -1,0 +1,28 @@
+{
+  "uuid": "9b5d07c6-293c-451c-9165-bf25b52b5c4c",
+  "platform_post_id": "778839246427389976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-30T19:34:03+08:00",
+  "source_url": "https://t.bilibili.com/778839246427389976",
+  "plain_text": "迟十分钟好吗！好呀好呀，会准时到的哦。我现在吃饭，回家晚了",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ab70b11e-01a7-440f-895d-188e6f242da7",
+    "next_uuid": "23a02d54-d3b8-4c14-b673-834d46fbbf45"
+  }
+}

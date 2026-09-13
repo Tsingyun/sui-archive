@@ -1,0 +1,28 @@
+{
+  "uuid": "db90a1fc-7387-4528-8751-957aa730dc5d",
+  "platform_post_id": "740255008276086836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-16T20:07:30+08:00",
+  "source_url": "https://t.bilibili.com/740255008276086836",
+  "plain_text": "先学习了，学累了电台休息玩玩，不用等我，去看别人吧┏(＾0＾)┛",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7f150f56-0e10-4dcb-99cd-fa478b903c2d",
+    "next_uuid": "dcede02c-6630-4a94-875a-04e3429463eb"
+  }
+}

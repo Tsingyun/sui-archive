@@ -1,0 +1,28 @@
+{
+  "uuid": "e9197d2b-2c2c-488e-9437-4c8116108021",
+  "platform_post_id": "806268792874205208",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-12T17:34:42+08:00",
+  "source_url": "https://t.bilibili.com/806268792874205208",
+  "plain_text": "今天就不接你回家了，8:35开播，要参加一个学校毕业季歌回，大概唱20分钟！之后随便聊聊然后四川话念点斗罗大陆进行助眠？",
+  "images": [],
+  "stats": {
+    "likes": 417,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c56c0e39-d659-4717-b010-57e5105ede15",
+    "next_uuid": "7af8a09b-fc05-4c39-b506-c140c0152d73"
+  }
+}

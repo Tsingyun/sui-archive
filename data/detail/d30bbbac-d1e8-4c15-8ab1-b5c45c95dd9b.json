@@ -1,0 +1,28 @@
+{
+  "uuid": "d30bbbac-d1e8-4c15-8ab1-b5c45c95dd9b",
+  "platform_post_id": "1230454211311829000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-29T19:50:46+08:00",
+  "source_url": "https://t.bilibili.com/1230454211311829000",
+  "plain_text": "我们10:20见如何 人头麦讲讲悄悄话（真的吗\n有嗓子的话再清唱一些",
+  "images": [],
+  "stats": {
+    "likes": 206,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77df666f-2a94-4a64-be0f-aade30e8a62b",
+    "next_uuid": "7ea7750f-17db-4b8a-908b-392728e4f105"
+  }
+}

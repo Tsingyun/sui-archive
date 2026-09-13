@@ -1,0 +1,28 @@
+{
+  "uuid": "566ce551-31a5-4c17-be51-aa8542c97025",
+  "platform_post_id": "733633203783335958",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-28T23:51:31+08:00",
+  "source_url": "https://t.bilibili.com/733633203783335958",
+  "plain_text": "现在把小猫囚禁在我的胸口紧紧抱着，好暖和嘻嘻，你们是不是准备睡了，晚安nyo！明儿见～",
+  "images": [],
+  "stats": {
+    "likes": 428,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8e40927c-4623-4f08-8082-83b1b2e43c40",
+    "next_uuid": "74cb4609-6d57-4fea-8b93-159bdaab5046"
+  }
+}

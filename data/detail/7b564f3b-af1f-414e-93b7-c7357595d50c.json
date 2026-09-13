@@ -1,0 +1,28 @@
+{
+  "uuid": "7b564f3b-af1f-414e-93b7-c7357595d50c",
+  "platform_post_id": "963271129110151223",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-08T19:43:57+08:00",
+  "source_url": "https://t.bilibili.com/963271129110151223",
+  "plain_text": "回家路上晕车了有点难受，歇一下8:10分来",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59ca62aa-21b4-4e01-af3d-2deadde55610",
+    "next_uuid": "18bfe05a-25ba-4041-b607-edfe8c86d3e7"
+  }
+}

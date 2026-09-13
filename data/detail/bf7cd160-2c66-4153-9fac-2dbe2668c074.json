@@ -1,0 +1,28 @@
+{
+  "uuid": "bf7cd160-2c66-4153-9fac-2dbe2668c074",
+  "platform_post_id": "1158524654521942048",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-16T23:47:21+08:00",
+  "source_url": "https://t.bilibili.com/1158524654521942048",
+  "plain_text": "我走了，是不是伤心到哭出来了，哎你就是总是这样口是心非啊，下次要好好说出对岁己的不舍知道吗！晚安",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6026d58d-fd35-438b-b7d3-493f728806b3",
+    "next_uuid": "83102e4b-17a0-41cc-b833-bdd63c65294d"
+  }
+}

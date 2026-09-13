@@ -1,0 +1,28 @@
+{
+  "uuid": "8b9dcc3d-51d4-46de-a794-645c42a0880e",
+  "platform_post_id": "1161488297977970689",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-24T23:27:48+08:00",
+  "source_url": "https://t.bilibili.com/1161488297977970689",
+  "plain_text": "晚安晚安大家，这是充实而平淡缓缓的温暖在流淌的一天",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e862b8f2-e02e-4291-81cd-6600dd503027",
+    "next_uuid": "e6870552-1fd6-4de8-879f-9059bea80cf3"
+  }
+}

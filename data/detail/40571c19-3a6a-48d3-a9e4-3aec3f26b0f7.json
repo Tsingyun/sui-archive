@@ -1,0 +1,28 @@
+{
+  "uuid": "40571c19-3a6a-48d3-a9e4-3aec3f26b0f7",
+  "platform_post_id": "703469214608916592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-08T16:59:50+08:00",
+  "source_url": "https://t.bilibili.com/703469214608916592",
+  "plain_text": "今天也9点吧，感觉今天真的是短短播一下了，我猜一小时。",
+  "images": [],
+  "stats": {
+    "likes": 737,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6d6e6b22-5315-4314-8d18-dcaf1238704e",
+    "next_uuid": "57a2bb16-3d33-4b49-a3ca-7266e73bc072"
+  }
+}

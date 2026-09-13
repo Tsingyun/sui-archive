@@ -1,0 +1,28 @@
+{
+  "uuid": "1b5513ee-6ce0-4832-bf8c-d0010d876c8e",
+  "platform_post_id": "866045632295469075",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-20T19:39:22+08:00",
+  "source_url": "https://t.bilibili.com/866045632295469075",
+  "plain_text": "我来了我来了 7:53吧！来看点什么呢 请推荐",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "05cad9b6-c333-4d40-91b6-56638d1c83fb",
+    "next_uuid": "ab0fe490-1478-4ec8-939b-388446292c18"
+  }
+}

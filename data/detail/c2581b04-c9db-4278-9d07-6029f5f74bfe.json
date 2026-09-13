@@ -1,0 +1,28 @@
+{
+  "uuid": "c2581b04-c9db-4278-9d07-6029f5f74bfe",
+  "platform_post_id": "781333617429184552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-06T12:53:29+08:00",
+  "source_url": "https://t.bilibili.com/781333617429184552",
+  "plain_text": "亲亲们，早安。互赞互赞哦🫰🌹",
+  "images": [],
+  "stats": {
+    "likes": 479,
+    "comments": 82,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce5e3148-dedb-4fa2-861c-335d976137c2",
+    "next_uuid": "7fc7f64d-dd11-44be-a82e-e657a0f5c0e7"
+  }
+}

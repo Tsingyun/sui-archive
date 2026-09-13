@@ -1,0 +1,47 @@
+{
+  "uuid": "e686fac9-a32f-4e84-8250-9176c2dff11c",
+  "platform_post_id": "760279460109877288",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-08T19:12:36+08:00",
+  "source_url": "https://t.bilibili.com/760279460109877288",
+  "plain_text": "今天依旧是嗨聊劲歌热舞！生日上舰活动仍在继续！活动期间上舰还可以从岁己已经唱过的歌中点一首现场唱！(・ω< )★\n",
+  "images": [
+    {
+      "filename": "760279460109877288_00@original.png",
+      "width": 4168,
+      "height": 2608,
+      "file_size": 7617132,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "760279460109877288_01@original.png",
+      "width": 1850,
+      "height": 12207,
+      "file_size": 7446152,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 266,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bea33cd4-d335-44db-878e-4ca254408a88",
+    "next_uuid": "71239b10-1ecc-4964-832b-621f35b67387"
+  }
+}

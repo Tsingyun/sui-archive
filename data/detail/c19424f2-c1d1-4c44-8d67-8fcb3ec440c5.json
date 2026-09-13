@@ -1,0 +1,28 @@
+{
+  "uuid": "c19424f2-c1d1-4c44-8d67-8fcb3ec440c5",
+  "platform_post_id": "772518751079759939",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-03-13T18:47:18+08:00",
+  "source_url": "https://t.bilibili.com/772518751079759939",
+  "plain_text": "前辈貌似在吃豆腐捏 为了毁灭地球也只能忍忍了//@悠亚Yua:五块钱的预算加上膝枕就能毁灭地球？！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb401aa9-85ed-4b09-9913-eea7da845d0a",
+    "next_uuid": "788c57dc-eeae-4499-b676-9f3dbffa5569"
+  }
+}

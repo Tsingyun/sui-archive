@@ -1,0 +1,28 @@
+{
+  "uuid": "7e3cb9f0-d915-4707-a9a8-0ab05f16270b",
+  "platform_post_id": "1126533092449714215",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-22T18:43:45+08:00",
+  "source_url": "https://t.bilibili.com/1126533092449714215",
+  "plain_text": "周三是十点的温柔小鸟伴你入眠！",
+  "images": [],
+  "stats": {
+    "likes": 221,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c40f8ac-cf9c-4392-af7e-b2327421c0cb",
+    "next_uuid": "645d7d37-b09d-45e2-85b1-ed66be218da8"
+  }
+}

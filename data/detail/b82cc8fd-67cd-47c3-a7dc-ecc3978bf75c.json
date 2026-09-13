@@ -1,0 +1,28 @@
+{
+  "uuid": "b82cc8fd-67cd-47c3-a7dc-ecc3978bf75c",
+  "platform_post_id": "809152176470360136",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-20T12:03:42+08:00",
+  "source_url": "https://t.bilibili.com/809152176470360136",
+  "plain_text": "草啊啊啊啊啊啊啊啊啊啊啊啊啊啊发错音声了 等等",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c0e74b1-ab42-4143-9d9d-6832f54be1ba",
+    "next_uuid": "d8bf4a9d-c3ea-4063-9add-67bc8ffb988b"
+  }
+}

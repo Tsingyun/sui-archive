@@ -1,0 +1,28 @@
+{
+  "uuid": "263cb040-d7a8-4219-a640-f3329dbf5170",
+  "platform_post_id": "916510067824525333",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-04T19:27:09+08:00",
+  "source_url": "https://t.bilibili.com/916510067824525333",
+  "plain_text": "休息休息 明天见！[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 317,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c15b6c8b-2504-4463-aef9-2957fb1aaa96",
+    "next_uuid": "7eaa8522-722d-4452-84e4-e00fec77d4d2"
+  }
+}

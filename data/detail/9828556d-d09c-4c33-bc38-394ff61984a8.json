@@ -1,0 +1,38 @@
+{
+  "uuid": "9828556d-d09c-4c33-bc38-394ff61984a8",
+  "platform_post_id": "765756767451742210",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-23T13:27:21+08:00",
+  "source_url": "https://t.bilibili.com/765756767451742210",
+  "plain_text": "关于昨晚下播前的话题，得到了受害人的一些现身说法，大家引以为戒——一条帮无数饼干岁省了20元的动态，请说谢谢岁己SUI\n",
+  "images": [
+    {
+      "filename": "765756767451742210_00@original.png",
+      "width": 1080,
+      "height": 1696,
+      "file_size": 347922,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 390,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "911fc005-74a3-4af5-9927-86ece0f35e33",
+    "next_uuid": "ad27883a-1fbd-44fa-8c6e-7202af8f84c7"
+  }
+}

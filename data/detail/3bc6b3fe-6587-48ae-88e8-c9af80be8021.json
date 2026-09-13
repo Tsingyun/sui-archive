@@ -1,0 +1,28 @@
+{
+  "uuid": "3bc6b3fe-6587-48ae-88e8-c9af80be8021",
+  "platform_post_id": "905010146863742979",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-04T19:41:35+08:00",
+  "source_url": "https://t.bilibili.com/905010146863742979",
+  "plain_text": "7:50 可能是杀手",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be38fd3f-51af-4b58-9169-e74c0f3ad6c9",
+    "next_uuid": "be97eecf-9240-4e6f-bb58-52419dc6ff2e"
+  }
+}

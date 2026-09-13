@@ -1,0 +1,28 @@
+{
+  "uuid": "ffdd6720-27c8-453d-bbaa-479d4ed337c3",
+  "platform_post_id": "1127353521346183185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-24T23:47:26+08:00",
+  "source_url": "https://t.bilibili.com/1127353521346183185",
+  "plain_text": "左手拿着吹风机右手攥着手机在一片轰鸣中跟你说晚安💤[UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "100a2f11-6566-4a44-9bd0-7e164f357772",
+    "next_uuid": "1c5e0936-1297-4f88-b098-f3d62e3bfd35"
+  }
+}

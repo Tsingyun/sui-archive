@@ -1,0 +1,28 @@
+{
+  "uuid": "2e0248fb-a7a7-4593-8716-955a80659d27",
+  "platform_post_id": "943291980878708807",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-15T23:34:39+08:00",
+  "source_url": "https://t.bilibili.com/943291980878708807",
+  "plain_text": "告诉我~\n@全体饼干岁 晚安",
+  "images": [],
+  "stats": {
+    "likes": 362,
+    "comments": 92,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3243d518-8868-40fa-83d4-45691bf3030e",
+    "next_uuid": "27c823c1-aa54-41b9-bde6-74a4f2095a95"
+  }
+}

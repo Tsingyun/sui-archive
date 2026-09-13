@@ -1,0 +1,38 @@
+{
+  "uuid": "72c831dd-4e82-494a-b289-dec3ab14b3cc",
+  "platform_post_id": "830679407019425873",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-17T12:20:21+08:00",
+  "source_url": "https://t.bilibili.com/830679407019425873",
+  "plain_text": "昨天已经起过周四的床了，所以今天就晚点起啦。\n早\n",
+  "images": [
+    {
+      "filename": "830679407019425873_00@original.gif",
+      "width": 275,
+      "height": 281,
+      "file_size": 3285136,
+      "mime_type": "image/gif",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 486,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "894f296c-10c9-4f1f-bec7-8c4fd2219c81",
+    "next_uuid": "2168efb0-cbea-47f5-830d-0e2ceebc3f4f"
+  }
+}

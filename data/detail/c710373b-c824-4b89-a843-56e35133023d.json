@@ -1,0 +1,28 @@
+{
+  "uuid": "c710373b-c824-4b89-a843-56e35133023d",
+  "platform_post_id": "800258768071819282",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-27T12:52:44+08:00",
+  "source_url": "https://t.bilibili.com/800258768071819282",
+  "plain_text": "为什么观众能听到我听不到ns声音啊 有没有电脑高手救救",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a034d59-ed4a-41d3-afac-1b990b036c47",
+    "next_uuid": "2348d1d0-cd5c-41be-86be-d3b5e992d993"
+  }
+}

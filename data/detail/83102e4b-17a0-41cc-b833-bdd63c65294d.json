@@ -1,0 +1,28 @@
+{
+  "uuid": "83102e4b-17a0-41cc-b833-bdd63c65294d",
+  "platform_post_id": "1158830761157066755",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-17T19:35:12+08:00",
+  "source_url": "https://t.bilibili.com/1158830761157066755",
+  "plain_text": "我邀请你7:50来看我的直播！今天是唱歌听歌画头像[UPOWER_1954091502_老实]",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf7cd160-2c66-4153-9fac-2dbe2668c074",
+    "next_uuid": "c2b7eb1a-4682-4772-9c14-3f1281628869"
+  }
+}

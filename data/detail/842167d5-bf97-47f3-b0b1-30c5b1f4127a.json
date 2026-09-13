@@ -1,0 +1,28 @@
+{
+  "uuid": "842167d5-bf97-47f3-b0b1-30c5b1f4127a",
+  "platform_post_id": "875319222609117209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-15T19:25:38+08:00",
+  "source_url": "https://t.bilibili.com/875319222609117209",
+  "plain_text": "休！明天见！紧张紧张紧张了！",
+  "images": [],
+  "stats": {
+    "likes": 357,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "373fad06-293a-4580-aaff-025b6c760405",
+    "next_uuid": "0951c1d5-f317-4342-8255-9d2e57247fce"
+  }
+}

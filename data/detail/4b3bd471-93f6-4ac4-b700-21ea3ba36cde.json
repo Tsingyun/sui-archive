@@ -1,0 +1,28 @@
+{
+  "uuid": "4b3bd471-93f6-4ac4-b700-21ea3ba36cde",
+  "platform_post_id": "1187411036928475138",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-04T20:01:16+08:00",
+  "source_url": "https://t.bilibili.com/1187411036928475138",
+  "plain_text": "8:20来吧！唱唱聊聊和我想玩什么游戏呢..或者看pp",
+  "images": [],
+  "stats": {
+    "likes": 176,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e17b3f70-ac98-4d54-91ee-42b8c7a4b479",
+    "next_uuid": "3241147d-97af-4fc9-8672-75d23dfd8ee5"
+  }
+}

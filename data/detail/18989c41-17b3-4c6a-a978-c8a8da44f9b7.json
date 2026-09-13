@@ -1,0 +1,28 @@
+{
+  "uuid": "18989c41-17b3-4c6a-a978-c8a8da44f9b7",
+  "platform_post_id": "1175822948841291785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-04T14:33:34+08:00",
+  "source_url": "https://t.bilibili.com/1175822948841291785",
+  "plain_text": "洗个碗来 2:50开摸！玩只狼还是聊天唱唱！",
+  "images": [],
+  "stats": {
+    "likes": 189,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "70ab4021-a831-4b79-a549-d82ff653175a",
+    "next_uuid": "3c25f422-90c1-4fdf-a539-54ffc3a73119"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d03bfd74-73c3-4553-ba8a-2b88b1bee9b9",
+  "platform_post_id": "1180045820870787089",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-15T23:40:28+08:00",
+  "source_url": "https://t.bilibili.com/1180045820870787089",
+  "plain_text": "晚安！洗澡去了 你呢还赖在椅子上床上吗！看看隔壁家小岁 学学吧！",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4815b680-6128-4d1a-822e-13d699768bf8",
+    "next_uuid": "c4a22888-dd94-44e7-9f38-7dab951bcf00"
+  }
+}

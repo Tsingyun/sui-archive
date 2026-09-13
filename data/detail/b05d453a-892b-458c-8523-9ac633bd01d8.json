@@ -1,0 +1,28 @@
+{
+  "uuid": "b05d453a-892b-458c-8523-9ac633bd01d8",
+  "platform_post_id": "888010876766912537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-19T00:15:44+08:00",
+  "source_url": "https://t.bilibili.com/888010876766912537",
+  "plain_text": "晚安[响指]。被狮子说过晚安的人，怎么会爱上泰迪？",
+  "images": [],
+  "stats": {
+    "likes": 516,
+    "comments": 94,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed99cf4b-3586-43b0-8995-958d3c3ef005",
+    "next_uuid": "83c3ed09-54cb-45f5-87fc-1656c335c727"
+  }
+}

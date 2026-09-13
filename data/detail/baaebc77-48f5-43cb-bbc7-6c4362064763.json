@@ -1,0 +1,28 @@
+{
+  "uuid": "baaebc77-48f5-43cb-bbc7-6c4362064763",
+  "platform_post_id": "1128472948799176711",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-28T00:11:23+08:00",
+  "source_url": "https://t.bilibili.com/1128472948799176711",
+  "plain_text": "晚安晚安。手感不是很好 可能是天气太冷了吧🙂",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 57,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "641577d4-c11d-4413-9fe5-6ddaa6543d8e",
+    "next_uuid": "e749688c-7dca-4ec0-abd9-ac938187f0e5"
+  }
+}

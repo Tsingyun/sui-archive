@@ -1,0 +1,28 @@
+{
+  "uuid": "d270ee6d-1757-4d2d-8a57-55489b63a268",
+  "platform_post_id": "894640807305281556",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-05T21:03:15+08:00",
+  "source_url": "https://t.bilibili.com/894640807305281556",
+  "plain_text": "蛋糕看起来很好吃的说！",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b1898234-fef3-4424-91c8-f6bfaeaaacea",
+    "next_uuid": "4833b526-f2ac-44ec-9d1b-be4103cae019"
+  }
+}

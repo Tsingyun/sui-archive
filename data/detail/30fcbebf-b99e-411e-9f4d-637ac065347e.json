@@ -1,0 +1,110 @@
+{
+  "uuid": "30fcbebf-b99e-411e-9f4d-637ac065347e",
+  "platform_post_id": "821127713265811458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-07-22T18:34:54+08:00",
+  "source_url": "https://t.bilibili.com/821127713265811458",
+  "plain_text": "今晚8:30！不喜欢就哇哇大哭哇哇哇哇哇哇哇哭",
+  "images": [
+    {
+      "filename": "821127713265811458_100@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 880819,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_101@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 445174,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_102@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 1183344,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_103@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 518153,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_104@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 113817,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_105@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 652347,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_106@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 825973,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_107@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 733408,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "821127713265811458_108@repost.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 709858,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 349,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "🍧夏日泳装形象公开🍧\n🧊终于迎来了和你认识后的第一个夏天！\n想去海边玩！虽然还不会游泳...但想穿泳装...！\r要陪我一起去吗？\r\n\n时间：7月22日8:30\r地点：25788785\r\n\n►限定上舰礼物：动态壁纸+吧唧+立牌+拍立得+常规吧唧\n►提督礼物：以上+色纸+挂画（全月都有）\n",
+    "source_url": "https://t.bilibili.com/820396580985110533"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4dcfaaf5-7c08-430b-937d-39be2e6fde8d",
+    "next_uuid": "ce819aaf-a0f1-4dd6-abbc-93760c20b7f0"
+  }
+}

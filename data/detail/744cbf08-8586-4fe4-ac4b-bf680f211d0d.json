@@ -1,0 +1,38 @@
+{
+  "uuid": "744cbf08-8586-4fe4-ac4b-bf680f211d0d",
+  "platform_post_id": "960241974598696961",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-31T15:49:17+08:00",
+  "source_url": "https://t.bilibili.com/960241974598696961",
+  "plain_text": "好神气的一只饼",
+  "images": [
+    {
+      "filename": "960241974598696961_100@repost.jpg",
+      "width": 2480,
+      "height": 3706,
+      "file_size": 1771361,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 296,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Eternalの零",
+    "author_url": "https://space.bilibili.com/19483208",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "601b67aa-d298-457e-88ea-f16e85cccfe7",
+    "next_uuid": "ba623b77-cfd3-4b6d-915f-04634b203cc0"
+  }
+}

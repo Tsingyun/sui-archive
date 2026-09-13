@@ -1,0 +1,28 @@
+{
+  "uuid": "085305f1-9b3c-42b9-a9cb-86f9ac66a600",
+  "platform_post_id": "935335695490220054",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-25T13:00:12+08:00",
+  "source_url": "https://t.bilibili.com/935335695490220054",
+  "plain_text": "\n早好上 好困 得起床了！",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a530cc92-8eb5-4041-9f0e-89dab549603b",
+    "next_uuid": "356a0672-ca2b-407c-a6dd-605f74bf0311"
+  }
+}

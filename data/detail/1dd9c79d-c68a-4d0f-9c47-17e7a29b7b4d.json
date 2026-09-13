@@ -1,0 +1,28 @@
+{
+  "uuid": "1dd9c79d-c68a-4d0f-9c47-17e7a29b7b4d",
+  "platform_post_id": "817050724146872337",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-11T18:54:06+08:00",
+  "source_url": "https://t.bilibili.com/817050724146872337",
+  "plain_text": "黏床上了 能不能再躺25分钟啊[UP_1954091502_别走好吗] 7:25好吗",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f28e4b94-2c4b-41a0-8f06-984a8b12324b",
+    "next_uuid": "236edbd1-0814-4bbb-b11b-78015db503f3"
+  }
+}

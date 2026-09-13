@@ -1,0 +1,28 @@
+{
+  "uuid": "d8ce8746-f9d2-48ac-b7a1-e049d38031a4",
+  "platform_post_id": "1131075179262246921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-04T00:29:22+08:00",
+  "source_url": "https://t.bilibili.com/1131075179262246921",
+  "plain_text": "晚安 来点92号的饼能量谢谢您~",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0de3a758-753d-4f15-b518-dee485ce9289",
+    "next_uuid": "dab74ed3-79b9-4abe-a993-89210f24e959"
+  }
+}

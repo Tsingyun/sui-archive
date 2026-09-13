@@ -1,0 +1,28 @@
+{
+  "uuid": "a4957b93-720d-45bc-8aa9-95d804f90622",
+  "platform_post_id": "735511122398937097",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-04T01:18:48+08:00",
+  "source_url": "https://t.bilibili.com/735511122398937097",
+  "plain_text": "有的人晚安晚安哦有的人拜拜拜拜",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c75dcad-fc58-40d1-8bf0-4e7fd8590e39",
+    "next_uuid": "a5238157-c5da-4a06-a8c2-e4ac80883fad"
+  }
+}

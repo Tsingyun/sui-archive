@@ -1,0 +1,28 @@
+{
+  "uuid": "867cda37-e098-4d3f-ad8e-896cdbab1f01",
+  "platform_post_id": "801127111418970232",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-29T21:02:21+08:00",
+  "source_url": "https://t.bilibili.com/801127111418970232",
+  "plain_text": "夸夸岁己，你真棒呀。大家晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00f36577-103e-4941-b47f-5835acdf6674",
+    "next_uuid": "fabde1a4-e672-4f55-ad0a-55fa6de55d37"
+  }
+}

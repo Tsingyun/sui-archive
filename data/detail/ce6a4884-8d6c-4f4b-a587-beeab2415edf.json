@@ -1,0 +1,28 @@
+{
+  "uuid": "ce6a4884-8d6c-4f4b-a587-beeab2415edf",
+  "platform_post_id": "1098708529054744576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-08T19:10:14+08:00",
+  "source_url": "https://t.bilibili.com/1098708529054744576",
+  "plain_text": "听我说！7:40来直播 都记住了吧",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "deadf11e-b2bb-4e65-bdff-6ef3b2a535ab",
+    "next_uuid": "36723426-3dcd-4ef8-b1fd-33b3897e8f60"
+  }
+}

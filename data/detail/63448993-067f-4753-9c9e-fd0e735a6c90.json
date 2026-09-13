@@ -1,0 +1,28 @@
+{
+  "uuid": "63448993-067f-4753-9c9e-fd0e735a6c90",
+  "platform_post_id": "1055274349439746085",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-13T18:03:26+08:00",
+  "source_url": "https://t.bilibili.com/1055274349439746085",
+  "plain_text": "7:30来唱歌聊天 然后黑客儿帝国",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1743b853-6851-4aa3-814e-d086e556976f",
+    "next_uuid": "a88ca54e-532d-495a-8be1-2bbc4aaa467d"
+  }
+}

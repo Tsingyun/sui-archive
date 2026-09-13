@@ -1,0 +1,28 @@
+{
+  "uuid": "582d9382-ea34-4a5e-982f-c815105d4f3b",
+  "platform_post_id": "1219693900905578517",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-30T19:55:16+08:00",
+  "source_url": "https://t.bilibili.com/1219693900905578517",
+  "plain_text": "孩子们今天是8:30岁米栞的拆炸弹！",
+  "images": [],
+  "stats": {
+    "likes": 227,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d58ed240-5081-4301-942c-202943bc3508",
+    "next_uuid": "4715551f-a970-45e2-8872-d8673c4b1b47"
+  }
+}

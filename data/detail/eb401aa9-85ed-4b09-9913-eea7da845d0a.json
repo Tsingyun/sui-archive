@@ -1,0 +1,28 @@
+{
+  "uuid": "eb401aa9-85ed-4b09-9913-eea7da845d0a",
+  "platform_post_id": "772429012058243095",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-13T12:59:04+08:00",
+  "source_url": "https://t.bilibili.com/772429012058243095",
+  "plain_text": "•̩̩̩̩ᯅ•̩̩̩̩  睡过了…",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ff7e7e07-ed36-44fb-847e-b93a9d6cb47c",
+    "next_uuid": "c19424f2-c1d1-4c44-8d67-8fcb3ec440c5"
+  }
+}

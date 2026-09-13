@@ -1,0 +1,28 @@
+{
+  "uuid": "8ea47d1b-1167-4955-925b-4a3fde7247a2",
+  "platform_post_id": "1066867295104532486",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-14T23:49:59+08:00",
+  "source_url": "https://t.bilibili.com/1066867295104532486",
+  "plain_text": "晚安大家 \n祝你在已经逝去了的今天快乐\n祝你在还未到来的明天也快乐",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "925e569d-376a-4585-a40d-5c7ebbc17e17",
+    "next_uuid": "9a2b56af-74ed-4200-9c66-b7eb088d5f4f"
+  }
+}

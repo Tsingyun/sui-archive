@@ -1,0 +1,28 @@
+{
+  "uuid": "d17dbcef-0851-4485-9fd7-d1a455a57e2a",
+  "platform_post_id": "1168192299509743617",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-12T01:02:45+08:00",
+  "source_url": "https://t.bilibili.com/1168192299509743617",
+  "plain_text": "不忙的话回我一下晚安，忙的话抽空我一下晚安[UP_1954091502_吃我一拳]",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b33571d6-6e88-4db5-834d-b6edccbf9031",
+    "next_uuid": "77cd04d5-81ed-43ed-b8fe-57b1dce86edc"
+  }
+}

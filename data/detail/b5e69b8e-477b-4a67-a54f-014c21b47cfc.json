@@ -1,0 +1,28 @@
+{
+  "uuid": "b5e69b8e-477b-4a67-a54f-014c21b47cfc",
+  "platform_post_id": "1077554986216325126",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-12T19:03:41+08:00",
+  "source_url": "https://t.bilibili.com/1077554986216325126",
+  "plain_text": "今天是9点30来 玩游戏到10:30开始助眠[岁己收藏集表情包_那很好了]",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "985f3de0-36d2-4348-97b0-bfbb11b13cd7",
+    "next_uuid": "bee02288-bc00-4cfc-b713-99f74ddf3839"
+  }
+}

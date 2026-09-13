@@ -1,0 +1,28 @@
+{
+  "uuid": "54140cd9-ab36-4f23-88e4-762283755d4c",
+  "platform_post_id": "798451819500011592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-22T16:00:51+08:00",
+  "source_url": "https://t.bilibili.com/798451819500011592",
+  "plain_text": "六点见。送你回家哦。\n疲惫劳累？我把你陪！保安小岁，一路尾随！",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7509d528-1936-4a2c-bff0-5dc51e39e953",
+    "next_uuid": "172cd7fc-a455-435d-b339-81582dd8953f"
+  }
+}

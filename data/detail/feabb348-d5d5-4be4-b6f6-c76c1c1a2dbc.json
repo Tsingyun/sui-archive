@@ -1,0 +1,28 @@
+{
+  "uuid": "feabb348-d5d5-4be4-b6f6-c76c1c1a2dbc",
+  "platform_post_id": "899313757512007702",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-18T11:16:41+08:00",
+  "source_url": "https://t.bilibili.com/899313757512007702",
+  "plain_text": "早上好☀️，做了好多梦一个都想不起来，幸好还记得要给🍪发动态。早——————！",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "896512d6-1895-4e5a-a53e-cf9bbd68d42a",
+    "next_uuid": "8fabc2e6-2846-483b-becd-b1904f3ec26f"
+  }
+}

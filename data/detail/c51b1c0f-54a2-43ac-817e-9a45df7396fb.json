@@ -1,0 +1,28 @@
+{
+  "uuid": "c51b1c0f-54a2-43ac-817e-9a45df7396fb",
+  "platform_post_id": "1139904592645980162",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-27T19:32:00+08:00",
+  "source_url": "https://t.bilibili.com/1139904592645980162",
+  "plain_text": "吃完饭窝在被窝了 申请在床上再躺一会 7:53来\n我发现躺在床上很舒服你也试试吧",
+  "images": [],
+  "stats": {
+    "likes": 219,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59ef747f-01be-4d15-9f8c-f26c2a6b2ac2",
+    "next_uuid": "9f2048a9-ba21-4844-b83b-8328bde3b8b0"
+  }
+}

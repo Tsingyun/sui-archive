@@ -1,0 +1,28 @@
+{
+  "uuid": "30c23e32-d63c-4259-ab72-2847e749bdeb",
+  "platform_post_id": "748781974352560150",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-08T19:36:29+08:00",
+  "source_url": "https://t.bilibili.com/748781974352560150",
+  "plain_text": "八点一起看看好的香香的电影，都准备好小零食。别悄悄减肥就我一个人吃嗷",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4778fd04-9c86-4914-a5fd-428c9b04cb1d",
+    "next_uuid": "37183f14-e92a-400d-ac24-eb756487c8ce"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "497b3998-a291-423c-8198-4bed1d7e7435",
+  "platform_post_id": "1186728386250145797",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-02T23:52:14+08:00",
+  "source_url": "https://t.bilibili.com/1186728386250145797",
+  "plain_text": "晚安大家，世界上最老实纯朴的[UPOWER_1954091502_小肥鸟]要睡觉去了",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "21577d96-bdb8-4300-a9ac-92746e1a680e",
+    "next_uuid": "c2b7f89f-b38e-47a1-bc1f-8618ca0f5b07"
+  }
+}

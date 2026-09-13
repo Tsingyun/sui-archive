@@ -1,0 +1,28 @@
+{
+  "uuid": "4e19e86b-64a7-4f51-8623-29e156dfa378",
+  "platform_post_id": "1247150411367841795",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-12T19:40:33+08:00",
+  "source_url": "https://t.bilibili.com/1247150411367841795",
+  "plain_text": "来来我说个事 小岁8点来直播 都准备一下",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc767f2a-a7af-449f-8ca2-2db9ff6c6158",
+    "next_uuid": "1c016f86-c695-41f1-a664-34c43339f391"
+  }
+}

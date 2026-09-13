@@ -1,0 +1,28 @@
+{
+  "uuid": "4ab78ca8-d594-4198-9a2a-d8fafd65a63d",
+  "platform_post_id": "709390660314071041",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-24T15:58:04+08:00",
+  "source_url": "https://t.bilibili.com/709390660314071041",
+  "plain_text": "5:3x(12+18)÷2 \n差点给我自己整迷糊了 第一次见下午的大家！",
+  "images": [],
+  "stats": {
+    "likes": 445,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "504896b8-cc12-4319-ae85-3bf1dcc81755",
+    "next_uuid": "80f5a7d5-df4b-4b83-a97f-8426c2df9105"
+  }
+}

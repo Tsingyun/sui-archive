@@ -1,0 +1,28 @@
+{
+  "uuid": "0c40f8ac-cf9c-4392-af7e-b2327421c0cb",
+  "platform_post_id": "1126253696191037457",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-22T00:39:33+08:00",
+  "source_url": "https://t.bilibili.com/1126253696191037457",
+  "plain_text": "那我呢！我的晚安呢 谢谢大家来看我[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "327212ff-4731-47b1-b345-24af5300e77d",
+    "next_uuid": "7e3cb9f0-d915-4707-a9a8-0ab05f16270b"
+  }
+}

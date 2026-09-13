@@ -1,0 +1,28 @@
+{
+  "uuid": "b4b749d6-6036-4ad7-b1be-72e254e6968d",
+  "platform_post_id": "1202255998690000904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-14T20:07:18+08:00",
+  "source_url": "https://t.bilibili.com/1202255998690000904",
+  "plain_text": "洗漱一下8:20来！",
+  "images": [],
+  "stats": {
+    "likes": 178,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18aedbcc-7b0a-40c9-8cf4-93ee7537883c",
+    "next_uuid": "557cb95b-7550-4855-8faf-7bf5223bad17"
+  }
+}

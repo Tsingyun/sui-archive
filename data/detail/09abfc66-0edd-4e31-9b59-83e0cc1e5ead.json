@@ -1,0 +1,28 @@
+{
+  "uuid": "09abfc66-0edd-4e31-9b59-83e0cc1e5ead",
+  "platform_post_id": "810455458271723527",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-24T00:21:06+08:00",
+  "source_url": "https://t.bilibili.com/810455458271723527",
+  "plain_text": "[藏狐]",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc6c8abc-c2f3-4b0d-b3d3-7f987fd3862d",
+    "next_uuid": "a06a83f4-d8d5-41e2-a342-131920c87af4"
+  }
+}

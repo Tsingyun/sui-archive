@@ -1,0 +1,28 @@
+{
+  "uuid": "9cd94710-72b8-469b-860b-ecfccb6852e0",
+  "platform_post_id": "1005904533567569927",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-01T17:03:20+08:00",
+  "source_url": "https://t.bilibili.com/1005904533567569927",
+  "plain_text": "丫头们 我5:30吭哧吭哧闯进，来唱歌的嗦",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 28,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e975474e-c2b9-49a2-8788-0a3f3aba49c1",
+    "next_uuid": "88d716ee-6901-4c0f-b30d-ada145a69878"
+  }
+}

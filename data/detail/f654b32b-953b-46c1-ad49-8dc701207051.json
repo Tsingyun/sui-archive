@@ -1,0 +1,28 @@
+{
+  "uuid": "f654b32b-953b-46c1-ad49-8dc701207051",
+  "platform_post_id": "1064637455428223012",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-08T23:37:04+08:00",
+  "source_url": "https://t.bilibili.com/1064637455428223012",
+  "plain_text": "饼干岁晚安，你今天辛苦了，我给你捏捏左手捏捏右手从包里顺走20块点奶茶再捏捏肩膀捏捏脑袋",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9a16bfcb-61c7-4aa4-9915-55998a7fef1f",
+    "next_uuid": "6a1c2e33-f2d2-428a-b1af-fe769f575a18"
+  }
+}

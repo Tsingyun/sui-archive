@@ -1,0 +1,28 @@
+{
+  "uuid": "06cf6b11-6d61-480c-86ac-0766d5a5ee59",
+  "platform_post_id": "1007085945914130435",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-04T21:27:49+08:00",
+  "source_url": "https://t.bilibili.com/1007085945914130435",
+  "plain_text": "丫头 10点来哄你睡觉",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ea78da8-9bb3-48fc-a931-69477bfb51eb",
+    "next_uuid": "92dbf1b9-6ed9-497a-9c39-62a091862093"
+  }
+}

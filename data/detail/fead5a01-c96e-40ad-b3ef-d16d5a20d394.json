@@ -1,0 +1,28 @@
+{
+  "uuid": "fead5a01-c96e-40ad-b3ef-d16d5a20d394",
+  "platform_post_id": "1081643627570003968",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-23T19:29:42+08:00",
+  "source_url": "https://t.bilibili.com/1081643627570003968",
+  "plain_text": "7:40降临[岁己收藏集表情包_流汗了]",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d6d8eea3-0bd4-4481-aba0-b6afe772518f",
+    "next_uuid": "6f27de90-0064-4a8a-a658-615c47afe2f7"
+  }
+}

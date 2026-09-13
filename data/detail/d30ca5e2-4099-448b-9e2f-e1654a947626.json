@@ -1,0 +1,28 @@
+{
+  "uuid": "d30ca5e2-4099-448b-9e2f-e1654a947626",
+  "platform_post_id": "874936966235291684",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-14T18:42:17+08:00",
+  "source_url": "https://t.bilibili.com/874936966235291684",
+  "plain_text": "7:20 聊一下然后八番出口gogogo",
+  "images": [],
+  "stats": {
+    "likes": 300,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "334c258a-9f32-45f1-9243-012a1a4adb5e",
+    "next_uuid": "4e8ba2fd-7762-4ad1-9403-bd1f775187d8"
+  }
+}

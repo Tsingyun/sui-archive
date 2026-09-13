@@ -1,0 +1,28 @@
+{
+  "uuid": "6843476c-4b07-4b6b-bfc0-ce84e7ec232c",
+  "platform_post_id": "770324697086689314",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-07T20:53:15+08:00",
+  "source_url": "https://t.bilibili.com/770324697086689314",
+  "plain_text": "十点见！小播一小时~~",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d908f15b-ea5c-435d-b60f-382ea6c82a0b",
+    "next_uuid": "87084cf9-1b8e-4ebf-b5bb-e7984e90fce0"
+  }
+}

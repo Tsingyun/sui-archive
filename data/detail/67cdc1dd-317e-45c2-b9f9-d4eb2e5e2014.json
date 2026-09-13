@@ -1,0 +1,28 @@
+{
+  "uuid": "67cdc1dd-317e-45c2-b9f9-d4eb2e5e2014",
+  "platform_post_id": "1079413444283727875",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-17T19:15:27+08:00",
+  "source_url": "https://t.bilibili.com/1079413444283727875",
+  "plain_text": "小岁7:40来直播",
+  "images": [],
+  "stats": {
+    "likes": 190,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9236bafb-c000-44f3-8aae-669455a8b59d",
+    "next_uuid": "834d5021-324d-4b8d-ad5b-a760b02ab197"
+  }
+}

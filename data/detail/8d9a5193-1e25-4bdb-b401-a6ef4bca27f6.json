@@ -1,0 +1,28 @@
+{
+  "uuid": "8d9a5193-1e25-4bdb-b401-a6ef4bca27f6",
+  "platform_post_id": "826319783268974674",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-05T18:22:47+08:00",
+  "source_url": "https://t.bilibili.com/826319783268974674",
+  "plain_text": "在录歌 好累哦\n8点见嗷 唱点看点 有无推荐的【搬运】🎬",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5ad14ac-7f05-4588-8a31-1d4365e075a9",
+    "next_uuid": "99a51d6b-8252-4c0c-9ede-f8a714438ff0"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "322383c3-c1e4-43c7-9291-4369f006b3f8",
+  "platform_post_id": "1103966694275022854",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-22T23:14:36+08:00",
+  "source_url": "https://t.bilibili.com/1103966694275022854",
+  "plain_text": "哼 有的事情不要总让我提醒你 偶尔你也要自己主动啊 所以说你就是这点不够好啊…",
+  "images": [
+    {
+      "filename": "1103966694275022854_00@original.jpg",
+      "width": 1086,
+      "height": 2015,
+      "file_size": 452803,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 373,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f2ee7437-e446-46cd-a894-7492c4d6a63f",
+    "next_uuid": "fb6b4e7f-3c38-42d2-9392-b4c1d23a8fde"
+  }
+}

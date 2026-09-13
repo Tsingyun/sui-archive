@@ -1,0 +1,38 @@
+{
+  "uuid": "214f9dd5-da6d-427d-8128-0f7ad74f15a1",
+  "platform_post_id": "1043370388004798469",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-03-12T16:09:59+08:00",
+  "source_url": "https://t.bilibili.com/1043370388004798469",
+  "plain_text": "✨企划【头像分享回】\n你好👋看看你的头像！\n岁己将轻轻锐评一下，从这个头像感觉出你是怎样的一个人，以及如果岁己和你加上好友大概会发生怎样的对话。\n可以附带一些宣言，例如为什么选择了这样的头像，觉得会给别人留下怎样的印象。甚至可以附带朋友圈截图\n（最好是wx头像，因为岁己认为加了朋友、家人、同学、同事的账号才能体现真实的你~） \n投稿邮箱：suiji11@qq.com\n截止时间：3月16日晚5点\n\n\n",
+  "images": [
+    {
+      "filename": "1043370388004798469_00@original.png",
+      "width": 1146,
+      "height": 717,
+      "file_size": 543171,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 249,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a8c3097-ed14-4bf7-8262-21233489b4ba",
+    "next_uuid": "5d6d7f96-173f-453b-9cad-e0eff96ded8b"
+  }
+}

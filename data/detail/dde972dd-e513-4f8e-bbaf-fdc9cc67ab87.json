@@ -1,0 +1,28 @@
+{
+  "uuid": "dde972dd-e513-4f8e-bbaf-fdc9cc67ab87",
+  "platform_post_id": "761264631089987590",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-11T10:55:34+08:00",
+  "source_url": "https://t.bilibili.com/761264631089987590",
+  "plain_text": "起床时间打败百分之80饼干岁",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55d14ea9-0ecb-4d1d-babe-3fb0bdf29053",
+    "next_uuid": "42c7f712-a756-478d-9c9f-94a50a18ae0b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b0544628-28e4-450a-8cc8-59803457d1bc",
+  "platform_post_id": "816042158456832006",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-09T01:40:21+08:00",
+  "source_url": "https://t.bilibili.com/816042158456832006",
+  "plain_text": "想对全世界说晚安 恰好你就是我的全世界🫰🫶\n",
+  "images": [],
+  "stats": {
+    "likes": 547,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d8da395f-7f06-4996-8d5b-7accb54ed03d",
+    "next_uuid": "b2a2ebd9-0289-4a19-a9df-72f97cceafc1"
+  }
+}

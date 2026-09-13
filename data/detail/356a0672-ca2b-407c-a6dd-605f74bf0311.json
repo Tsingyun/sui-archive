@@ -1,0 +1,28 @@
+{
+  "uuid": "356a0672-ca2b-407c-a6dd-605f74bf0311",
+  "platform_post_id": "935410973329588230",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-25T17:52:19+08:00",
+  "source_url": "https://t.bilibili.com/935410973329588230",
+  "plain_text": "谢谢大家来参加线下！直播吧！！6点来的说  用公司的电脑 声音可能听起来不太一样",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "085305f1-9b3c-42b9-a9cb-86f9ac66a600",
+    "next_uuid": "b1bc80d1-883c-4501-baa6-dad05084533f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "1064cac8-2c9f-40ed-aae3-bfcd30631e8a",
+  "platform_post_id": "729499070132912162",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-17T20:28:58+08:00",
+  "source_url": "https://t.bilibili.com/729499070132912162",
+  "plain_text": "吃饭呢吃饭吃饭十分钟后来！",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77886762-387a-4231-9068-0937cb2a9d5b",
+    "next_uuid": "9d1494f7-6b84-45a5-9779-78ce9a582a97"
+  }
+}

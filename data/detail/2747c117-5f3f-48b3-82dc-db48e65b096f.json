@@ -1,0 +1,28 @@
+{
+  "uuid": "2747c117-5f3f-48b3-82dc-db48e65b096f",
+  "platform_post_id": "813052702298734624",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-01T00:19:44+08:00",
+  "source_url": "https://t.bilibili.com/813052702298734624",
+  "plain_text": "虽然今晚一直在挑大家毛病但还是[UP_1954091502_啾咪啾][UP_1954091502_啾咪啾]\n7月快乐 晚安！今晚见！",
+  "images": [],
+  "stats": {
+    "likes": 484,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7bc0c64e-2916-4fad-a6c6-125dfe808b04",
+    "next_uuid": "166a87df-6689-4b9c-9dfb-b5e5b74d2fdb"
+  }
+}

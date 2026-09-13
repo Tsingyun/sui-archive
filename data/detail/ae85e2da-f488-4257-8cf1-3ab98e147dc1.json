@@ -1,0 +1,28 @@
+{
+  "uuid": "ae85e2da-f488-4257-8cf1-3ab98e147dc1",
+  "platform_post_id": "1021894353225777190",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-13T19:12:00+08:00",
+  "source_url": "https://t.bilibili.com/1021894353225777190",
+  "plain_text": "7:40见！今天什么活动 你说你说",
+  "images": [],
+  "stats": {
+    "likes": 201,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf2bc262-58e3-45cb-8be9-cb5e4e60a8af",
+    "next_uuid": "7e0cfdcb-f393-4bc0-b545-9d0b0e577b86"
+  }
+}

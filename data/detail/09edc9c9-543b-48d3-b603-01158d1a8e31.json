@@ -1,0 +1,38 @@
+{
+  "uuid": "09edc9c9-543b-48d3-b603-01158d1a8e31",
+  "platform_post_id": "774822266617724993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-19T23:46:07+08:00",
+  "source_url": "https://t.bilibili.com/774822266617724993",
+  "plain_text": "我们一路走来，拥有了很多回忆，再继续向前走去，在抛下了一些回忆的同时，再次创造了新的回忆；那么再多一秒就好，把这一刻记住吧。\n",
+  "images": [
+    {
+      "filename": "774822266617724993_00@original.png",
+      "width": 1806,
+      "height": 1017,
+      "file_size": 1155021,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 462,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2518329-45c6-41ca-abf3-d709d860fc87",
+    "next_uuid": "eed9315f-596c-4aa0-a053-65d9837b16a0"
+  }
+}

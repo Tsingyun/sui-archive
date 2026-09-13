@@ -1,0 +1,15 @@
+{
+  "total_images": 1,
+  "images": [
+    {
+      "filename": "1242351184832888851_00@original.png",
+      "width": 750,
+      "height": 6761,
+      "variants": [
+        "w300",
+        "w600"
+      ],
+      "is_gif": false
+    }
+  ]
+}

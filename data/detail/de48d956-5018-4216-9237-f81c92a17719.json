@@ -1,0 +1,28 @@
+{
+  "uuid": "de48d956-5018-4216-9237-f81c92a17719",
+  "platform_post_id": "1228980200020115458",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-25T20:30:51+08:00",
+  "source_url": "https://t.bilibili.com/1228980200020115458",
+  "plain_text": "我去累晕了 卸个妆8:40来 昨晚录歌太晚今天真的好没精神(´；ω；`)申请唱聊一会然后看电影？我买好票了你人到就行",
+  "images": [],
+  "stats": {
+    "likes": 169,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c5d1eb66-e0f6-4622-adc8-93798aa0e607",
+    "next_uuid": "76459e0a-ecc5-4bed-9e55-414948b643b6"
+  }
+}

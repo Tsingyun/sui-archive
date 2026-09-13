@@ -1,0 +1,38 @@
+{
+  "uuid": "846b4665-ba8b-493d-b1fc-62133cab271f",
+  "platform_post_id": "1013338825625174020",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-12-21T17:52:11+08:00",
+  "source_url": "https://t.bilibili.com/1013338825625174020",
+  "plain_text": "🎄！Merry Christmas\n今年就由岁己邀请你过圣诞吧\n虽然此生一直都没有特别认真外出过过圣诞节，总之我们就来一起创造点回忆吧\n然后圣诞还有特别的舰长礼物！和转盘\n",
+  "images": [
+    {
+      "filename": "1013338825625174020_00@original.png",
+      "width": 2000,
+      "height": 2000,
+      "file_size": 2850052,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 274,
+    "comments": 41,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92831ca8-d1be-4a2e-9059-a5b871eb623a",
+    "next_uuid": "3ca0fb33-40d3-470e-90ee-2c2ccd8d9b86"
+  }
+}

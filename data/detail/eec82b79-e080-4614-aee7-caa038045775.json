@@ -1,0 +1,28 @@
+{
+  "uuid": "eec82b79-e080-4614-aee7-caa038045775",
+  "platform_post_id": "1015318204232237056",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-27T01:53:11+08:00",
+  "source_url": "https://t.bilibili.com/1015318204232237056",
+  "plain_text": "好完美的圣诞节[温泉物语轻漾幻景表情包_小岁]晚安大家 希望这样的日子能一直持续下去",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "25aaa5f2-9864-49f5-ab0c-cfbaa304336e",
+    "next_uuid": "9d349cb9-9fcb-4ccf-8e64-455e75379d51"
+  }
+}

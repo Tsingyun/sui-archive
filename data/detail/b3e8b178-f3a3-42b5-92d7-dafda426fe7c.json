@@ -1,0 +1,28 @@
+{
+  "uuid": "b3e8b178-f3a3-42b5-92d7-dafda426fe7c",
+  "platform_post_id": "1041562962702106658",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-07T19:16:15+08:00",
+  "source_url": "https://t.bilibili.com/1041562962702106658",
+  "plain_text": "在work呢 7:40来哦[UP_1954091502_牛]",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "376eab36-7905-422d-8cd2-203b5bb542db",
+    "next_uuid": "d98f4041-d9a0-44b5-933f-7764296939ae"
+  }
+}

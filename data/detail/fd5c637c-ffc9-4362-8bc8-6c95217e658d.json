@@ -1,0 +1,38 @@
+{
+  "uuid": "fd5c637c-ffc9-4362-8bc8-6c95217e658d",
+  "platform_post_id": "1106586349468647430",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-30T00:40:12+08:00",
+  "source_url": "https://t.bilibili.com/1106586349468647430",
+  "plain_text": "又是一个愉悦的晚上呀，heartheart，晚安~\n",
+  "images": [
+    {
+      "filename": "1106586349468647430_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 935757,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 340,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "39c80f48-ce69-4a28-8c8b-dd0989a8e37f",
+    "next_uuid": "689b30dd-f27f-456d-b117-86308fa3dc29"
+  }
+}

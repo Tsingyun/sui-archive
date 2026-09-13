@@ -1,0 +1,38 @@
+{
+  "uuid": "d72d8f33-d9f2-4ab4-b95a-f3ff93f7e875",
+  "platform_post_id": "759531521594884099",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-06T18:50:13+08:00",
+  "source_url": "https://t.bilibili.com/759531521594884099",
+  "plain_text": "今晚八点！嗨聊！劲歌！热舞！\n以及生日纪念豪华礼物将持续到本月12号，买到就是赚到！\n",
+  "images": [
+    {
+      "filename": "759531521594884099_00@original.png",
+      "width": 1727,
+      "height": 1080,
+      "file_size": 1948122,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 356,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "93319783-2fc5-4550-884e-7b586570c57a",
+    "next_uuid": "99618f12-81c2-462a-b182-75373175db27"
+  }
+}

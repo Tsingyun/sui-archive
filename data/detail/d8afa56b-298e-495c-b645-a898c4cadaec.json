@@ -1,0 +1,28 @@
+{
+  "uuid": "d8afa56b-298e-495c-b645-a898c4cadaec",
+  "platform_post_id": "765085807685926951",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-21T18:03:41+08:00",
+  "source_url": "https://t.bilibili.com/765085807685926951",
+  "plain_text": "૮₍ᵔ⤙ᵔ ₎ა 今晚八点的直播内容是——一起鉴赏&研究一下辱骂音声！如果有对这方面有很深入研究的观众，可以在这个评论下推荐自己喜欢的视频。",
+  "images": [],
+  "stats": {
+    "likes": 341,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d7e281c7-23e2-4bf7-a999-e08b46656a6f",
+    "next_uuid": "3a5806ee-450f-466d-b5b2-58d8ce648a1f"
+  }
+}

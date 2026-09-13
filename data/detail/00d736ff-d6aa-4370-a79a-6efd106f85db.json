@@ -1,0 +1,28 @@
+{
+  "uuid": "00d736ff-d6aa-4370-a79a-6efd106f85db",
+  "platform_post_id": "981136681259237383",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-25T23:11:25+08:00",
+  "source_url": "https://t.bilibili.com/981136681259237383",
+  "plain_text": "回到本属于的世界线的感觉，终于又见到大家了，晚安晚安，这下可以说明天见了",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c93dc394-9ffc-441d-bd4e-a8a24a5b80de",
+    "next_uuid": "245b9a15-041e-45a3-b15f-c65bf9f5664a"
+  }
+}

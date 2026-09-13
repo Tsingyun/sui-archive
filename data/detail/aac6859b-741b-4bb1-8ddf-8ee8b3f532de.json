@@ -1,0 +1,38 @@
+{
+  "uuid": "aac6859b-741b-4bb1-8ddf-8ee8b3f532de",
+  "platform_post_id": "1179585361712513033",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-03-14T17:53:39+08:00",
+  "source_url": "https://t.bilibili.com/1179585361712513033",
+  "plain_text": "给你涂上岁己的颜色（的口红",
+  "images": [
+    {
+      "filename": "1179585361712513033_100@repost.jpg",
+      "width": 2250,
+      "height": 3334,
+      "file_size": 8111341,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 205,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e9726b6d-c3e2-478a-917d-e69521ab1139",
+    "next_uuid": "ddd23b2d-3c3b-40ee-b599-3cff9b7f1e67"
+  }
+}

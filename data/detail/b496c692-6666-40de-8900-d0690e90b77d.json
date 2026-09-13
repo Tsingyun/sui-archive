@@ -1,0 +1,28 @@
+{
+  "uuid": "b496c692-6666-40de-8900-d0690e90b77d",
+  "platform_post_id": "836068079387541512",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-01T00:51:09+08:00",
+  "source_url": "https://t.bilibili.com/836068079387541512",
+  "plain_text": "9月了啊啊啊啊啊啊啊！晚安 饼干岁 6小时啊6小时感恩吧你就！",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "135cbcba-2529-451c-889a-7fb1d2e8ee8e",
+    "next_uuid": "89e2cf31-6a30-4fd0-8847-df45645fe497"
+  }
+}

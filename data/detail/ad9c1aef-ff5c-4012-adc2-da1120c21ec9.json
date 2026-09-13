@@ -1,0 +1,28 @@
+{
+  "uuid": "ad9c1aef-ff5c-4012-adc2-da1120c21ec9",
+  "platform_post_id": "804085188799758369",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-06T20:21:12+08:00",
+  "source_url": "https://t.bilibili.com/804085188799758369",
+  "plain_text": "对不起因为小岁肚子饿早下播让小饼孤单了；；都怪小岁，骂小岁吧，还是希望小饼开开心心晚安呜呜",
+  "images": [],
+  "stats": {
+    "likes": 413,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "812352ed-5307-4e37-984e-4ca7e6dd77fb",
+    "next_uuid": "4618cb5c-7d5e-4d23-a5f6-7b35062a41cd"
+  }
+}

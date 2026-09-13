@@ -1,0 +1,28 @@
+{
+  "uuid": "6c9c37d7-8726-409f-ade1-fb99b98aaa73",
+  "platform_post_id": "748131183731146757",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-07T01:31:05+08:00",
+  "source_url": "https://t.bilibili.com/748131183731146757",
+  "plain_text": "拜拜 我要回家写作业了 写完作业见",
+  "images": [],
+  "stats": {
+    "likes": 471,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8a898d3b-a280-476f-b1bc-ea4e9a93be49",
+    "next_uuid": "11e2893a-745a-49c8-8a2a-23776daae06e"
+  }
+}

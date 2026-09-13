@@ -1,0 +1,28 @@
+{
+  "uuid": "06d2fff0-e1df-450e-9544-ed95e83484c3",
+  "platform_post_id": "1085016203389304836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-02T21:37:01+08:00",
+  "source_url": "https://t.bilibili.com/1085016203389304836",
+  "plain_text": "你！10点 直播 助眠 我要",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2039b0c-f73d-4e69-a2ee-0a2eaa51eb1c",
+    "next_uuid": "c0477895-8f54-44d3-aa90-6f8598a40666"
+  }
+}

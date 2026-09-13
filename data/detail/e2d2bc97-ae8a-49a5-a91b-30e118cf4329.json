@@ -1,0 +1,28 @@
+{
+  "uuid": "e2d2bc97-ae8a-49a5-a91b-30e118cf4329",
+  "platform_post_id": "879843528265433122",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-28T00:02:15+08:00",
+  "source_url": "https://t.bilibili.com/879843528265433122",
+  "plain_text": "重小通知！祝所有饼干岁晚安，星河入梦的说",
+  "images": [],
+  "stats": {
+    "likes": 452,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8bdb8b4b-a8d8-4858-8ac5-439c7d7aa652",
+    "next_uuid": "0b3c476e-26e3-4ad0-9cef-7fe581ae222e"
+  }
+}

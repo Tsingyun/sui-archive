@@ -1,0 +1,47 @@
+{
+  "uuid": "c5ddc2da-9108-4697-a5be-fea7152a0235",
+  "platform_post_id": "846717167097348178",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-29T17:35:03+08:00",
+  "source_url": "https://t.bilibili.com/846717167097348178",
+  "plain_text": "月饼我吃！饼干岁我吃！",
+  "images": [
+    {
+      "filename": "846717167097348178_100@repost.gif",
+      "width": 400,
+      "height": 400,
+      "file_size": 369419,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "846717167097348178_101@repost.gif",
+      "width": 400,
+      "height": 400,
+      "file_size": 359063,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 238,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "胶胶胶丶",
+    "author_url": "https://space.bilibili.com/255246359",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "de05b4c9-59b2-495b-9d7a-97fd5acb6b81",
+    "next_uuid": "a2a31111-daea-4396-ba8e-89054c84df25"
+  }
+}

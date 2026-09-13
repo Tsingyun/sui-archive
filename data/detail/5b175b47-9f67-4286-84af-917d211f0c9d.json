@@ -1,0 +1,28 @@
+{
+  "uuid": "5b175b47-9f67-4286-84af-917d211f0c9d",
+  "platform_post_id": "1105023063018176513",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-25T19:33:51+08:00",
+  "source_url": "https://t.bilibili.com/1105023063018176513",
+  "plain_text": "十分钟！",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d3b2ec1a-a10b-4bc1-9456-88b233584f17",
+    "next_uuid": "6e02720b-5c66-4b92-a5e0-0dbb963310d0"
+  }
+}

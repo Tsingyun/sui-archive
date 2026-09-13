@@ -1,0 +1,38 @@
+{
+  "uuid": "83c662fc-e2c7-476a-b046-3e7b33f88858",
+  "platform_post_id": "946958332218834969",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-06-25T20:41:58+08:00",
+  "source_url": "https://t.bilibili.com/946958332218834969",
+  "plain_text": "【​饼友圈】👂👂👂\n收集你最近看到的有意思的/想分享的任何东西，或者想问岁己的问题！总之什么都行！\n开放一下你的朋友圈让我看看吧\n请投https://pome.vip/Gz75k7hF \n截止到31日~\n",
+  "images": [
+    {
+      "filename": "946958332218834969_00@original.jpg",
+      "width": 735,
+      "height": 865,
+      "file_size": 117020,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 318,
+    "comments": 19,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9767acbf-073e-4969-8615-c7de70e19de1",
+    "next_uuid": "b9fead80-069c-4583-9ff3-f6c5fb564882"
+  }
+}

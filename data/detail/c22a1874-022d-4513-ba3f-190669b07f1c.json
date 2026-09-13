@@ -1,0 +1,28 @@
+{
+  "uuid": "c22a1874-022d-4513-ba3f-190669b07f1c",
+  "platform_post_id": "1238325597905616900",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-20T00:55:46+08:00",
+  "source_url": "https://t.bilibili.com/1238325597905616900",
+  "plain_text": "七夕快乐捏，今年过得有和以前一样开心吗。晚安喔",
+  "images": [],
+  "stats": {
+    "likes": 188,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa1cc7c1-1936-45b1-9cb5-aca74b152b68",
+    "next_uuid": "f45a0173-161d-492d-9db7-2cfbe489effe"
+  }
+}

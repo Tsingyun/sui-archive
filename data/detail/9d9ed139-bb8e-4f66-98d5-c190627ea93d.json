@@ -1,0 +1,28 @@
+{
+  "uuid": "9d9ed139-bb8e-4f66-98d5-c190627ea93d",
+  "platform_post_id": "890152583671316516",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-24T18:46:39+08:00",
+  "source_url": "https://t.bilibili.com/890152583671316516",
+  "plain_text": "7:30我唱我聊！",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5cccb33e-14a1-4cda-9f8b-32d6c261c6cd",
+    "next_uuid": "f5584877-d2ec-4204-a19f-179a54ad46ec"
+  }
+}

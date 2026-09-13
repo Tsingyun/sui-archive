@@ -1,0 +1,28 @@
+{
+  "uuid": "e5c5edcb-d9ea-4c59-9197-e6bd2f8ec369",
+  "platform_post_id": "793566139526414341",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-09T12:01:55+08:00",
+  "source_url": "https://t.bilibili.com/793566139526414341",
+  "plain_text": "重大澄清：\n  本人因起床后沉迷玩手机，导致现在才想起来发早安动态，真实起床时间其实是11:30。",
+  "images": [],
+  "stats": {
+    "likes": 550,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fdfc92b5-adde-456b-948c-98ed6c021d85",
+    "next_uuid": "065b294c-30b3-4dab-a1cb-35a6f6c6eb54"
+  }
+}

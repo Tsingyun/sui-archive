@@ -1,0 +1,28 @@
+{
+  "uuid": "ef9bb092-6bc5-40cd-b9e7-78502774704a",
+  "platform_post_id": "901296533467562005",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-23T19:30:52+08:00",
+  "source_url": "https://t.bilibili.com/901296533467562005",
+  "plain_text": "今天晚点 8:30来哦哦",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "403be4aa-31db-4fce-89b1-8e0030b97782",
+    "next_uuid": "d6b42223-1607-4965-965d-5fb4a43be51e"
+  }
+}

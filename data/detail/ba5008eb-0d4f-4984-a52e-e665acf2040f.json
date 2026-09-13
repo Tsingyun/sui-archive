@@ -1,0 +1,28 @@
+{
+  "uuid": "ba5008eb-0d4f-4984-a52e-e665acf2040f",
+  "platform_post_id": "1159205651710214150",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-18T19:49:58+08:00",
+  "source_url": "https://t.bilibili.com/1159205651710214150",
+  "plain_text": "吃晚了点！7:15来喔喔喔",
+  "images": [],
+  "stats": {
+    "likes": 182,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c2b7eb1a-4682-4772-9c14-3f1281628869",
+    "next_uuid": "29befc29-4df7-47d2-bbd2-5eab17a20728"
+  }
+}

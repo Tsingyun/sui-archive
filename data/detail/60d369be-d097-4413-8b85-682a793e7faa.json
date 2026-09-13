@@ -1,0 +1,28 @@
+{
+  "uuid": "60d369be-d097-4413-8b85-682a793e7faa",
+  "platform_post_id": "998587764727349248",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-11T23:50:32+08:00",
+  "source_url": "https://t.bilibili.com/998587764727349248",
+  "plain_text": "晚安晚安，801天出发!",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b6195ee1-6829-4acd-b19f-5fc3aca58da4",
+    "next_uuid": "a2253853-a494-4947-8565-81614221880b"
+  }
+}

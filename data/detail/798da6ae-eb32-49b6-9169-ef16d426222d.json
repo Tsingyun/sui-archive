@@ -1,0 +1,28 @@
+{
+  "uuid": "798da6ae-eb32-49b6-9169-ef16d426222d",
+  "platform_post_id": "1132934350372864005",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-09T00:43:54+08:00",
+  "source_url": "https://t.bilibili.com/1132934350372864005",
+  "plain_text": "[岁己收藏集表情包_啊啊啊]晚安！",
+  "images": [],
+  "stats": {
+    "likes": 229,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee0cf520-8e0d-4b9b-be25-423b3dee59ec",
+    "next_uuid": "bbcdb501-0b0b-4cd9-8583-41a597fa09d3"
+  }
+}

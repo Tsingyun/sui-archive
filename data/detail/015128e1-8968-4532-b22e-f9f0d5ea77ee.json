@@ -1,0 +1,28 @@
+{
+  "uuid": "015128e1-8968-4532-b22e-f9f0d5ea77ee",
+  "platform_post_id": "1239713988980244483",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-08-23T18:43:26+08:00",
+  "source_url": "https://t.bilibili.com/1239713988980244483",
+  "plain_text": "就这样萌萌地看着你",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 14,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e979e0e-90b7-4415-b6dc-c8f975ab80bb",
+    "next_uuid": "88fc0301-136b-420d-8577-5d677c27fe60"
+  }
+}

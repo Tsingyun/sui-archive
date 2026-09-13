@@ -1,0 +1,28 @@
+{
+  "uuid": "cdab1c00-e1ea-4dab-9012-81d5ed8aee63",
+  "platform_post_id": "1173014315105517569",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-25T00:54:38+08:00",
+  "source_url": "https://t.bilibili.com/1173014315105517569",
+  "plain_text": "下次一定取苇名弦一郎的性命啊阿啊！谢谢大家看岁己玩游戏了，至少每次都是变得更游戏高手的岁己对吧。晚安了！",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8fc5774f-7672-4fe9-abf3-a446a0215493",
+    "next_uuid": "67e5807b-6894-45b2-8256-959d152fa89a"
+  }
+}

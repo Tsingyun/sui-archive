@@ -1,0 +1,28 @@
+{
+  "uuid": "fafe78b8-f42f-413f-95ae-a2ac49533f5a",
+  "platform_post_id": "1001113261311000608",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-18T19:10:45+08:00",
+  "source_url": "https://t.bilibili.com/1001113261311000608",
+  "plain_text": "7:40 今天是唱唱聊聊+看电影 有几个备选 待会请饼大人来选选",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e0f2e3a-6237-4bc6-9209-5265caf33c74",
+    "next_uuid": "94dc8f06-ae00-418a-8600-bc5d6c044a03"
+  }
+}

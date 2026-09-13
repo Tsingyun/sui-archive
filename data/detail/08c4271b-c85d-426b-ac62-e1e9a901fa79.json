@@ -1,0 +1,28 @@
+{
+  "uuid": "08c4271b-c85d-426b-ac62-e1e9a901fa79",
+  "platform_post_id": "1064236275397033984",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-07T21:40:17+08:00",
+  "source_url": "https://t.bilibili.com/1064236275397033984",
+  "plain_text": "晕！怎么又下雨了 总之总之10点来3d麦助眠！",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "10d8cbf6-551f-4ef4-818e-2a09f720a5f5",
+    "next_uuid": "9a16bfcb-61c7-4aa4-9915-55998a7fef1f"
+  }
+}

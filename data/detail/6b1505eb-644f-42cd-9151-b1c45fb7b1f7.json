@@ -1,0 +1,38 @@
+{
+  "uuid": "6b1505eb-644f-42cd-9151-b1c45fb7b1f7",
+  "platform_post_id": "1138059788228231192",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-11-22T20:13:13+08:00",
+  "source_url": "https://t.bilibili.com/1138059788228231192",
+  "plain_text": "🤔岁己思考的时候就这样萌",
+  "images": [
+    {
+      "filename": "1138059788228231192_100@repost.png",
+      "width": 1915,
+      "height": 3031,
+      "file_size": 4598170,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 266,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3699f27d-de9a-4de7-a7fb-a22e9feab3c2",
+    "next_uuid": "b0b58b21-3fc4-458f-9c29-51c7c7837dfe"
+  }
+}

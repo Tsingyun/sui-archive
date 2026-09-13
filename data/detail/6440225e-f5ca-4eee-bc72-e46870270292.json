@@ -1,0 +1,28 @@
+{
+  "uuid": "6440225e-f5ca-4eee-bc72-e46870270292",
+  "platform_post_id": "734034061678346308",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-30T01:47:03+08:00",
+  "source_url": "https://t.bilibili.com/734034061678346308",
+  "plain_text": "谢谢大家今天也来看我直播，今天也很开心。\n晚安😉⬅️意思是睁一只眼闭一只眼",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "74cb4609-6d57-4fea-8b93-159bdaab5046",
+    "next_uuid": "0c7172d4-7e36-4be5-9bd2-2d415b075c8d"
+  }
+}

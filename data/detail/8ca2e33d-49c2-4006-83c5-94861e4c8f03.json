@@ -1,0 +1,28 @@
+{
+  "uuid": "8ca2e33d-49c2-4006-83c5-94861e4c8f03",
+  "platform_post_id": "805807779929391145",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-11T11:45:44+08:00",
+  "source_url": "https://t.bilibili.com/805807779929391145",
+  "plain_text": "久违地睡懒觉了desu(///•﹏•///)♡  早早nyo",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48392b1c-9f1f-45d9-a8a5-be7d1ec61817",
+    "next_uuid": "ccf4c47d-f4f4-42b7-8e87-1e341e784ecf"
+  }
+}

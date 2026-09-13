@@ -1,0 +1,28 @@
+{
+  "uuid": "36f4216a-bef1-4b06-83a0-5b44e980d20b",
+  "platform_post_id": "1178432910317846534",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-11T15:21:33+08:00",
+  "source_url": "https://t.bilibili.com/1178432910317846534",
+  "plain_text": "忘记时间了！3:30来只狼 来杀义父了 怎么打的来着",
+  "images": [],
+  "stats": {
+    "likes": 191,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86b50da9-5276-4d40-b9b1-ad4f99ccd4d4",
+    "next_uuid": "9825b622-ec04-482f-b412-5152df7abcc0"
+  }
+}

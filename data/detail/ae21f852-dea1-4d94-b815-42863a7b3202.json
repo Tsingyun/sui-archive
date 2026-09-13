@@ -1,0 +1,28 @@
+{
+  "uuid": "ae21f852-dea1-4d94-b815-42863a7b3202",
+  "platform_post_id": "747552600093622292",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-05T12:05:53+08:00",
+  "source_url": "https://t.bilibili.com/747552600093622292",
+  "plain_text": "早上好！睡得好爽，大家今天也加油加油[UP_1954091502_牛]",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "808c8a75-e6c7-432d-b0fd-a991f92d747a",
+    "next_uuid": "8f8f96df-a386-42db-9134-e37b6de371d5"
+  }
+}

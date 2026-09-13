@@ -1,0 +1,28 @@
+{
+  "uuid": "10b2c270-bc35-48d5-bd05-c0c1da8add3d",
+  "platform_post_id": "970687944939536437",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-28T19:24:59+08:00",
+  "source_url": "https://t.bilibili.com/970687944939536437",
+  "plain_text": "7:45捏 来把荒野大镖客完结了！",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f1afe9b8-a1aa-49cf-a55e-ba6fb77db7e0",
+    "next_uuid": "091ca9c9-9222-4aab-903e-bbbd61c0bbc5"
+  }
+}

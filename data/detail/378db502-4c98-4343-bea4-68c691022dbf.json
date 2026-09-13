@@ -1,0 +1,28 @@
+{
+  "uuid": "378db502-4c98-4343-bea4-68c691022dbf",
+  "platform_post_id": "1217836318954881029",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-25T19:46:54+08:00",
+  "source_url": "https://t.bilibili.com/1217836318954881029",
+  "plain_text": "8点来喔，今天的预计是唱唱聊聊然后秒速五厘米嗯嗯",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f9bc0087-b8e0-4d7a-9943-920ab789e110",
+    "next_uuid": "2359d249-b076-4750-9962-a81e70238ebd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "dd2bbd8e-a5a3-4e51-b125-296eab1d41f2",
+  "platform_post_id": "1109143538634850325",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-05T22:03:24+08:00",
+  "source_url": "https://t.bilibili.com/1109143538634850325",
+  "plain_text": "11:10来小播到12点 这个月事情多想凑一天kpi 有没有谁知道我昨天播到几点呀！",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b0bb764-57fc-4760-8d26-dc4cc4653332",
+    "next_uuid": "77a482bd-3253-4bbe-a741-c554e52f423d"
+  }
+}

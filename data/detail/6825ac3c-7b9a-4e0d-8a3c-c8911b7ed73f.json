@@ -1,0 +1,28 @@
+{
+  "uuid": "6825ac3c-7b9a-4e0d-8a3c-c8911b7ed73f",
+  "platform_post_id": "832912459299815461",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-23T12:45:44+08:00",
+  "source_url": "https://t.bilibili.com/832912459299815461",
+  "plain_text": "早上好！☀️\n为什么不回我早安动态 生气了？对不起对不起对不起！都是我的错😫别生气了好吗没有你我可怎么办啊呜呜呜😭",
+  "images": [],
+  "stats": {
+    "likes": 521,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8df7cc7f-9462-4872-86fd-b4d19d1e0960",
+    "next_uuid": "969a0a8b-0ae1-469f-9f5a-a18b069c1789"
+  }
+}

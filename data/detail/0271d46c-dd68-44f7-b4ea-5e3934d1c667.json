@@ -1,0 +1,28 @@
+{
+  "uuid": "0271d46c-dd68-44f7-b4ea-5e3934d1c667",
+  "platform_post_id": "889595350328803332",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-23T06:44:18+08:00",
+  "source_url": "https://t.bilibili.com/889595350328803332",
+  "plain_text": "哦哈哟果炸一麻糬[UPOWER_1954091502_波比波比][UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 442,
+    "comments": 110,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "42f5f233-f146-4ad9-a137-ca32acb2189f",
+    "next_uuid": "c9b3ae86-849e-4756-890a-90275eed6b14"
+  }
+}

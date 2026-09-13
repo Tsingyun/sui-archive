@@ -1,0 +1,28 @@
+{
+  "uuid": "92dbf1b9-6ed9-497a-9c39-62a091862093",
+  "platform_post_id": "1007147608772182021",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-05T01:27:06+08:00",
+  "source_url": "https://t.bilibili.com/1007147608772182021",
+  "plain_text": "呵 竟然能让冷若冰山的我为你留到一点半 有趣 晚安吧",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06cf6b11-6d61-480c-86ac-0766d5a5ee59",
+    "next_uuid": "c3b02687-812c-4de4-8b32-9998b671860b"
+  }
+}

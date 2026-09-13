@@ -1,0 +1,28 @@
+{
+  "uuid": "d3eefdba-2330-478f-9985-8132c6dbde82",
+  "platform_post_id": "912796690615894041",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-25T19:17:21+08:00",
+  "source_url": "https://t.bilibili.com/912796690615894041",
+  "plain_text": "7:45来直播 唱歌聊天jojo！",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07b87808-36bd-4505-93d9-91ecb82a388a",
+    "next_uuid": "fb845c2c-029d-47df-8719-a54de1d1ff2c"
+  }
+}

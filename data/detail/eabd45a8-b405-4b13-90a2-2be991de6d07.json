@@ -1,0 +1,28 @@
+{
+  "uuid": "eabd45a8-b405-4b13-90a2-2be991de6d07",
+  "platform_post_id": "922071702574202936",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-19T19:09:08+08:00",
+  "source_url": "https://t.bilibili.com/922071702574202936",
+  "plain_text": "全体饼民 7:45岁己来直播",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "daa22a0d-7e1a-4b49-b6b8-5caf03629d41",
+    "next_uuid": "ca92a324-db27-447f-b952-35bc3ef80c6d"
+  }
+}

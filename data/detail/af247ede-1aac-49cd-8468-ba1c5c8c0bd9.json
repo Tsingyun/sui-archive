@@ -1,0 +1,28 @@
+{
+  "uuid": "af247ede-1aac-49cd-8468-ba1c5c8c0bd9",
+  "platform_post_id": "794291748534747157",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-11T10:57:39+08:00",
+  "source_url": "https://t.bilibili.com/794291748534747157",
+  "plain_text": "早 睡得好痛苦一直咳嗽，现在嗓子像连唱了五十首一样疲惫，大家注意保暖呀。您早您您您早😪",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f2d56afb-eb7e-4b27-8796-0ad29ef7206f",
+    "next_uuid": "7dd6d8b4-b5b0-4947-94d4-67c332ae8533"
+  }
+}

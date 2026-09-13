@@ -1,0 +1,28 @@
+{
+  "uuid": "b7fe203e-d694-42ca-a954-fb50b97282a2",
+  "platform_post_id": "980778137404047382",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-25T00:00:05+08:00",
+  "source_url": "https://t.bilibili.com/980778137404047382",
+  "plain_text": "旅行结束了！啊！刚洗完澡翻翻相册坐着发呆 晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 96,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb35e99e-6bfb-4201-8ed0-916537179481",
+    "next_uuid": "c7e53193-8e95-4e01-b959-dc820b15514a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d610e1d3-c8aa-4564-8e57-6a4b6b51b864",
+  "platform_post_id": "948859022764670995",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-30T23:37:37+08:00",
+  "source_url": "https://t.bilibili.com/948859022764670995",
+  "plain_text": "电台一小会。十分钟就来",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37fe85ff-5cf5-4569-89c4-be8946cc597d",
+    "next_uuid": "014152f2-858c-47ab-aea4-c3308904d88d"
+  }
+}

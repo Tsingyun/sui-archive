@@ -1,0 +1,38 @@
+{
+  "uuid": "bdd68678-1bbd-4493-8915-ce767b0451e5",
+  "platform_post_id": "1176282613457879064",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-03-05T20:17:18+08:00",
+  "source_url": "https://t.bilibili.com/1176282613457879064",
+  "plain_text": "来直播了~8:25见，这是本月舰长礼物的卡包~\n",
+  "images": [
+    {
+      "filename": "1176282613457879064_00@original.png",
+      "width": 1600,
+      "height": 1152,
+      "file_size": 1178999,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 198,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb8ccd6e-ac9a-40d0-8065-1d77e02f0131",
+    "next_uuid": "e3386832-d534-499d-85f5-3ab7e288de26"
+  }
+}

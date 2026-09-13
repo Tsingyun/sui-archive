@@ -1,0 +1,28 @@
+{
+  "uuid": "cc2c2120-5319-4944-b6db-b8a2a3da24d7",
+  "platform_post_id": "1017404106622369797",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-01-01T16:47:33+08:00",
+  "source_url": "https://t.bilibili.com/1017404106622369797",
+  "plain_text": "猪人 需要我做点什么",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "211c1db6-8ba6-4f67-8330-ade636c203a4",
+    "next_uuid": "c2b1db99-f07b-4a4e-849c-1fa679f5c1ea"
+  }
+}

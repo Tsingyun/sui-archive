@@ -1,0 +1,28 @@
+{
+  "uuid": "42c7f712-a756-478d-9c9f-94a50a18ae0b",
+  "platform_post_id": "761340621935869976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-11T15:50:27+08:00",
+  "source_url": "https://t.bilibili.com/761340621935869976",
+  "plain_text": "哈哈看错联动时间了捏，那今晚我们干嘛的说",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dde972dd-e513-4f8e-bbaf-fdc9cc67ab87",
+    "next_uuid": "1c90fd49-4343-470f-81b0-20047981e25a"
+  }
+}

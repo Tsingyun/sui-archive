@@ -1,0 +1,28 @@
+{
+  "uuid": "8c19b5fc-d096-4d36-aa8d-95e624361d08",
+  "platform_post_id": "825873579130224659",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-04T13:31:17+08:00",
+  "source_url": "https://t.bilibili.com/825873579130224659",
+  "plain_text": "早啊。今天不播。晚安💤",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "489957ee-1ad9-429a-bb50-2a8db247fba8",
+    "next_uuid": "411d0865-ad46-4c61-8c42-b135888f0a43"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "5455022e-38df-410a-970e-b89b9b03cb29",
+  "platform_post_id": "1163719146936991748",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-30T23:44:38+08:00",
+  "source_url": "https://t.bilibili.com/1163719146936991748",
+  "plain_text": "晚安 [岁己收藏集表情包_凝视]我变强了吗…",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f51ef1b0-6bc3-4c7c-a0b6-8c99f3d929fa",
+    "next_uuid": "55047eea-75b5-472f-90c8-06c219d5d9c3"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "c2b7eb1a-4682-4772-9c14-3f1281628869",
+  "platform_post_id": "1158914242474147847",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-01-18T00:59:09+08:00",
+  "source_url": "https://t.bilibili.com/1158914242474147847",
+  "plain_text": "大家怎么知道岁己今天画头像画出了特别逼真的淤青！哈哈谢了谢了，晚安了\n",
+  "images": [
+    {
+      "filename": "1158914242474147847_00@original.png",
+      "width": 452,
+      "height": 375,
+      "file_size": 70989,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 275,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "83102e4b-17a0-41cc-b833-bdd63c65294d",
+    "next_uuid": "ba5008eb-0d4f-4984-a52e-e665acf2040f"
+  }
+}

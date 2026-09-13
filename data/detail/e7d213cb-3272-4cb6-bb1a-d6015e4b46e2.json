@@ -1,0 +1,28 @@
+{
+  "uuid": "e7d213cb-3272-4cb6-bb1a-d6015e4b46e2",
+  "platform_post_id": "778470510598029317",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-29T19:43:10+08:00",
+  "source_url": "https://t.bilibili.com/778470510598029317",
+  "plain_text": "种种原因 今晚先不播了 TT 说不定晚点会有电台 也可能没有！",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68d33a18-550c-43f5-82f4-9dc3a56e3a0a",
+    "next_uuid": "21387dbe-1b07-46a0-aae6-d655d34e6d12"
+  }
+}
