@@ -1,0 +1,28 @@
+{
+  "uuid": "acb51049-91f6-4a4f-97d0-cca851abf14f",
+  "platform_post_id": "1135741893122981906",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-16T14:18:36+08:00",
+  "source_url": "https://t.bilibili.com/1135741893122981906",
+  "plain_text": "下午好～我2:40来直播(｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c60af526-9e7e-4440-8cb1-f509c3e881ae",
+    "next_uuid": "df50f9db-939a-43a8-936c-09505308e2d3"
+  }
+}

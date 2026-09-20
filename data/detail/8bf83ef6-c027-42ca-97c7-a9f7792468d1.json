@@ -1,0 +1,28 @@
+{
+  "uuid": "8bf83ef6-c027-42ca-97c7-a9f7792468d1",
+  "platform_post_id": "959266364213690371",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-29T00:43:25+08:00",
+  "source_url": "https://t.bilibili.com/959266364213690371",
+  "plain_text": "嗯嗯经过今天的直播，饼干岁好感度又增加了，之后肯定会更加茁壮地成长下去）这么想着，岁己带着丰收般喜悦的微笑沉沉睡去了。",
+  "images": [],
+  "stats": {
+    "likes": 453,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd18ac43-5522-42d5-b089-bba42879f17d",
+    "next_uuid": "f2a65cb4-67a7-44ed-a57c-bdb9991c68f2"
+  }
+}

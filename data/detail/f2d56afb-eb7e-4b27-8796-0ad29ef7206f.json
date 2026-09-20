@@ -1,0 +1,28 @@
+{
+  "uuid": "f2d56afb-eb7e-4b27-8796-0ad29ef7206f",
+  "platform_post_id": "794025593703235620",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-10T17:44:50+08:00",
+  "source_url": "https://t.bilibili.com/794025593703235620",
+  "plain_text": "躺了一下午还是不舒服，没什么力气头也痛今天就先休息哦[UP_1954091502_委屈]明天见明天见。[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 383,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "734e7502-5262-4643-b039-95132496584b",
+    "next_uuid": "af247ede-1aac-49cd-8468-ba1c5c8c0bd9"
+  }
+}

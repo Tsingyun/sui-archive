@@ -1,0 +1,28 @@
+{
+  "uuid": "f3fca996-a41a-4edf-8664-56b27e0747e0",
+  "platform_post_id": "925418942417076231",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-28T19:38:08+08:00",
+  "source_url": "https://t.bilibili.com/925418942417076231",
+  "plain_text": "好困啊7:50先努力唱点聊点再玩玩那个",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c3840111-d8c2-4179-9d8a-72fa4c2bbdf2",
+    "next_uuid": "b44a695e-78a0-4a07-92ae-a94ff10ea64e"
+  }
+}

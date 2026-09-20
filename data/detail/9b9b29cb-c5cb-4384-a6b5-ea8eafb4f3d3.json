@@ -1,0 +1,28 @@
+{
+  "uuid": "9b9b29cb-c5cb-4384-a6b5-ea8eafb4f3d3",
+  "platform_post_id": "942925967823732790",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-14T23:54:20+08:00",
+  "source_url": "https://t.bilibili.com/942925967823732790",
+  "plain_text": "饼干岁你到底有什么魔力啊！你竟然能让我看了一集又一集留了一会又一会，下播了还想跟你说晚安。没有你我怎么活啊呜呜",
+  "images": [],
+  "stats": {
+    "likes": 448,
+    "comments": 108,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "114d65b6-e098-4682-b7d2-bdadb6697b84",
+    "next_uuid": "3243d518-8868-40fa-83d4-45691bf3030e"
+  }
+}

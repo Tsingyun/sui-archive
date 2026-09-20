@@ -1,0 +1,28 @@
+{
+  "uuid": "006def00-8456-4b58-a483-a00d7f004e75",
+  "platform_post_id": "771051551584157699",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-09T19:53:49+08:00",
+  "source_url": "https://t.bilibili.com/771051551584157699",
+  "plain_text": "9点直播",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e95443f-03fe-41c6-85e9-10badb7e467c",
+    "next_uuid": "afc8f5bf-faf0-4ab6-be82-0b585363c74f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ee0529db-9e83-4d19-8e5b-e42d98994f87",
+  "platform_post_id": "1026708272833363970",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-26T18:32:28+08:00",
+  "source_url": "https://t.bilibili.com/1026708272833363970",
+  "plain_text": "到家惹！怎么样是不是很想我，7:30来播吧，点了个很远的外卖希望能在开播前到达并吃完，能做到吗_(:з」∠)_",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c88b5320-b0ee-488a-b859-462ae382f2d3",
+    "next_uuid": "485cda87-64cf-41cf-8b1b-add3232f69c0"
+  }
+}

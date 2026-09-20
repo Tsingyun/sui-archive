@@ -1,0 +1,28 @@
+{
+  "uuid": "a51d9641-e904-49d1-af72-3c864321af10",
+  "platform_post_id": "921413829548572679",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-18T00:36:15+08:00",
+  "source_url": "https://t.bilibili.com/921413829548572679",
+  "plain_text": "感谢饼干岁大人们来观看直播，小岁祝您晚安",
+  "images": [],
+  "stats": {
+    "likes": 418,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5c14cf15-74c2-468d-9273-823f1cda8cb4",
+    "next_uuid": "397c091d-080d-4230-99cb-7ed839a6d974"
+  }
+}

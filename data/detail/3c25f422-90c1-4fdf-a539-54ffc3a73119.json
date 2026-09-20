@@ -1,0 +1,28 @@
+{
+  "uuid": "3c25f422-90c1-4fdf-a539-54ffc3a73119",
+  "platform_post_id": "1175871688188887077",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-04T17:42:42+08:00",
+  "source_url": "https://t.bilibili.com/1175871688188887077",
+  "plain_text": "岁己沉浸在自己游戏力的喜悦中无法自拔了…\n在掰着手指如数家珍中…",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18989c41-17b3-4c6a-a978-c8a8da44f9b7",
+    "next_uuid": "eb8ccd6e-ac9a-40d0-8065-1d77e02f0131"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6e8a0568-d9ba-4679-858c-f4fc7a82a087",
+  "platform_post_id": "972631361787527168",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-03T01:06:26+08:00",
+  "source_url": "https://t.bilibili.com/972631361787527168",
+  "plain_text": "[UPOWER_1954091502_分号分号]好难受啊 各种 晚安",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f99e3541-d9e1-4394-91bd-5a43cab04736",
+    "next_uuid": "c73bb46f-1a4a-47c6-8773-b7320ee3a054"
+  }
+}

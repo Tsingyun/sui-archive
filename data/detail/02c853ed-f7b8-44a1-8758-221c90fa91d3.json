@@ -1,0 +1,28 @@
+{
+  "uuid": "02c853ed-f7b8-44a1-8758-221c90fa91d3",
+  "platform_post_id": "1006314728712044544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-02T19:35:06+08:00",
+  "source_url": "https://t.bilibili.com/1006314728712044544",
+  "plain_text": "岁己于7:50来直————播",
+  "images": [],
+  "stats": {
+    "likes": 214,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88d716ee-6901-4c0f-b30d-ada145a69878",
+    "next_uuid": "d758d1a8-d735-4b43-93f1-f328b3920cf9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4f5945a5-b786-4f8b-9202-eab606bee96d",
+  "platform_post_id": "760146702631960647",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-08T10:37:26+08:00",
+  "source_url": "https://t.bilibili.com/760146702631960647",
+  "plain_text": "睡得好吗[UP_1954091502_可爱捏]",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "959b0938-4229-43b9-be79-9766acb701f6",
+    "next_uuid": "bc133b76-8974-470e-a1a0-734bd7e9dd21"
+  }
+}

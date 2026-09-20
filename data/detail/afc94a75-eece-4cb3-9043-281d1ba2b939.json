@@ -1,0 +1,28 @@
+{
+  "uuid": "afc94a75-eece-4cb3-9043-281d1ba2b939",
+  "platform_post_id": "1225718176666353684",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-17T01:32:32+08:00",
+  "source_url": "https://t.bilibili.com/1225718176666353684",
+  "plain_text": "大家晚安哟 今天也很开心的说 谢谢你陪我度过哟",
+  "images": [],
+  "stats": {
+    "likes": 144,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fb901029-45b7-4537-89d0-4e0ab0799d95",
+    "next_uuid": "af97bfb1-5448-4537-8525-b55013716142"
+  }
+}

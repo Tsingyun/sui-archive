@@ -1,0 +1,28 @@
+{
+  "uuid": "a74a804a-412e-42bf-b8e9-2a47f3687d5c",
+  "platform_post_id": "702405918141186064",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-05T20:13:42+08:00",
+  "source_url": "https://t.bilibili.com/702405918141186064",
+  "plain_text": "是我喜欢的拍照姿势ni！\n9点来感谢一下昨天的礼物再稍微唱点想唱的歌哦！",
+  "images": [],
+  "stats": {
+    "likes": 666,
+    "comments": 40,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5df30f76-6218-445b-b1ab-bfb09343f4ee",
+    "next_uuid": "cde9cf42-9891-4894-8817-84a24d3093f4"
+  }
+}

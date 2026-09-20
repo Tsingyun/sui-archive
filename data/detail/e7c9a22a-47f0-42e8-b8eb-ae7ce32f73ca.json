@@ -1,0 +1,28 @@
+{
+  "uuid": "e7c9a22a-47f0-42e8-b8eb-ae7ce32f73ca",
+  "platform_post_id": "1222573801017966598",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-08T14:10:45+08:00",
+  "source_url": "https://t.bilibili.com/1222573801017966598",
+  "plain_text": "2:40来！空洞吗！今天该去哪了 第一结局结束了都",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "85d9db67-b6f2-496f-aa23-b488a02cd4a8",
+    "next_uuid": "1b92635c-97c7-4169-86c9-f5bc77a4ccd9"
+  }
+}

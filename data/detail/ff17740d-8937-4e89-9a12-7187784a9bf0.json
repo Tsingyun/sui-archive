@@ -1,0 +1,28 @@
+{
+  "uuid": "ff17740d-8937-4e89-9a12-7187784a9bf0",
+  "platform_post_id": "1156584471775936513",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-11T18:18:27+08:00",
+  "source_url": "https://t.bilibili.com/1156584471775936513",
+  "plain_text": "再work一会 7点来边吃饭变命运石之门一口气看完！",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ad7b969-8650-4394-aaa3-26f1401785ad",
+    "next_uuid": "9e29d75a-1aa4-4a72-83a4-aaa9631ca5fa"
+  }
+}

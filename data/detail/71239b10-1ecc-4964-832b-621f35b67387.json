@@ -1,0 +1,28 @@
+{
+  "uuid": "71239b10-1ecc-4964-832b-621f35b67387",
+  "platform_post_id": "760368554911465491",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-09T00:58:20+08:00",
+  "source_url": "https://t.bilibili.com/760368554911465491",
+  "plain_text": "237舰了谢谢饼干岁谢谢谢谢！晚安，明晚八点准时再见！[UP_1954091502_抱抱]",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e686fac9-a32f-4e84-8250-9176c2dff11c",
+    "next_uuid": "11dd96fe-418b-474d-b8f0-cae0758bbe43"
+  }
+}

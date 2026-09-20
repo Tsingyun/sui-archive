@@ -1,0 +1,28 @@
+{
+  "uuid": "e2afb941-f848-4c35-929b-2dd9efbf06de",
+  "platform_post_id": "1031539681535197188",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-08T19:00:48+08:00",
+  "source_url": "https://t.bilibili.com/1031539681535197188",
+  "plain_text": "7:40见！今天看加勒比海盗第二部，我去洗澡了现在",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e73f4538-9365-4612-bc8a-0d8b2f6d835e",
+    "next_uuid": "f7c53635-b5b4-4810-9e4c-eae89dbc9cd3"
+  }
+}

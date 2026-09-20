@@ -1,0 +1,28 @@
+{
+  "uuid": "7360c365-3624-4383-b292-9178f3a67961",
+  "platform_post_id": "1156976920159584279",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-12T19:41:21+08:00",
+  "source_url": "https://t.bilibili.com/1156976920159584279",
+  "plain_text": "八点来！听歌点歌加写to签画头像",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0163b0e5-bc0e-4749-8e2b-fa1a17bd9c7d",
+    "next_uuid": "67e0fb45-0b6d-445a-aaaa-e5e4a4d444ed"
+  }
+}

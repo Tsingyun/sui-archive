@@ -1,0 +1,28 @@
+{
+  "uuid": "f8187004-43b4-4be9-8f24-ff39456e7290",
+  "platform_post_id": "865668684504367129",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-19T19:16:37+08:00",
+  "source_url": "https://t.bilibili.com/865668684504367129",
+  "plain_text": "今天播什么呢！要不也9点来人头麦随便唱唱歌然后继续助眠？",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd1ab648-d3fe-48e9-94df-24d11da729fb",
+    "next_uuid": "7baade3d-e6bb-43a8-aa4f-78b918a65a52"
+  }
+}

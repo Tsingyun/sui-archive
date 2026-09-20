@@ -1,0 +1,28 @@
+{
+  "uuid": "fd05c6ac-beea-4572-8865-d0603832fb0c",
+  "platform_post_id": "908197205845737475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-13T09:49:00+08:00",
+  "source_url": "https://t.bilibili.com/908197205845737475",
+  "plain_text": "早啊人类！吃早饭了我在",
+  "images": [],
+  "stats": {
+    "likes": 400,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dec460bd-0c9f-474e-9322-f5d01b9c9a37",
+    "next_uuid": "510c02e9-d25a-4390-952b-6ed4034f9c39"
+  }
+}

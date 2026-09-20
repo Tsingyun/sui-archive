@@ -1,0 +1,28 @@
+{
+  "uuid": "10d8cbf6-551f-4ef4-818e-2a09f720a5f5",
+  "platform_post_id": "1063899464093138953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-06T23:53:17+08:00",
+  "source_url": "https://t.bilibili.com/1063899464093138953",
+  "plain_text": "今天唱了好多不知道大家有没有听爽，晚安晚安的说[岁己收藏集表情包_啊啊啊]",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc4ae13e-7357-45e1-8818-a86375594466",
+    "next_uuid": "08c4271b-c85d-426b-ac62-e1e9a901fa79"
+  }
+}

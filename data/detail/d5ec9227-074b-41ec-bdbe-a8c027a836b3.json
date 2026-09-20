@@ -1,0 +1,28 @@
+{
+  "uuid": "d5ec9227-074b-41ec-bdbe-a8c027a836b3",
+  "platform_post_id": "962893159156678665",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-07T19:17:14+08:00",
+  "source_url": "https://t.bilibili.com/962893159156678665",
+  "plain_text": "7:50来！评论来点最近看的好玩好笑视频 有无！",
+  "images": [],
+  "stats": {
+    "likes": 273,
+    "comments": 133,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7486f644-4f25-43e0-ad14-296eccee7d13",
+    "next_uuid": "f718fdbc-ce79-4c68-b6f4-7a28be36f9ad"
+  }
+}

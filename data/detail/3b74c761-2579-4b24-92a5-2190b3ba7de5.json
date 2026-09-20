@@ -1,0 +1,28 @@
+{
+  "uuid": "3b74c761-2579-4b24-92a5-2190b3ba7de5",
+  "platform_post_id": "904264046632501281",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-02T19:26:20+08:00",
+  "source_url": "https://t.bilibili.com/904264046632501281",
+  "plain_text": "得歇歇嗓子sorry  明天见 🫶",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1d38a6a-82d2-4961-aa3c-a72ed827cd95",
+    "next_uuid": "825f0590-91c8-4a30-b3a1-77bd7bc76523"
+  }
+}

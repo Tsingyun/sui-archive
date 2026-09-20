@@ -1,0 +1,28 @@
+{
+  "uuid": "7a612ab8-7466-4339-b626-bdd5c45f0ff1",
+  "platform_post_id": "762886178814820391",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-15T19:48:00+08:00",
+  "source_url": "https://t.bilibili.com/762886178814820391",
+  "plain_text": "9点勉为其难地来直播一下吧。",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d4899b81-5a33-43f1-a5ee-afcc2e27da7c",
+    "next_uuid": "4ee60af8-a726-42e3-a437-ca2bdfec152c"
+  }
+}

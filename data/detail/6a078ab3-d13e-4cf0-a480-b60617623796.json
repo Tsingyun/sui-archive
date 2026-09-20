@@ -1,0 +1,38 @@
+{
+  "uuid": "6a078ab3-d13e-4cf0-a480-b60617623796",
+  "platform_post_id": "1166616806745440260",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-02-07T19:09:02+08:00",
+  "source_url": "https://t.bilibili.com/1166616806745440260",
+  "plain_text": "小岁来也！\n岁己将在2月8日的2026冰火盛典直播里作为特别演出嘉宾~在大合唱歌曲里演唱。点击预约直播可以参与抽iPhone 17 pro max喔！",
+  "images": [
+    {
+      "filename": "1166616806745440260_00@original.png",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 724426,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 251,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "72838d80-da6e-4477-933d-93446305b580",
+    "next_uuid": "72b03794-f728-4c52-af02-3c38046ef1bd"
+  }
+}

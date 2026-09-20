@@ -1,0 +1,28 @@
+{
+  "uuid": "ff0b0546-032d-4226-8b47-606a9621a75e",
+  "platform_post_id": "1219981603599548416",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-01T14:31:42+08:00",
+  "source_url": "https://t.bilibili.com/1219981603599548416",
+  "plain_text": "2:40 空洞高手游玩中",
+  "images": [],
+  "stats": {
+    "likes": 188,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4715551f-a970-45e2-8872-d8673c4b1b47",
+    "next_uuid": "11f99c46-c8f1-4f8d-9a23-d296529f2819"
+  }
+}

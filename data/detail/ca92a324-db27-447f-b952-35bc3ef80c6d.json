@@ -1,0 +1,28 @@
+{
+  "uuid": "ca92a324-db27-447f-b952-35bc3ef80c6d",
+  "platform_post_id": "922152804422778887",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-20T00:23:51+08:00",
+  "source_url": "https://t.bilibili.com/922152804422778887",
+  "plain_text": "晚安（神秘）（游离）（高冷）\n话又说回来，看完今天直播有什么要说的吗？总是很好奇有没有哪个话题你还有什么想说的",
+  "images": [],
+  "stats": {
+    "likes": 378,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eabd45a8-b405-4b13-90a2-2be991de6d07",
+    "next_uuid": "0f157a4f-a29f-42a2-a74f-2cdd7a1da99d"
+  }
+}

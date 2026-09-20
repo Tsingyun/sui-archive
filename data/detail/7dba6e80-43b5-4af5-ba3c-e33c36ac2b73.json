@@ -1,0 +1,28 @@
+{
+  "uuid": "7dba6e80-43b5-4af5-ba3c-e33c36ac2b73",
+  "platform_post_id": "1244556483041951746",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-05T19:54:47+08:00",
+  "source_url": "https://t.bilibili.com/1244556483041951746",
+  "plain_text": "好久没回家 和5070ti小宝宝闹矛盾了电脑有点问题 等我十五分钟以内！应该会解决好！",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed812889-f3db-4c65-9a08-1d923c137557",
+    "next_uuid": "dff3d4b4-8371-401b-9645-e367c5229dd8"
+  }
+}

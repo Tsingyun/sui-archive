@@ -1,0 +1,28 @@
+{
+  "uuid": "4805b00a-ba61-41cb-bff8-824a5894a911",
+  "platform_post_id": "890536996138647604",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-25T19:38:22+08:00",
+  "source_url": "https://t.bilibili.com/890536996138647604",
+  "plain_text": "7:50 先唱聊一小时 然hou",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f5584877-d2ec-4204-a19f-179a54ad46ec",
+    "next_uuid": "3cf5859b-4491-469b-8611-c0a86baaa05e"
+  }
+}

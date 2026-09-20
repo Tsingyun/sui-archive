@@ -1,0 +1,28 @@
+{
+  "uuid": "11dd96fe-418b-474d-b8f0-cae0758bbe43",
+  "platform_post_id": "760522490835370005",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-09T10:55:41+08:00",
+  "source_url": "https://t.bilibili.com/760522490835370005",
+  "plain_text": "闹钟还没响我就醒了！早早早呀",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71239b10-1ecc-4964-832b-621f35b67387",
+    "next_uuid": "e795f5ac-99ea-4132-bd5d-dff06ecfac98"
+  }
+}

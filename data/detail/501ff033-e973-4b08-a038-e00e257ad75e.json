@@ -1,0 +1,38 @@
+{
+  "uuid": "501ff033-e973-4b08-a038-e00e257ad75e",
+  "platform_post_id": "954791154278203441",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-07-16T23:17:19+08:00",
+  "source_url": "https://t.bilibili.com/954791154278203441",
+  "plain_text": "勾引一下\n明天中午动态见。晚安，今天你辛苦了，我也辛苦了，好好睡一觉等待明晚的见面吧。\n",
+  "images": [
+    {
+      "filename": "954791154278203441_00@original.jpg",
+      "width": 470,
+      "height": 509,
+      "file_size": 36781,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 427,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dde7973e-096a-45ce-b6ef-168b01e50e44",
+    "next_uuid": "7f431f31-8534-4a3c-b1b2-6ff18bc56613"
+  }
+}

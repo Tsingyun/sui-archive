@@ -1,0 +1,28 @@
+{
+  "uuid": "34f18dd8-c7ba-447c-8b30-4c6cbaff03e3",
+  "platform_post_id": "810021456124575784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-22T20:16:57+08:00",
+  "source_url": "https://t.bilibili.com/810021456124575784",
+  "plain_text": "8:30见 怎么样 今天播认真点还是水一点 请选择并说出你的理由",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c099f01-e568-410d-a8d8-1e4d7b2a157c",
+    "next_uuid": "5e9bc892-cf67-47df-916f-03f19c8bfc36"
+  }
+}

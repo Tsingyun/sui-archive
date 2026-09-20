@@ -1,0 +1,28 @@
+{
+  "uuid": "f1d7e26f-6e09-472a-ab56-19469de062e8",
+  "platform_post_id": "932909361045438467",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-19T00:04:47+08:00",
+  "source_url": "https://t.bilibili.com/932909361045438467",
+  "plain_text": "哇，谢谢饼干岁的晚安啊，真是太大气了，也祝你晚安哦。",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5e651e8-d0a9-41d5-827f-b646917a2804",
+    "next_uuid": "5603f367-383f-447e-b749-a05511d54ff2"
+  }
+}

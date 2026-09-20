@@ -1,0 +1,38 @@
+{
+  "uuid": "5f680226-91b9-4ecc-9624-4e7fbea4c7a6",
+  "platform_post_id": "1141402179029958663",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-12-01T20:23:24+08:00",
+  "source_url": "https://t.bilibili.com/1141402179029958663",
+  "plain_text": "虽然没抽到大的[米汀收藏集表情包_凄凉]但很喜欢小的刚好刚好[米汀收藏集表情包_truemusic]",
+  "images": [
+    {
+      "filename": "1141402179029958663_00@original.jpg",
+      "width": 1206,
+      "height": 2491,
+      "file_size": 557374,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 261,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b39d021c-2773-4c69-b4f5-7205b9aa7904",
+    "next_uuid": "e84d9609-b86f-4daf-9751-c470b731f095"
+  }
+}

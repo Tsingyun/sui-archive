@@ -1,0 +1,28 @@
+{
+  "uuid": "f0f8fa85-2df6-4174-94a3-bac555d07193",
+  "platform_post_id": "1203365874056036357",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-17T19:54:11+08:00",
+  "source_url": "https://t.bilibili.com/1203365874056036357",
+  "plain_text": "8:05来！其实我悄悄把黄蜂女过了大家[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 189,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c71f0593-8604-49fd-804b-19ccd10d0ea9",
+    "next_uuid": "4af0ae0d-fad7-4143-b2a4-e3efec8c6ce3"
+  }
+}

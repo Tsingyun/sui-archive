@@ -1,0 +1,28 @@
+{
+  "uuid": "09f8669a-6a99-4b30-a36c-67cd89c2c6ea",
+  "platform_post_id": "777444992666828801",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-27T01:23:38+08:00",
+  "source_url": "https://t.bilibili.com/777444992666828801",
+  "plain_text": "吃得很饱的岁己跟你说晚安",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "91734c98-7308-440e-bcaf-c9f625175103",
+    "next_uuid": "730da39a-3145-4805-8f25-77b328301077"
+  }
+}

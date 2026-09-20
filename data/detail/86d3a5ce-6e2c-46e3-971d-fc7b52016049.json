@@ -1,0 +1,28 @@
+{
+  "uuid": "86d3a5ce-6e2c-46e3-971d-fc7b52016049",
+  "platform_post_id": "770679590272106548",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-08T19:50:25+08:00",
+  "source_url": "https://t.bilibili.com/770679590272106548",
+  "plain_text": "还有10分钟到开播时间了，都没有人问岁己今天播不播，虽然没人想看岁己的直播但岁己今天还是会来播的哦\n就这样吧哦，呜呜哦 ｡°(°´ᯅ`°)°｡",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7dff2199-0e93-47c4-af81-7f2b4adea184",
+    "next_uuid": "d81f8ad8-184c-480b-8bca-72ace3eda7e4"
+  }
+}

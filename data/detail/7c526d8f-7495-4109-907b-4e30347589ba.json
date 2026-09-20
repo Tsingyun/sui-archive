@@ -1,0 +1,28 @@
+{
+  "uuid": "7c526d8f-7495-4109-907b-4e30347589ba",
+  "platform_post_id": "1118115235717185537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-30T02:18:10+08:00",
+  "source_url": "https://t.bilibili.com/1118115235717185537",
+  "plain_text": "想不想跟智商105至120之间的人说晚安？给你一个机会！",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96dbb15d-3cbe-46f0-b025-a0d08506ecf8",
+    "next_uuid": "5879620d-3cf0-4116-8bae-3de9a705341c"
+  }
+}

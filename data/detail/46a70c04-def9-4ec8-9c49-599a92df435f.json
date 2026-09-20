@@ -1,0 +1,28 @@
+{
+  "uuid": "46a70c04-def9-4ec8-9c49-599a92df435f",
+  "platform_post_id": "775872781257539590",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-22T19:42:39+08:00",
+  "source_url": "https://t.bilibili.com/775872781257539590",
+  "plain_text": "播不播？播什么？播不播？播什么？播不播？播什么？播不播？播什么？播不播？播什么？播不播？播什么？播不播？播什么？播不播？播什么？",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "17e1a74e-7e1d-4dea-929d-73ae6770dffe",
+    "next_uuid": "185acff5-0c5d-416d-91e0-7b1e71f3485e"
+  }
+}

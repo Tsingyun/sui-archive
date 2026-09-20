@@ -1,0 +1,28 @@
+{
+  "uuid": "a43698a6-e4a8-48cf-b853-bcbb548f5712",
+  "platform_post_id": "1000085316733763592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-16T00:41:48+08:00",
+  "source_url": "https://t.bilibili.com/1000085316733763592",
+  "plain_text": "我重生了，这一世我一定要和饼干岁如期相遇然后幸福地互相陪伴下去！晚安",
+  "images": [],
+  "stats": {
+    "likes": 349,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d94170f0-cdee-49ef-aabb-e0f19f4e508d",
+    "next_uuid": "e5bd6948-2311-46c2-b5ad-5f2e9b41c7b9"
+  }
+}

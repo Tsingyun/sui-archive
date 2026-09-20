@@ -1,0 +1,28 @@
+{
+  "uuid": "88d5975f-3a24-4e1d-9a77-cbd77064cc9f",
+  "platform_post_id": "960676668216705088",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-01T19:56:07+08:00",
+  "source_url": "https://t.bilibili.com/960676668216705088",
+  "plain_text": "爬起来了，8:10分见可以吗",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "90657243-7795-4d83-b108-a50d6906cde1",
+    "next_uuid": "39dad94f-2222-4efa-8020-9b912d6c8994"
+  }
+}

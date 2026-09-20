@@ -1,0 +1,28 @@
+{
+  "uuid": "54e6c4ff-0730-4e01-9373-1aca745ba3e1",
+  "platform_post_id": "735901822680563753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-05T02:34:55+08:00",
+  "source_url": "https://t.bilibili.com/735901822680563753",
+  "plain_text": "晚安饼干岁 ，谢谢你，今天也很开心",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22564960-cf37-4050-bb4a-c478b64d8421",
+    "next_uuid": "5ddfae90-ef50-41fb-aff3-db69e15b6151"
+  }
+}

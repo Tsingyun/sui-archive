@@ -1,0 +1,38 @@
+{
+  "uuid": "ddfb52d7-ac3f-4554-9640-a4ec6cc0be55",
+  "platform_post_id": "926505929900294209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-05-01T17:56:12+08:00",
+  "source_url": "https://t.bilibili.com/926505929900294209",
+  "plain_text": "嗯..要乖乖听话",
+  "images": [
+    {
+      "filename": "926505929900294209_100@repost.png",
+      "width": 1080,
+      "height": 1702,
+      "file_size": 1572792,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 337,
+    "comments": 49,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "980c8cc8-724f-4b82-805e-585bb4a42f31",
+    "next_uuid": "0f4c91e9-2599-447a-aa0e-ceafba8a288e"
+  }
+}

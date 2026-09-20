@@ -1,0 +1,28 @@
+{
+  "uuid": "f639508c-dd80-4118-9cc5-66e8bcd9402d",
+  "platform_post_id": "1247971768003461125",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-15T00:47:50+08:00",
+  "source_url": "https://t.bilibili.com/1247971768003461125",
+  "plain_text": "以防有人想跟岁己说晚安找不到地方焦急得睡不着觉 就发个动态吧！\n然后 周二休息哟 周三见",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d5445c49-d006-4151-a83a-ab330ba2816d",
+    "next_uuid": "0dc135ac-c474-4292-94ef-2d7a285b187d"
+  }
+}

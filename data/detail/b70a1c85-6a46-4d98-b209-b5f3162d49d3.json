@@ -1,0 +1,38 @@
+{
+  "uuid": "b70a1c85-6a46-4d98-b209-b5f3162d49d3",
+  "platform_post_id": "759166002723291154",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T19:11:49+08:00",
+  "source_url": "https://t.bilibili.com/759166002723291154",
+  "plain_text": "八点！紧张！虽然也什么好紧张的但是好紧张 \n 要来哦 要准时来哦",
+  "images": [
+    {
+      "filename": "759166002723291154_100@repost.png",
+      "width": 4168,
+      "height": 2608,
+      "file_size": 7551071,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 279,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "【岁己SUI首次生日纪念回】\n        将于2月5日20:00举行！\r  🌟这次是和饼干岁一起度过的第一个生日！\r  🌟本次上舰有豪华的限定上舰礼物！详情请看图\r  🌟有什么想对岁己说的话可以发至提问箱（链接见评论），有想让岁己看的二创视频可以发到话题“旺旺岁岁饼”中！\r  🌟预约即有机会参与88元现金抽奖\r\n\n  🎉 好紧张！希望生日的时候可以见到大家！\n",
+    "source_url": "https://t.bilibili.com/758044320447070224"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "58c5b6f7-0de4-49a0-b475-0f287314734f",
+    "next_uuid": "efd33339-da91-4efb-987d-4891c9043bf2"
+  }
+}

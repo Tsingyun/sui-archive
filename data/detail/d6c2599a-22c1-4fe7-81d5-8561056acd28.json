@@ -1,0 +1,38 @@
+{
+  "uuid": "d6c2599a-22c1-4fe7-81d5-8561056acd28",
+  "platform_post_id": "1162625321845915671",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-01-28T01:00:02+08:00",
+  "source_url": "https://t.bilibili.com/1162625321845915671",
+  "plain_text": "晚安晚安大家！这一轮12月的头像全家福在此，进步很大吧！请夸请夸[岁己收藏集表情包_诶嘿]\n",
+  "images": [
+    {
+      "filename": "1162625321845915671_00@original.png",
+      "width": 1654,
+      "height": 898,
+      "file_size": 1445278,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 308,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d69560f8-a4f3-4c57-ac2a-e8847ab08ab7",
+    "next_uuid": "5a003777-6a8b-4331-ad97-51a8fb56f33e"
+  }
+}

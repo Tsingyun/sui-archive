@@ -1,0 +1,28 @@
+{
+  "uuid": "f369a601-eab4-4d27-b244-6e0eb17a5545",
+  "platform_post_id": "1206395887584018433",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-25T23:52:11+08:00",
+  "source_url": "https://t.bilibili.com/1206395887584018433",
+  "plain_text": "饼饼的干晚安捏 明天还来见你",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "106e839c-5ad9-4e28-9861-78794eefa756",
+    "next_uuid": "0a2bf91c-b51f-4890-b775-830a616c10d7"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "68109c2e-adac-4022-9a63-570a7e8a1d0c",
+  "platform_post_id": "882453051637497892",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-01-04T00:48:32+08:00",
+  "source_url": "https://t.bilibili.com/882453051637497892",
+  "plain_text": "耶—！怎么又偷拍",
+  "images": [
+    {
+      "filename": "882453051637497892_100@repost.jpg",
+      "width": 1090,
+      "height": 1800,
+      "file_size": 1358352,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 412,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "奶茶泡澡の卡宾枪-",
+    "author_url": "https://space.bilibili.com/3145632",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71047933-cb72-4176-bb35-62e3d5d16ea1",
+    "next_uuid": "d4bd4650-052e-4018-b98c-d9e2ca30e7c0"
+  }
+}

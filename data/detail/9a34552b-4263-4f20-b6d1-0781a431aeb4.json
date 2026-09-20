@@ -1,0 +1,38 @@
+{
+  "uuid": "9a34552b-4263-4f20-b6d1-0781a431aeb4",
+  "platform_post_id": "984784216560500745",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-05T19:05:43+08:00",
+  "source_url": "https://t.bilibili.com/984784216560500745",
+  "plain_text": "今天八点我在这里参加联动！不开哦\n",
+  "images": [
+    {
+      "filename": "984784216560500745_100@repost.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 4303445,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 210,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "轴伊Joi_Channel",
+    "author_url": "https://space.bilibili.com/61639371",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86ebd522-5411-4fe8-8967-fe8b2077053b",
+    "next_uuid": "838116a0-2521-40ce-a0d8-2c4f60642bc9"
+  }
+}

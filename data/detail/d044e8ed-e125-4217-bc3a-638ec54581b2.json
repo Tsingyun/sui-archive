@@ -1,0 +1,28 @@
+{
+  "uuid": "d044e8ed-e125-4217-bc3a-638ec54581b2",
+  "platform_post_id": "1211964480173375576",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-10T00:01:10+08:00",
+  "source_url": "https://t.bilibili.com/1211964480173375576",
+  "plain_text": "香香的饼干岁晚安，凑凑的饼干岁去洗澡[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2d0cbaa5-0715-408d-8c87-d0dc3a49bf40",
+    "next_uuid": "d14599e6-6980-49ea-897f-a81e901f48a5"
+  }
+}

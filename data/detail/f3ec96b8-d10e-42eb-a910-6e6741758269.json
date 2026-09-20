@@ -1,0 +1,28 @@
+{
+  "uuid": "f3ec96b8-d10e-42eb-a910-6e6741758269",
+  "platform_post_id": "965552860551970825",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-14T23:18:14+08:00",
+  "source_url": "https://t.bilibili.com/965552860551970825",
+  "plain_text": "这些年你过得还好吗，晚安",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eb00462b-7819-4ab7-a67c-d62e2ac5efcc",
+    "next_uuid": "3e1d21b6-7b7a-4e95-8dad-3b42bc52046f"
+  }
+}

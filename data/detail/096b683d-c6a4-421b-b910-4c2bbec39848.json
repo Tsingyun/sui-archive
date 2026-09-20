@@ -1,0 +1,28 @@
+{
+  "uuid": "096b683d-c6a4-421b-b910-4c2bbec39848",
+  "platform_post_id": "702787173802311681",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-06T20:53:10+08:00",
+  "source_url": "https://t.bilibili.com/702787173802311681",
+  "plain_text": "九点六分来，今天时间短一点，有空吗！",
+  "images": [],
+  "stats": {
+    "likes": 618,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cde9cf42-9891-4894-8817-84a24d3093f4",
+    "next_uuid": "6bbcfcd6-f747-42b6-bae4-2d58e15926a1"
+  }
+}

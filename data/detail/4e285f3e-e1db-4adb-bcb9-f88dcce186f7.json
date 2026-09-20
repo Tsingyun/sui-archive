@@ -1,0 +1,28 @@
+{
+  "uuid": "4e285f3e-e1db-4adb-bcb9-f88dcce186f7",
+  "platform_post_id": "1245669918966284290",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-08T19:55:29+08:00",
+  "source_url": "https://t.bilibili.com/1245669918966284290",
+  "plain_text": "为何朕如此之困 小饼饼们8点05见！",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be037cc2-c188-4141-addb-6733c3b80ce4",
+    "next_uuid": "b72b5d09-3c9d-41f5-afe0-8530442921f7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8947c29e-a92d-4542-adf7-33938ed45f8f",
+  "platform_post_id": "840262320848371715",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-12T08:06:57+08:00",
+  "source_url": "https://t.bilibili.com/840262320848371715",
+  "plain_text": "早上好。昨天过得如何？愿你有个美好的周二",
+  "images": [],
+  "stats": {
+    "likes": 493,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8ca28d05-acca-475b-be47-bff35aac290a",
+    "next_uuid": "3339eb55-30b1-4f18-8380-cb40ae210763"
+  }
+}

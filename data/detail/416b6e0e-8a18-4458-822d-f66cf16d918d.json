@@ -1,0 +1,38 @@
+{
+  "uuid": "416b6e0e-8a18-4458-822d-f66cf16d918d",
+  "platform_post_id": "951006854540951554",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-06T18:32:18+08:00",
+  "source_url": "https://t.bilibili.com/951006854540951554",
+  "plain_text": "好热，是穿吊带的天气了",
+  "images": [
+    {
+      "filename": "951006854540951554_100@repost.png",
+      "width": 1200,
+      "height": 1706,
+      "file_size": 1129352,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 277,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c1b1e37e-1c3d-492d-8731-44baa0c0c09b",
+    "next_uuid": "4f1a1acd-51e5-41d9-a6f2-42eb03f26965"
+  }
+}

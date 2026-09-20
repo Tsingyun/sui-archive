@@ -1,0 +1,28 @@
+{
+  "uuid": "ed99cf4b-3586-43b0-8995-958d3c3ef005",
+  "platform_post_id": "887917873510481938",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-18T18:14:50+08:00",
+  "source_url": "https://t.bilibili.com/887917873510481938",
+  "plain_text": "7:40来聊天然后神秘海域 说了无数次了，最后又变成聊天了这次我是真的要神秘海域了，都别拦我！",
+  "images": [],
+  "stats": {
+    "likes": 404,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cdebe2a9-6215-472d-a928-f9f3728a34f0",
+    "next_uuid": "b05d453a-892b-458c-8523-9ac633bd01d8"
+  }
+}

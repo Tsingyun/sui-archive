@@ -1,0 +1,28 @@
+{
+  "uuid": "8eb039f2-9890-4067-a6f0-9eaf957b1687",
+  "platform_post_id": "836631368381235255",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-02T13:17:00+08:00",
+  "source_url": "https://t.bilibili.com/836631368381235255",
+  "plain_text": "快看呀！超级可爱的说！！",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "燕与莺",
+    "author_url": "https://space.bilibili.com/3288476",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "054c94e6-f402-4480-b1a4-239b4b37263d",
+    "next_uuid": "a9799c33-97a3-48c7-8256-dd239083677b"
+  }
+}

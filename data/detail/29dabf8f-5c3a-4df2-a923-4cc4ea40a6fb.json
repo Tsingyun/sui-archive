@@ -1,0 +1,38 @@
+{
+  "uuid": "29dabf8f-5c3a-4df2-a923-4cc4ea40a6fb",
+  "platform_post_id": "980053962928422912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-09-23T01:09:55+08:00",
+  "source_url": "https://t.bilibili.com/980053962928422912",
+  "plain_text": "夏日所剩无几呀 送你夕阳 晚安安\n",
+  "images": [
+    {
+      "filename": "980053962928422912_00@original.jpg",
+      "width": 2949,
+      "height": 3226,
+      "file_size": 1716848,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 495,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1a28854b-7d5d-4509-b048-ecbacaf33b0a",
+    "next_uuid": "cb35e99e-6bfb-4201-8ed0-916537179481"
+  }
+}

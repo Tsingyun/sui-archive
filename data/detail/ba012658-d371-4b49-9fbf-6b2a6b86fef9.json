@@ -1,0 +1,28 @@
+{
+  "uuid": "ba012658-d371-4b49-9fbf-6b2a6b86fef9",
+  "platform_post_id": "870493483267260417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-02T19:19:18+08:00",
+  "source_url": "https://t.bilibili.com/870493483267260417",
+  "plain_text": "感觉 有点那个 今天不想播 休",
+  "images": [],
+  "stats": {
+    "likes": 494,
+    "comments": 141,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0eb6564-a024-431a-893f-d6f064763748",
+    "next_uuid": "9969f863-50a0-44ff-ba82-800acd46a4e2"
+  }
+}

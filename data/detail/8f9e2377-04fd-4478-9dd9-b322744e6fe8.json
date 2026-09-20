@@ -1,0 +1,28 @@
+{
+  "uuid": "8f9e2377-04fd-4478-9dd9-b322744e6fe8",
+  "platform_post_id": "842936904374550544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-19T13:05:42+08:00",
+  "source_url": "https://t.bilibili.com/842936904374550544",
+  "plain_text": "不是刚起床，是村里刚通网。\n早诶嘿o(＝•𖥦＜=)o",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7d5f847-1c37-416b-af34-15739159b46a",
+    "next_uuid": "9ff8e694-62d7-42e2-8da9-305cbf835f55"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8d7447c8-6fae-4168-a134-a81acbde7978",
+  "platform_post_id": "880509634748612678",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-29T19:07:05+08:00",
+  "source_url": "https://t.bilibili.com/880509634748612678",
+  "plain_text": "7:30！唱聊可能玩游戏也可能不玩！",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73999075-46fc-4ed6-baa0-84037820d39e",
+    "next_uuid": "58fa425f-df6f-454e-b213-7d97b7fb2006"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "84392d96-8b87-4048-9a66-5417b8a6e3eb",
+  "platform_post_id": "951357778899763252",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-07T17:14:04+08:00",
+  "source_url": "https://t.bilibili.com/951357778899763252",
+  "plain_text": "五点半来播播 唱唱之类的！",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "666cea29-ef12-4918-95d3-ebc39a259d12",
+    "next_uuid": "8ae6d7e3-9b2c-4524-a27e-efd4e8e04192"
+  }
+}

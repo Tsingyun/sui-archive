@@ -1,0 +1,38 @@
+{
+  "uuid": "84da33a9-e093-4fd8-bbd1-dd403dffad68",
+  "platform_post_id": "877818889289859097",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-22T13:05:37+08:00",
+  "source_url": "https://t.bilibili.com/877818889289859097",
+  "plain_text": "早呀早\n",
+  "images": [
+    {
+      "filename": "877818889289859097_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1685770,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 507,
+    "comments": 103,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f0243fcd-1ba5-4031-9716-acfd3c180cea",
+    "next_uuid": "f85c0da5-d845-4ca1-91d2-cc0746423193"
+  }
+}

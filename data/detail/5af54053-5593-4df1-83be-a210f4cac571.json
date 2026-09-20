@@ -1,0 +1,28 @@
+{
+  "uuid": "5af54053-5593-4df1-83be-a210f4cac571",
+  "platform_post_id": "976235024038756353",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-12T18:10:29+08:00",
+  "source_url": "https://t.bilibili.com/976235024038756353",
+  "plain_text": "今天是7:30内 唱唱聊聊+你的名字",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7cbddb5-0e10-44ae-997f-fb0aebf82664",
+    "next_uuid": "c2887859-7ba5-4269-a7f0-7e4fc99fa871"
+  }
+}

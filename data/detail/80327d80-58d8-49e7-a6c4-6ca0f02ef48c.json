@@ -1,0 +1,28 @@
+{
+  "uuid": "80327d80-58d8-49e7-a6c4-6ca0f02ef48c",
+  "platform_post_id": "869772830699421698",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-30T20:42:48+08:00",
+  "source_url": "https://t.bilibili.com/869772830699421698",
+  "plain_text": "hii 8:55见的说 随便度过一下11月的最后一天",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a78c222-0892-443a-a33d-d837192e36f4",
+    "next_uuid": "ddf6fcff-9f73-4acc-9d52-37ed3f54a753"
+  }
+}

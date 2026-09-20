@@ -1,0 +1,28 @@
+{
+  "uuid": "64c293a8-c3c6-44c2-ba67-947ceb533e0e",
+  "platform_post_id": "826689275004190737",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-06T18:16:36+08:00",
+  "source_url": "https://t.bilibili.com/826689275004190737",
+  "plain_text": "应该8:30 现在出门吃饭啦",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5418077c-8530-4cbf-89c2-99748c158814",
+    "next_uuid": "aa1268d3-2349-4905-81f4-58916dccf584"
+  }
+}

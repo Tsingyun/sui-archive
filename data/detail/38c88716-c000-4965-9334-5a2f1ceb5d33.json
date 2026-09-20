@@ -1,0 +1,28 @@
+{
+  "uuid": "38c88716-c000-4965-9334-5a2f1ceb5d33",
+  "platform_post_id": "1144049244682846212",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-08T23:35:22+08:00",
+  "source_url": "https://t.bilibili.com/1144049244682846212",
+  "plain_text": "晚安啦大家 又是被大家陪伴的一天 明天也开开心心捏٩(๛ ˘ ³˘)۶❤",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "28c722da-d6bc-4529-8c23-6c4e1fea6616",
+    "next_uuid": "62468976-69eb-44d6-9f1f-248f1320ed0b"
+  }
+}

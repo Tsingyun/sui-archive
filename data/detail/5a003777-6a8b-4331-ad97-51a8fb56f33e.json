@@ -1,0 +1,28 @@
+{
+  "uuid": "5a003777-6a8b-4331-ad97-51a8fb56f33e",
+  "platform_post_id": "1162825720724979728",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-28T13:57:41+08:00",
+  "source_url": "https://t.bilibili.com/1162825720724979728",
+  "plain_text": "2:30来继续鸣潮！顺便再挑战一下红名怪[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d6c2599a-22c1-4fe7-81d5-8561056acd28",
+    "next_uuid": "30b2fdb0-b69b-4ca7-b030-7b3c9b3bdbda"
+  }
+}

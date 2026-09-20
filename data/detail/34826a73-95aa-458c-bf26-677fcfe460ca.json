@@ -1,0 +1,28 @@
+{
+  "uuid": "34826a73-95aa-458c-bf26-677fcfe460ca",
+  "platform_post_id": "1189321623067426837",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-09T23:35:19+08:00",
+  "source_url": "https://t.bilibili.com/1189321623067426837",
+  "plain_text": "好热啊这到底是几月，饼啊去去，给小岁剥个橘子吃[岁己收藏集表情包_倒了]晚安晚安昂",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e624495-ffa0-4f5b-b0df-3e85ecc1ab79",
+    "next_uuid": "7db19ede-80fe-4c7b-9035-2fd145851663"
+  }
+}

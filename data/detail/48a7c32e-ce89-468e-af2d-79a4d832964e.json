@@ -1,0 +1,28 @@
+{
+  "uuid": "48a7c32e-ce89-468e-af2d-79a4d832964e",
+  "platform_post_id": "791323243182030885",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-03T10:58:20+08:00",
+  "source_url": "https://t.bilibili.com/791323243182030885",
+  "plain_text": "早，感觉腿和胳膊被打断重组了",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b80f2e6-6ef8-4bc1-86b5-801a913d3940",
+    "next_uuid": "2aa9223d-fbee-4cc5-b68f-181f3901ff75"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "a6ec5beb-175d-4fa4-84fb-0686808d7501",
+  "platform_post_id": "1088015864357191701",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-07-10T23:37:14+08:00",
+  "source_url": "https://t.bilibili.com/1088015864357191701",
+  "plain_text": "今晚月亮好圆 晚安大家 明天bw见～\n等着看我一秒钟八百个可爱小动作吧 迷不死你",
+  "images": [
+    {
+      "filename": "1088015864357191701_00@original.jpg",
+      "width": 1206,
+      "height": 1545,
+      "file_size": 181438,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 301,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fddd41f8-8686-432f-af42-cdadaebc6ea4",
+    "next_uuid": "638cb9bb-41f7-46e7-997a-b2aaff36ec19"
+  }
+}

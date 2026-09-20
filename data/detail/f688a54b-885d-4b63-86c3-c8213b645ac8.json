@@ -1,0 +1,28 @@
+{
+  "uuid": "f688a54b-885d-4b63-86c3-c8213b645ac8",
+  "platform_post_id": "1165137843316588548",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-03T19:29:54+08:00",
+  "source_url": "https://t.bilibili.com/1165137843316588548",
+  "plain_text": "7:50来播！今天干啥你说",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "65c7a79d-df56-406d-a9ad-1f04eb27c1f1",
+    "next_uuid": "63558494-c419-4e12-a666-7cffebe8dd95"
+  }
+}

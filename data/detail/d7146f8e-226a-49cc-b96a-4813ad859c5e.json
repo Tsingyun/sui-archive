@@ -1,0 +1,28 @@
+{
+  "uuid": "d7146f8e-226a-49cc-b96a-4813ad859c5e",
+  "platform_post_id": "935032878767538192",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-24T17:25:07+08:00",
+  "source_url": "https://t.bilibili.com/935032878767538192",
+  "plain_text": "我现在就能看到你们！谁给岁己带了西兰花啊无语的说",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "39f34416-fdae-4dc9-9255-bbf50226a79a",
+    "next_uuid": "c8902e3b-f2ac-42cd-91ed-41c7b0c78060"
+  }
+}

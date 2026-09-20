@@ -1,0 +1,28 @@
+{
+  "uuid": "b7034bf2-18b5-409c-9cab-3705f54f2bbd",
+  "platform_post_id": "1020036711122468867",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-08T19:03:24+08:00",
+  "source_url": "https://t.bilibili.com/1020036711122468867",
+  "plain_text": "十点来捏！玩一小会游戏然后十一点开始饼干岁催眠计划嗯嗯",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d2e5536a-321b-4ed1-bcbf-715893454e6f",
+    "next_uuid": "dce7b15e-a62d-4a4f-a773-2a62fed4bc10"
+  }
+}

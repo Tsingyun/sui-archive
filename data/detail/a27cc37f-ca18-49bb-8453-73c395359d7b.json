@@ -1,0 +1,28 @@
+{
+  "uuid": "a27cc37f-ca18-49bb-8453-73c395359d7b",
+  "platform_post_id": "847109477985419268",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-30T18:57:25+08:00",
+  "source_url": "https://t.bilibili.com/847109477985419268",
+  "plain_text": "好困哦。睡一会7:40来看jojo吗 一起看吗看吗",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b9b8e527-0a1f-4d40-a915-3f9164500450",
+    "next_uuid": "b1a0bebb-3427-4c74-b143-1178cc9b57d0"
+  }
+}

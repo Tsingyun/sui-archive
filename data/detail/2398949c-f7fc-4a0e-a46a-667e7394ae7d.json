@@ -1,0 +1,28 @@
+{
+  "uuid": "2398949c-f7fc-4a0e-a46a-667e7394ae7d",
+  "platform_post_id": "1175079966755258374",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-02T14:30:25+08:00",
+  "source_url": "https://t.bilibili.com/1175079966755258374",
+  "plain_text": "还记得路吗，2:40开摸🐟茶水间见",
+  "images": [],
+  "stats": {
+    "likes": 191,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68b8e320-d715-4648-a05c-d791d700ae4f",
+    "next_uuid": "833879ea-379f-4f55-b42b-2ccb6a0e7617"
+  }
+}

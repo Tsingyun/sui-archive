@@ -1,0 +1,28 @@
+{
+  "uuid": "c866e348-85e5-4378-a836-2187934d2159",
+  "platform_post_id": "1042242478049067008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-09T15:13:07+08:00",
+  "source_url": "https://t.bilibili.com/1042242478049067008",
+  "plain_text": "3:30来唱歌聊天呢",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eeabf5cd-dd10-4bfa-b450-562aa9aaf50b",
+    "next_uuid": "0d39bcc3-0c4d-4b23-890e-da9723bf8caa"
+  }
+}

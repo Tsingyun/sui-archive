@@ -1,0 +1,28 @@
+{
+  "uuid": "04baaaee-cf1d-483d-8886-f5cc37369e06",
+  "platform_post_id": "841993772510216215",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-17T00:05:52+08:00",
+  "source_url": "https://t.bilibili.com/841993772510216215",
+  "plain_text": "99%的人不知道这两个字怎么读！【​晚安】不信的话试试在评论区打出来",
+  "images": [],
+  "stats": {
+    "likes": 406,
+    "comments": 118,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "622f98e5-d452-4e1a-b560-5c8f76ba9c6f",
+    "next_uuid": "510f9a5c-b3aa-43f6-bb79-41774fb46959"
+  }
+}

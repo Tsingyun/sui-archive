@@ -1,0 +1,28 @@
+{
+  "uuid": "bee02288-bc00-4cfc-b713-99f74ddf3839",
+  "platform_post_id": "1077591033822314611",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-12T21:23:34+08:00",
+  "source_url": "https://t.bilibili.com/1077591033822314611",
+  "plain_text": "开播了！试试你能进来吗",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5e69b8e-477b-4a67-a54f-014c21b47cfc",
+    "next_uuid": "08348057-b240-4233-b07a-546de50c8997"
+  }
+}

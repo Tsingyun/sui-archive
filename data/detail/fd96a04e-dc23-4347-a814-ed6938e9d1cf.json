@@ -1,0 +1,28 @@
+{
+  "uuid": "fd96a04e-dc23-4347-a814-ed6938e9d1cf",
+  "platform_post_id": "817815456222019632",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-13T20:21:39+08:00",
+  "source_url": "https://t.bilibili.com/817815456222019632",
+  "plain_text": "8:34  感觉最近懒病犯了 现在和猫一起摆在床上 是不是被她传染了[tv_皱眉]",
+  "images": [],
+  "stats": {
+    "likes": 291,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1052387e-1ed2-4c86-97bf-37e26bfb3d1e",
+    "next_uuid": "acf3a6a9-ce68-4860-aade-cff6fda7aade"
+  }
+}

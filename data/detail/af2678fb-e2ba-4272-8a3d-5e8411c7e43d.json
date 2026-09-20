@@ -1,0 +1,28 @@
+{
+  "uuid": "af2678fb-e2ba-4272-8a3d-5e8411c7e43d",
+  "platform_post_id": "1108442501185798153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-04T00:43:01+08:00",
+  "source_url": "https://t.bilibili.com/1108442501185798153",
+  "plain_text": "晚安💤出道三周年了～\n12号3D演出回，明天先办个简单的棉花糖心愿回https://pome.vip/Gz75k7hF 在这里投稿",
+  "images": [],
+  "stats": {
+    "likes": 285,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d87b152d-3b0c-4ff0-9367-527eb8e6ebc8",
+    "next_uuid": "8e0eb1cf-647b-4704-8e63-0cd1d900360c"
+  }
+}

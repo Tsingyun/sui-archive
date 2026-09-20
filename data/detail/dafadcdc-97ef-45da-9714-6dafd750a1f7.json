@@ -1,0 +1,28 @@
+{
+  "uuid": "dafadcdc-97ef-45da-9714-6dafd750a1f7",
+  "platform_post_id": "1246783612532031496",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-11T19:57:11+08:00",
+  "source_url": "https://t.bilibili.com/1246783612532031496",
+  "plain_text": "来直播了！十分钟后来 老大我们今天干嘛",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00dbbf24-ec82-405b-809a-6600b610fd23",
+    "next_uuid": "af888f76-76b7-4e14-97c2-ac329539ad95"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "90657243-7795-4d83-b108-a50d6906cde1",
+  "platform_post_id": "960599633689575444",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-01T14:57:11+08:00",
+  "source_url": "https://t.bilibili.com/960599633689575444",
+  "plain_text": "月下静谧神鸟💫🌙✨",
+  "images": [
+    {
+      "filename": "960599633689575444_100@repost.jpg",
+      "width": 3000,
+      "height": 2000,
+      "file_size": 609197,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 321,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "黄桃罐头冰",
+    "author_url": "https://space.bilibili.com/14153130",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c75a319-be7f-44a1-a8a5-d7eb1b2bc450",
+    "next_uuid": "88d5975f-3a24-4e1d-9a77-cbd77064cc9f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9a5461c1-84ae-47fd-a48c-a75124427156",
+  "platform_post_id": "860382224021717058",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-05T13:22:27+08:00",
+  "source_url": "https://t.bilibili.com/860382224021717058",
+  "plain_text": "左边鼻子堵了额啊 但是没感觉要感冒啊早了个早早早",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d762a289-a57e-45e2-b481-59bed27c6518",
+    "next_uuid": "6f857bdb-b509-4d3e-b527-5a86915314f8"
+  }
+}

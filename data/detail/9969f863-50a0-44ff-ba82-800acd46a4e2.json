@@ -1,0 +1,28 @@
+{
+  "uuid": "9969f863-50a0-44ff-ba82-800acd46a4e2",
+  "platform_post_id": "870748715989598276",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-03T11:49:44+08:00",
+  "source_url": "https://t.bilibili.com/870748715989598276",
+  "plain_text": "早上好 准备吃🦀️",
+  "images": [],
+  "stats": {
+    "likes": 367,
+    "comments": 76,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ba012658-d371-4b49-9fbf-6b2a6b86fef9",
+    "next_uuid": "a85d5a5d-6ca8-43e6-8a66-82947cbfbe37"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "1e4579bc-bb90-47f9-9ebb-2afa3da4f166",
+  "platform_post_id": "1060493653835776024",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-27T19:37:00+08:00",
+  "source_url": "https://t.bilibili.com/1060493653835776024",
+  "plain_text": "孩子们 7:50见！",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be52fa2b-b444-470f-8df4-50a875f840f1",
+    "next_uuid": "db76e2d5-28e9-492d-a868-09ea0689d9b8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "53fa3f31-c61e-4f6b-a756-84c788521f43",
+  "platform_post_id": "974453789451878456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-07T22:58:23+08:00",
+  "source_url": "https://t.bilibili.com/974453789451878456",
+  "plain_text": "五分钟后播半小时电台捏 每个人问岁己五个问题棒小鸟想想话题捏",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fa44f390-94b1-4d76-84bb-96f56d8b5493",
+    "next_uuid": "4d27964a-c424-44cd-8d0f-8f3d119a023c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "dd4ee762-d65f-4e15-bc85-69256ad58320",
+  "platform_post_id": "1227112430413283347",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-20T19:42:57+08:00",
+  "source_url": "https://t.bilibili.com/1227112430413283347",
+  "plain_text": "7:55进行一个播的直 唱聊头像吧！",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "35dbe826-c00e-46bd-a358-8e4b970dc503",
+    "next_uuid": "82974e41-fea8-4146-942b-7e979c447f58"
+  }
+}

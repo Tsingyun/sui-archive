@@ -1,0 +1,28 @@
+{
+  "uuid": "97c68c52-8841-4c27-80e3-daa16b00af0c",
+  "platform_post_id": "767607739432042535",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-28T13:10:04+08:00",
+  "source_url": "https://t.bilibili.com/767607739432042535",
+  "plain_text": "自从认识了饼干岁，我班也不上了，觉也不睡了，饭也不吃了，觉得那些都没意思，每天就等着你回我消息[UP_1954091502_想岁了]",
+  "images": [],
+  "stats": {
+    "likes": 411,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "034b2f21-9179-4ae8-86a5-256e60a284e0",
+    "next_uuid": "33dd7f3b-98b9-4a65-bd96-e011b2f01c23"
+  }
+}

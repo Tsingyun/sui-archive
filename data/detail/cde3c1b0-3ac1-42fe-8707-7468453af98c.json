@@ -1,0 +1,28 @@
+{
+  "uuid": "cde3c1b0-3ac1-42fe-8707-7468453af98c",
+  "platform_post_id": "867132057188302897",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-23T17:55:15+08:00",
+  "source_url": "https://t.bilibili.com/867132057188302897",
+  "plain_text": "休息的说 work work中",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "798d0cc9-a6c8-4119-805a-28951817940b",
+    "next_uuid": "8b36b649-026a-4696-a089-4e8c76a50a64"
+  }
+}

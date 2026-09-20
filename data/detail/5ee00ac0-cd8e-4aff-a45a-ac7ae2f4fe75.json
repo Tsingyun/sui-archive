@@ -1,0 +1,28 @@
+{
+  "uuid": "5ee00ac0-cd8e-4aff-a45a-ac7ae2f4fe75",
+  "platform_post_id": "1250126110714232836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-20T20:07:47+08:00",
+  "source_url": "https://t.bilibili.com/1250126110714232836",
+  "plain_text": "注意看，这个小岁十分钟后要直播唱聊法环",
+  "images": [],
+  "stats": {
+    "likes": 125,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a44d323d-06f0-4281-93d3-59fed7d767a6",
+    "next_uuid": null
+  }
+}

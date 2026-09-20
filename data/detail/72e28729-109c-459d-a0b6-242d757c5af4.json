@@ -1,0 +1,28 @@
+{
+  "uuid": "72e28729-109c-459d-a0b6-242d757c5af4",
+  "platform_post_id": "997031075309944840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-07T19:09:47+08:00",
+  "source_url": "https://t.bilibili.com/997031075309944840",
+  "plain_text": "还记得我吗，我是岁己啊。今天7:35见吧",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c38eff0-83e2-4ece-a3cf-eafbc6b701d7",
+    "next_uuid": "77816a02-27ff-4991-9e88-0290721bfddf"
+  }
+}

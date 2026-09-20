@@ -1,0 +1,28 @@
+{
+  "uuid": "6d41d6b4-1223-4093-ad33-b73428856cb9",
+  "platform_post_id": "1188523034003111958",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-07T19:56:23+08:00",
+  "source_url": "https://t.bilibili.com/1188523034003111958",
+  "plain_text": "8:05来！！快准备一下",
+  "images": [],
+  "stats": {
+    "likes": 167,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad901a04-f1cd-4d18-875e-1013eac34704",
+    "next_uuid": "73df69e2-4642-4008-9162-1c40ac30bcea"
+  }
+}

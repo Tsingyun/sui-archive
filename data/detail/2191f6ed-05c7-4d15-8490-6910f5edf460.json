@@ -1,0 +1,28 @@
+{
+  "uuid": "2191f6ed-05c7-4d15-8490-6910f5edf460",
+  "platform_post_id": "1116903440754147332",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-26T19:55:47+08:00",
+  "source_url": "https://t.bilibili.com/1116903440754147332",
+  "plain_text": "键盘还没到 8:15来播[UPOWER_1954091502_烧烤一下]",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "46ab46bd-15b9-42d8-8082-9e77feca214d",
+    "next_uuid": "5d3e85e9-3493-4747-8538-1a14406ff8ef"
+  }
+}

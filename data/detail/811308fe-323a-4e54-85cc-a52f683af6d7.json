@@ -1,0 +1,28 @@
+{
+  "uuid": "811308fe-323a-4e54-85cc-a52f683af6d7",
+  "platform_post_id": "1249085985622327304",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-18T00:51:34+08:00",
+  "source_url": "https://t.bilibili.com/1249085985622327304",
+  "plain_text": "想不出幽默晚安动态了，没事的你今天不理小岁就好[岁己收藏集表情包_好脆弱]",
+  "images": [],
+  "stats": {
+    "likes": 405,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c92e7b47-1d1a-470a-a514-7937db5cd3f3",
+    "next_uuid": "d6f24738-9d7b-4398-94d1-108bb29f229c"
+  }
+}

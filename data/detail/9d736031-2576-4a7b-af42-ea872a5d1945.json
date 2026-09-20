@@ -1,0 +1,38 @@
+{
+  "uuid": "9d736031-2576-4a7b-af42-ea872a5d1945",
+  "platform_post_id": "1208932529615142913",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-06-01T19:55:39+08:00",
+  "source_url": "https://t.bilibili.com/1208932529615142913",
+  "plain_text": "8:20见！鼻塞嗓子痛咳嗽😷 弱弱地来过一下儿童节 \n今年的快餐服务员qq岁 依旧有限定舰长转盘",
+  "images": [
+    {
+      "filename": "1208932529615142913_00@original.png",
+      "width": 2704,
+      "height": 3593,
+      "file_size": 4498193,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 301,
+    "comments": 24,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "984cd144-e0aa-43ee-b2f8-829c5e1cb7e3",
+    "next_uuid": "aaa46a7f-566d-4edb-95b9-6382db92dd38"
+  }
+}

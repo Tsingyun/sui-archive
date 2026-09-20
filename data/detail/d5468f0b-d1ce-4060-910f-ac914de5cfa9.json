@@ -1,0 +1,28 @@
+{
+  "uuid": "d5468f0b-d1ce-4060-910f-ac914de5cfa9",
+  "platform_post_id": "872349068063408165",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-07T19:19:55+08:00",
+  "source_url": "https://t.bilibili.com/872349068063408165",
+  "plain_text": "休息休息 有别的工作要做 \n┏(＾0＾)┛",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "87754a33-3c58-44e2-9b98-c45d3b6b3c90",
+    "next_uuid": "f42a1cdf-cde3-42fe-af4a-c0928fdb7287"
+  }
+}

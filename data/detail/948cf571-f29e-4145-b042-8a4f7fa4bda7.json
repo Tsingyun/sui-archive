@@ -1,0 +1,28 @@
+{
+  "uuid": "948cf571-f29e-4145-b042-8a4f7fa4bda7",
+  "platform_post_id": "934027560114716679",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-22T00:23:58+08:00",
+  "source_url": "https://t.bilibili.com/934027560114716679",
+  "plain_text": "拜托你跟我说一下那个那个",
+  "images": [],
+  "stats": {
+    "likes": 398,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "915a91c2-8b02-46eb-bc7f-959b2921fa47",
+    "next_uuid": "7e885778-1461-40bb-ab8d-ab89b8de01e5"
+  }
+}

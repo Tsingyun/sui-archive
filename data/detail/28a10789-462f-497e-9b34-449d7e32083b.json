@@ -1,0 +1,65 @@
+{
+  "uuid": "28a10789-462f-497e-9b34-449d7e32083b",
+  "platform_post_id": "950698295500472338",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-05T22:34:56+08:00",
+  "source_url": "https://t.bilibili.com/950698295500472338",
+  "plain_text": "无料无料 这个图好q特的说",
+  "images": [
+    {
+      "filename": "950698295500472338_100@repost.jpg",
+      "width": 1080,
+      "height": 2400,
+      "file_size": 1833404,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "950698295500472338_101@repost.jpg",
+      "width": 3072,
+      "height": 4096,
+      "file_size": 3380494,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "950698295500472338_102@repost.jpg",
+      "width": 1200,
+      "height": 1200,
+      "file_size": 168553,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "950698295500472338_103@repost.jpg",
+      "width": 1200,
+      "height": 1200,
+      "file_size": 165207,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 213,
+    "comments": 12,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e00c1aa2-82a4-4977-a0f9-d3591b0acfde",
+    "next_uuid": "c1b1e37e-1c3d-492d-8731-44baa0c0c09b"
+  }
+}

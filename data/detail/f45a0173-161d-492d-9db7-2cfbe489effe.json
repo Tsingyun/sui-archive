@@ -1,0 +1,28 @@
+{
+  "uuid": "f45a0173-161d-492d-9db7-2cfbe489effe",
+  "platform_post_id": "1238515839194365972",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-08-20T13:14:00+08:00",
+  "source_url": "https://t.bilibili.com/1238515839194365972",
+  "plain_text": "(・ω< )★萌萌滴",
+  "images": [],
+  "stats": {
+    "likes": 117,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Iro4s",
+    "author_url": "https://space.bilibili.com/2955509",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c22a1874-022d-4513-ba3f-190669b07f1c",
+    "next_uuid": "8e63f7d2-70f6-496c-8a6a-fd8ae2195fb0"
+  }
+}

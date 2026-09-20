@@ -1,0 +1,28 @@
+{
+  "uuid": "1b92635c-97c7-4169-86c9-f5bc77a4ccd9",
+  "platform_post_id": "1222690486712532993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-08T21:43:33+08:00",
+  "source_url": "https://t.bilibili.com/1222690486712532993",
+  "plain_text": "什么饼干岁你还没洗澡 这个天气那会很臭臭的呀 那我们10:15分见吧",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 22,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7c9a22a-47f0-42e8-b8eb-ae7ce32f73ca",
+    "next_uuid": "29777ea6-b436-4ff3-8ba0-707de10dd888"
+  }
+}

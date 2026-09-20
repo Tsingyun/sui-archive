@@ -1,0 +1,28 @@
+{
+  "uuid": "28942f8e-f3b4-4c01-8eab-c0824fb5c8fc",
+  "platform_post_id": "863807172652302344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-14T18:53:00+08:00",
+  "source_url": "https://t.bilibili.com/863807172652302344",
+  "plain_text": "7:30 不知道为什么嗓子有点痛捏 咱们就简单寒暄一下然后大jo特jo吧",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "84c4b90d-2d35-409b-9a81-ed62dd079a6e",
+    "next_uuid": "59837c69-fa3c-4554-a2ce-68684491b4b1"
+  }
+}

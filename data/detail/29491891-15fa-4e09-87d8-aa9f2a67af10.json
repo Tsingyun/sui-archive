@@ -1,0 +1,28 @@
+{
+  "uuid": "29491891-15fa-4e09-87d8-aa9f2a67af10",
+  "platform_post_id": "983594837077917720",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-02T14:10:19+08:00",
+  "source_url": "https://t.bilibili.com/983594837077917720",
+  "plain_text": "哦哦哦！又是cp30的说",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7b5324b-0b42-47dc-bdd1-c5fc984be0f6",
+    "next_uuid": "fd8ccea1-604a-4109-9790-7eb4a1f8730f"
+  }
+}

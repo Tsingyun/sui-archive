@@ -1,0 +1,28 @@
+{
+  "uuid": "41bce044-cdb8-4051-8ee7-cf7c058f38b3",
+  "platform_post_id": "808883397418025012",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-19T18:40:42+08:00",
+  "source_url": "https://t.bilibili.com/808883397418025012",
+  "plain_text": "工作完刚眯了20分钟，现在起来吃饭然后工作，晚上来不来待定，我再思考一下",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "625e8021-c11d-469a-85e9-15af27b813fb",
+    "next_uuid": "445bf620-4a93-4868-bdd3-267de9f30c99"
+  }
+}

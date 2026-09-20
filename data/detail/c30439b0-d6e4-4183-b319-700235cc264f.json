@@ -1,0 +1,38 @@
+{
+  "uuid": "c30439b0-d6e4-4183-b319-700235cc264f",
+  "platform_post_id": "1213752754217943046",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-06-14T19:40:35+08:00",
+  "source_url": "https://t.bilibili.com/1213752754217943046",
+  "plain_text": "来了来了7:50沉迷缝御守了 密密麻麻的背面 无奖竞猜缝的什么字",
+  "images": [
+    {
+      "filename": "1213752754217943046_00@original.jpg",
+      "width": 4284,
+      "height": 4284,
+      "file_size": 422467,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 202,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ca67836-1d48-4fd9-9322-ee7ec94d7ed2",
+    "next_uuid": "d2f60993-3ff3-436b-8c9a-df6d5c50046b"
+  }
+}

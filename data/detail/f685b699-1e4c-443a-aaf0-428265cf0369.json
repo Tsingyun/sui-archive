@@ -1,0 +1,28 @@
+{
+  "uuid": "f685b699-1e4c-443a-aaf0-428265cf0369",
+  "platform_post_id": "1197132192857194530",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-01T00:44:19+08:00",
+  "source_url": "https://t.bilibili.com/1197132192857194530",
+  "plain_text": "明天的安排是10:30-11:15岁栞米的互动舞台 2:00-3:00的小推车\n晚安大家！你怕不怕，别怕",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "063d67ea-a8b8-4ce1-b6fd-bb879d333c7c",
+    "next_uuid": "d9ab5d62-66fa-44b3-9e90-cd21be3785bb"
+  }
+}

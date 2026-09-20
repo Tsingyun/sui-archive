@@ -1,0 +1,38 @@
+{
+  "uuid": "8840c357-1b7d-47d0-8876-3d5901453fff",
+  "platform_post_id": "861925792309837830",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-11-09T17:12:17+08:00",
+  "source_url": "https://t.bilibili.com/861925792309837830",
+  "plain_text": "然后打完邮箱地址  点一个空格，她会像图片里一样自动把所有文字圈起来，无知的岁己接着按了个空格准备起手写下下一个字，才傻傻发现所有字全清除了！！！这件事情发生了两次！！！！！气死我了啊啊啊啊啊啊啊啊\n",
+  "images": [
+    {
+      "filename": "861925792309837830_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 385169,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 197,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5f0286a3-b924-433f-b394-55066cf7b0c1",
+    "next_uuid": "d84ad2a8-35af-40bb-9af7-d79a8c280978"
+  }
+}

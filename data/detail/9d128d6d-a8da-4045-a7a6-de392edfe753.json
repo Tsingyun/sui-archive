@@ -1,0 +1,28 @@
+{
+  "uuid": "9d128d6d-a8da-4045-a7a6-de392edfe753",
+  "platform_post_id": "996290541331152896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-05T19:16:08+08:00",
+  "source_url": "https://t.bilibili.com/996290541331152896",
+  "plain_text": "7:45！我来我来 今天看电影还是游戏嗯嗯？",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a35872ab-1daa-4565-8596-1ef7b522373f",
+    "next_uuid": "78f784a1-3cce-4b69-a98f-ccc8fa1a0acc"
+  }
+}

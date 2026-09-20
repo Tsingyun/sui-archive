@@ -1,0 +1,28 @@
+{
+  "uuid": "5d22a422-c5e6-4d98-8ac8-78a4e5893844",
+  "platform_post_id": "879462813795352611",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-26T23:24:53+08:00",
+  "source_url": "https://t.bilibili.com/879462813795352611",
+  "plain_text": "[UPOWER_1954091502_小肥鸟]累\n晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 66,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c9ff35d-62a9-40e2-9c23-f77fb32e616a",
+    "next_uuid": "8bdb8b4b-a8d8-4858-8ac5-439c7d7aa652"
+  }
+}

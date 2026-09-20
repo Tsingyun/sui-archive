@@ -1,0 +1,28 @@
+{
+  "uuid": "390d491c-4d9f-4979-8280-c06e02699ff5",
+  "platform_post_id": "951818388399718423",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-08T23:01:28+08:00",
+  "source_url": "https://t.bilibili.com/951818388399718423",
+  "plain_text": "晚安。调整成低电量模式吧，明天再来找你玩",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a267f86b-9b3b-4c60-b8a2-a4f1532eb594",
+    "next_uuid": "420499b7-8c8b-41f0-ab5b-55b599192891"
+  }
+}

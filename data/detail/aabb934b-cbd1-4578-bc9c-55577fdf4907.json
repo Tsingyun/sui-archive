@@ -1,0 +1,28 @@
+{
+  "uuid": "aabb934b-cbd1-4578-bc9c-55577fdf4907",
+  "platform_post_id": "740367794128814083",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-17T03:25:10+08:00",
+  "source_url": "https://t.bilibili.com/740367794128814083",
+  "plain_text": "晚安！今晚八点见！继续工作惹",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dcede02c-6630-4a94-875a-04e3429463eb",
+    "next_uuid": "6e7774fb-f2ec-4cbf-aa43-bd7b7911bd86"
+  }
+}

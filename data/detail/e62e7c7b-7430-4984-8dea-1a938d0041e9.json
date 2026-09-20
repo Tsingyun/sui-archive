@@ -1,0 +1,28 @@
+{
+  "uuid": "e62e7c7b-7430-4984-8dea-1a938d0041e9",
+  "platform_post_id": "1091580884812824579",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-20T14:11:20+08:00",
+  "source_url": "https://t.bilibili.com/1091580884812824579",
+  "plain_text": "2:48来！唱唱聊聊咕咕咕",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e653cc5-db74-4c90-840f-74c19e17c9ef",
+    "next_uuid": "9a0a9d38-6f8b-449c-9b49-bbcc601f6285"
+  }
+}

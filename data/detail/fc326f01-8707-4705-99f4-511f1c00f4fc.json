@@ -1,0 +1,28 @@
+{
+  "uuid": "fc326f01-8707-4705-99f4-511f1c00f4fc",
+  "platform_post_id": "1035326305119240246",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-18T23:54:50+08:00",
+  "source_url": "https://t.bilibili.com/1035326305119240246",
+  "plain_text": "晚安，不知道说什么了都！今天电影挺好看的，每天都我主动，今天你主动说点吧",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2bf382f6-9da0-4878-886b-c5a1d851694a",
+    "next_uuid": "0de98d2f-cb8c-4c75-a9c3-b85829f33916"
+  }
+}

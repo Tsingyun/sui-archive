@@ -1,0 +1,28 @@
+{
+  "uuid": "8da42781-6bb7-42a1-93c4-bb721ec7ef77",
+  "platform_post_id": "903267223372562438",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-29T02:58:09+08:00",
+  "source_url": "https://t.bilibili.com/903267223372562438",
+  "plain_text": "抵达三点！晚安饼干岁 快放下手机进入甜甜梦乡",
+  "images": [],
+  "stats": {
+    "likes": 318,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0525296-b21d-4c72-afdd-18c51f684f04",
+    "next_uuid": "a8c436fb-40eb-49e7-857e-e7caf75faede"
+  }
+}

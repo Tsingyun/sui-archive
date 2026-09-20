@@ -1,0 +1,38 @@
+{
+  "uuid": "fd39ada3-e47b-4a3a-a124-f05a391c350e",
+  "platform_post_id": "1204551559880376327",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-05-21T00:35:15+08:00",
+  "source_url": "https://t.bilibili.com/1204551559880376327",
+  "plain_text": "调查结束！鉴于初犯性质不恶劣你被释放了，但未来我会一直监视着你的！侦探小姐跟你说晚安的说",
+  "images": [
+    {
+      "filename": "1204551559880376327_00@original.jpg",
+      "width": 2784,
+      "height": 3088,
+      "file_size": 978685,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 376,
+    "comments": 55,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a3550739-60e6-4397-98fd-b65c570bb1a1",
+    "next_uuid": "60f062c7-6256-4fdc-92f6-551559b5c9e8"
+  }
+}

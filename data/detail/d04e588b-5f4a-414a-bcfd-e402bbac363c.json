@@ -1,0 +1,28 @@
+{
+  "uuid": "d04e588b-5f4a-414a-bcfd-e402bbac363c",
+  "platform_post_id": "808231876393173025",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-18T00:32:28+08:00",
+  "source_url": "https://t.bilibili.com/808231876393173025",
+  "plain_text": "晚安。放电中bziiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+  "images": [],
+  "stats": {
+    "likes": 364,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "93c7ba2b-c0a4-4d48-ae8b-66ea39f3dc00",
+    "next_uuid": "b0670f3e-d48e-49cb-a77d-647cd0bb30fb"
+  }
+}

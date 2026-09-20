@@ -1,0 +1,38 @@
+{
+  "uuid": "76f0bc70-8654-41ec-ac83-02f310c348e4",
+  "platform_post_id": "826271078341935112",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-05T15:13:47+08:00",
+  "source_url": "https://t.bilibili.com/826271078341935112",
+  "plain_text": "耶咿！",
+  "images": [
+    {
+      "filename": "826271078341935112_100@repost.png",
+      "width": 1080,
+      "height": 1528,
+      "file_size": 1326820,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 305,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "圣光智能狗羊",
+    "author_url": "https://space.bilibili.com/54064747",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f0d10ba-a68c-4dc4-bd25-0a1378f6d01d",
+    "next_uuid": "e5ad14ac-7f05-4588-8a31-1d4365e075a9"
+  }
+}

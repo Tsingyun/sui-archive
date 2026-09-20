@@ -1,0 +1,28 @@
+{
+  "uuid": "16a2d6bc-706c-4f0a-9e0e-dcc13bc2fced",
+  "platform_post_id": "937355794649710689",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-30T23:39:13+08:00",
+  "source_url": "https://t.bilibili.com/937355794649710689",
+  "plain_text": "晚安！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！明天还来找你玩",
+  "images": [],
+  "stats": {
+    "likes": 364,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37f95d64-616e-4fe2-a2b7-dc93d93d0795",
+    "next_uuid": "be721e96-3cfe-4b06-b10d-6f744545e08d"
+  }
+}

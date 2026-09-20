@@ -1,0 +1,38 @@
+{
+  "uuid": "247a1dc1-36b3-4660-9abf-7fdd5cd7c717",
+  "platform_post_id": "973370714670235657",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-09-05T00:55:30+08:00",
+  "source_url": "https://t.bilibili.com/973370714670235657",
+  "plain_text": "​谢谢你给予我的一切，谢谢你分享给我的每一秒。就算是摇摇晃晃的旅程我们也一起走下去吧\n",
+  "images": [
+    {
+      "filename": "973370714670235657_00@original.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 2698660,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 617,
+    "comments": 103,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0372719d-dbc5-4d43-a8f7-10569bfdc3bc",
+    "next_uuid": "6c99969d-b054-4319-9dfa-e1e1862d831c"
+  }
+}

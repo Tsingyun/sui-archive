@@ -1,0 +1,38 @@
+{
+  "uuid": "94af7162-34f8-42f8-aac8-4e76fbf210eb",
+  "platform_post_id": "749871938276425751",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-11T18:06:06+08:00",
+  "source_url": "https://t.bilibili.com/749871938276425751",
+  "plain_text": "今晚八点半歌回哦！待会见\n本月舰长礼物是表情包徽章+贴纸，提督礼物是舰长礼物+手写福字+杯垫！\n",
+  "images": [
+    {
+      "filename": "749871938276425751_00@original.png",
+      "width": 2900,
+      "height": 3750,
+      "file_size": 9358473,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 282,
+    "comments": 19,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b4fcd52-3895-42b7-9122-a1e98b2a13c0",
+    "next_uuid": "f7ef0571-7b90-450a-9d2c-4c2f84592ac2"
+  }
+}

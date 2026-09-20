@@ -1,0 +1,28 @@
+{
+  "uuid": "af97bfb1-5448-4537-8525-b55013716142",
+  "platform_post_id": "1225999853512818713",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-17T19:45:35+08:00",
+  "source_url": "https://t.bilibili.com/1225999853512818713",
+  "plain_text": "跳了一小下怎么就这个点 十分钟后来 唱唱聊聊然后瑞的连麦嘉宾然后最后三个头像画一画！",
+  "images": [],
+  "stats": {
+    "likes": 197,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afc94a75-eece-4cb3-9043-281d1ba2b939",
+    "next_uuid": "2d632750-16b6-48af-b157-d90638d32959"
+  }
+}

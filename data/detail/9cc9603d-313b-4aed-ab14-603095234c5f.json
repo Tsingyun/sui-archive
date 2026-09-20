@@ -1,0 +1,28 @@
+{
+  "uuid": "9cc9603d-313b-4aed-ab14-603095234c5f",
+  "platform_post_id": "1047868451387867161",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-24T19:04:46+08:00",
+  "source_url": "https://t.bilibili.com/1047868451387867161",
+  "plain_text": "7:30 今天是消逝的光芒哦",
+  "images": [],
+  "stats": {
+    "likes": 221,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "203cbcaa-1817-44d3-9e39-ef03e1798821",
+    "next_uuid": "bd557450-00ad-4d6a-bde0-2868e175e06d"
+  }
+}

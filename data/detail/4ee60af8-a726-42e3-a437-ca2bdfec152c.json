@@ -1,0 +1,28 @@
+{
+  "uuid": "4ee60af8-a726-42e3-a437-ca2bdfec152c",
+  "platform_post_id": "762938358398713859",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-15T23:10:29+08:00",
+  "source_url": "https://t.bilibili.com/762938358398713859",
+  "plain_text": "晚安晚安哦TT 好早好不习惯",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a612ab8-7466-4339-b626-bdd5c45f0ff1",
+    "next_uuid": "dcfd943d-0dfc-4913-a0c3-c5e45c8b2d58"
+  }
+}

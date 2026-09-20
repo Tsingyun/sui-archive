@@ -1,0 +1,28 @@
+{
+  "uuid": "934dcf15-e12f-4046-99fd-d60dedefee28",
+  "platform_post_id": "1086904425622011904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-07T23:44:17+08:00",
+  "source_url": "https://t.bilibili.com/1086904425622011904",
+  "plain_text": "[岁己收藏集表情包_呼] 今天也晚安",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c6c77b4c-72a4-4f14-a899-fbba5819e62c",
+    "next_uuid": "a06c26ee-4a0d-4bbc-aa1a-6f01a3327664"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "4618cb5c-7d5e-4d23-a5f6-7b35062a41cd",
+  "platform_post_id": "804126239856001049",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-06-06T23:00:30+08:00",
+  "source_url": "https://t.bilibili.com/804126239856001049",
+  "plain_text": "点赞评论并夸夸岁己，这个小鸟会帮你打跑生活中的不开心！真的很灵！网上都传疯了！！\n",
+  "images": [
+    {
+      "filename": "804126239856001049_00@original.jpg",
+      "width": 817,
+      "height": 437,
+      "file_size": 792894,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 827,
+    "comments": 111,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad9c1aef-ff5c-4012-adc2-da1120c21ec9",
+    "next_uuid": "da7455c0-9156-4834-b59c-a11fd5dd01c9"
+  }
+}

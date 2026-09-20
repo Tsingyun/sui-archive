@@ -1,0 +1,28 @@
+{
+  "uuid": "c7d7d2cd-14cb-4df1-8da8-daee0b443937",
+  "platform_post_id": "1030143121354129425",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-05T00:41:26+08:00",
+  "source_url": "https://t.bilibili.com/1030143121354129425",
+  "plain_text": "哇哇！岁己生日快乐！但不知什么原因今天家里没电了，只能瑟缩着凑合一晚了[UPOWER_1954091502_分号分号]",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e13abeab-cf08-44c2-ac8e-27f8e30d0b30",
+    "next_uuid": "e9d2c4fa-448e-4bde-aa58-e722193ae374"
+  }
+}

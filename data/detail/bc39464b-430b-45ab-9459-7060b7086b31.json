@@ -1,0 +1,28 @@
+{
+  "uuid": "bc39464b-430b-45ab-9459-7060b7086b31",
+  "platform_post_id": "1245364954818674688",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-08T00:12:04+08:00",
+  "source_url": "https://t.bilibili.com/1245364954818674688",
+  "plain_text": "😴 好困好困啊 睡觉觉了 谢谢你来\n⭕️\n按下会和小岁说晚安并让她感到有点开心\n但是\n会花费5秒钟",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "40b0c004-14e9-429c-a57c-e71b8f9d304a",
+    "next_uuid": "be037cc2-c188-4141-addb-6733c3b80ce4"
+  }
+}

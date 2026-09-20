@@ -1,0 +1,110 @@
+{
+  "uuid": "5049a6dd-693c-4546-8cde-816743039d67",
+  "platform_post_id": "1028858488058544137",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-02-01T13:36:24+08:00",
+  "source_url": "https://t.bilibili.com/1028858488058544137",
+  "plain_text": "❣️【小鸟国岁己生日邀请函】❣️\n在大家的陪伴下又长大了一岁啦！也是处处充满了饼干岁的一岁\n戴上了帅帅的手套穿上了华丽的裙子，还准备了很多的礼物，命令你来陪岁己一起度过！\n💫直播时间：2月5日 晚8点\n💫祝福征集：suiji11@qq.com 或b站投稿\n",
+  "images": [
+    {
+      "filename": "1028858488058544137_00@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 1049177,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_01@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 891226,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_02@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 1198665,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_03@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 879518,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_04@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 764089,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_05@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 782455,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_06@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 626469,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_07@original.jpg",
+      "width": 2256,
+      "height": 15000,
+      "file_size": 6256972,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1028858488058544137_08@original.jpg",
+      "width": 3333,
+      "height": 3333,
+      "file_size": 682691,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 535,
+    "comments": 85,
+    "forwards": 17,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29166673-7768-4978-977e-71c76706f3d1",
+    "next_uuid": "0b1dee86-7b14-46a6-aedd-165490931952"
+  }
+}

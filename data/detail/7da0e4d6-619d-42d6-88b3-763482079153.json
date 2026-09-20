@@ -1,0 +1,28 @@
+{
+  "uuid": "7da0e4d6-619d-42d6-88b3-763482079153",
+  "platform_post_id": "793227116333236291",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-08T14:06:20+08:00",
+  "source_url": "https://t.bilibili.com/793227116333236291",
+  "plain_text": "想岁鸟们下午好呀 我出门喽！",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "93414b81-269c-42c5-b2ba-c1adb8e98a09",
+    "next_uuid": "9243338f-e921-466a-8c0e-cf6139cc580a"
+  }
+}

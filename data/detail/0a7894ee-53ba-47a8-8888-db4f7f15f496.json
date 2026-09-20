@@ -1,0 +1,38 @@
+{
+  "uuid": "0a7894ee-53ba-47a8-8888-db4f7f15f496",
+  "platform_post_id": "852251219806126116",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-14T15:30:00+08:00",
+  "source_url": "https://t.bilibili.com/852251219806126116",
+  "plain_text": "请看！小鸟指针2 有想使用的人可以下载哦",
+  "images": [
+    {
+      "filename": "852251219806126116_100@repost.gif",
+      "width": 288,
+      "height": 288,
+      "file_size": 57879,
+      "mime_type": "image/gif",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 256,
+    "comments": 17,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d20a0ecd-fc88-4d8d-9d00-202401cf74d1",
+    "next_uuid": "5e64acb7-a6a6-4ae6-adf8-59295e10351b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3d3ae23e-b150-4a0c-a827-d9dc973e0fa0",
+  "platform_post_id": "881991716315332664",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-02T18:58:19+08:00",
+  "source_url": "https://t.bilibili.com/881991716315332664",
+  "plain_text": "休息休息workwork 明天见nyo",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f128c6e-c3d7-48bc-8a5e-6d15c35ee05a",
+    "next_uuid": "bb53f3c7-d3d0-4f35-bd13-390b854b0a75"
+  }
+}

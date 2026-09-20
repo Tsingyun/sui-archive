@@ -1,0 +1,28 @@
+{
+  "uuid": "7d3f64ca-1558-4a06-9460-92831189b0ad",
+  "platform_post_id": "805161253952552967",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-09T17:56:53+08:00",
+  "source_url": "https://t.bilibili.com/805161253952552967",
+  "plain_text": "11点见！不会播很久，要早睡呢。就还是随便聊聊唱唱，到时候见哦",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4dc2bea9-ca00-4701-b52f-a742efb0b5f3",
+    "next_uuid": "201678f3-e5a7-4a42-bcfd-ab41d3c06290"
+  }
+}

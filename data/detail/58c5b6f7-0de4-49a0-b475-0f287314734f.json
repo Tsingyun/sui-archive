@@ -1,0 +1,28 @@
+{
+  "uuid": "58c5b6f7-0de4-49a0-b475-0f287314734f",
+  "platform_post_id": "759136921497632803",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T17:18:58+08:00",
+  "source_url": "https://t.bilibili.com/759136921497632803",
+  "plain_text": "不穿秋裤根本不敢看  太！潮！啦！！",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c541d5dd-22c9-4163-8fee-32d967aff8f8",
+    "next_uuid": "b70a1c85-6a46-4d98-b209-b5f3162d49d3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7b38cdfd-65b6-433d-b260-5a83bc90aa7b",
+  "platform_post_id": "1090262639068577814",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-17T00:55:52+08:00",
+  "source_url": "https://t.bilibili.com/1090262639068577814",
+  "plain_text": "像我这种陪你睡觉陪你聊天的小鸟怎么样，是不是很想跟我说晚安",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b2b73bbc-88b0-45b7-860c-97996115b4f5",
+    "next_uuid": "85fab027-0e60-48f4-9b64-1111f3eb1b5e"
+  }
+}

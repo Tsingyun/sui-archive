@@ -1,0 +1,28 @@
+{
+  "uuid": "dbe405e5-6e85-4269-b6f0-182ec2f9e376",
+  "platform_post_id": "755075840902955065",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-25T18:39:54+08:00",
+  "source_url": "https://t.bilibili.com/755075840902955065",
+  "plain_text": "八点来聊聊唱唱吧！",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5da4174-efef-4403-a626-1ce10c6c7de6",
+    "next_uuid": "631c5ec0-057d-4a9b-87c6-8e51adfa38f0"
+  }
+}

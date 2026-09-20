@@ -1,0 +1,28 @@
+{
+  "uuid": "ad5e8412-bf28-4213-9538-524360780955",
+  "platform_post_id": "923558341079203848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-23T19:18:03+08:00",
+  "source_url": "https://t.bilibili.com/923558341079203848",
+  "plain_text": "小饼啊快去厕所补妆吧岁己7:40就到了",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0469a7c-320f-4d59-9b15-25f95871cd6b",
+    "next_uuid": "9492e32f-b0bf-4972-a870-5ab9e510e3d6"
+  }
+}

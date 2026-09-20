@@ -1,0 +1,28 @@
+{
+  "uuid": "10816176-acba-4edc-b27a-667428c81c73",
+  "platform_post_id": "734297961641541687",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-30T18:51:07+08:00",
+  "source_url": "https://t.bilibili.com/734297961641541687",
+  "plain_text": "今天不播哦，明天见。\n十月的舰长音声已发送，如果有漏发的请私信告知一下，我这边补发。有什么400字的感想可以在这个话题以及私信中进行repo，希望还行嗯嗯。",
+  "images": [],
+  "stats": {
+    "likes": 453,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c7172d4-7e36-4be5-9bd2-2d415b075c8d",
+    "next_uuid": "a93eba27-9508-47b0-a99d-1b437e90a8e9"
+  }
+}

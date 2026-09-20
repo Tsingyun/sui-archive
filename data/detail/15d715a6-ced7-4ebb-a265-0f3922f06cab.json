@@ -1,0 +1,38 @@
+{
+  "uuid": "15d715a6-ced7-4ebb-a265-0f3922f06cab",
+  "platform_post_id": "699680894553686053",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-08-29T11:59:13+08:00",
+  "source_url": "https://t.bilibili.com/699680894553686053",
+  "plain_text": "中午好！新的一周也一起努力吧！！\n",
+  "images": [
+    {
+      "filename": "699680894553686053_00@original.png",
+      "width": 969,
+      "height": 1054,
+      "file_size": 818602,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 1180,
+    "comments": 135,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e081b83f-a128-4e43-b9ec-59715071ef56",
+    "next_uuid": "a98e713b-e335-4f67-b77d-d8212060a7be"
+  }
+}

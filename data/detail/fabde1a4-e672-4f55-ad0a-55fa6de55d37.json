@@ -1,0 +1,28 @@
+{
+  "uuid": "fabde1a4-e672-4f55-ad0a-55fa6de55d37",
+  "platform_post_id": "801328356405542952",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-30T10:03:17+08:00",
+  "source_url": "https://t.bilibili.com/801328356405542952",
+  "plain_text": "雷早啊，刚听天hi尊唔错啊",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "867cda37-e098-4d3f-ad8e-896cdbab1f01",
+    "next_uuid": "0e4b2903-7bb7-4ee0-9f3d-60689a7b047e"
+  }
+}

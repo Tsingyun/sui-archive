@@ -1,0 +1,28 @@
+{
+  "uuid": "0e895afd-a42c-4eac-ae96-4c8314e667b6",
+  "platform_post_id": "798924798479564899",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-23T22:36:15+08:00",
+  "source_url": "https://t.bilibili.com/798924798479564899",
+  "plain_text": "呵呵 哼 拜拜 睡吧你",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e90cdb7-d2fb-4884-8e8b-887c40cbbc46",
+    "next_uuid": "6f2fd80e-bc38-40fa-ac45-799339156f55"
+  }
+}

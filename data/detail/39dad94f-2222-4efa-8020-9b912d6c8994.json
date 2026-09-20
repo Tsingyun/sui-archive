@@ -1,0 +1,28 @@
+{
+  "uuid": "39dad94f-2222-4efa-8020-9b912d6c8994",
+  "platform_post_id": "960745035755683842",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-02T00:21:25+08:00",
+  "source_url": "https://t.bilibili.com/960745035755683842",
+  "plain_text": "太刺激了嗷嗷嗷嗷，晚安",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88d5975f-3a24-4e1d-9a77-cbd77064cc9f",
+    "next_uuid": "adf33520-2494-445d-8eca-e83d8ec1455b"
+  }
+}

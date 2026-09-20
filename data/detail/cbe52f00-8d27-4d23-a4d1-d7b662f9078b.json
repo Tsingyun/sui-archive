@@ -1,0 +1,28 @@
+{
+  "uuid": "cbe52f00-8d27-4d23-a4d1-d7b662f9078b",
+  "platform_post_id": "1151103994733527044",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-27T23:51:24+08:00",
+  "source_url": "https://t.bilibili.com/1151103994733527044",
+  "plain_text": "吹头中～12:10见一小会！如果大家还没睡的话",
+  "images": [],
+  "stats": {
+    "likes": 206,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c7fb5e3-7262-43b6-959e-2e3e740189d5",
+    "next_uuid": "d11c71d4-fd55-4bce-880b-ae8ae9e2d009"
+  }
+}

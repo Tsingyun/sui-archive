@@ -1,0 +1,28 @@
+{
+  "uuid": "df5edb6d-9faf-4118-9773-ee4bd3689ceb",
+  "platform_post_id": "913611201136558085",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-27T23:58:04+08:00",
+  "source_url": "https://t.bilibili.com/913611201136558085",
+  "plain_text": "你的特别关心好友【岁己SUI】发布了内容：晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 424,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1314a1d5-a076-40f1-a725-ba12c666ff83",
+    "next_uuid": "2fad0e0a-0d8d-4a3c-bffb-f111d0c475fc"
+  }
+}

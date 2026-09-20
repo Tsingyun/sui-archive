@@ -1,0 +1,28 @@
+{
+  "uuid": "e7a11f54-cb92-4d20-9c4a-30968f7d615c",
+  "platform_post_id": "818484289760919617",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-15T15:37:04+08:00",
+  "source_url": "https://t.bilibili.com/818484289760919617",
+  "plain_text": "第1000条动态！祝大家千万要开心！\n今晚举办大家期待已久的1000条动态纪念回",
+  "images": [],
+  "stats": {
+    "likes": 462,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d6854c4-582e-4a8c-b280-38aabfc9feab",
+    "next_uuid": "18b30a9e-2b3b-436f-b51d-2c9b1460785e"
+  }
+}

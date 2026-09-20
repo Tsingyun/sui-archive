@@ -1,0 +1,28 @@
+{
+  "uuid": "b043da42-88c0-4b3f-8927-7139003997ae",
+  "platform_post_id": "765572874157162499",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-23T01:33:45+08:00",
+  "source_url": "https://t.bilibili.com/765572874157162499",
+  "plain_text": "´͈ ᗜ `͈ 晚安  完美又温馨的一天 虽然饼干岁有点下头了",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "38c39883-97fd-434d-9b1e-bcc3c7ea2b3e",
+    "next_uuid": "911fc005-74a3-4af5-9927-86ece0f35e33"
+  }
+}

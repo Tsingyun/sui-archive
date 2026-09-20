@@ -1,0 +1,28 @@
+{
+  "uuid": "628e00ef-d7fc-4758-b201-78f668e487c5",
+  "platform_post_id": "871601533288972307",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-05T18:59:06+08:00",
+  "source_url": "https://t.bilibili.com/871601533288972307",
+  "plain_text": "7:30继续出老千赚大米",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1af3d05b-8c0f-4bda-92f1-5e690dcd748f",
+    "next_uuid": "f8035685-8ebb-4fef-b681-0df1ec9476eb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9ced8544-ab15-44ec-bcc4-c4105f88b856",
+  "platform_post_id": "943660849641291829",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-16T23:26:03+08:00",
+  "source_url": "https://t.bilibili.com/943660849641291829",
+  "plain_text": "飞回森林了，明天再来找你玩 晚安",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27c823c1-aa54-41b9-bde6-74a4f2095a95",
+    "next_uuid": "739f04b8-d3c5-446c-b3f2-2730603f9e63"
+  }
+}

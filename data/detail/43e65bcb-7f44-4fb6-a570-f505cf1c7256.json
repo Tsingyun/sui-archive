@@ -1,0 +1,28 @@
+{
+  "uuid": "43e65bcb-7f44-4fb6-a570-f505cf1c7256",
+  "platform_post_id": "876354429990731848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-12-18T14:22:46+08:00",
+  "source_url": "https://t.bilibili.com/876354429990731848",
+  "plain_text": "太q特啦[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 27,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "db659cac-eba5-47eb-ab30-9b143a9190fc",
+    "next_uuid": "5fa3b1b5-6b1d-4b4f-8554-c92449af08d3"
+  }
+}

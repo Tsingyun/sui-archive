@@ -1,0 +1,28 @@
+{
+  "uuid": "e90bb9fa-c663-4499-a644-b0ece55af1d2",
+  "platform_post_id": "821044949262794768",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-07-22T13:13:44+08:00",
+  "source_url": "https://t.bilibili.com/821044949262794768",
+  "plain_text": "13:30在这里参加BW！！！没去现场的饼干岁可以看直播捏【线条小狗_击掌】 //@悠亚Yua:13:30在这里参加BW！！！没去现场的悠悠球可以看直播捏【线条小狗_击掌】",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 20,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VirtuaReal",
+    "author_url": "https://space.bilibili.com/413748120",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8feab702-4a79-4cc3-bcff-d523571affc0",
+    "next_uuid": "4dcfaaf5-7c08-430b-937d-39be2e6fde8d"
+  }
+}

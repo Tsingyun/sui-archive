@@ -1,0 +1,28 @@
+{
+  "uuid": "4e8ba2fd-7762-4ad1-9403-bd1f775187d8",
+  "platform_post_id": "874991254603038753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-14T22:12:57+08:00",
+  "source_url": "https://t.bilibili.com/874991254603038753",
+  "plain_text": "游戏高搜跟你说晚安yoooooooooo",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d30ca5e2-4099-448b-9e2f-e1654a947626",
+    "next_uuid": "373fad06-293a-4580-aaff-025b6c760405"
+  }
+}

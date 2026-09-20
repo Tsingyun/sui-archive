@@ -1,0 +1,28 @@
+{
+  "uuid": "fdde5c62-979b-4d5b-b3ea-772fc8f326a4",
+  "platform_post_id": "1068720895612157957",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-19T23:42:54+08:00",
+  "source_url": "https://t.bilibili.com/1068720895612157957",
+  "plain_text": "想我没！大家晚安 明天见哟 [岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6094692a-e21c-47a4-8d93-c4efabff6237",
+    "next_uuid": "6f66c295-c683-4358-80d0-11318fc7f782"
+  }
+}

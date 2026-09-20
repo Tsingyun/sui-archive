@@ -1,0 +1,28 @@
+{
+  "uuid": "373fad06-293a-4580-aaff-025b6c760405",
+  "platform_post_id": "875243042765799462",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-15T14:30:01+08:00",
+  "source_url": "https://t.bilibili.com/875243042765799462",
+  "plain_text": "下午好啊 快放假了 给你捏捏肩",
+  "images": [],
+  "stats": {
+    "likes": 393,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4e8ba2fd-7762-4ad1-9403-bd1f775187d8",
+    "next_uuid": "842167d5-bf97-47f3-b0b1-30c5b1f4127a"
+  }
+}
