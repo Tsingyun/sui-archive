@@ -1,0 +1,38 @@
+{
+  "uuid": "d9252aba-92ae-4b23-849f-129d035cbb1c",
+  "platform_post_id": "1159651297480146946",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-01-20T00:39:18+08:00",
+  "source_url": "https://t.bilibili.com/1159651297480146946",
+  "plain_text": "大脸攻击—— 晚安\n",
+  "images": [
+    {
+      "filename": "1159651297480146946_00@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1869194,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 380,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2647c08b-c15d-4eb2-870f-8ea9df928a50",
+    "next_uuid": "dd8aa538-b6c1-4ab2-980d-fc7ea43ff64a"
+  }
+}

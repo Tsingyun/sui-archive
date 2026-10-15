@@ -1,0 +1,28 @@
+{
+  "uuid": "f69c8c46-2dfa-4706-aa4d-4c2f87e52364",
+  "platform_post_id": "736646144817364994",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-07T02:43:16+08:00",
+  "source_url": "https://t.bilibili.com/736646144817364994",
+  "plain_text": "晚安小作文小作文小作文原创真情实感小作文",
+  "images": [],
+  "stats": {
+    "likes": 374,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ddfae90-ef50-41fb-aff3-db69e15b6151",
+    "next_uuid": "6258ecf2-215e-4f99-8327-1168907ad9dc"
+  }
+}

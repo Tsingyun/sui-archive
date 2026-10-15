@@ -1,0 +1,28 @@
+{
+  "uuid": "3c9c8b9e-bc75-4bdb-864b-e95e8d31b44e",
+  "platform_post_id": "1163286471924252674",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-29T19:45:38+08:00",
+  "source_url": "https://t.bilibili.com/1163286471924252674",
+  "plain_text": "有点胃痛 躺一会 8:10来吧 要不要挑战一下只狼！别的也可以啦",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e8ad9bd-b277-40a4-ad85-61e03aed1831",
+    "next_uuid": "3875e0a2-c8c9-4362-86ec-0a89429c3b80"
+  }
+}

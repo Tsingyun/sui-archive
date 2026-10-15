@@ -1,0 +1,28 @@
+{
+  "uuid": "69263cc7-c1e7-418c-9b2a-0dbc3c4eae90",
+  "platform_post_id": "756588683019157625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-29T20:30:30+08:00",
+  "source_url": "https://t.bilibili.com/756588683019157625",
+  "plain_text": "大家好大家好！2月5日是我的生日，现在征集一下棉花糖，可以写一些跟我的记忆和回忆，最好多写点，一定要署名，可以匿名～链接在评论哦！",
+  "images": [],
+  "stats": {
+    "likes": 551,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a33fcb3f-0d49-43c8-8921-ff813d9c8f37",
+    "next_uuid": "25712003-0243-45cc-9785-8717a03e87c0"
+  }
+}

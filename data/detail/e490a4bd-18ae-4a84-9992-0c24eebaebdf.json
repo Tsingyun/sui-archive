@@ -1,0 +1,28 @@
+{
+  "uuid": "e490a4bd-18ae-4a84-9992-0c24eebaebdf",
+  "platform_post_id": "837547377549115465",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-05T00:31:35+08:00",
+  "source_url": "https://t.bilibili.com/837547377549115465",
+  "plain_text": "晚安饼干岁！认识一年啦，谢谢你为我做的一切，我会一直记在心里的。下一年也想和你继续创造很多美好的回忆！",
+  "images": [],
+  "stats": {
+    "likes": 658,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "376b6fe1-a417-4c34-8e8c-d228bc58df52",
+    "next_uuid": "13679624-df46-4bb7-a64c-77ceaa050a17"
+  }
+}

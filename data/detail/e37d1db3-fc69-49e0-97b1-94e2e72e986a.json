@@ -1,0 +1,28 @@
+{
+  "uuid": "e37d1db3-fc69-49e0-97b1-94e2e72e986a",
+  "platform_post_id": "732271935374753796",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-25T07:49:06+08:00",
+  "source_url": "https://t.bilibili.com/732271935374753796",
+  "plain_text": "早上好！我快死了...早，8点早播nyo(・ω< )★",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e87088d8-6e1c-4776-92d8-274bc3c4af6f",
+    "next_uuid": "7b381941-1fa6-4d93-bbe1-4726d24d3d6c"
+  }
+}

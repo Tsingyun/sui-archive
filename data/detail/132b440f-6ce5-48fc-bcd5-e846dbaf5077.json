@@ -1,0 +1,28 @@
+{
+  "uuid": "132b440f-6ce5-48fc-bcd5-e846dbaf5077",
+  "platform_post_id": "1072800062244913153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-30T23:32:09+08:00",
+  "source_url": "https://t.bilibili.com/1072800062244913153",
+  "plain_text": "是第一个一千天的尾巴也是下一个的开始",
+  "images": [],
+  "stats": {
+    "likes": 201,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd34ac4e-3d25-4b12-a10b-b10a1a335b0f",
+    "next_uuid": "b2c1b501-1c6a-4e83-b361-a890cbe6dbc8"
+  }
+}

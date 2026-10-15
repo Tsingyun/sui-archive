@@ -1,0 +1,38 @@
+{
+  "uuid": "700cdbd0-24d9-4629-b7c1-cbf487847012",
+  "platform_post_id": "779528305208459299",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-04-01T16:07:57+08:00",
+  "source_url": "https://t.bilibili.com/779528305208459299",
+  "plain_text": "“咚咚咚”\n吱——\n：“你好，岁己来找你玩了，你今天有空吗”\n\n四月的上舰礼物是图示壁纸+色纸，提督礼物是舰长礼物+亚克力画报哦。\n评论区禁词“假”“垫”等，发表一条友善的评论吧～\n",
+  "images": [
+    {
+      "filename": "779528305208459299_00@original.png",
+      "width": 2500,
+      "height": 2200,
+      "file_size": 3342766,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 493,
+    "comments": 102,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1453d57e-1d49-428e-834c-17be0f86dfe8",
+    "next_uuid": "b5ecd85a-107b-4780-a58d-8acc98090e50"
+  }
+}

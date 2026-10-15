@@ -1,0 +1,28 @@
+{
+  "uuid": "a72d8a4a-2960-4f96-a4d5-4b1c5605c457",
+  "platform_post_id": "1081971234778906678",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-24T16:40:59+08:00",
+  "source_url": "https://t.bilibili.com/1081971234778906678",
+  "plain_text": "今天休息[岁己收藏集表情包_好耶][岁己收藏集表情包_哭死][岁己收藏集表情包_好耶][岁己收藏集表情包_哭死]\n",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f27de90-0064-4a8a-a658-615c47afe2f7",
+    "next_uuid": "7eb0fa83-53cc-4504-9dac-09fe784e16f4"
+  }
+}

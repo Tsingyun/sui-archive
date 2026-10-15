@@ -1,0 +1,28 @@
+{
+  "uuid": "c95bab4c-e4e2-4164-9a7d-a9f932a079fa",
+  "platform_post_id": "824336277179465729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-31T10:05:46+08:00",
+  "source_url": "https://t.bilibili.com/824336277179465729",
+  "plain_text": "友友们早啊 又是早起的一天 正能量满满啊",
+  "images": [],
+  "stats": {
+    "likes": 400,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0dfbabe-5522-4b2c-b9a7-fe0c87432683",
+    "next_uuid": "2e63f116-7643-490a-8d37-520f7a98e83d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "25e2c108-f8ed-4ef0-a039-939467af1fca",
+  "platform_post_id": "1151782676907163653",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-29T19:45:02+08:00",
+  "source_url": "https://t.bilibili.com/1151782676907163653",
+  "plain_text": "8点来看赛马娘2最后三集 漫啵啵～",
+  "images": [],
+  "stats": {
+    "likes": 175,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b81b72d-76fe-4df9-a261-60c1418b1fee",
+    "next_uuid": "c45ace0d-9526-4ef3-8145-620d35ac694c"
+  }
+}

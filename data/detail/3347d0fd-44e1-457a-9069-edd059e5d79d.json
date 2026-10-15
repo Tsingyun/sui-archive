@@ -1,0 +1,28 @@
+{
+  "uuid": "3347d0fd-44e1-457a-9069-edd059e5d79d",
+  "platform_post_id": "760735916324028419",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-10T00:43:53+08:00",
+  "source_url": "https://t.bilibili.com/760735916324028419",
+  "plain_text": "252舰谢谢大家（和大家的小号TT）！虽然今天唱得不是很好，明天再来本周最后一次歌回吧！晚安晚安[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "082d714a-fc2f-4219-84aa-0c1b72cf04ed",
+    "next_uuid": "75e0fe5d-6509-4f41-b8a6-93492285816e"
+  }
+}

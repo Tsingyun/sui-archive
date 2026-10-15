@@ -1,0 +1,28 @@
+{
+  "uuid": "4304cfee-8ef3-4c1f-a596-d79a41d3ee8c",
+  "platform_post_id": "751754486859432020",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-16T19:51:21+08:00",
+  "source_url": "https://t.bilibili.com/751754486859432020",
+  "plain_text": "8:30再来 今天就小播一下",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c42e7eab-7660-4cd6-9d2f-c6d34ca3e7ee",
+    "next_uuid": "4fe37209-06f2-42d0-b857-3b85adaee6b4"
+  }
+}

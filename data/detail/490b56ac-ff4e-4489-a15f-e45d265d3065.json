@@ -1,0 +1,28 @@
+{
+  "uuid": "490b56ac-ff4e-4489-a15f-e45d265d3065",
+  "platform_post_id": "813432605045162052",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-02T00:53:57+08:00",
+  "source_url": "https://t.bilibili.com/813432605045162052",
+  "plain_text": "今天也谢谢你来看我直播了！晚安nyo",
+  "images": [],
+  "stats": {
+    "likes": 618,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb325ab7-d0eb-48aa-a4df-f735da1c96c8",
+    "next_uuid": "ee4b6647-eab9-4a4a-a187-b8ac04632f11"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "98327a0b-6a9a-4cfd-91ce-4806ce6f86eb",
+  "platform_post_id": "1038967513939968020",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-28T19:24:35+08:00",
+  "source_url": "https://t.bilibili.com/1038967513939968020",
+  "plain_text": "岁己7:45开始直播 各部门做好准备[UPOWER_1954091502_波比波比]",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd2b2c3c-ec0b-452e-a310-79c0e8f86a35",
+    "next_uuid": "a5c3c057-6bd4-49df-b14a-2f1a04f3578b"
+  }
+}

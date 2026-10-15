@@ -1,0 +1,28 @@
+{
+  "uuid": "7a12a339-d247-4858-a065-fa0c8eb31360",
+  "platform_post_id": "971059605661548549",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-29T19:27:13+08:00",
+  "source_url": "https://t.bilibili.com/971059605661548549",
+  "plain_text": "7:45 唱唱 然后大镖客今天真的要完结了",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "091ca9c9-9222-4aab-903e-bbbd61c0bbc5",
+    "next_uuid": "902e1043-3067-445c-9b59-9c0a13254991"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8ecff2f7-7819-49a4-8d85-116db7d06aed",
+  "platform_post_id": "1103538636416090168",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-21T19:33:31+08:00",
+  "source_url": "https://t.bilibili.com/1103538636416090168",
+  "plain_text": "吃美了 7:45来！",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "809464e9-9ca8-4ab3-aa5d-385115bb6d7a",
+    "next_uuid": "f2ee7437-e446-46cd-a894-7492c4d6a63f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d4899b81-5a33-43f1-a5ee-afcc2e27da7c",
+  "platform_post_id": "762776631377920038",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-15T12:42:54+08:00",
+  "source_url": "https://t.bilibili.com/762776631377920038",
+  "plain_text": "哦醒了需要跟你们说吗？醒了。",
+  "images": [],
+  "stats": {
+    "likes": 375,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f35f4f77-4cbd-4b42-950b-889785106885",
+    "next_uuid": "7a612ab8-7466-4339-b626-bdd5c45f0ff1"
+  }
+}

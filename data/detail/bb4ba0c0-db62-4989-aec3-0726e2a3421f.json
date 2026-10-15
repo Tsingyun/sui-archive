@@ -1,0 +1,28 @@
+{
+  "uuid": "bb4ba0c0-db62-4989-aec3-0726e2a3421f",
+  "platform_post_id": "1192973526383984695",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-19T19:46:34+08:00",
+  "source_url": "https://t.bilibili.com/1192973526383984695",
+  "plain_text": "8点来昂 唱唱聊聊然后再说吧！",
+  "images": [],
+  "stats": {
+    "likes": 172,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ca570d1-04ca-4e82-9e7e-4f3655ec9ae2",
+    "next_uuid": "c5f91cd3-e04e-4164-9e46-76900bdffbe0"
+  }
+}

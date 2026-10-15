@@ -1,0 +1,38 @@
+{
+  "uuid": "38087e9d-2fa9-4790-bd7e-47e10d209ad4",
+  "platform_post_id": "1193410315930304529",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-04-21T00:01:32+08:00",
+  "source_url": "https://t.bilibili.com/1193410315930304529",
+  "plain_text": "就这样张着嘴闹要晚安\n",
+  "images": [
+    {
+      "filename": "1193410315930304529_00@original.png",
+      "width": 1280,
+      "height": 1440,
+      "file_size": 1267496,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 298,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2bb175e8-2c70-4f41-8a3f-13918bf291fd",
+    "next_uuid": "c502744a-adb3-46c9-8f8b-4b912328edb5"
+  }
+}

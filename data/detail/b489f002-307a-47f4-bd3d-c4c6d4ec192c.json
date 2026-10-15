@@ -1,0 +1,28 @@
+{
+  "uuid": "b489f002-307a-47f4-bd3d-c4c6d4ec192c",
+  "platform_post_id": "919939955668549684",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-14T01:16:52+08:00",
+  "source_url": "https://t.bilibili.com/919939955668549684",
+  "plain_text": "喵了个咪呀 感觉得2:30了 还播吗 要睡觉的别等我了就",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 94,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a7515f60-78f8-4e6e-b42d-90f5a23f147b",
+    "next_uuid": "2a555937-51ca-491f-a3c8-16ee90a0d602"
+  }
+}

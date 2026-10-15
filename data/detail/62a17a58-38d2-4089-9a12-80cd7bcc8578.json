@@ -1,0 +1,28 @@
+{
+  "uuid": "62a17a58-38d2-4089-9a12-80cd7bcc8578",
+  "platform_post_id": "1026239081991897106",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-25T12:11:46+08:00",
+  "source_url": "https://t.bilibili.com/1026239081991897106",
+  "plain_text": "中午好哦！岁己已经吃完饭去工作了\n以及，7-10月的舰长礼物发完啦，有什么问题的可以私信岁己～",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8350e586-5a25-4e5a-9473-3198907d617e",
+    "next_uuid": "c88b5320-b0ee-488a-b859-462ae382f2d3"
+  }
+}

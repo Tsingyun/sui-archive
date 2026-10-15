@@ -1,0 +1,28 @@
+{
+  "uuid": "75630681-dab7-4412-87b3-4a88cbbcccfd",
+  "platform_post_id": "895959963546943524",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-09T10:22:15+08:00",
+  "source_url": "https://t.bilibili.com/895959963546943524",
+  "plain_text": "早上好呀 今天有打扮得漂漂亮亮吗",
+  "images": [],
+  "stats": {
+    "likes": 431,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92028793-6c05-4443-8322-5c4f8e458526",
+    "next_uuid": "6bb19860-6195-471a-8a14-28a53205723a"
+  }
+}

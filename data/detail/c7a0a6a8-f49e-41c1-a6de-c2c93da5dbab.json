@@ -1,0 +1,38 @@
+{
+  "uuid": "c7a0a6a8-f49e-41c1-a6de-c2c93da5dbab",
+  "platform_post_id": "1114352827196506133",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-19T22:58:06+08:00",
+  "source_url": "https://t.bilibili.com/1114352827196506133",
+  "plain_text": "晚安大家！今天的明信片 怎么样怎么样（p过",
+  "images": [
+    {
+      "filename": "1114352827196506133_00@original.jpg",
+      "width": 4032,
+      "height": 3024,
+      "file_size": 651744,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 313,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7746ba5-649c-489a-b2ca-e7aac8a22388",
+    "next_uuid": "2fe67d94-e202-42d8-978d-324f1b45edf9"
+  }
+}

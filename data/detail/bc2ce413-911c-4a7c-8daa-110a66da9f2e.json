@@ -1,0 +1,28 @@
+{
+  "uuid": "bc2ce413-911c-4a7c-8daa-110a66da9f2e",
+  "platform_post_id": "949537043464060937",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-02T19:28:41+08:00",
+  "source_url": "https://t.bilibili.com/949537043464060937",
+  "plain_text": "7:40来 ！先聊天唱一首，然后呢老师？",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "222f2ac5-a8e4-4ab7-a117-58ae8e25bea5",
+    "next_uuid": "12114d80-77e4-479e-b6bb-ecfe8a550a9c"
+  }
+}

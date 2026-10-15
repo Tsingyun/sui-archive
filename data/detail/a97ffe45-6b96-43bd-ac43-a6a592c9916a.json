@@ -1,0 +1,28 @@
+{
+  "uuid": "a97ffe45-6b96-43bd-ac43-a6a592c9916a",
+  "platform_post_id": "1104300975926018055",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-23T20:51:47+08:00",
+  "source_url": "https://t.bilibili.com/1104300975926018055",
+  "plain_text": "洗好澡了 9:10来小播一下吧！",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fb6b4e7f-3c38-42d2-9392-b4c1d23a8fde",
+    "next_uuid": "e2436264-ef88-4280-b796-e0bbc757e6b2"
+  }
+}

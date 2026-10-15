@@ -1,0 +1,28 @@
+{
+  "uuid": "9df15f0f-4621-4a59-9db6-e9a1cdeca300",
+  "platform_post_id": "1140568637540663301",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-29T14:28:50+08:00",
+  "source_url": "https://t.bilibili.com/1140568637540663301",
+  "plain_text": "2:45来！唱唱聊聊 所有人开始整理仪容仪表！",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "481e5c05-eb77-45f3-b32a-695f254655ef",
+    "next_uuid": "8d182fbc-3ce5-4960-b68a-d200cede45c0"
+  }
+}

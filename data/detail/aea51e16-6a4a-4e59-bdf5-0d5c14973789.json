@@ -1,0 +1,28 @@
+{
+  "uuid": "aea51e16-6a4a-4e59-bdf5-0d5c14973789",
+  "platform_post_id": "1143249255492747265",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-06T19:51:00+08:00",
+  "source_url": "https://t.bilibili.com/1143249255492747265",
+  "plain_text": "8:10来看电影嗷 票买好了记得准时到",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eccb7bd3-3f9f-4f80-93d9-690553f95c97",
+    "next_uuid": "419565de-996d-49e2-ba54-67a5bfc29d87"
+  }
+}

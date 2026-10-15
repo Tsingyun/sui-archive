@@ -1,0 +1,28 @@
+{
+  "uuid": "859b73a9-4fdb-4174-87ef-375febc7b740",
+  "platform_post_id": "1214569360672161793",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-17T00:29:26+08:00",
+  "source_url": "https://t.bilibili.com/1214569360672161793",
+  "plain_text": "ฅ⩌⩊⩌  ⩌⩊⩌ฅ    晚安的说！",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d13d90b2-9fc7-4c5b-b93f-c906f56df5c1",
+    "next_uuid": "46dbc659-ed2f-45b4-83ee-5712a9af2707"
+  }
+}

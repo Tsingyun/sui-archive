@@ -1,0 +1,28 @@
+{
+  "uuid": "66f4020b-491b-4a19-8d20-ce78adcd84b5",
+  "platform_post_id": "978875080294531108",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-19T20:55:15+08:00",
+  "source_url": "https://t.bilibili.com/978875080294531108",
+  "plain_text": "泡澡去咯  9:50来一下下！",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57174c49-5842-42d7-a66e-a27a1a1c8df1",
+    "next_uuid": "90d408a9-af8d-4b3c-93b2-cd196ad69dcb"
+  }
+}

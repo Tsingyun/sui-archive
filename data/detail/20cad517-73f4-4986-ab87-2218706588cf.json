@@ -1,0 +1,28 @@
+{
+  "uuid": "20cad517-73f4-4986-ab87-2218706588cf",
+  "platform_post_id": "895657370241204233",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-08T14:48:02+08:00",
+  "source_url": "https://t.bilibili.com/895657370241204233",
+  "plain_text": "[UPOWER_1954091502_大家]都在干嘛！",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 105,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "290092c6-0bb4-4ed9-b1dd-f06838abbe2f",
+    "next_uuid": "d56b71df-1a45-4db1-bb40-7d1a4ef933b2"
+  }
+}

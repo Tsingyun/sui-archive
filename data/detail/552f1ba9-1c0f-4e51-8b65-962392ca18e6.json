@@ -1,0 +1,28 @@
+{
+  "uuid": "552f1ba9-1c0f-4e51-8b65-962392ca18e6",
+  "platform_post_id": "710396219522809875",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-27T09:00:09+08:00",
+  "source_url": "https://t.bilibili.com/710396219522809875",
+  "plain_text": "准备2万粉纪念直播做动漫专场歌回，征集一下大家想听的！",
+  "images": [],
+  "stats": {
+    "likes": 736,
+    "comments": 197,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "373db082-f66b-4609-a14f-d0455ca8189b",
+    "next_uuid": "57343847-7675-4ee0-bf0d-617aee7fa092"
+  }
+}

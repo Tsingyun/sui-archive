@@ -1,0 +1,28 @@
+{
+  "uuid": "52708762-8086-4dd2-8d62-85ad364116bf",
+  "platform_post_id": "989668255809404934",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-18T22:58:17+08:00",
+  "source_url": "https://t.bilibili.com/989668255809404934",
+  "plain_text": "感觉你的v生怎么样？晚安了，嗓子好痛",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "977473a7-a52f-432a-93cc-237d7fc0c825",
+    "next_uuid": "c80f8169-2d8a-4620-bd95-6cc11e57d778"
+  }
+}

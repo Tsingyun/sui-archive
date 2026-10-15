@@ -1,0 +1,28 @@
+{
+  "uuid": "7b1261b1-e2b5-4e3a-a078-54b32e255844",
+  "platform_post_id": "1006690589894246405",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-03T19:53:38+08:00",
+  "source_url": "https://t.bilibili.com/1006690589894246405",
+  "plain_text": "睡着了一会，8点来播的说",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d758d1a8-d735-4b43-93f1-f328b3920cf9",
+    "next_uuid": "ad58acac-b2a6-4723-9f0c-c2f3023505ff"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "uuid": "a8e00691-cc9f-4a8f-abd9-e08bc27dd9c9",
+  "platform_post_id": "788429981399121959",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-04-25T15:51:00+08:00",
+  "source_url": "https://t.bilibili.com/788429981399121959",
+  "plain_text": "为增强饼干韧性，使饼干更酥脆。第三届饼干岁合唱回将于5.21号举行\n合唱歌曲请尽量选择爱情相关的苦情歌和小甜歌\n以下为歌单，请尽量选择岁己在直播中完整唱过的歌曲。（判断方法为在b站搜索：岁己+你想合唱的歌名）\n💫 请投稿至邮箱：suiji11@qq.com 截止时间：5月19号\n",
+  "images": [
+    {
+      "filename": "788429981399121959_00@original.png",
+      "width": 1035,
+      "height": 9127,
+      "file_size": 3209923,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "788429981399121959_01@original.png",
+      "width": 1035,
+      "height": 3199,
+      "file_size": 1101787,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 304,
+    "comments": 75,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "45f7b25d-ff7b-46ba-9865-86d387918b2d",
+    "next_uuid": "e2b31f0d-5938-4597-919b-829a9a9a5370"
+  }
+}

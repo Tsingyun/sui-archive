@@ -1,0 +1,28 @@
+{
+  "uuid": "590b3e95-ce3e-441f-9a4a-e643f217fba4",
+  "platform_post_id": "797409297789091896",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-19T20:35:20+08:00",
+  "source_url": "https://t.bilibili.com/797409297789091896",
+  "plain_text": "现在不播 晚点电台",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4bfe4992-7df9-4579-8ef4-8ae44fbade5b",
+    "next_uuid": "7ad434c2-12e2-4d76-bc1f-989754870636"
+  }
+}

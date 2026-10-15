@@ -1,0 +1,28 @@
+{
+  "uuid": "06fdad19-afdb-472f-a038-c207c959b03c",
+  "platform_post_id": "955107285353365508",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-17T19:44:04+08:00",
+  "source_url": "https://t.bilibili.com/955107285353365508",
+  "plain_text": "老师，我们今天干嘛？7:55",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7f431f31-8534-4a3c-b1b2-6ff18bc56613",
+    "next_uuid": "d87c7fba-211b-421b-8142-8cbc3aa47e59"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "68a79f77-2ac8-4f9f-a80f-170d5d6d82ed",
+  "platform_post_id": "781539977683009553",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-07T02:14:16+08:00",
+  "source_url": "https://t.bilibili.com/781539977683009553",
+  "plain_text": "嗨 谁知道呢  人生无常",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b355c15e-cbc1-469f-825e-3803e899d537",
+    "next_uuid": "a337f1cb-f55a-4597-9b6e-1d3e548337c7"
+  }
+}

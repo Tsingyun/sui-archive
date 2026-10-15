@@ -1,0 +1,38 @@
+{
+  "uuid": "d1fe43cc-da52-4250-a880-95885654f1f0",
+  "platform_post_id": "961330229131870212",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-03T14:12:16+08:00",
+  "source_url": "https://t.bilibili.com/961330229131870212",
+  "plain_text": "[UP_1954091502_跳恰恰]来了就别走了",
+  "images": [
+    {
+      "filename": "961330229131870212_100@repost.jpg",
+      "width": 4555,
+      "height": 2206,
+      "file_size": 3164152,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 363,
+    "comments": 58,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fae0ef51-3f1e-4aa3-97a6-2110a8fcbf0e",
+    "next_uuid": "63983926-d5a2-410e-be22-5f222ed9f43e"
+  }
+}

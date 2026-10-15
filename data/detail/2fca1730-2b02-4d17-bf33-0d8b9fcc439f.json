@@ -1,0 +1,38 @@
+{
+  "uuid": "2fca1730-2b02-4d17-bf33-0d8b9fcc439f",
+  "platform_post_id": "1169308303833956369",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-02-15T01:13:25+08:00",
+  "source_url": "https://t.bilibili.com/1169308303833956369",
+  "plain_text": "看你很饿的样子，这个你就收下吧",
+  "images": [
+    {
+      "filename": "1169308303833956369_100@repost.jpg",
+      "width": 2812,
+      "height": 4134,
+      "file_size": 1614608,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 180,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "622bfcd2-53cb-4274-9984-8a81a622c656",
+    "next_uuid": "4498cbe1-1cd8-48ad-a968-2d3c389c2dab"
+  }
+}

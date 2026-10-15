@@ -1,0 +1,28 @@
+{
+  "uuid": "06c5d32b-0cdb-4779-bd26-f9a7c487f961",
+  "platform_post_id": "834136988842983429",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-26T19:57:32+08:00",
+  "source_url": "https://t.bilibili.com/834136988842983429",
+  "plain_text": "今晚八点 和尊贵的悠亚yua前辈一起联动的说！",
+  "images": [],
+  "stats": {
+    "likes": 317,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "58e50728-e8d0-4363-bd22-472cd1f7cd74",
+    "next_uuid": "5e7698a5-dfbc-4c8b-9dd4-a1f6431a3a84"
+  }
+}

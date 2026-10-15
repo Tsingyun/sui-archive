@@ -1,0 +1,28 @@
+{
+  "uuid": "a9351146-c6ae-45dc-b247-60e3d90ff759",
+  "platform_post_id": "1016421456787013648",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-30T01:14:22+08:00",
+  "source_url": "https://t.bilibili.com/1016421456787013648",
+  "plain_text": "晚   安  大    家",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b226f45a-f815-40ea-9f97-31a144a09996",
+    "next_uuid": "00269eab-4aa3-4d8a-887f-b8518e08ef09"
+  }
+}

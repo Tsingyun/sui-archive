@@ -1,0 +1,38 @@
+{
+  "uuid": "9b78cd4f-4853-41d5-ba53-a7b713b7f6b6",
+  "platform_post_id": "1030357405884481539",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-05T14:32:58+08:00",
+  "source_url": "https://t.bilibili.com/1030357405884481539",
+  "plain_text": "饼干岁的存在就是我的礼物啦[UPOWER_1954091502_爱你]",
+  "images": [
+    {
+      "filename": "1030357405884481539_100@repost.jpg",
+      "width": 2121,
+      "height": 3000,
+      "file_size": 3321364,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 270,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e9d2c4fa-448e-4bde-aa58-e722193ae374",
+    "next_uuid": "f519ea00-2482-4283-a808-79d135880b5e"
+  }
+}

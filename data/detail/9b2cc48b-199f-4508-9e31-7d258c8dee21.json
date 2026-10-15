@@ -1,0 +1,28 @@
+{
+  "uuid": "9b2cc48b-199f-4508-9e31-7d258c8dee21",
+  "platform_post_id": "1221249881684836352",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-05T00:33:16+08:00",
+  "source_url": "https://t.bilibili.com/1221249881684836352",
+  "plain_text": "我是极强的控制型人格！现在控制你给岁己发温情晚安评论 开始！",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cff5f033-8f3a-4e5b-b658-5c0965db5b1a",
+    "next_uuid": "5f2c0eb3-52ed-4f68-877e-0f74c985d7e1"
+  }
+}

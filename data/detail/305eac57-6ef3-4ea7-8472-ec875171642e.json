@@ -1,0 +1,28 @@
+{
+  "uuid": "305eac57-6ef3-4ea7-8472-ec875171642e",
+  "platform_post_id": "770864531565969411",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-09T07:48:05+08:00",
+  "source_url": "https://t.bilibili.com/770864531565969411",
+  "plain_text": "你好，早！你后脑勺头发翘起来了，要理一下哦。衣服好像有点皱，今天回家记得熨一下！今天也安全护送你上班了呢，下午再来跟踪哦不对，是护送你回家。^>⸝⸝⸝⸝<^",
+  "images": [],
+  "stats": {
+    "likes": 505,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d81f8ad8-184c-480b-8bca-72ace3eda7e4",
+    "next_uuid": "6e95443f-03fe-41c6-85e9-10badb7e467c"
+  }
+}

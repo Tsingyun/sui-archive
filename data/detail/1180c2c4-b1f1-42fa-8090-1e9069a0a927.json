@@ -1,0 +1,28 @@
+{
+  "uuid": "1180c2c4-b1f1-42fa-8090-1e9069a0a927",
+  "platform_post_id": "1200393297103683586",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-09T19:39:04+08:00",
+  "source_url": "https://t.bilibili.com/1200393297103683586",
+  "plain_text": "好惊喜岁己今天也会直播 7:50进行今天的直播[岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "044809e3-b9a1-4adc-9c98-c8496a222b18",
+    "next_uuid": "676c8546-700f-4a30-925b-0d31b8064f32"
+  }
+}

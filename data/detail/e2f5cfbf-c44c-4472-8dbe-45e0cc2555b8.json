@@ -1,0 +1,28 @@
+{
+  "uuid": "e2f5cfbf-c44c-4472-8dbe-45e0cc2555b8",
+  "platform_post_id": "753581772142280738",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-01-21T18:02:09+08:00",
+  "source_url": "https://t.bilibili.com/753581772142280738",
+  "plain_text": "漂亮的嘞",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 9,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cbfc2328-982e-47e7-b718-7c873f0aa065",
+    "next_uuid": "608703ec-d236-4964-bdb4-15fd6cd81590"
+  }
+}

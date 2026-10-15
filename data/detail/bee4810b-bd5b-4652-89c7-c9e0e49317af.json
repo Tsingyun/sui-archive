@@ -1,0 +1,38 @@
+{
+  "uuid": "bee4810b-bd5b-4652-89c7-c9e0e49317af",
+  "platform_post_id": "876049856685146128",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-17T18:40:52+08:00",
+  "source_url": "https://t.bilibili.com/876049856685146128",
+  "plain_text": "400舰谢谢！今天7:10分来谢谢昨天的礼物。能达成450舰会追加音声捏\n",
+  "images": [
+    {
+      "filename": "876049856685146128_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1851265,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 581,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0fca2c8b-dfb4-43c8-a04d-dfa3b9d90494",
+    "next_uuid": "910bf748-7d35-4575-b1ad-9709161f497c"
+  }
+}

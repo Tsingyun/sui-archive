@@ -1,0 +1,28 @@
+{
+  "uuid": "a62cb96f-fcf2-458c-a87c-91d5bb2960be",
+  "platform_post_id": "905382065270161417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-05T19:44:49+08:00",
+  "source_url": "https://t.bilibili.com/905382065270161417",
+  "plain_text": "今天有点事 晚一点 8:20来",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "83454ebb-ddc2-44ee-af3a-374cee43df28",
+    "next_uuid": "dd4fce2f-2cc4-4b48-bb82-b46c524309b7"
+  }
+}

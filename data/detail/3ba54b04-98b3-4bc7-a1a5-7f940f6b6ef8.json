@@ -1,0 +1,38 @@
+{
+  "uuid": "3ba54b04-98b3-4bc7-a1a5-7f940f6b6ef8",
+  "platform_post_id": "999242463782633472",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-11-13T18:11:06+08:00",
+  "source_url": "https://t.bilibili.com/999242463782633472",
+  "plain_text": "本月舰长礼物！然后今天是10点的煮煮^(*￣(oo)￣)^\n",
+  "images": [
+    {
+      "filename": "999242463782633472_00@original.png",
+      "width": 1000,
+      "height": 1300,
+      "file_size": 812361,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 343,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5e2b6336-ae4f-4bbe-803d-f7b798205262",
+    "next_uuid": "b20bb336-02ab-4fe7-8374-3728e9ad3703"
+  }
+}

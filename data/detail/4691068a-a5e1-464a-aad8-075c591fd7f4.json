@@ -1,0 +1,38 @@
+{
+  "uuid": "4691068a-a5e1-464a-aad8-075c591fd7f4",
+  "platform_post_id": "833099088511631366",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-24T00:49:57+08:00",
+  "source_url": "https://t.bilibili.com/833099088511631366",
+  "plain_text": "跟大家开始对话的一周年！\n你好呀！我是岁己。祝你晚安哦\n",
+  "images": [
+    {
+      "filename": "833099088511631366_00@original.png",
+      "width": 850,
+      "height": 507,
+      "file_size": 283357,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 896,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "91d102a7-be23-480d-a19a-6e05e40e9114",
+    "next_uuid": "d3cd896a-11c6-464a-b6a0-6c2c129046cb"
+  }
+}

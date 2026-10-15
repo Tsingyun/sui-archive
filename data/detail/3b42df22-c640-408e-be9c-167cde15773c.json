@@ -1,0 +1,28 @@
+{
+  "uuid": "3b42df22-c640-408e-be9c-167cde15773c",
+  "platform_post_id": "767970440841789472",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-01T12:37:32+08:00",
+  "source_url": "https://t.bilibili.com/767970440841789472",
+  "plain_text": "最近早上起床的时候被子总是往下缩，好冷啊，原来是爱你在心口难缩",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "91b377e7-fd78-4531-aa69-d668b3d3967c",
+    "next_uuid": "7126229c-897b-4be3-b894-42c83e67defe"
+  }
+}

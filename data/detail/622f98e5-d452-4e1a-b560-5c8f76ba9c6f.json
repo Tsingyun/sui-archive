@@ -1,0 +1,28 @@
+{
+  "uuid": "622f98e5-d452-4e1a-b560-5c8f76ba9c6f",
+  "platform_post_id": "841923017221079063",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-16T19:31:18+08:00",
+  "source_url": "https://t.bilibili.com/841923017221079063",
+  "plain_text": "有没有什么好看的搬运/免费电影 请说\n我们8:10分来看电影吧",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18aecf70-73f6-401c-ad17-5fbdc1801935",
+    "next_uuid": "04baaaee-cf1d-483d-8886-f5cc37369e06"
+  }
+}

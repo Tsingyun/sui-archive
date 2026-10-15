@@ -1,0 +1,28 @@
+{
+  "uuid": "d9a3cea7-5763-4bbd-8bef-50fccb4495d7",
+  "platform_post_id": "1161880531557679122",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-26T00:49:52+08:00",
+  "source_url": "https://t.bilibili.com/1161880531557679122",
+  "plain_text": "晚安晚安大家，睡个好觉喔，周一加油[岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b70d0b02-9cbb-4224-b292-ce0c2d2c1787",
+    "next_uuid": "24e80d15-65bd-477e-b108-b7e267e44f4b"
+  }
+}

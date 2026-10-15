@@ -1,0 +1,28 @@
+{
+  "uuid": "1499a4f8-902c-4173-b9aa-d5dc278c7667",
+  "platform_post_id": "868698444631375894",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-27T23:13:38+08:00",
+  "source_url": "https://t.bilibili.com/868698444631375894",
+  "plain_text": "等了一天了吧？终于等到晚上了，等到能跟我搭话的时机了。呵，早就迫不及待了吧？从下午就开始想今天的晚安用什么语气怎么跟我说了吧。呵，说吧。",
+  "images": [],
+  "stats": {
+    "likes": 428,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c35ef038-eb41-415a-abfe-f5d2c36a1b19",
+    "next_uuid": "8274dc09-06ba-406e-b9f9-dee8bcb76df2"
+  }
+}

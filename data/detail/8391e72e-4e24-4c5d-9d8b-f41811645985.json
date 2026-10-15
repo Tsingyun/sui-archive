@@ -1,0 +1,28 @@
+{
+  "uuid": "8391e72e-4e24-4c5d-9d8b-f41811645985",
+  "platform_post_id": "939953107414024208",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-06T23:38:07+08:00",
+  "source_url": "https://t.bilibili.com/939953107414024208",
+  "plain_text": "晚安 打滚了打滚了，快回我",
+  "images": [],
+  "stats": {
+    "likes": 384,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "733bc95e-8ee5-4341-b0f1-c0496f35f215",
+    "next_uuid": "d7557668-993d-4cc1-a6cd-ab90c976debd"
+  }
+}

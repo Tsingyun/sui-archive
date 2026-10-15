@@ -1,0 +1,28 @@
+{
+  "uuid": "825f0590-91c8-4a30-b3a1-77bd7bc76523",
+  "platform_post_id": "904326499741466625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-02T23:28:41+08:00",
+  "source_url": "https://t.bilibili.com/904326499741466625",
+  "plain_text": "b站好像出bug了我这边怎么看不到晚安回复",
+  "images": [],
+  "stats": {
+    "likes": 410,
+    "comments": 121,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b74c761-2579-4b24-92a5-2190b3ba7de5",
+    "next_uuid": "8e416cd2-1aa2-429e-851e-b530351a5c93"
+  }
+}

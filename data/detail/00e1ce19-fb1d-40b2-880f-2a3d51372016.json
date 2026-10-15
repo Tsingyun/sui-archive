@@ -1,0 +1,28 @@
+{
+  "uuid": "00e1ce19-fb1d-40b2-880f-2a3d51372016",
+  "platform_post_id": "1170420747619794952",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-18T01:10:16+08:00",
+  "source_url": "https://t.bilibili.com/1170420747619794952",
+  "plain_text": "现在为您端来的是朴实无华但在这个冬夜能暖你一下的招牌菜之岁己晚安1份",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7503b73f-94e7-4045-a21f-092284b1a344",
+    "next_uuid": "f2943417-1465-497e-953e-6cc319bb94b0"
+  }
+}

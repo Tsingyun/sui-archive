@@ -1,0 +1,28 @@
+{
+  "uuid": "cbb2e879-4a0f-4a6c-849e-baf34e36d15d",
+  "platform_post_id": "862778631062028343",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-12T00:21:44+08:00",
+  "source_url": "https://t.bilibili.com/862778631062028343",
+  "plain_text": "晚安！今天在淘宝买了很多喜欢的宝贝，可惜没买到你这个小宝贝🫰🤘🤞",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee5efae7-3300-4a34-8a71-da79de47d6e2",
+    "next_uuid": "3c577423-73c5-4c7e-bce3-b277eddc7ed9"
+  }
+}

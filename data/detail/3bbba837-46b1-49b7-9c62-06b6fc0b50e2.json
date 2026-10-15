@@ -1,0 +1,28 @@
+{
+  "uuid": "3bbba837-46b1-49b7-9c62-06b6fc0b50e2",
+  "platform_post_id": "1023084136466743352",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-17T00:08:58+08:00",
+  "source_url": "https://t.bilibili.com/1023084136466743352",
+  "plain_text": "额阿阿啊晚安[UPOWER_1954091502_大家]",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d5f85d6-d84b-4d34-8e3b-4bc365b4670c",
+    "next_uuid": "ffdca185-d668-4ced-89bb-dbc140f0978f"
+  }
+}

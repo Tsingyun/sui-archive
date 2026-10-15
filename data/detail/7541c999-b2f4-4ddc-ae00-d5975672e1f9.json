@@ -1,0 +1,28 @@
+{
+  "uuid": "7541c999-b2f4-4ddc-ae00-d5975672e1f9",
+  "platform_post_id": "730981581162807303",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-21T20:21:52+08:00",
+  "source_url": "https://t.bilibili.com/730981581162807303",
+  "plain_text": "吃个饭 十分钟",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "964e50b9-a1a8-4e28-a25b-9fa0b4fdb27a",
+    "next_uuid": "6670151d-2e16-408f-8c15-d0c2941c46d7"
+  }
+}

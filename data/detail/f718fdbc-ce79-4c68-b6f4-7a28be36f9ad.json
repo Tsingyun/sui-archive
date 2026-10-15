@@ -1,0 +1,38 @@
+{
+  "uuid": "f718fdbc-ce79-4c68-b6f4-7a28be36f9ad",
+  "platform_post_id": "962912245991342081",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-08-07T20:31:18+08:00",
+  "source_url": "https://t.bilibili.com/962912245991342081",
+  "plain_text": "30抽5个小隐藏，什么实力。#诚信出 有意者联系\n",
+  "images": [
+    {
+      "filename": "962912245991342081_00@original.png",
+      "width": 471,
+      "height": 1086,
+      "file_size": 453011,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 335,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d5ec9227-074b-41ec-bdbe-a8c027a836b3",
+    "next_uuid": "59ca62aa-21b4-4e01-af3d-2deadde55610"
+  }
+}

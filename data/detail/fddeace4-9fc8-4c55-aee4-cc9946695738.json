@@ -1,0 +1,28 @@
+{
+  "uuid": "fddeace4-9fc8-4c55-aee4-cc9946695738",
+  "platform_post_id": "762039142569738291",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-13T13:01:04+08:00",
+  "source_url": "https://t.bilibili.com/762039142569738291",
+  "plain_text": "早，闹钟是11:15，睡过了。但是不禁思考起来，为什么会睡过，还觉得睡得很爽呢，会不会我天生就需要睡10个小时，这是基因注定的，之前睡8个小时是在违背身体规律，睡到1点才是健康的作息呢！",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca255169-731f-495d-a24b-9f423e22470e",
+    "next_uuid": "c4bbbc52-57e9-4d9b-8fd4-70685f43eb8c"
+  }
+}

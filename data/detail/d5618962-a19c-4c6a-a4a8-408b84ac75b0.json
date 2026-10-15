@@ -1,0 +1,28 @@
+{
+  "uuid": "d5618962-a19c-4c6a-a4a8-408b84ac75b0",
+  "platform_post_id": "857034228281376802",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-27T12:50:31+08:00",
+  "source_url": "https://t.bilibili.com/857034228281376802",
+  "plain_text": "重小通知！\n我醒了！早安喵午安喵晚安喵喵喵",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29eafc0d-7134-42a5-9a82-563627ae680a",
+    "next_uuid": "24f346fd-7608-40cd-9261-b0c147e9c16f"
+  }
+}

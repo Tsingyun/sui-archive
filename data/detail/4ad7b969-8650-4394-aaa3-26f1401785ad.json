@@ -1,0 +1,28 @@
+{
+  "uuid": "4ad7b969-8650-4394-aaa3-26f1401785ad",
+  "platform_post_id": "1156304521548267528",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-11T00:12:06+08:00",
+  "source_url": "https://t.bilibili.com/1156304521548267528",
+  "plain_text": "这条短信发完你就从女孩子变成男孩子了，但是我觉得本来的你就很好喔。晚安",
+  "images": [],
+  "stats": {
+    "likes": 298,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2cfc718-5131-41ce-b135-dd7a2f09c13f",
+    "next_uuid": "ff17740d-8937-4e89-9a12-7187784a9bf0"
+  }
+}

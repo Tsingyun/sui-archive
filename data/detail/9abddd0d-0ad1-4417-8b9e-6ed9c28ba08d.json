@@ -1,0 +1,28 @@
+{
+  "uuid": "9abddd0d-0ad1-4417-8b9e-6ed9c28ba08d",
+  "platform_post_id": "1259098430565777414",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-15T00:24:58+08:00",
+  "source_url": "https://t.bilibili.com/1259098430565777414",
+  "plain_text": "好了我教教你吧，手指放在键盘上，点一下w，a，\nn，a，n就可以和喜欢的主播说晚安啦",
+  "images": [],
+  "stats": {
+    "likes": 375,
+    "comments": 98,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1e703c43-4239-4291-a793-7e840d2ac860",
+    "next_uuid": null
+  }
+}

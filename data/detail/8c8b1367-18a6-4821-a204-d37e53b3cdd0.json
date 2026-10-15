@@ -1,0 +1,28 @@
+{
+  "uuid": "8c8b1367-18a6-4821-a204-d37e53b3cdd0",
+  "platform_post_id": "1194893174891347988",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-24T23:55:47+08:00",
+  "source_url": "https://t.bilibili.com/1194893174891347988",
+  "plain_text": "我的晚安呢 我会在一直盯着你 你目光移走的时候就在黑暗里悄悄挪动到你身后...",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a56f42e-3469-45a4-9cbc-1eb4820bbfc3",
+    "next_uuid": "335f2698-3cfb-4732-92b8-d2ac1477e3d1"
+  }
+}

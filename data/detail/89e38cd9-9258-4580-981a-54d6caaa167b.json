@@ -1,0 +1,28 @@
+{
+  "uuid": "89e38cd9-9258-4580-981a-54d6caaa167b",
+  "platform_post_id": "1002233607838760967",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-21T19:38:16+08:00",
+  "source_url": "https://t.bilibili.com/1002233607838760967",
+  "plain_text": "7:52来直播！唱点先",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "336382c4-1dfb-4b6a-a72f-b561c867884b",
+    "next_uuid": "7e851c53-55c6-456c-9884-d83c9de6f09b"
+  }
+}

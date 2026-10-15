@@ -1,0 +1,28 @@
+{
+  "uuid": "3c38eff0-83e2-4ece-a3cf-eafbc6b701d7",
+  "platform_post_id": "996750455023337480",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-07T01:00:50+08:00",
+  "source_url": "https://t.bilibili.com/996750455023337480",
+  "plain_text": "终于把你平安护送回地球了，晚安，地球的饼类",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "78f784a1-3cce-4b69-a98f-ccc8fa1a0acc",
+    "next_uuid": "72e28729-109c-459d-a0b6-242d757c5af4"
+  }
+}

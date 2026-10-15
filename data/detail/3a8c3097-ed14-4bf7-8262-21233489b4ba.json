@@ -1,0 +1,28 @@
+{
+  "uuid": "3a8c3097-ed14-4bf7-8262-21233489b4ba",
+  "platform_post_id": "1043118724409720834",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-11T23:53:24+08:00",
+  "source_url": "https://t.bilibili.com/1043118724409720834",
+  "plain_text": "小大饼 大小饼 [UP_1954091502_抱抱]周二工作辛苦了 \n晚安 明天见！",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37aff9f4-2433-4c1f-b153-628cf1d91f57",
+    "next_uuid": "214f9dd5-da6d-427d-8128-0f7ad74f15a1"
+  }
+}

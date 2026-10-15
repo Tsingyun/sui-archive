@@ -1,0 +1,38 @@
+{
+  "uuid": "83908532-3ce0-4f0e-811f-29b29f1a7415",
+  "platform_post_id": "1113213071668543497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-16T21:15:16+08:00",
+  "source_url": "https://t.bilibili.com/1113213071668543497",
+  "plain_text": "携岁小之努跟你说晚安，虽然因为一直塞在包里脸蛋变得皱皱巴巴的[岁己收藏集表情包_流汗了]晚安nyo",
+  "images": [
+    {
+      "filename": "1113213071668543497_00@original.jpg",
+      "width": 3008,
+      "height": 3008,
+      "file_size": 650452,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 405,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4cf61a57-a936-4a49-b489-e719298964f4",
+    "next_uuid": "73ed5203-1ab7-4c95-ae1e-38048720b8db"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8ded828d-ae0c-4f0f-9f48-4553d1a54901",
+  "platform_post_id": "827714548130643970",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-09T12:35:11+08:00",
+  "source_url": "https://t.bilibili.com/827714548130643970",
+  "plain_text": "今天睡了9小时，醒了半小时，想了你24小时。我的宝😭，早安",
+  "images": [],
+  "stats": {
+    "likes": 446,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac43830a-10bb-4324-8b65-8457631a6cc3",
+    "next_uuid": "2a8d5063-834f-462f-b4a9-bff61f9ba613"
+  }
+}

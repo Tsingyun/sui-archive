@@ -1,0 +1,28 @@
+{
+  "uuid": "a37e2d45-650b-4697-a83a-2ae688608adf",
+  "platform_post_id": "982625445777244169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-29T23:28:35+08:00",
+  "source_url": "https://t.bilibili.com/982625445777244169",
+  "plain_text": "淅淅沥沥的雨声和潮湿的内心和普通的晚安",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be678aba-a100-4f3d-ae06-73e318db1bc8",
+    "next_uuid": "11a73d9e-69e9-4edd-bb7c-75de3ca99f07"
+  }
+}

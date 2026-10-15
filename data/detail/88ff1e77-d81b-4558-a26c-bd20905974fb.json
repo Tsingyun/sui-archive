@@ -1,0 +1,38 @@
+{
+  "uuid": "88ff1e77-d81b-4558-a26c-bd20905974fb",
+  "platform_post_id": "762495160699322368",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-14T18:30:39+08:00",
+  "source_url": "https://t.bilibili.com/762495160699322368",
+  "plain_text": "第一个情人节快乐！今天穿了很清纯的裙子，可爱吗？\n\n【VirtuaReal 倾心蜜语系列情人节周边 即将闪耀登场】\n 倾心蜜语系列 马口铁徽章\n 倾心蜜语系列 收藏相卡\n 倾心蜜语系列 亚克力收藏画\n\n情人节的今天，想你应该知道，爱你不止此时此刻[爱心]\nVirtuaReal 倾心蜜语系列，祝每一位心中有爱的大家，Happy Valentine's Day~\n",
+  "images": [
+    {
+      "filename": "762495160699322368_00@original.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 2166121,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 463,
+    "comments": 41,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6a02582b-8923-44f3-8128-ac8239faf359",
+    "next_uuid": "f35f4f77-4cbd-4b42-950b-889785106885"
+  }
+}

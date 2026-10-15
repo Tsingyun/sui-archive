@@ -1,0 +1,28 @@
+{
+  "uuid": "c41a9142-7156-4ce7-8617-49df0f85fa3c",
+  "platform_post_id": "1169692196602904610",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-16T02:03:07+08:00",
+  "source_url": "https://t.bilibili.com/1169692196602904610",
+  "plain_text": "大家的年夜饭、家里装饰、往年新年发生的事或是想分享的关于新年的一切，图片+文字\n投稿方式：话题吃了岁岁了吃 很想匿名的话suiji11@qq.com 图片格式投稿~\n除夕晚上来一起看~\n",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4c5856b7-0d8f-43d5-9cdb-c04939667686",
+    "next_uuid": "f71b291c-98d0-4235-82a9-e36ad736bb35"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "c2457c78-6f38-42ca-bd2f-f5277ccdd059",
+  "platform_post_id": "874119122873483267",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-12T13:48:38+08:00",
+  "source_url": "https://t.bilibili.com/874119122873483267",
+  "plain_text": "小小披露！是新衣达到250舰会有的袜子的说\n可爱吧可爱吧\n",
+  "images": [
+    {
+      "filename": "874119122873483267_00@original.png",
+      "width": 1080,
+      "height": 1805,
+      "file_size": 227570,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 469,
+    "comments": 80,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2e129ed1-d320-410a-8670-5043389b6401",
+    "next_uuid": "ce2987cb-9573-4042-a083-741c932d8758"
+  }
+}

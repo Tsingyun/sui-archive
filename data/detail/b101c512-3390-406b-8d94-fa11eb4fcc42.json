@@ -1,0 +1,28 @@
+{
+  "uuid": "b101c512-3390-406b-8d94-fa11eb4fcc42",
+  "platform_post_id": "1157349469918855176",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-13T19:47:02+08:00",
+  "source_url": "https://t.bilibili.com/1157349469918855176",
+  "plain_text": "8:05来呢 还是听听歌画头像吧！",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "237fcfa2-93bb-4dba-85a0-c90894c441d5",
+    "next_uuid": "820fb64b-c80a-4807-8b0b-ab5c6499304c"
+  }
+}

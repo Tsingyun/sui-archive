@@ -1,0 +1,28 @@
+{
+  "uuid": "f2ab1add-3b19-48db-97ce-1f98b455b60f",
+  "platform_post_id": "969206112505036824",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-24T19:34:43+08:00",
+  "source_url": "https://t.bilibili.com/969206112505036824",
+  "plain_text": "9:30来煮煮 我想起来上次买了喷雾和保鲜膜忘记用了都",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5bdc98f0-49ae-4ad2-aec8-60326e749060",
+    "next_uuid": "68b53dc5-15d3-43ec-aba8-708c79d36e8c"
+  }
+}

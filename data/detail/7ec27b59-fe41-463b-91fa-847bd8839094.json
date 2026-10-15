@@ -1,0 +1,101 @@
+{
+  "uuid": "7ec27b59-fe41-463b-91fa-847bd8839094",
+  "platform_post_id": "1211081868701597696",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-06-07T14:56:11+08:00",
+  "source_url": "https://t.bilibili.com/1211081868701597696",
+  "plain_text": "对岁己就是这样看起来人畜无害但其实是扮猪吃老虎心机深沉的存在",
+  "images": [
+    {
+      "filename": "1211081868701597696_100@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 631504,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_101@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 631599,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_102@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 632205,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_103@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 632062,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_104@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 629321,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_105@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 479383,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_106@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 478912,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1211081868701597696_107@repost.png",
+      "width": 760,
+      "height": 1000,
+      "file_size": 479632,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 220,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Chitose彰良",
+    "author_url": "https://space.bilibili.com/441776977",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eae2d012-df65-4e86-be9b-b1a20d9811f9",
+    "next_uuid": "66267f3b-c369-409d-b900-7a6385d4af78"
+  }
+}

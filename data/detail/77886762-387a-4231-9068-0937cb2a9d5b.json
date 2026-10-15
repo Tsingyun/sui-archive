@@ -1,0 +1,28 @@
+{
+  "uuid": "77886762-387a-4231-9068-0937cb2a9d5b",
+  "platform_post_id": "729120580417093816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-16T20:00:14+08:00",
+  "source_url": "https://t.bilibili.com/729120580417093816",
+  "plain_text": "拆拆快递去超市补给一下零食然后洗个碗，应该8；30左右来！我尽快！",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3f5b535-35a6-4bc5-9200-40c3bcec7a27",
+    "next_uuid": "1064cac8-2c9f-40ed-aae3-bfcd30631e8a"
+  }
+}

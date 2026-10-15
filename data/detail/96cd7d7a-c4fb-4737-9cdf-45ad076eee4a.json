@@ -1,0 +1,28 @@
+{
+  "uuid": "96cd7d7a-c4fb-4737-9cdf-45ad076eee4a",
+  "platform_post_id": "1034541236603584521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-16T21:08:22+08:00",
+  "source_url": "https://t.bilibili.com/1034541236603584521",
+  "plain_text": "感觉越长大能称之为开心的日子就越少，不过今天确实很开心的一天！谢谢大家看岁己直播\n晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 337,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f8c87ba3-7f02-4dc3-8838-0a4f12a22bfc",
+    "next_uuid": "17f241fe-010c-4208-87b4-ec7f1f845687"
+  }
+}

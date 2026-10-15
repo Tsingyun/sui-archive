@@ -1,0 +1,38 @@
+{
+  "uuid": "5ef4bcb8-c7d8-49b6-bd8d-94cb65be5c4c",
+  "platform_post_id": "797070493596254249",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-05-18T22:40:36+08:00",
+  "source_url": "https://t.bilibili.com/797070493596254249",
+  "plain_text": "💕 你5月20号有空吗？💕 \n啊..虽然我平时不太喜欢过这种日子，但如果是你的话..要和姐姐一起过520吗？\n\n5.20-5.31上舰有限定礼物哦：壁纸+立牌+夏日冰垫\n",
+  "images": [
+    {
+      "filename": "797070493596254249_00@original.png",
+      "width": 4055,
+      "height": 3240,
+      "file_size": 6747189,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 531,
+    "comments": 111,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "83661a5e-6f20-4cd4-aeac-50b3a58514fd",
+    "next_uuid": "9d0c0bbd-95b1-4dad-b40b-3f8d4b81c9c1"
+  }
+}

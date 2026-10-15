@@ -1,0 +1,28 @@
+{
+  "uuid": "e87088d8-6e1c-4776-92d8-274bc3c4af6f",
+  "platform_post_id": "732157328460087312",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-25T00:24:22+08:00",
+  "source_url": "https://t.bilibili.com/732157328460087312",
+  "plain_text": "今天也度过了很开心的时间！🍪晚安，七个小时后见。",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e104a1b5-15ee-4bdb-83cc-10a2a7cac683",
+    "next_uuid": "e37d1db3-fc69-49e0-97b1-94e2e72e986a"
+  }
+}

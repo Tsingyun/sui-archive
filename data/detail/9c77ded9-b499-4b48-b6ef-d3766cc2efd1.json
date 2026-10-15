@@ -1,0 +1,28 @@
+{
+  "uuid": "9c77ded9-b499-4b48-b6ef-d3766cc2efd1",
+  "platform_post_id": "944774122552950807",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-19T23:26:07+08:00",
+  "source_url": "https://t.bilibili.com/944774122552950807",
+  "plain_text": "好困了，晚安大家，明天见",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "150c335e-cf92-4574-821a-da2feac92136",
+    "next_uuid": "749e0953-a8fa-4dc3-8b65-40dad0013d96"
+  }
+}

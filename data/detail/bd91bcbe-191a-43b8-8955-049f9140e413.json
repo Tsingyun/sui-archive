@@ -1,0 +1,28 @@
+{
+  "uuid": "bd91bcbe-191a-43b8-8955-049f9140e413",
+  "platform_post_id": "1171450298509557766",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-20T19:45:27+08:00",
+  "source_url": "https://t.bilibili.com/1171450298509557766",
+  "plain_text": "8:05来！今天是唱聊 芙莉莲～",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "132718eb-161f-4fde-ac6b-24669dde5463",
+    "next_uuid": "f83d6982-077c-4894-8c3f-ea04c2735236"
+  }
+}

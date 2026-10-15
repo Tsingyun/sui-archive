@@ -1,0 +1,28 @@
+{
+  "uuid": "19b94284-3775-48ed-8d56-bc157fdd4600",
+  "platform_post_id": "1185997073571381249",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-01T00:34:22+08:00",
+  "source_url": "https://t.bilibili.com/1185997073571381249",
+  "plain_text": "不想跟你说晚安 你别睡觉！",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "45547805-6636-4f5e-babe-358b1fe83280",
+    "next_uuid": "5fffedb8-db1d-4f6a-94e6-8be050e2cd06"
+  }
+}

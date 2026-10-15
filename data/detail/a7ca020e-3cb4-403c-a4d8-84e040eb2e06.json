@@ -1,0 +1,28 @@
+{
+  "uuid": "a7ca020e-3cb4-403c-a4d8-84e040eb2e06",
+  "platform_post_id": "919370760832679939",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-12T12:28:06+08:00",
+  "source_url": "https://t.bilibili.com/919370760832679939",
+  "plain_text": "早！这么早的动态，可别被吓到的说",
+  "images": [],
+  "stats": {
+    "likes": 410,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96549d01-dd2a-4aa0-805c-a7f8c62215b4",
+    "next_uuid": "dec77040-948f-4ea2-8b3f-8cccb002efe2"
+  }
+}

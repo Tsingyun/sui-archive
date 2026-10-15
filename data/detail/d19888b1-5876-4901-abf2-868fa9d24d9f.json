@@ -1,0 +1,38 @@
+{
+  "uuid": "d19888b1-5876-4901-abf2-868fa9d24d9f",
+  "platform_post_id": "903857888720584705",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-01T17:10:14+08:00",
+  "source_url": "https://t.bilibili.com/903857888720584705",
+  "plain_text": "三月一日好",
+  "images": [
+    {
+      "filename": "903857888720584705_100@repost.png",
+      "width": 1200,
+      "height": 680,
+      "file_size": 518648,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 299,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc48208b-ee0a-437a-ba2e-2f8f179da533",
+    "next_uuid": "deabccde-0994-46cd-ae3f-0e5025f09c25"
+  }
+}

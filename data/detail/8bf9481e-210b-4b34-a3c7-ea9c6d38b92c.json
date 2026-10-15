@@ -1,0 +1,28 @@
+{
+  "uuid": "8bf9481e-210b-4b34-a3c7-ea9c6d38b92c",
+  "platform_post_id": "735150693043666992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-03T02:00:09+08:00",
+  "source_url": "https://t.bilibili.com/735150693043666992",
+  "plain_text": "晚安晚安，先睡吧，我有点事要忙",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dec2cb13-eb3e-40c9-8511-b222166604bc",
+    "next_uuid": "2c75dcad-fc58-40d1-8bf0-4e7fd8590e39"
+  }
+}

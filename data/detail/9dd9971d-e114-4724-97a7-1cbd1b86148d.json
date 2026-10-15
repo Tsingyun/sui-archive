@@ -1,0 +1,28 @@
+{
+  "uuid": "9dd9971d-e114-4724-97a7-1cbd1b86148d",
+  "platform_post_id": "747205875975847986",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-04T13:40:25+08:00",
+  "source_url": "https://t.bilibili.com/747205875975847986",
+  "plain_text": "早上好下午好！做梦都梦到晚上在直播，好恐怖",
+  "images": [],
+  "stats": {
+    "likes": 469,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8bb76ac5-c365-494c-b9c8-eeaa9af665de",
+    "next_uuid": "ffa3ca61-105c-458b-85f4-16b4e0d1f2d6"
+  }
+}

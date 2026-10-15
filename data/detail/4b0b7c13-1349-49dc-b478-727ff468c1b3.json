@@ -1,0 +1,28 @@
+{
+  "uuid": "4b0b7c13-1349-49dc-b478-727ff468c1b3",
+  "platform_post_id": "1181757537117011971",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-20T14:22:48+08:00",
+  "source_url": "https://t.bilibili.com/1181757537117011971",
+  "plain_text": "洗个碗2:45来，今天继续打怨鬼",
+  "images": [],
+  "stats": {
+    "likes": 199,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1d6265f4-cdd1-40b8-892c-52e2fb10113f",
+    "next_uuid": "022defc6-7f4a-4b52-b8e3-bffabb7ed729"
+  }
+}

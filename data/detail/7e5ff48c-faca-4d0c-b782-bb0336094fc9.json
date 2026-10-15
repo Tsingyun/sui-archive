@@ -1,0 +1,28 @@
+{
+  "uuid": "7e5ff48c-faca-4d0c-b782-bb0336094fc9",
+  "platform_post_id": "1181469512315174918",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-19T19:45:07+08:00",
+  "source_url": "https://t.bilibili.com/1181469512315174918",
+  "plain_text": "7:53光速来！！",
+  "images": [],
+  "stats": {
+    "likes": 172,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2fe88b31-65ae-4705-b8ce-4f5c615ab80c",
+    "next_uuid": "1d6265f4-cdd1-40b8-892c-52e2fb10113f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "7d38af1c-f5b7-4123-9781-b871c24abd95",
+  "platform_post_id": "1254656506678214661",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-03T01:08:02+08:00",
+  "source_url": "https://t.bilibili.com/1254656506678214661",
+  "plain_text": "饼小干，晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ad84f405-043b-4b3e-bbf6-0b31a7533d86",
+    "next_uuid": "2441e6bf-d791-4029-8253-8218c579ea50"
+  }
+}

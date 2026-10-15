@@ -1,0 +1,28 @@
+{
+  "uuid": "c083584d-c8e0-4fcc-945a-9f488f5c0998",
+  "platform_post_id": "952868383312838660",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-11T18:55:59+08:00",
+  "source_url": "https://t.bilibili.com/952868383312838660",
+  "plain_text": "今天的直播是7:20开始捏！可能不会播特别久，记得准时来看我！",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "efa5835d-ca72-4a88-9a74-a4fe18d4b470",
+    "next_uuid": "15dc8367-133c-4358-a14d-84e04989bda2"
+  }
+}

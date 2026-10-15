@@ -1,0 +1,28 @@
+{
+  "uuid": "d10fa4d4-a7a9-4d6f-8d1e-8e4702c6d221",
+  "platform_post_id": "829022245404803089",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-13T01:09:43+08:00",
+  "source_url": "https://t.bilibili.com/829022245404803089",
+  "plain_text": "真的假的？你的意思是我敲几下键盘，就可以和这么温柔可爱的饼干岁说晚安？\n真的假的？你的意思是我点一下“发布”，就能收到来自最温柔最可爱的饼干岁的晚安回复？",
+  "images": [],
+  "stats": {
+    "likes": 614,
+    "comments": 106,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "78e0a9ab-1f6c-4dd0-8566-aa5e8551acf5",
+    "next_uuid": "5a8c82f4-d7e0-4da9-a0c0-53eced18998c"
+  }
+}

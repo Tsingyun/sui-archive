@@ -1,0 +1,28 @@
+{
+  "uuid": "2d0e595d-42d2-4280-9461-5067b6ea3b68",
+  "platform_post_id": "926992480946094080",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-03T01:24:16+08:00",
+  "source_url": "https://t.bilibili.com/926992480946094080",
+  "plain_text": "很美好的一个夜晚，不过是不是还差点什么",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9b028eb9-cdba-4969-94f1-dd7353ab89ba",
+    "next_uuid": "fb218f5c-d531-4bd9-accc-ed08fb8b270b"
+  }
+}

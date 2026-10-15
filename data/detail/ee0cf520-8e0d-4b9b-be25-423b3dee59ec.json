@@ -1,0 +1,28 @@
+{
+  "uuid": "ee0cf520-8e0d-4b9b-be25-423b3dee59ec",
+  "platform_post_id": "1132854648623857673",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-08T19:34:37+08:00",
+  "source_url": "https://t.bilibili.com/1132854648623857673",
+  "plain_text": "7:50来播呢 今天唱唱然后看电影的说",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa49eb36-27a8-44f7-a476-2c1077911cde",
+    "next_uuid": "798da6ae-eb32-49b6-9169-ef16d426222d"
+  }
+}

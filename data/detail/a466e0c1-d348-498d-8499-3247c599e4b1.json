@@ -1,0 +1,28 @@
+{
+  "uuid": "a466e0c1-d348-498d-8499-3247c599e4b1",
+  "platform_post_id": "1217385390369931268",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-24T14:37:04+08:00",
+  "source_url": "https://t.bilibili.com/1217385390369931268",
+  "plain_text": "2:46继续空洞洞 来不来！",
+  "images": [],
+  "stats": {
+    "likes": 161,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc128c56-b71f-44c9-8512-64bbe190986d",
+    "next_uuid": "82f55c7e-55de-4377-83f3-e170833af097"
+  }
+}

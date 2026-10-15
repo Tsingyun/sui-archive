@@ -1,0 +1,28 @@
+{
+  "uuid": "fa018dcd-9dcd-4c19-9238-0fc63f029c1e",
+  "platform_post_id": "703959725657554980",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-10T00:43:16+08:00",
+  "source_url": "https://t.bilibili.com/703959725657554980",
+  "plain_text": "晚安！中秋节快乐！和大家过的第一个节日！",
+  "images": [],
+  "stats": {
+    "likes": 974,
+    "comments": 125,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57a2bb16-3d33-4b49-a3ca-7266e73bc072",
+    "next_uuid": "9c85a1a7-915d-4ca2-b2f5-dc4a072b1890"
+  }
+}

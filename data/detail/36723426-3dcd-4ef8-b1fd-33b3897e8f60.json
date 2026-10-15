@@ -1,0 +1,47 @@
+{
+  "uuid": "36723426-3dcd-4ef8-b1fd-33b3897e8f60",
+  "platform_post_id": "1098796202234740739",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-09T00:50:27+08:00",
+  "source_url": "https://t.bilibili.com/1098796202234740739",
+  "plain_text": "Y头挽安，受你，幺幺哒\n",
+  "images": [
+    {
+      "filename": "1098796202234740739_00@original.png",
+      "width": 819,
+      "height": 1361,
+      "file_size": 1051312,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1098796202234740739_01@original.png",
+      "width": 819,
+      "height": 1361,
+      "file_size": 995210,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 369,
+    "comments": 101,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce6a4884-8d6c-4f4b-a587-beeab2415edf",
+    "next_uuid": "4b5fdbc8-b097-4b85-a446-6aa0376ff17e"
+  }
+}

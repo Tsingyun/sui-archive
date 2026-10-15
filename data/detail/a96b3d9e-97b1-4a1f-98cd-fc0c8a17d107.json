@@ -1,0 +1,38 @@
+{
+  "uuid": "a96b3d9e-97b1-4a1f-98cd-fc0c8a17d107",
+  "platform_post_id": "1030768275340918790",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-06T17:07:21+08:00",
+  "source_url": "https://t.bilibili.com/1030768275340918790",
+  "plain_text": "饼干岁帮忙递化妆品 饼好",
+  "images": [
+    {
+      "filename": "1030768275340918790_100@repost.jpg",
+      "width": 1080,
+      "height": 1107,
+      "file_size": 732805,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 237,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1156f013-f1e5-45d7-8486-57cb33b44e25",
+    "next_uuid": "ac6436e0-37ab-431b-ba5b-cdbc683087ec"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6d46751a-13d7-42e1-8d0b-0278e3ac67cf",
+  "platform_post_id": "893503542935945296",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-02T19:30:05+08:00",
+  "source_url": "https://t.bilibili.com/893503542935945296",
+  "plain_text": "7:45 哦 先这样那样然后可以看jojo第四季了！",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7eca613e-7b8e-4ad2-8781-acee4cbfa1d6",
+    "next_uuid": "0e909a55-be27-4ce1-a0e2-4a61c53c05a6"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f2c9a0f0-7983-4a0b-bb85-e50178188a8b",
+  "platform_post_id": "764067500967067670",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-19T00:12:08+08:00",
+  "source_url": "https://t.bilibili.com/764067500967067670",
+  "plain_text": "binggansuiwanan",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9bbe3b3d-dd29-4fce-acf1-95732b6010b5",
+    "next_uuid": "6991f081-cd5c-4270-87d1-c102165e92a3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "788b8f09-d68a-40b2-8228-be4dc3dc934a",
+  "platform_post_id": "1012703273539338264",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-20T00:45:55+08:00",
+  "source_url": "https://t.bilibili.com/1012703273539338264",
+  "plain_text": "饼干岁的恩情报不完啊，今天的game时间不是很有趣大家还看了呜呜呜好sad好那个；；晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 66,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a522c07c-a456-48be-b43e-a0e91b1ff9cc",
+    "next_uuid": "4e903054-1670-475d-96bc-6771140dd5f0"
+  }
+}

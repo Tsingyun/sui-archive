@@ -1,0 +1,28 @@
+{
+  "uuid": "b5664f9d-c931-4aed-a798-93d73aa6f421",
+  "platform_post_id": "1027916202313252871",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-30T00:39:51+08:00",
+  "source_url": "https://t.bilibili.com/1027916202313252871",
+  "plain_text": "全体饼家军列阵，晚安！",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 59,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e86efff3-390c-496a-9a6e-ee558e64424f",
+    "next_uuid": "46c0c298-6d0c-42f2-8e99-e46f9d326c2c"
+  }
+}

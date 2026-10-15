@@ -1,0 +1,28 @@
+{
+  "uuid": "132718eb-161f-4fde-ac6b-24669dde5463",
+  "platform_post_id": "1171146622854234113",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-20T00:07:02+08:00",
+  "source_url": "https://t.bilibili.com/1171146622854234113",
+  "plain_text": "你已经被包围了，速速投降并上缴晚安[UPOWER_1954091502_ctrl你]",
+  "images": [],
+  "stats": {
+    "likes": 297,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0bc594a0-2336-457f-a7b1-6e55802d2466",
+    "next_uuid": "bd91bcbe-191a-43b8-8955-049f9140e413"
+  }
+}

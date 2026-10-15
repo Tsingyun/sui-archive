@@ -1,0 +1,28 @@
+{
+  "uuid": "7863b04d-54c1-4f33-b7d0-e7315502ca14",
+  "platform_post_id": "919106860890456118",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-11T19:24:02+08:00",
+  "source_url": "https://t.bilibili.com/919106860890456118",
+  "plain_text": "的说​7:50见哦",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "92f16535-2c0f-40aa-835c-8713397a574c",
+    "next_uuid": "96549d01-dd2a-4aa0-805c-a7f8c62215b4"
+  }
+}

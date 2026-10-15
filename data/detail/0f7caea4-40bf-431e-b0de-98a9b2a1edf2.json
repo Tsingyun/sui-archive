@@ -1,0 +1,28 @@
+{
+  "uuid": "0f7caea4-40bf-431e-b0de-98a9b2a1edf2",
+  "platform_post_id": "1232681203398606854",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-04T19:52:38+08:00",
+  "source_url": "https://t.bilibili.com/1232681203398606854",
+  "plain_text": "8:10来陪你这个猪过周二",
+  "images": [],
+  "stats": {
+    "likes": 182,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bddfaf72-e881-40bd-bdec-f8c67c779b4c",
+    "next_uuid": "034b21af-4f1f-458b-ab12-62007b0b0392"
+  }
+}

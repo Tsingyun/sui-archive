@@ -1,0 +1,28 @@
+{
+  "uuid": "dda15ee5-55fd-4bfc-9598-d3f5ec5476a3",
+  "platform_post_id": "1102515304627437573",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-19T01:22:28+08:00",
+  "source_url": "https://t.bilibili.com/1102515304627437573",
+  "plain_text": "来，这关很难，需要把一个关键道具放进钥匙孔里，钥匙才能打开才能通关，快把你兜里那个关键道具拿出来",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 101,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4517d70c-dd52-4901-bc18-c76828224184",
+    "next_uuid": "d73d5ff2-e70f-433a-8406-a90b129e67a6"
+  }
+}

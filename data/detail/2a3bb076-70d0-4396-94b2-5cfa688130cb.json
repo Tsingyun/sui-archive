@@ -1,0 +1,28 @@
+{
+  "uuid": "2a3bb076-70d0-4396-94b2-5cfa688130cb",
+  "platform_post_id": "1174496151897899015",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-01T00:44:55+08:00",
+  "source_url": "https://t.bilibili.com/1174496151897899015",
+  "plain_text": "我家卖得最好的“二月晚安”已经下架啦，新上市的新品“三月晚安”客人赶紧来试吃一块吧",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aeb41e79-a32d-49bb-b24c-f2e21494ba70",
+    "next_uuid": "f177ddb2-526e-4a76-a5ed-89ccb47f4497"
+  }
+}

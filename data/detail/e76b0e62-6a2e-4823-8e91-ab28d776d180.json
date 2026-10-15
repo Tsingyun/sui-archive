@@ -1,0 +1,28 @@
+{
+  "uuid": "e76b0e62-6a2e-4823-8e91-ab28d776d180",
+  "platform_post_id": "792440359880753154",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-06T11:13:19+08:00",
+  "source_url": "https://t.bilibili.com/792440359880753154",
+  "plain_text": "重大通知：\n  岁己起床了",
+  "images": [],
+  "stats": {
+    "likes": 407,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "10d3d183-055a-4fa8-b66b-026b46d1af24",
+    "next_uuid": "a633853b-180c-42d5-9f47-18d61bbd65f0"
+  }
+}

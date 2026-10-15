@@ -1,0 +1,28 @@
+{
+  "uuid": "9a0a9d38-6f8b-449c-9b49-bbcc601f6285",
+  "platform_post_id": "1091725994531749895",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-20T23:34:26+08:00",
+  "source_url": "https://t.bilibili.com/1091725994531749895",
+  "plain_text": "你好，昨晚买了你家店卖的晚安后，刮出了再来一评，麻烦给我兑换一下谢谢",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e62e7c7b-7430-4984-8dea-1a938d0041e9",
+    "next_uuid": "6fae428b-f205-444a-b8ad-31b039942438"
+  }
+}

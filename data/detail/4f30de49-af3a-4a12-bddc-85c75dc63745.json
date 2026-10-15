@@ -1,0 +1,28 @@
+{
+  "uuid": "4f30de49-af3a-4a12-bddc-85c75dc63745",
+  "platform_post_id": "729961311688982594",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-19T02:22:42+08:00",
+  "source_url": "https://t.bilibili.com/729961311688982594",
+  "plain_text": "请例行一下晚安环节",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73f3eec1-1fbb-41d3-8f66-93ba73e1b3b9",
+    "next_uuid": "42cd1cd7-2689-4583-8611-5a9cfb6ebd95"
+  }
+}

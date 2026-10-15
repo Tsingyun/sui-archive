@@ -1,0 +1,28 @@
+{
+  "uuid": "69ad058a-24b3-4028-a1a0-79d85715b2fc",
+  "platform_post_id": "787004937059958784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-21T19:41:06+08:00",
+  "source_url": "https://t.bilibili.com/787004937059958784",
+  "plain_text": "8:30见！外卖来得好晚  ok吗ok吗",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce59eabf-1ecf-4c0d-8fe2-e5d7191a8464",
+    "next_uuid": "9876f262-1737-407a-af16-c402c7a98167"
+  }
+}

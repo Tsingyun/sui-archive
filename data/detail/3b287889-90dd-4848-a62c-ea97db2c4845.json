@@ -1,0 +1,28 @@
+{
+  "uuid": "3b287889-90dd-4848-a62c-ea97db2c4845",
+  "platform_post_id": "850452521862299720",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-09T19:10:08+08:00",
+  "source_url": "https://t.bilibili.com/850452521862299720",
+  "plain_text": "嗓子痛( ´･･)ﾉ(._.`)\n一直在想来不来  还是来吧 看看有没有什么能看的番的说 7:15见",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "76b241c8-372f-4348-a35d-cac31625170c",
+    "next_uuid": "92191287-dc13-4951-8194-1a274981d350"
+  }
+}

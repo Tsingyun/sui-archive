@@ -1,0 +1,28 @@
+{
+  "uuid": "4e624495-ffa0-4f5b-b0df-3e85ecc1ab79",
+  "platform_post_id": "1188974886044827649",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-09T01:09:48+08:00",
+  "source_url": "https://t.bilibili.com/1188974886044827649",
+  "plain_text": "植物大战僵尸好好玩喔，晚安晚安[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37e5dfc2-46de-401f-883b-88eeb0b6d753",
+    "next_uuid": "34826a73-95aa-458c-bf26-677fcfe460ca"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "edd321c5-a14f-459a-8be2-8b2c013875b4",
+  "platform_post_id": "769088936251228216",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-04T12:57:52+08:00",
+  "source_url": "https://t.bilibili.com/769088936251228216",
+  "plain_text": "什么？！！周日晚7点是岁己SUI出道半周年纪念回！虽然约的稿还没画好，上舰礼物还没想好，宣传图也还没做好。但你能先给她点个预约吗？宣传图目前长这样\n",
+  "images": [
+    {
+      "filename": "769088936251228216_00@original.png",
+      "width": 2300,
+      "height": 1330,
+      "file_size": 1342319,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 338,
+    "comments": 36,
+    "forwards": 5,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c962472-0079-49fc-808a-1121e058ffaf",
+    "next_uuid": "346fb756-1f3e-4d87-b9ce-704f669e42e4"
+  }
+}

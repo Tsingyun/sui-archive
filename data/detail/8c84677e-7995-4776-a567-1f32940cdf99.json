@@ -1,0 +1,28 @@
+{
+  "uuid": "8c84677e-7995-4776-a567-1f32940cdf99",
+  "platform_post_id": "1167744566332227590",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-10T20:05:19+08:00",
+  "source_url": "https://t.bilibili.com/1167744566332227590",
+  "plain_text": "( ๑ˊ•̥▵•)੭₎₎sori我睡着了 8:15来，唱聊只狼",
+  "images": [],
+  "stats": {
+    "likes": 202,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5f573bd3-c3bc-4062-8f90-9a17dda27045",
+    "next_uuid": "9f02615d-7b5e-402f-9b24-f8d376e317ec"
+  }
+}

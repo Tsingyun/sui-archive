@@ -1,0 +1,28 @@
+{
+  "uuid": "75e0fe5d-6509-4f41-b8a6-93492285816e",
+  "platform_post_id": "760890883036938310",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-10T10:45:14+08:00",
+  "source_url": "https://t.bilibili.com/760890883036938310",
+  "plain_text": "早！我又自然醒了！不得了不得了啊",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3347d0fd-44e1-457a-9069-edd059e5d79d",
+    "next_uuid": "bb4acd30-c5ee-46f7-90c9-173e5c16690f"
+  }
+}

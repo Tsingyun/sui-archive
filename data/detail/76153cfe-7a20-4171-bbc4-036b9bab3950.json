@@ -1,0 +1,28 @@
+{
+  "uuid": "76153cfe-7a20-4171-bbc4-036b9bab3950",
+  "platform_post_id": "1024113159087063056",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-19T18:42:06+08:00",
+  "source_url": "https://t.bilibili.com/1024113159087063056",
+  "plain_text": "哟饼干岁？你很漂亮嘛，7:10分要不要出来一起玩玩[UP_1954091502_啾咪啾]",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e80cff0d-def4-4519-ae00-ee10e9b3a630",
+    "next_uuid": "e3195c5c-7243-4755-8e0e-15be99b57cd8"
+  }
+}

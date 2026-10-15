@@ -1,0 +1,28 @@
+{
+  "uuid": "683c0c68-f4a9-4487-b9d9-6cedf7d5b8b9",
+  "platform_post_id": "885048010756587529",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-11T00:38:18+08:00",
+  "source_url": "https://t.bilibili.com/885048010756587529",
+  "plain_text": "累得嗷嗷哭了 晚安 work去了",
+  "images": [],
+  "stats": {
+    "likes": 514,
+    "comments": 72,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "55004791-28d2-4d94-b986-2153224c44a1",
+    "next_uuid": "2970fc75-3fa1-4a41-9e52-da46ed751765"
+  }
+}

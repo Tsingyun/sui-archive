@@ -1,0 +1,38 @@
+{
+  "uuid": "0eda4b81-c8b6-4232-8b45-af7dadaf9563",
+  "platform_post_id": "1000732409382043686",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-11-17T18:32:51+08:00",
+  "source_url": "https://t.bilibili.com/1000732409382043686",
+  "plain_text": "🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴 \n现在在【补填】❗️ 7/8/9月舰长地址！之前忘记填地址的舰长快来进行补填哦！\n✨截止日期:11.25\n❗️ 重要！这三个月只要在后台填写过【一次】地址，就不需要补填。\n 填写地址：\nhttps://docs.qq.com/form/page/DRlFrQVRsb0VlR2Nj \n✨请各位舰长尽快进行填写哦！感谢你的支持！\n🌹收到请回复\n",
+  "images": [
+    {
+      "filename": "1000732409382043686_00@original.jpg",
+      "width": 431,
+      "height": 431,
+      "file_size": 13724,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 206,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "81bd043f-75e1-48f2-85de-2045260b9488",
+    "next_uuid": "7e0f2e3a-6237-4bc6-9209-5265caf33c74"
+  }
+}

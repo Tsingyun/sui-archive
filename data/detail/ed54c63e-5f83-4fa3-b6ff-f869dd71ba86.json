@@ -1,0 +1,28 @@
+{
+  "uuid": "ed54c63e-5f83-4fa3-b6ff-f869dd71ba86",
+  "platform_post_id": "1117339560328560645",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-28T00:08:09+08:00",
+  "source_url": "https://t.bilibili.com/1117339560328560645",
+  "plain_text": "今天看了赌侠，有人的特异功能是控制别人的牌，我的特异功能是控制你的输入栏出现晚安这两个字",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f21122ce-5719-4ef6-a049-286b70b768da",
+    "next_uuid": "6df15d88-359d-4436-941e-e3d133ce9812"
+  }
+}

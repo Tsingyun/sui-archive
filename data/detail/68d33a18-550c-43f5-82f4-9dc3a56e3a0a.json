@@ -1,0 +1,38 @@
+{
+  "uuid": "68d33a18-550c-43f5-82f4-9dc3a56e3a0a",
+  "platform_post_id": "778354718267146297",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-29T12:13:50+08:00",
+  "source_url": "https://t.bilibili.com/778354718267146297",
+  "plain_text": "打扰大家了，我想请问一下有没有人知道这个虚拟主播是谁的？听说她昨天看凉宫春日，看到八次循环的剧情时，看了两次循环就随口猜出结束循环的方法是假期最后一天大家一起写作业，并且精准到“在某个人的家里写”，这也太厉害了，我得赶紧推她，有没有人知道的！十万火急啊\n",
+  "images": [
+    {
+      "filename": "778354718267146297_00@original.png",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1170588,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 536,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7252b5b-236f-40ab-8d2b-4e2661369616",
+    "next_uuid": "e7d213cb-3272-4cb6-bb1a-d6015e4b46e2"
+  }
+}

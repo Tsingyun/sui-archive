@@ -1,0 +1,28 @@
+{
+  "uuid": "d9f62f39-e580-4450-932e-1e2e537e1b8c",
+  "platform_post_id": "1076525899154718736",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-10T00:30:18+08:00",
+  "source_url": "https://t.bilibili.com/1076525899154718736",
+  "plain_text": "WANANBA!",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7644f30-7b68-454f-a2ea-57ab5908c868",
+    "next_uuid": "6775d2c8-bf21-4d87-b270-75dfc23ad32f"
+  }
+}

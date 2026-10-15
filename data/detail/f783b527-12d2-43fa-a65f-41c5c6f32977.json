@@ -1,0 +1,28 @@
+{
+  "uuid": "f783b527-12d2-43fa-a65f-41c5c6f32977",
+  "platform_post_id": "744021110487515152",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-26T23:41:54+08:00",
+  "source_url": "https://t.bilibili.com/744021110487515152",
+  "plain_text": "晚安！这么卡还看太感人了呜呜呜🥹",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2d6a0b4-b71b-45d7-b779-25825f0c34f9",
+    "next_uuid": "a9e1b5fa-2192-47ee-9a08-26a4a4edc96c"
+  }
+}

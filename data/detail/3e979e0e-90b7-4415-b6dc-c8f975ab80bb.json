@@ -1,0 +1,28 @@
+{
+  "uuid": "3e979e0e-90b7-4415-b6dc-c8f975ab80bb",
+  "platform_post_id": "1239437616451944457",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-23T00:50:58+08:00",
+  "source_url": "https://t.bilibili.com/1239437616451944457",
+  "plain_text": "晚安晚安哟！今天和饼干岁一起用5070ti打了大树守卫📝",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "386042a6-3d93-47f2-99ea-a7aa9a92a989",
+    "next_uuid": "015128e1-8968-4532-b22e-f9f0d5ea77ee"
+  }
+}

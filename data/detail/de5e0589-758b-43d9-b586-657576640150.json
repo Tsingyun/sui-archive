@@ -1,0 +1,38 @@
+{
+  "uuid": "de5e0589-758b-43d9-b586-657576640150",
+  "platform_post_id": "896193867503632391",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-02-10T01:29:55+08:00",
+  "source_url": "https://t.bilibili.com/896193867503632391",
+  "plain_text": "这下就又一起度过了一年了！新年快乐饼干岁\n",
+  "images": [
+    {
+      "filename": "896193867503632391_00@original.png",
+      "width": 998,
+      "height": 892,
+      "file_size": 938756,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 715,
+    "comments": 121,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6bb19860-6195-471a-8a14-28a53205723a",
+    "next_uuid": "ac60e11e-21e3-4c0e-9af5-57fa2be5ff1a"
+  }
+}

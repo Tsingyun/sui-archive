@@ -1,0 +1,38 @@
+{
+  "uuid": "68c20c15-cb0d-4f11-93e3-4ad60141bd46",
+  "platform_post_id": "1108812525500104710",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-05T00:38:54+08:00",
+  "source_url": "https://t.bilibili.com/1108812525500104710",
+  "plain_text": "会把你握得紧紧的(^・ω・^)",
+  "images": [
+    {
+      "filename": "1108812525500104710_100@repost.png",
+      "width": 2800,
+      "height": 4400,
+      "file_size": 6021879,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 204,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "人活着是为了02",
+    "author_url": "https://space.bilibili.com/8481710",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86b4c339-f791-4810-8706-c19956a6359f",
+    "next_uuid": "48f1d4f5-71b6-4a8f-be69-1db15a62a15f"
+  }
+}

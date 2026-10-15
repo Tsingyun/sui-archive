@@ -1,0 +1,38 @@
+{
+  "uuid": "e0d21d4b-fee1-4213-8de0-43478adb77b0",
+  "platform_post_id": "1024506741315862552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-01-20T20:09:24+08:00",
+  "source_url": "https://t.bilibili.com/1024506741315862552",
+  "plain_text": "[抽奖]\n这次要做为客人去尖叫浴场啦，让我看看服务咋样吧[UPOWER_1954091502_小肥鸟][UPOWER_1954091502_小肥鸟]\n1月24日晚20:00见嗷！\n",
+  "images": [
+    {
+      "filename": "1024506741315862552_00@original.png",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 1983227,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 355,
+    "comments": 31,
+    "forwards": 158,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a628df62-3091-422d-ad78-bbf8374368d5",
+    "next_uuid": "f14662f6-ac16-4e14-9c78-0d94bd306c16"
+  }
+}

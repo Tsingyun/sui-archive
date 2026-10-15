@@ -1,0 +1,28 @@
+{
+  "uuid": "83085d8b-a59a-4d52-8bfe-251f259621f1",
+  "platform_post_id": "823656993757593601",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-29T14:09:48+08:00",
+  "source_url": "https://t.bilibili.com/823656993757593601",
+  "plain_text": "早。脖子落枕了好难受orz \n周六的话睡到现在也很正常吧嗯嗯",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11e76b38-90b5-42ac-bf3b-562e7beaf7b7",
+    "next_uuid": "0eea2a94-9ca7-4790-9665-c85b3503f18d"
+  }
+}

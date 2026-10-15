@@ -1,0 +1,38 @@
+{
+  "uuid": "2fa69392-a247-4732-8e04-2ad65c62ccfc",
+  "platform_post_id": "1111392447940788260",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-11T23:30:19+08:00",
+  "source_url": "https://t.bilibili.com/1111392447940788260",
+  "plain_text": "晚安大家，天呐明天就是3D回了，重磅！重磅！好紧张，准备了好多东西你会来看的对吗对吗，真的是用尽全力了呃啊啊，虽然这两天没来直播，但岁己在像这样光速朝你奔来了\n（虽然其实是彩排收工后露出的开朗笑容",
+  "images": [
+    {
+      "filename": "1111392447940788260_00@original.png",
+      "width": 2496,
+      "height": 1434,
+      "file_size": 2059777,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 474,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22ab8a28-2738-4524-b119-7bab6eeb620d",
+    "next_uuid": "777d57a4-4c67-49b9-8612-49f8f9c162c8"
+  }
+}

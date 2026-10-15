@@ -1,0 +1,28 @@
+{
+  "uuid": "0054b088-a3d3-485f-91a9-5b69417ad3c8",
+  "platform_post_id": "1004495011217145857",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-27T21:53:40+08:00",
+  "source_url": "https://t.bilibili.com/1004495011217145857",
+  "plain_text": "10:10岁煮小饼",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6b76fbbb-6651-4b4d-bfea-43a5d5caca0a",
+    "next_uuid": "e673e6a9-3f27-4565-8c00-a6a07ba1f09d"
+  }
+}

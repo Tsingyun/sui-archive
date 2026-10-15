@@ -1,0 +1,28 @@
+{
+  "uuid": "5033c9b2-1e0e-4eb4-8d03-64da8a40f9a5",
+  "platform_post_id": "782554650861633540",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-09T19:51:43+08:00",
+  "source_url": "https://t.bilibili.com/782554650861633540",
+  "plain_text": "今晚九点 合唱歌回啊！！差点忘说了  都给我来",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d0649bf-1810-4451-9721-ef2465b7ca0b",
+    "next_uuid": "b25beb7f-77af-4b34-8fd8-5942bf012404"
+  }
+}

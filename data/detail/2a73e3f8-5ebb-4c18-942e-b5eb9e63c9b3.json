@@ -1,0 +1,28 @@
+{
+  "uuid": "2a73e3f8-5ebb-4c18-942e-b5eb9e63c9b3",
+  "platform_post_id": "880969505517338641",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-31T00:51:37+08:00",
+  "source_url": "https://t.bilibili.com/880969505517338641",
+  "plain_text": "晚安喔[UP_1954091502_岁觉鸟]",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00924cdd-4790-4b8c-9498-6715b5450760",
+    "next_uuid": "e627eeff-dbf5-4fee-9200-266bbfe1551b"
+  }
+}

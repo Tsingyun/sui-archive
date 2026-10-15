@@ -1,0 +1,38 @@
+{
+  "uuid": "f257b6f6-d100-4161-9562-a31de403c558",
+  "platform_post_id": "906488341434728456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-08T19:17:44+08:00",
+  "source_url": "https://t.bilibili.com/906488341434728456",
+  "plain_text": "有好心小饼在送流麻 想要的可以去评论哦哦哦",
+  "images": [
+    {
+      "filename": "906488341434728456_100@repost.jpg",
+      "width": 1440,
+      "height": 1080,
+      "file_size": 1012841,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 239,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2bcfb345-4ec2-4f87-b9af-5767bf94b856",
+    "next_uuid": "69bed612-65c0-4cf3-b857-8d850f5301fd"
+  }
+}

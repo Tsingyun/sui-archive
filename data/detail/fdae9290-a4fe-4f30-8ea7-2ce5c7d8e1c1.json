@@ -1,0 +1,28 @@
+{
+  "uuid": "fdae9290-a4fe-4f30-8ea7-2ce5c7d8e1c1",
+  "platform_post_id": "896846200019353625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-11T19:41:18+08:00",
+  "source_url": "https://t.bilibili.com/896846200019353625",
+  "plain_text": "我来我来 先唱唱聊聊然后风骚律师ok吗 7:55",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ddbf6881-7921-48d0-80bd-8ce9eab6f118",
+    "next_uuid": "4ddb756b-2bb7-4791-aeac-98f48635d0ca"
+  }
+}

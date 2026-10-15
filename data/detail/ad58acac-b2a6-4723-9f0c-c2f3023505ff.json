@@ -1,0 +1,28 @@
+{
+  "uuid": "ad58acac-b2a6-4723-9f0c-c2f3023505ff",
+  "platform_post_id": "1006758411742740489",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-04T00:16:49+08:00",
+  "source_url": "https://t.bilibili.com/1006758411742740489",
+  "plain_text": "打死了个蟑螂怎么办，晚安",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b1261b1-e2b5-4e3a-a078-54b32e255844",
+    "next_uuid": "6ea78da8-9bb3-48fc-a931-69477bfb51eb"
+  }
+}

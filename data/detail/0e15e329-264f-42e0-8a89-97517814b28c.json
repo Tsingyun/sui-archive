@@ -1,0 +1,28 @@
+{
+  "uuid": "0e15e329-264f-42e0-8a89-97517814b28c",
+  "platform_post_id": "1212716666408927241",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-12T00:40:02+08:00",
+  "source_url": "https://t.bilibili.com/1212716666408927241",
+  "plain_text": "晚安。这是我选择的世界线，希望我们都能获得幸福（拽着饼干岁开始奔跑",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d70e5429-7ae2-4930-a7ac-123b2b223443",
+    "next_uuid": "42d5a59b-0cad-438b-80e2-c050c1d4dbb6"
+  }
+}

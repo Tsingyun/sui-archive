@@ -1,0 +1,28 @@
+{
+  "uuid": "cff678c9-81bc-4800-8cd5-9cad19cfc248",
+  "platform_post_id": "834912745841229848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-28T22:07:52+08:00",
+  "source_url": "https://t.bilibili.com/834912745841229848",
+  "plain_text": "晚安[脱单doge][脱单doge] 别梦到我了[笑哭]\n虽然我确实很有魅力[喜极而泣]",
+  "images": [],
+  "stats": {
+    "likes": 444,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "973be5c3-2018-470c-a936-1141ab0bf7b8",
+    "next_uuid": "faccdebd-6f43-4539-9c06-e3b8b920aebb"
+  }
+}

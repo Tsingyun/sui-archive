@@ -1,0 +1,28 @@
+{
+  "uuid": "33ef1e7d-70d3-4c98-abef-eccd729b4095",
+  "platform_post_id": "808975064647073875",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-20T00:36:25+08:00",
+  "source_url": "https://t.bilibili.com/808975064647073875",
+  "plain_text": "好累，终于忙完部分东西了，洗澡去，感觉整个人都要臭烘烘了。晚安💤💤💤",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "445bf620-4a93-4868-bdd3-267de9f30c99",
+    "next_uuid": "3c0e74b1-ab42-4143-9d9d-6832f54be1ba"
+  }
+}

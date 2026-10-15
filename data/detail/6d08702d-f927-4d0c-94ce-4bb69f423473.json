@@ -1,0 +1,28 @@
+{
+  "uuid": "6d08702d-f927-4d0c-94ce-4bb69f423473",
+  "platform_post_id": "814841268424146967",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-05T20:00:17+08:00",
+  "source_url": "https://t.bilibili.com/814841268424146967",
+  "plain_text": "因为这样那样推迟到九点！大家先干点别的吧",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96ba7519-287b-43cc-a328-ce90a6999fe3",
+    "next_uuid": "ad837142-7292-4578-a735-e8a7a2e8212c"
+  }
+}

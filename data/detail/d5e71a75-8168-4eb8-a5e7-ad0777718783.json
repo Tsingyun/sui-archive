@@ -1,0 +1,28 @@
+{
+  "uuid": "d5e71a75-8168-4eb8-a5e7-ad0777718783",
+  "platform_post_id": "795982823189119000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-16T00:19:53+08:00",
+  "source_url": "https://t.bilibili.com/795982823189119000",
+  "plain_text": "Yo—you！goid night！",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "21da4b30-066b-46b9-911c-69694e36d422",
+    "next_uuid": "2757187c-367d-4582-867f-7d91df2a0046"
+  }
+}

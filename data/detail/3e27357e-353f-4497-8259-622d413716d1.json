@@ -1,0 +1,28 @@
+{
+  "uuid": "3e27357e-353f-4497-8259-622d413716d1",
+  "platform_post_id": "992947712455344148",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-27T19:04:15+08:00",
+  "source_url": "https://t.bilibili.com/992947712455344148",
+  "plain_text": "对不起我忘了今天是六点，我们还是7:40见好吗[tv_腼腆]",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc50daa2-fb7a-4344-a2c4-fd2ea727cda7",
+    "next_uuid": "f81f1805-60cc-4426-9bc7-59a9895ab96e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "1328e708-c28b-426a-9913-5a79593c5ca7",
+  "platform_post_id": "854983201025687602",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-22T00:11:29+08:00",
+  "source_url": "https://t.bilibili.com/854983201025687602",
+  "plain_text": "全世界晚安。除了以下这些人\n不喜欢岁己的人，岁己唱歌不打call的人，不跟岁己说晚安的人。",
+  "images": [],
+  "stats": {
+    "likes": 427,
+    "comments": 104,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "875800b6-816d-4526-a0a0-d14ee9f9f55d",
+    "next_uuid": "a84a4bb4-9785-4ca6-bf1f-6bbb0e6c105a"
+  }
+}

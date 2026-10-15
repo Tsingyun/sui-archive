@@ -1,0 +1,28 @@
+{
+  "uuid": "71853d32-d2ba-4d0c-9c7c-ee0a2bf79d0d",
+  "platform_post_id": "991174479393587202",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-23T00:23:12+08:00",
+  "source_url": "https://t.bilibili.com/991174479393587202",
+  "plain_text": "臣退了大人，祝你好眠啊",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f55a7176-20db-4161-b4c4-ee0cb12ba8e9",
+    "next_uuid": "70584c2e-9f1e-40f3-b245-b96b34d3d6f6"
+  }
+}

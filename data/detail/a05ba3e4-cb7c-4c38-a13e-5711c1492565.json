@@ -1,0 +1,28 @@
+{
+  "uuid": "a05ba3e4-cb7c-4c38-a13e-5711c1492565",
+  "platform_post_id": "807049961522855939",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-14T20:06:02+08:00",
+  "source_url": "https://t.bilibili.com/807049961522855939",
+  "plain_text": "SORISORI我来了！扒两口饭，我们8:30见！对了，下一次合唱回将于本周五开展！",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b898a179-d56e-4d24-8654-7bc8e6090619",
+    "next_uuid": "31f8d35e-89e2-4aa0-944b-27851c43f969"
+  }
+}

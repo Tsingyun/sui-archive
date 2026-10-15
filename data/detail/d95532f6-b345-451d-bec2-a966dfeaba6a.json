@@ -1,0 +1,28 @@
+{
+  "uuid": "d95532f6-b345-451d-bec2-a966dfeaba6a",
+  "platform_post_id": "830407316523188248",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-16T18:44:30+08:00",
+  "source_url": "https://t.bilibili.com/830407316523188248",
+  "plain_text": "哈哈 写错时间了 现在在播 大家",
+  "images": [],
+  "stats": {
+    "likes": 221,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9c3ee01a-e9e7-475e-8e51-e0e87ffe7556",
+    "next_uuid": "d3020a5d-571a-42c2-8fdd-6ec5124ee03c"
+  }
+}

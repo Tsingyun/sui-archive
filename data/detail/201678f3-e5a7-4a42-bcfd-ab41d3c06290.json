@@ -1,0 +1,28 @@
+{
+  "uuid": "201678f3-e5a7-4a42-bcfd-ab41d3c06290",
+  "platform_post_id": "805239456969785362",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-09T23:00:21+08:00",
+  "source_url": "https://t.bilibili.com/805239456969785362",
+  "plain_text": "11:08分 家里没水了下楼买水去",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7d3f64ca-1558-4a06-9460-92831189b0ad",
+    "next_uuid": "5b99c40b-1cff-412e-919e-ca8a983c6723"
+  }
+}

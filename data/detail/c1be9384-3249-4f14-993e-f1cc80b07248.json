@@ -1,0 +1,28 @@
+{
+  "uuid": "c1be9384-3249-4f14-993e-f1cc80b07248",
+  "platform_post_id": "1008914850381824002",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-09T19:44:54+08:00",
+  "source_url": "https://t.bilibili.com/1008914850381824002",
+  "plain_text": "我八分钟后到达 你到了吗",
+  "images": [],
+  "stats": {
+    "likes": 227,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ec5c068b-aad3-4cac-b4fa-11b40d163d65",
+    "next_uuid": "040e077c-05d8-4791-9872-c4443f4919c3"
+  }
+}

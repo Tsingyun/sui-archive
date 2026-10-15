@@ -1,0 +1,28 @@
+{
+  "uuid": "79375c45-a664-4a75-bfe8-302b765f9d48",
+  "platform_post_id": "1227553953039777800",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-22T00:16:17+08:00",
+  "source_url": "https://t.bilibili.com/1227553953039777800",
+  "plain_text": "晚安晚安的说！度过了很充实的一天，还去了鸟咖特别可爱呀，其实有点凶会啄手指但也还是很可爱。隔壁桌点的小鸟一直往我手上飞，这就是小鸟的羁绊吧",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "82974e41-fea8-4146-942b-7e979c447f58",
+    "next_uuid": "3108d5ea-9962-47a5-a2d0-92a67a2ca534"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0e2625e6-da4a-4c2e-aa78-4d61a070bd9f",
+  "platform_post_id": "965222667764367378",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-14T01:56:55+08:00",
+  "source_url": "https://t.bilibili.com/965222667764367378",
+  "plain_text": "请问你是饼干岁吗你是吗你你是吗 你是就晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 427,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f11a8e5c-5f61-4d91-8487-a5e791cda263",
+    "next_uuid": "eb00462b-7819-4ab7-a67c-d62e2ac5efcc"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4c3dbe30-735a-456e-a590-7b0eb54e4e35",
+  "platform_post_id": "831523157622915078",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-19T18:54:32+08:00",
+  "source_url": "https://t.bilibili.com/831523157622915078",
+  "plain_text": "7:40～ 聊聊 然后mygo第十集 然后寒蝉",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8a649111-b4cb-43c0-9637-20c7d98db83a",
+    "next_uuid": "961475e1-02e9-4200-9134-115b0e669234"
+  }
+}

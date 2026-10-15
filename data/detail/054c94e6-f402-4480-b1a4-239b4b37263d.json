@@ -1,0 +1,28 @@
+{
+  "uuid": "054c94e6-f402-4480-b1a4-239b4b37263d",
+  "platform_post_id": "836595831843848232",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-02T10:59:06+08:00",
+  "source_url": "https://t.bilibili.com/836595831843848232",
+  "plain_text": "早 都起了没！",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98f73195-e7df-44ec-8bf3-57987ec5e53a",
+    "next_uuid": "8eb039f2-9890-4067-a6f0-9eaf957b1687"
+  }
+}

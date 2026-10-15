@@ -1,0 +1,28 @@
+{
+  "uuid": "34d67b4c-9ec3-4594-aff4-927fd13d4518",
+  "platform_post_id": "997834942842929152",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-09T23:09:12+08:00",
+  "source_url": "https://t.bilibili.com/997834942842929152",
+  "plain_text": "孩子们11:30来电台一会会您觉得可以吗",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d562bf33-f142-4bd1-8f73-31957fa3ec5a",
+    "next_uuid": "31dab81b-abdd-4baa-9053-84d84d2bb645"
+  }
+}

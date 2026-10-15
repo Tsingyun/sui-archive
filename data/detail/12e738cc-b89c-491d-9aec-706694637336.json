@@ -1,0 +1,28 @@
+{
+  "uuid": "12e738cc-b89c-491d-9aec-706694637336",
+  "platform_post_id": "1214191309047201793",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-16T00:02:24+08:00",
+  "source_url": "https://t.bilibili.com/1214191309047201793",
+  "plain_text": "忙了一天累累的 缝了好久 食指都肿了 [岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d2f60993-3ff3-436b-8c9a-df6d5c50046b",
+    "next_uuid": "d13d90b2-9fc7-4c5b-b93f-c906f56df5c1"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "0e45458e-5e6c-43e2-9f59-520beb31cfde",
+  "platform_post_id": "870055920588029975",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-12-01T15:01:20+08:00",
+  "source_url": "https://t.bilibili.com/870055920588029975",
+  "plain_text": "天鸟下凡!",
+  "images": [
+    {
+      "filename": "870055920588029975_100@repost.jpg",
+      "width": 4200,
+      "height": 5416,
+      "file_size": 7093906,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 300,
+    "comments": 31,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ddf6fcff-9f73-4acc-9d52-37ed3f54a753",
+    "next_uuid": "cae0df89-a5a4-42b2-9b93-53a1ee7f072e"
+  }
+}

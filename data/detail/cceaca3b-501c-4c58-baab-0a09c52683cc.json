@@ -1,0 +1,28 @@
+{
+  "uuid": "cceaca3b-501c-4c58-baab-0a09c52683cc",
+  "platform_post_id": "886505993206235139",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-14T22:56:01+08:00",
+  "source_url": "https://t.bilibili.com/886505993206235139",
+  "plain_text": "感触好多的一天哦，谢谢你 晚安",
+  "images": [],
+  "stats": {
+    "likes": 557,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "91a8208a-8e54-412c-a3a0-75fa5dfe9199",
+    "next_uuid": "e5a49f1d-c947-4eb2-833b-99bdf35951b1"
+  }
+}

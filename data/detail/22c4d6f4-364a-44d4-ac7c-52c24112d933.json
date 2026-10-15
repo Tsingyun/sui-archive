@@ -1,0 +1,28 @@
+{
+  "uuid": "22c4d6f4-364a-44d4-ac7c-52c24112d933",
+  "platform_post_id": "1085797221731926022",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-05T00:07:46+08:00",
+  "source_url": "https://t.bilibili.com/1085797221731926022",
+  "plain_text": "晚安大家！虽然明天醒来地球应该也依然照常转动，今天的晚安歌曲是世界寿命と最後の一日，一起听听吧Z☡zᶻ",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd4e0790-5672-43ba-8fff-c1148d372743",
+    "next_uuid": "558d4e10-7fa0-4521-a5ae-e65e815e5e55"
+  }
+}

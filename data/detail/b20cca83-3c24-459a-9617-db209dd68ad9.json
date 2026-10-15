@@ -1,0 +1,28 @@
+{
+  "uuid": "b20cca83-3c24-459a-9617-db209dd68ad9",
+  "platform_post_id": "716128862686150656",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-12T19:45:44+08:00",
+  "source_url": "https://t.bilibili.com/716128862686150656",
+  "plain_text": "刚忙完，累嘎了，现在吃饭，9.16来短短播一下吧",
+  "images": [],
+  "stats": {
+    "likes": 486,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f83445dc-a6a5-4a28-90e7-db34a2fc7fbe",
+    "next_uuid": "7cc88b43-762b-47df-976f-bd3e70980309"
+  }
+}

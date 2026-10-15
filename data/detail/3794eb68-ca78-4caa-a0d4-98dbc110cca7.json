@@ -1,0 +1,28 @@
+{
+  "uuid": "3794eb68-ca78-4caa-a0d4-98dbc110cca7",
+  "platform_post_id": "1056437937661542450",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-16T21:18:45+08:00",
+  "source_url": "https://t.bilibili.com/1056437937661542450",
+  "plain_text": "十点见喔，今天也是虚弱声音版岁己大概，是人头麦煮面还是玩游戏咧",
+  "images": [],
+  "stats": {
+    "likes": 253,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d2a5a629-7b61-4fbd-833f-8daa073eb5c0",
+    "next_uuid": "2544b16e-b73a-4c4d-8ff0-f3c479bf9f4f"
+  }
+}

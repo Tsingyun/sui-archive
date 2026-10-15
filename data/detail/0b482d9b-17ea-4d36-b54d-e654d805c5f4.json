@@ -1,0 +1,38 @@
+{
+  "uuid": "0b482d9b-17ea-4d36-b54d-e654d805c5f4",
+  "platform_post_id": "1121432582545735703",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-09T00:51:10+08:00",
+  "source_url": "https://t.bilibili.com/1121432582545735703",
+  "plain_text": "好冷的天气啊，好心人，求求你，买一个晚安吧( ๑ˊ•̥▵•)੭₎₎\n",
+  "images": [
+    {
+      "filename": "1121432582545735703_00@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1644513,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 374,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0ec636eb-d27f-4985-b40a-aacf911837c2",
+    "next_uuid": "4f8632fd-27bd-4b12-aa92-df1813790070"
+  }
+}

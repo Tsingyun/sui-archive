@@ -1,0 +1,28 @@
+{
+  "uuid": "a60b0b4d-d85d-4085-93f3-6aa4017fc0fd",
+  "platform_post_id": "1133675657388097542",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-11T00:40:33+08:00",
+  "source_url": "https://t.bilibili.com/1133675657388097542",
+  "plain_text": "晚安，每一个来看岁己的你[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0efcf805-d362-4376-8e9f-596294daa353",
+    "next_uuid": "7427df22-5663-4a24-9da1-f3a50cbe5a27"
+  }
+}

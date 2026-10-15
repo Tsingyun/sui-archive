@@ -1,0 +1,28 @@
+{
+  "uuid": "6e7774fb-f2ec-4cbf-aa43-bd7b7911bd86",
+  "platform_post_id": "740500461362085904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-17T11:59:59+08:00",
+  "source_url": "https://t.bilibili.com/740500461362085904",
+  "plain_text": "【大航海相关通知】\n目前在收集【9月】【10月】上舰的舰长的地址，大家有不懂的可以看看下图。请大家注意截止时间，及时填写地址哦！",
+  "images": [],
+  "stats": {
+    "likes": 179,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aabb934b-cbd1-4578-bc9c-55577fdf4907",
+    "next_uuid": "640402a6-bee9-4e98-a388-a77980c1e01f"
+  }
+}

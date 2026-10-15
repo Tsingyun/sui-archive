@@ -1,0 +1,28 @@
+{
+  "uuid": "44ab60ff-4809-482c-ba1a-628f585d93f0",
+  "platform_post_id": "1243509288379351059",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-03T00:11:08+08:00",
+  "source_url": "https://t.bilibili.com/1243509288379351059",
+  "plain_text": "晚安晚安呀大家，刚吃完晚饭肚子超级圆滚滚的。这下猪跟你说晚安了😴",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "05158661-3122-4f4c-94be-5e6a04f5d6c5",
+    "next_uuid": "ca9f151e-5a92-49cf-9d3b-a5fb8bdbbbda"
+  }
+}

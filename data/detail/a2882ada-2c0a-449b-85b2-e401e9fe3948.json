@@ -1,0 +1,28 @@
+{
+  "uuid": "a2882ada-2c0a-449b-85b2-e401e9fe3948",
+  "platform_post_id": "873465665043824660",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-10T19:32:53+08:00",
+  "source_url": "https://t.bilibili.com/873465665043824660",
+  "plain_text": "休息忙点别的ok吗 今天就盯着岁己的新衣服剪影度过吧！",
+  "images": [],
+  "stats": {
+    "likes": 433,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57502922-6453-4a76-a848-ee857bdc0a83",
+    "next_uuid": "85edef33-e4db-4510-a8f3-2c9f286141bf"
+  }
+}

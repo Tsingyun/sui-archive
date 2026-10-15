@@ -1,0 +1,28 @@
+{
+  "uuid": "88fc0301-136b-420d-8577-5d677c27fe60",
+  "platform_post_id": "1239729399323951113",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-23T19:43:14+08:00",
+  "source_url": "https://t.bilibili.com/1239729399323951113",
+  "plain_text": "吃个饭饭8:10见吧！事情好多啊啊干不完啊 机架新调了一下感觉还不错来唱唱，然后我们看痴迷吗！",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "015128e1-8968-4532-b22e-f9f0d5ea77ee",
+    "next_uuid": "b08bce2a-9dc8-4d31-bf64-f71e0ca0589c"
+  }
+}

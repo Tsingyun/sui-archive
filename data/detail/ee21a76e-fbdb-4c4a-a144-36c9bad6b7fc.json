@@ -1,0 +1,28 @@
+{
+  "uuid": "ee21a76e-fbdb-4c4a-a144-36c9bad6b7fc",
+  "platform_post_id": "1158068855433592832",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-15T18:18:37+08:00",
+  "source_url": "https://t.bilibili.com/1158068855433592832",
+  "plain_text": "今天是7:40的命运石之门剧场版，还是先唱歌聊天的说",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48454003-64fd-4908-bf57-c7ab0837a4ab",
+    "next_uuid": "902421de-51cb-49ee-a165-fc0de63b92ee"
+  }
+}

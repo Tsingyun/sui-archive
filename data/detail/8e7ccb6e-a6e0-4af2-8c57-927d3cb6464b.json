@@ -1,0 +1,47 @@
+{
+  "uuid": "8e7ccb6e-a6e0-4af2-8c57-927d3cb6464b",
+  "platform_post_id": "1164661698975498280",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-02-02T12:42:13+08:00",
+  "source_url": "https://t.bilibili.com/1164661698975498280",
+  "plain_text": "哇嗷小岁生日大屏！太气派了的说，两个地方都有大家多多去看！ 2.2-2.8日",
+  "images": [
+    {
+      "filename": "1164661698975498280_100@repost.png",
+      "width": 1472,
+      "height": 832,
+      "file_size": 1264935,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1164661698975498280_101@repost.png",
+      "width": 900,
+      "height": 1882,
+      "file_size": 1719171,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 205,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "26a5a1c9-e452-47aa-b1c0-253b9e364b90",
+    "next_uuid": "e8fe6943-8944-4ac2-8686-a9de205fc636"
+  }
+}

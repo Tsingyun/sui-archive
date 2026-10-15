@@ -1,0 +1,28 @@
+{
+  "uuid": "052de0ae-1d18-4b62-bc03-0d8fe8fa42c0",
+  "platform_post_id": "1057151288773443590",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-18T19:26:55+08:00",
+  "source_url": "https://t.bilibili.com/1057151288773443590",
+  "plain_text": "我勒个去怎么7点半了，7:40来！！今天想看什么你说",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99c6ee65-b179-4507-945d-4bfbc2ecbf3a",
+    "next_uuid": "5cbfefea-2be6-4ece-afe4-f4ce15179ed7"
+  }
+}

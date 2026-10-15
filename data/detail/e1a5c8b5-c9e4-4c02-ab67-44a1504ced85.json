@@ -1,0 +1,28 @@
+{
+  "uuid": "e1a5c8b5-c9e4-4c02-ab67-44a1504ced85",
+  "platform_post_id": "1105455570508316672",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-26T23:32:12+08:00",
+  "source_url": "https://t.bilibili.com/1105455570508316672",
+  "plain_text": "bro上次在你家买的货质量很纯啊，再给我来点[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 70,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ee70a15-7f5c-4451-a940-6c73560eeee1",
+    "next_uuid": "d8f1e98c-3e9a-4f16-bceb-50cce6b6582b"
+  }
+}

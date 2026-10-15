@@ -1,0 +1,28 @@
+{
+  "uuid": "a33fcb3f-0d49-43c8-8921-ff813d9c8f37",
+  "platform_post_id": "756577799556300804",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-29T19:48:16+08:00",
+  "source_url": "https://t.bilibili.com/756577799556300804",
+  "plain_text": "刚到家，虽然时间很紧张还是8:00，依然是我唱我聊！就喜欢这种快要来不及的紧张压迫感！",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6bf74cb5-5649-41c3-aac7-c182dab11c94",
+    "next_uuid": "69263cc7-c1e7-418c-9b2a-0dbc3c4eae90"
+  }
+}

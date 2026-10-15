@@ -1,0 +1,28 @@
+{
+  "uuid": "1c31e45e-1eaa-4288-a87c-737557ab7218",
+  "platform_post_id": "818623326440128551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-16T00:36:36+08:00",
+  "source_url": "https://t.bilibili.com/818623326440128551",
+  "plain_text": "碗！",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f807d354-e932-4af4-8287-a97dc437ac25",
+    "next_uuid": "a1483131-602c-45f2-97d1-2602821a475e"
+  }
+}
