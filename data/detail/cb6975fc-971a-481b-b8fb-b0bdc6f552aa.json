@@ -1,0 +1,28 @@
+{
+  "uuid": "cb6975fc-971a-481b-b8fb-b0bdc6f552aa",
+  "platform_post_id": "1258360297487335428",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-13T00:40:38+08:00",
+  "source_url": "https://t.bilibili.com/1258360297487335428",
+  "plain_text": "饼猪干晚安的说，我要立刻去洗澡澡然后练练舞然后睡觉觉了",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "69ab00db-108c-4dcb-87bc-d18bc405a1d1",
+    "next_uuid": "27eed7f2-2a1d-4420-9302-94212f7efebd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "882bfad8-92f4-4c76-ad0c-9e1c8fb29fde",
+  "platform_post_id": "1008161427235536921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-07T19:01:14+08:00",
+  "source_url": "https://t.bilibili.com/1008161427235536921",
+  "plain_text": "本人将于7:45使用麦克风进行一场线上直播",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6daa1a82-8930-4bb8-9240-692dcdea0c70",
+    "next_uuid": "cccd00f1-f6ee-4aef-93d1-20e5747c83a6"
+  }
+}

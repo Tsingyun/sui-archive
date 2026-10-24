@@ -1,0 +1,28 @@
+{
+  "uuid": "79e5f138-2cae-4fbe-ab50-5f91fc993e82",
+  "platform_post_id": "1094997750312861728",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-29T19:10:31+08:00",
+  "source_url": "https://t.bilibili.com/1094997750312861728",
+  "plain_text": "7:30来 蹦蹦叭",
+  "images": [],
+  "stats": {
+    "likes": 178,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fc6d116-a609-4b0e-941d-e53ddd4646a7",
+    "next_uuid": "7b8f7d9b-f4a1-4e44-baac-c83ea1c2191c"
+  }
+}

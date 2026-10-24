@@ -1,0 +1,28 @@
+{
+  "uuid": "62703b71-34bf-4ce5-8e69-54c889b6bf05",
+  "platform_post_id": "1159498199074865208",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-19T14:45:12+08:00",
+  "source_url": "https://t.bilibili.com/1159498199074865208",
+  "plain_text": "饼饼饼2:55来(,,´•ω•)ノ\"🐟️",
+  "images": [],
+  "stats": {
+    "likes": 179,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29befc29-4df7-47d2-bbd2-5eab17a20728",
+    "next_uuid": "2647c08b-c15d-4eb2-870f-8ea9df928a50"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3180c71d-83ba-4dbe-a6b7-c7cbb7f669f2",
+  "platform_post_id": "887268427208589316",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-17T00:14:39+08:00",
+  "source_url": "https://t.bilibili.com/887268427208589316",
+  "plain_text": "占有欲大爆发！快说晚安！",
+  "images": [],
+  "stats": {
+    "likes": 535,
+    "comments": 158,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3477794-daed-4272-9c2c-5011f33fba95",
+    "next_uuid": "a6dd8f79-5dbd-48eb-8809-d70cae282733"
+  }
+}

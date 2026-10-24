@@ -1,0 +1,28 @@
+{
+  "uuid": "964e50b9-a1a8-4e28-a25b-9fa0b4fdb27a",
+  "platform_post_id": "730820116162281472",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-21T09:55:18+08:00",
+  "source_url": "https://t.bilibili.com/730820116162281472",
+  "plain_text": "好诶第一次早播！祝大家今天工作学习顺利！加油加油(・ω< )★",
+  "images": [],
+  "stats": {
+    "likes": 359,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "994aeb13-7255-4c19-aabb-5d7cc86121a1",
+    "next_uuid": "7541c999-b2f4-4ddc-ae00-d5975672e1f9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "10889244-1091-419c-8f13-8a65386ee8a6",
+  "platform_post_id": "1045703169446772745",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-18T23:02:22+08:00",
+  "source_url": "https://t.bilibili.com/1045703169446772745",
+  "plain_text": "让我看看是哪个小朋友想跟小岁老师说晚安呀",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 105,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f4e5cff8-0d9d-4605-90eb-8c61fbd0276d",
+    "next_uuid": "af04148b-0a6c-4a10-bf07-1032b4aa3b2d"
+  }
+}

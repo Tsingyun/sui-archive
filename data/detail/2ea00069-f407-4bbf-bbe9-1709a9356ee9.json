@@ -1,0 +1,28 @@
+{
+  "uuid": "2ea00069-f407-4bbf-bbe9-1709a9356ee9",
+  "platform_post_id": "1259771512080039940",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-10-16T19:56:52+08:00",
+  "source_url": "https://t.bilibili.com/1259771512080039940",
+  "plain_text": "哇马上开始啦 大家来看哦",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "栞栞Shiori",
+    "author_url": "https://space.bilibili.com/1609526545",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71709268-b250-4bb9-aa95-fff9a11cefa3",
+    "next_uuid": "96399003-1229-4eb5-8ecc-e232f045a478"
+  }
+}

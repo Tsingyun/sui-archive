@@ -1,0 +1,38 @@
+{
+  "uuid": "768b834d-0907-4e1d-80ff-6bd80504dc83",
+  "platform_post_id": "1149631224669536273",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-12-24T00:36:18+08:00",
+  "source_url": "https://t.bilibili.com/1149631224669536273",
+  "plain_text": "【圣诞征集】想让岁己实现的愿望和/想让岁己说的台词！\nhttps://pome.vip/Gz75k7hF\n今天也晚安捏！ \n\n",
+  "images": [
+    {
+      "filename": "1149631224669536273_00@original.png",
+      "width": 1280,
+      "height": 1361,
+      "file_size": 1030426,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 262,
+    "comments": 50,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "10eed893-3250-406e-af42-bc0cc1c4cc51",
+    "next_uuid": "b009d0ce-eb0c-4811-84b5-ae083109c0f2"
+  }
+}

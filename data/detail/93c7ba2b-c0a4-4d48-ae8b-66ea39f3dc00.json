@@ -1,0 +1,28 @@
+{
+  "uuid": "93c7ba2b-c0a4-4d48-ae8b-66ea39f3dc00",
+  "platform_post_id": "808163792574742530",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-17T20:08:16+08:00",
+  "source_url": "https://t.bilibili.com/808163792574742530",
+  "plain_text": "还没想好干什么但是啊啊啊啊啊啊啊啊啊8：30啊啊啊啊啊啊啊啊啊见",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6642df5e-4fb6-4518-92b7-0d80efbf9cd6",
+    "next_uuid": "d04e588b-5f4a-414a-bcfd-e402bbac363c"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "818c09c7-96b8-4906-a1e4-36eafed7e2d8",
+  "platform_post_id": "743646164132298805",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-12-25T23:26:55+08:00",
+  "source_url": "https://t.bilibili.com/743646164132298805",
+  "plain_text": "12.24-12.31限定上舰礼物！🎁\n在期间内上舰可得本月常规舰长礼物（色纸+壁纸）+圣诞限定音声+特殊角色音声+双壁纸！\n",
+  "images": [
+    {
+      "filename": "743646164132298805_00@original.png",
+      "width": 3498,
+      "height": 2356,
+      "file_size": 4872588,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 368,
+    "comments": 8,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b25191b2-e65b-4b9e-ad4f-780f3f7518b6",
+    "next_uuid": "d1fba657-9f89-4394-a1c2-4ca7053036fa"
+  }
+}

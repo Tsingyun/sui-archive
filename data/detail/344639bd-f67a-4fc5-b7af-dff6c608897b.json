@@ -1,0 +1,28 @@
+{
+  "uuid": "344639bd-f67a-4fc5-b7af-dff6c608897b",
+  "platform_post_id": "909535745304166417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-17T00:23:13+08:00",
+  "source_url": "https://t.bilibili.com/909535745304166417",
+  "plain_text": "起床化妆了 吃炒酸奶了 吃饭了 看到猫了 看电影了 躺下了！晚安捏",
+  "images": [],
+  "stats": {
+    "likes": 488,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "64a358cb-e012-4078-bffd-5e5347a0b555",
+    "next_uuid": "e2294c50-9920-4be9-a0d3-eb8b3fe91b9e"
+  }
+}

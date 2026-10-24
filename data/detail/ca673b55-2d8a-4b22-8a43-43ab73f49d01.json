@@ -1,0 +1,28 @@
+{
+  "uuid": "ca673b55-2d8a-4b22-8a43-43ab73f49d01",
+  "platform_post_id": "882368509476077606",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-03T19:20:28+08:00",
+  "source_url": "https://t.bilibili.com/882368509476077606",
+  "plain_text": "要死了 头发还没吹干 手都快断了\n再等我七八分钟啊啊啊啊",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 35,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dec5e351-f40b-41ea-bb03-803420b90054",
+    "next_uuid": "71047933-cb72-4176-bb35-62e3d5d16ea1"
+  }
+}

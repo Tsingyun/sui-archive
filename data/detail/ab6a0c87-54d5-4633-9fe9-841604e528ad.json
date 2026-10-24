@@ -1,0 +1,28 @@
+{
+  "uuid": "ab6a0c87-54d5-4633-9fe9-841604e528ad",
+  "platform_post_id": "899099223898718231",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-17T21:24:11+08:00",
+  "source_url": "https://t.bilibili.com/899099223898718231",
+  "plain_text": "9:40 小播小播",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 22,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4cf4c60-5b41-4a7c-9bb8-0d344224ce06",
+    "next_uuid": "896512d6-1895-4e5a-a53e-cf9bbd68d42a"
+  }
+}

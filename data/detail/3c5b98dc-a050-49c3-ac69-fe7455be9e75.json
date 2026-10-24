@@ -1,0 +1,28 @@
+{
+  "uuid": "3c5b98dc-a050-49c3-ac69-fe7455be9e75",
+  "platform_post_id": "957052072550727683",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-23T01:30:50+08:00",
+  "source_url": "https://t.bilibili.com/957052072550727683",
+  "plain_text": "很开心的一天，语无伦次了都！其实很想说好煽情好呃呃，但是还是，谢谢你喜欢我，我真的觉得自己是很幸运的人，希望这份幸福不要这么快被收回，希望能再幸福得久一点。晚安饼干岁",
+  "images": [],
+  "stats": {
+    "likes": 586,
+    "comments": 121,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac2a7b4d-20b9-4101-ad93-1e61fa9d8f62",
+    "next_uuid": "89a5b866-e65e-4d21-8f60-cfad9a9d8fc4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "df686285-1c9d-4b6c-b6b4-db7aad7ae985",
+  "platform_post_id": "974023622676971545",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-06T19:09:07+08:00",
+  "source_url": "https://t.bilibili.com/974023622676971545",
+  "plain_text": "7:45 来接着看你的名字！",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f7b6fe1-1aab-4ebe-a9c7-fdb12ce1afcd",
+    "next_uuid": "e53560f7-934d-4f94-9019-2be9b7518c18"
+  }
+}

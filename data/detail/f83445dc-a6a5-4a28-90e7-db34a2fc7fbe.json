@@ -1,0 +1,28 @@
+{
+  "uuid": "f83445dc-a6a5-4a28-90e7-db34a2fc7fbe",
+  "platform_post_id": "716002070975479811",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-10-12T11:33:43+08:00",
+  "source_url": "https://t.bilibili.com/716002070975479811",
+  "plain_text": "我在大家眼里原来这么kirakira[tv_害羞]",
+  "images": [],
+  "stats": {
+    "likes": 498,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca7c894f-f862-4573-82d5-c2b7fb8f13b5",
+    "next_uuid": "b20cca83-3c24-459a-9617-db209dd68ad9"
+  }
+}

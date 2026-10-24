@@ -1,0 +1,28 @@
+{
+  "uuid": "08a6a776-9a20-41d5-8cb2-148338ae907b",
+  "platform_post_id": "762222657908244496",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-14T00:53:12+08:00",
+  "source_url": "https://t.bilibili.com/762222657908244496",
+  "plain_text": "晚安！情人节快乐！明晚将于晚上八点准时开始点到，请务必安排好时间，准时到达现场。",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6a3b754d-4672-40e5-bbbf-6cb38036a09b",
+    "next_uuid": "f5727338-9f4d-4044-9b98-6a651b1fb987"
+  }
+}

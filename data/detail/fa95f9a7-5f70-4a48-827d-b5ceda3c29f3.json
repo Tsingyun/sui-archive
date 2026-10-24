@@ -1,0 +1,28 @@
+{
+  "uuid": "fa95f9a7-5f70-4a48-827d-b5ceda3c29f3",
+  "platform_post_id": "976688413720707077",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-13T23:29:52+08:00",
+  "source_url": "https://t.bilibili.com/976688413720707077",
+  "plain_text": "头好痛啊还播到现在，如果有人跟我说晚安可能我会觉得好一点吧，但是没有也没事呀（拭去眼泪、坚强微笑），饼干岁很忙的我自己会照顾好自己的",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 119,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5bee7cdd-e56b-46ff-ac13-ec8375fa9dc7",
+    "next_uuid": "afb7eb5a-bc7d-4254-94b6-01acca8a1547"
+  }
+}

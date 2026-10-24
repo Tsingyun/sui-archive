@@ -1,0 +1,28 @@
+{
+  "uuid": "14d8bc6e-7b79-4997-b687-e3b703f04c36",
+  "platform_post_id": "858974402436399105",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-01T18:19:23+08:00",
+  "source_url": "https://t.bilibili.com/858974402436399105",
+  "plain_text": "休息吧今天！我要忙这个和那个 你懂吧",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f42c21a5-400e-4ac0-b865-1dd0d6bdb7ba",
+    "next_uuid": "2c7653d0-523c-46b9-844c-a8ecdd1c9358"
+  }
+}

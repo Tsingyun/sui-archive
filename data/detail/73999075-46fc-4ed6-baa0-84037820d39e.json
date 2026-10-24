@@ -1,0 +1,28 @@
+{
+  "uuid": "73999075-46fc-4ed6-baa0-84037820d39e",
+  "platform_post_id": "880434833627545602",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-29T14:16:49+08:00",
+  "source_url": "https://t.bilibili.com/880434833627545602",
+  "plain_text": "在干嘛捏",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 97,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fd2a499-c407-4713-9c9a-86e49365e903",
+    "next_uuid": "8d7447c8-6fae-4168-a134-a81acbde7978"
+  }
+}

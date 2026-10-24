@@ -1,0 +1,38 @@
+{
+  "uuid": "45fe05ea-d219-4b74-99b2-ede18956b05d",
+  "platform_post_id": "758044320447070224",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-02T18:39:07+08:00",
+  "source_url": "https://t.bilibili.com/758044320447070224",
+  "plain_text": "【岁己SUI首次生日纪念回】\n        将于2月5日20:00举行！\r  🌟这次是和饼干岁一起度过的第一个生日！\r  🌟本次上舰有豪华的限定上舰礼物！详情请看图\r  🌟有什么想对岁己说的话可以发至提问箱（链接见评论），有想让岁己看的二创视频可以发到话题“旺旺岁岁饼”中！\r  🌟预约即有机会参与88元现金抽奖\r\n\n  🎉 好紧张！希望生日的时候可以见到大家！\n",
+  "images": [
+    {
+      "filename": "758044320447070224_00@original.png",
+      "width": 4168,
+      "height": 2608,
+      "file_size": 7551071,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 609,
+    "comments": 223,
+    "forwards": 101,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5bf3b54f-b459-48c1-9f11-e4979f1f69fd",
+    "next_uuid": "cc94c868-64e4-4290-989f-4213589d1a45"
+  }
+}

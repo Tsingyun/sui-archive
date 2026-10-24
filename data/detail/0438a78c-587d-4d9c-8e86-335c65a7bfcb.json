@@ -1,0 +1,28 @@
+{
+  "uuid": "0438a78c-587d-4d9c-8e86-335c65a7bfcb",
+  "platform_post_id": "814538713747947577",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-05T00:26:13+08:00",
+  "source_url": "https://t.bilibili.com/814538713747947577",
+  "plain_text": "晚的说安",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6aec78a3-e66c-4514-8c7e-e2a0b9bb1047",
+    "next_uuid": "5d7e758d-c0b8-4747-b1ab-ee1960b56dd0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "53192fca-4a35-4e36-a472-df1b6a6f85f4",
+  "platform_post_id": "857510316817252374",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-28T19:37:59+08:00",
+  "source_url": "https://t.bilibili.com/857510316817252374",
+  "plain_text": "哈喽哈喽 7:50随便唱点",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9efa6a12-c4ad-4f15-b989-883602bdc28f",
+    "next_uuid": "8b04c8f8-33ec-4bac-978d-5065662580f7"
+  }
+}

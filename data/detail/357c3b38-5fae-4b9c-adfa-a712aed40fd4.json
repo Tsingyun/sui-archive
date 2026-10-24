@@ -1,0 +1,28 @@
+{
+  "uuid": "357c3b38-5fae-4b9c-adfa-a712aed40fd4",
+  "platform_post_id": "1008595055699558406",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-08T23:03:56+08:00",
+  "source_url": "https://t.bilibili.com/1008595055699558406",
+  "plain_text": "小饼公主你先睡吧，地球太危险了，我就在旁边保持清醒守着你，晚安",
+  "images": [],
+  "stats": {
+    "likes": 330,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a89adb4d-85d4-48a8-9d4d-02910fbb781d",
+    "next_uuid": "ec5c068b-aad3-4cac-b4fa-11b40d163d65"
+  }
+}

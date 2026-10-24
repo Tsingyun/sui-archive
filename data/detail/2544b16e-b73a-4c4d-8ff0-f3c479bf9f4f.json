@@ -1,0 +1,28 @@
+{
+  "uuid": "2544b16e-b73a-4c4d-8ff0-f3c479bf9f4f",
+  "platform_post_id": "1056493840987324450",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-17T00:55:41+08:00",
+  "source_url": "https://t.bilibili.com/1056493840987324450",
+  "plain_text": "你这个坏饼，今天真是不能宠着你了，我打你打你打你，晚安",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3794eb68-ca78-4caa-a0d4-98dbc110cca7",
+    "next_uuid": "0782dd51-5a7f-4e62-a070-d0f64511f130"
+  }
+}

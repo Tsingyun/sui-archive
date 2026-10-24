@@ -1,0 +1,28 @@
+{
+  "uuid": "37d5b6a8-9d0e-447b-a986-d9c108f1b4b6",
+  "platform_post_id": "1216785224476655635",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-22T23:48:07+08:00",
+  "source_url": "https://t.bilibili.com/1216785224476655635",
+  "plain_text": "晚安晚安[岁己收藏集表情包_晚安]今天唱了好多喜欢的歌 周二加油大家",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5a766f77-28e6-481b-b6ef-43623088b767",
+    "next_uuid": "fda194b2-dda0-4fd0-a807-a88d9a2c398d"
+  }
+}

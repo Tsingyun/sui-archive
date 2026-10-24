@@ -1,0 +1,28 @@
+{
+  "uuid": "aed876cc-4d07-4def-88b9-24b2a58c5432",
+  "platform_post_id": "784864089135382551",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-16T01:13:31+08:00",
+  "source_url": "https://t.bilibili.com/784864089135382551",
+  "plain_text": "小朋友们晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 373,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c0d54d4e-e542-49ae-b0d6-66b57d06c32c",
+    "next_uuid": "bb0f474b-d5ed-4175-9e53-8e26f6ad29d7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6ba20c1a-42e4-494b-8896-7e9f45e616c8",
+  "platform_post_id": "1203739652147642401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-18T20:04:38+08:00",
+  "source_url": "https://t.bilibili.com/1203739652147642401",
+  "plain_text": "8:30来捏 想看空洞骑士还是电影的说",
+  "images": [],
+  "stats": {
+    "likes": 176,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "932c30e3-47dd-451b-b298-714ea8949c0f",
+    "next_uuid": "177b1b8e-e959-45ef-933f-c84f7cfaba8e"
+  }
+}

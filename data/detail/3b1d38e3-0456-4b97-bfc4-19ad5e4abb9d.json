@@ -1,0 +1,28 @@
+{
+  "uuid": "3b1d38e3-0456-4b97-bfc4-19ad5e4abb9d",
+  "platform_post_id": "794482144409813033",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-11T23:16:29+08:00",
+  "source_url": "https://t.bilibili.com/794482144409813033",
+  "plain_text": "晚安晚安[tv_睡着]",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a7bf8a0-c61d-4eda-b93e-564da71fad9f",
+    "next_uuid": "3d3e2bff-fba6-4f4e-9327-19964e688443"
+  }
+}

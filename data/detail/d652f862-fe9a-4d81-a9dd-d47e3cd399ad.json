@@ -1,0 +1,38 @@
+{
+  "uuid": "d652f862-fe9a-4d81-a9dd-d47e3cd399ad",
+  "platform_post_id": "1082478689435779080",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-06-26T01:30:10+08:00",
+  "source_url": "https://t.bilibili.com/1082478689435779080",
+  "plain_text": "一不小心变成3D麦聊天了！晚安晚安喏！\n以及6月转盘开始征集需求了——大人请填写\n只有提督和转3次及以上的需要填写捏\nhttps://doc岁己s.qq.com/fo大人rm/page/DRmh1VHROR3NHY2Rx\n",
+  "images": [
+    {
+      "filename": "1082478689435779080_00@original.png",
+      "width": 897,
+      "height": 2092,
+      "file_size": 376075,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 222,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aded3863-8a60-428d-95f8-bf2747a1c304",
+    "next_uuid": "8122671e-7865-4c73-8fd7-95e00f6a70c9"
+  }
+}

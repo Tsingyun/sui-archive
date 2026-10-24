@@ -1,0 +1,28 @@
+{
+  "uuid": "b71b635d-feb8-4bf3-8a0c-c27e2d762c9e",
+  "platform_post_id": "1259465761906229257",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-16T00:10:24+08:00",
+  "source_url": "https://t.bilibili.com/1259465761906229257",
+  "plain_text": "晚安晚安呀洗头洗澡去啦 \n明晚栞栞3D回见哟 都要来看的说 饼干岁晚安[UPOWER_1954091502_大家]",
+  "images": [],
+  "stats": {
+    "likes": 405,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "da54a3f6-0dad-4343-a3a8-83c7c086036a",
+    "next_uuid": "71709268-b250-4bb9-aa95-fff9a11cefa3"
+  }
+}

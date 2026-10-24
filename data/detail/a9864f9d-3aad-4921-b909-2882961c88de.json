@@ -1,0 +1,28 @@
+{
+  "uuid": "a9864f9d-3aad-4921-b909-2882961c88de",
+  "platform_post_id": "1201804893983080452",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-13T14:56:47+08:00",
+  "source_url": "https://t.bilibili.com/1201804893983080452",
+  "plain_text": "3:10分再赌一赌吧！冲冲冲",
+  "images": [],
+  "stats": {
+    "likes": 160,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0de6d13b-9e6f-467b-911e-6a20ab1d6fdf",
+    "next_uuid": "ae9a2846-c6f7-4b7e-8786-af5bd4f4559c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "eeafe040-f8a4-4d88-bc62-ed8f7cfbe380",
+  "platform_post_id": "896430923932762120",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-10T16:49:49+08:00",
+  "source_url": "https://t.bilibili.com/896430923932762120",
+  "plain_text": "有小饼在送岁己小周边啦 想要的可以去评论一下的说！",
+  "images": [],
+  "stats": {
+    "likes": 291,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "670305c0-cb8c-45a0-b954-101a37866ef5",
+    "next_uuid": "8cbafe1b-2723-4aa9-b941-861e4de0e58d"
+  }
+}

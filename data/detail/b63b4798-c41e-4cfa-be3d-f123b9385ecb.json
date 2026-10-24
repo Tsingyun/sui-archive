@@ -1,0 +1,28 @@
+{
+  "uuid": "b63b4798-c41e-4cfa-be3d-f123b9385ecb",
+  "platform_post_id": "848471107171254281",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-04T11:01:14+08:00",
+  "source_url": "https://t.bilibili.com/848471107171254281",
+  "plain_text": "天空轰隆一声巨响！岁包闪亮登场\n早！",
+  "images": [],
+  "stats": {
+    "likes": 375,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "50c098e6-cade-41b2-9add-5ab2d4676227",
+    "next_uuid": "40053341-286e-4376-8d73-813c6f40b5a5"
+  }
+}

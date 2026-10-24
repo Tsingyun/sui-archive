@@ -1,0 +1,28 @@
+{
+  "uuid": "ab068a30-f900-4aac-9f5e-4790fb4d9121",
+  "platform_post_id": "936981290732748817",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-29T23:25:57+08:00",
+  "source_url": "https://t.bilibili.com/936981290732748817",
+  "plain_text": "晚安晚安。有点累有点饿，我都能扛，就是扛不住想你（我去我自己看着都有点绷不住了）",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "16650cd8-46ed-4476-8acc-a23b328fbc1e",
+    "next_uuid": "37f95d64-616e-4fe2-a2b7-dc93d93d0795"
+  }
+}

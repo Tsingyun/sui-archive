@@ -1,0 +1,28 @@
+{
+  "uuid": "49b3cc08-ea6f-450f-a9c6-41ae0d56d8fb",
+  "platform_post_id": "851932017576640552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-13T18:51:20+08:00",
+  "source_url": "https://t.bilibili.com/851932017576640552",
+  "plain_text": "7:00 谁能鼓励我从床上爬起来 🫠",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bcf18d6f-1b0f-4f16-9b80-9899a6365cfd",
+    "next_uuid": "d20a0ecd-fc88-4d8d-9d00-202401cf74d1"
+  }
+}

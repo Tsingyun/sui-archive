@@ -1,0 +1,38 @@
+{
+  "uuid": "c0dfbabe-5522-4b2c-b9a7-fe0c87432683",
+  "platform_post_id": "824184402850349078",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-07-31T00:16:25+08:00",
+  "source_url": "https://t.bilibili.com/824184402850349078",
+  "plain_text": "全世界晚安\n除了不回复岁己晚安动态的人\n没给岁己发弹幕的人\n不看岁己直播的人\n没有一天想岁己10次以上的人\n三天没有夸夸岁己的人\n不喜欢这么可爱的岁己的人\n",
+  "images": [
+    {
+      "filename": "824184402850349078_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1818091,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 582,
+    "comments": 121,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6dbdfcb1-df4a-4112-8537-d8fb49b3a953",
+    "next_uuid": "c95bab4c-e4e2-4164-9a7d-a9f932a079fa"
+  }
+}

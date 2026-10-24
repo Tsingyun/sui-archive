@@ -1,0 +1,28 @@
+{
+  "uuid": "f5632292-110b-4f4b-a575-81979655cef2",
+  "platform_post_id": "1160012572967043072",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-21T00:01:14+08:00",
+  "source_url": "https://t.bilibili.com/1160012572967043072",
+  "plain_text": "新的一天了，大家晚安[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dd8aa538-b6c1-4ab2-980d-fc7ea43ff64a",
+    "next_uuid": "2a8627ff-cb26-4b48-a734-23ea7e32f46b"
+  }
+}

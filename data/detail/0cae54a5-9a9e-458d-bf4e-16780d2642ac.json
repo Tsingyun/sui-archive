@@ -1,0 +1,28 @@
+{
+  "uuid": "0cae54a5-9a9e-458d-bf4e-16780d2642ac",
+  "platform_post_id": "968464934328336408",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-22T19:38:34+08:00",
+  "source_url": "https://t.bilibili.com/968464934328336408",
+  "plain_text": "出门十分钟热得整个人都没劲了，7:50 大人 今天想看什么[灵魂出窍]",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0acb2834-d506-4e12-936a-523e847e167a",
+    "next_uuid": "3b75ff3c-477d-4fc6-a266-7e446f1cdae5"
+  }
+}

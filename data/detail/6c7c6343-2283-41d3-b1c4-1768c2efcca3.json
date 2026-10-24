@@ -1,0 +1,28 @@
+{
+  "uuid": "6c7c6343-2283-41d3-b1c4-1768c2efcca3",
+  "platform_post_id": "1219325268173258755",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-29T20:04:47+08:00",
+  "source_url": "https://t.bilibili.com/1219325268173258755",
+  "plain_text": "开播了！唱唱聊聊然后继续画头像如何呢 早播早睡身体好",
+  "images": [],
+  "stats": {
+    "likes": 201,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c5106b90-bde6-4eef-8404-f4bf19a18208",
+    "next_uuid": "d58ed240-5081-4301-942c-202943bc3508"
+  }
+}

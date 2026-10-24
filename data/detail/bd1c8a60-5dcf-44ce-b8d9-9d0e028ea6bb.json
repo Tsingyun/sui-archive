@@ -1,0 +1,28 @@
+{
+  "uuid": "bd1c8a60-5dcf-44ce-b8d9-9d0e028ea6bb",
+  "platform_post_id": "780336059734032387",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-03T20:22:27+08:00",
+  "source_url": "https://t.bilibili.com/780336059734032387",
+  "plain_text": "不行不行 8.45 收到请回复",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce9b972f-1ab5-4fcd-b916-759a6e34c1e2",
+    "next_uuid": "ccc3a506-0ea2-4cf9-93b2-4a7aa639c15d"
+  }
+}

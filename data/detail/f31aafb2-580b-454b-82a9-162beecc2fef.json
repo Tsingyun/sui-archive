@@ -1,0 +1,47 @@
+{
+  "uuid": "f31aafb2-580b-454b-82a9-162beecc2fef",
+  "platform_post_id": "877973568245203008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-22T23:05:51+08:00",
+  "source_url": "https://t.bilibili.com/877973568245203008",
+  "plain_text": "试着露出坏坏的表情\n晚安\n",
+  "images": [
+    {
+      "filename": "877973568245203008_00@original.png",
+      "width": 1170,
+      "height": 2532,
+      "file_size": 1924271,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "877973568245203008_01@original.png",
+      "width": 1170,
+      "height": 2532,
+      "file_size": 1931632,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 518,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f85c0da5-d845-4ca1-91d2-cc0746423193",
+    "next_uuid": "dd35a36e-d81c-4ce8-a017-37a1d7cf2865"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8441603d-a388-4ebf-b5a8-cfaeef8af53d",
+  "platform_post_id": "1208285660292579337",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-31T02:05:28+08:00",
+  "source_url": "https://t.bilibili.com/1208285660292579337",
+  "plain_text": "本来上播前有点沉浸在伤春悲秋的心情中的！果然一开播就和大家聊得好开心的说\n谢谢大家花时间精力给予我的一切！\n谢谢大家陪我做了这么完美的梦。晚安喔😴",
+  "images": [],
+  "stats": {
+    "likes": 435,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18819128-2fe0-4de6-9495-44ab17b839ab",
+    "next_uuid": "b74f4906-d2dc-438f-81fc-c6255ed0b8a5"
+  }
+}

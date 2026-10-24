@@ -1,0 +1,28 @@
+{
+  "uuid": "538838c0-51c5-4d4a-9786-1bc0a4d4c5fd",
+  "platform_post_id": "1148362525719396359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-20T14:33:06+08:00",
+  "source_url": "https://t.bilibili.com/1148362525719396359",
+  "plain_text": "小姐少爷们工作一天了，该摸鱼了！2:40，速来速来。",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e4ae5f4-5f13-4c35-9d3d-85d0c66b627e",
+    "next_uuid": "453fb1bc-fc74-4800-a047-d6063bec954f"
+  }
+}

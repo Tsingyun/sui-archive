@@ -1,0 +1,28 @@
+{
+  "uuid": "5a1f7666-00b1-44d6-97f2-d6dccb0f622c",
+  "platform_post_id": "840653107037732889",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-13T09:23:24+08:00",
+  "source_url": "https://t.bilibili.com/840653107037732889",
+  "plain_text": "早安\n回我动态的是迫不及待想跟我搭话的\n不回我动态是爱在心口难开的",
+  "images": [],
+  "stats": {
+    "likes": 566,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3339eb55-30b1-4f18-8380-cb40ae210763",
+    "next_uuid": "fb47d382-00d1-4f49-a8ea-f17015686181"
+  }
+}

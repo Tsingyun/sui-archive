@@ -1,0 +1,28 @@
+{
+  "uuid": "d49f8e87-df9d-4176-8c26-2bea428f00aa",
+  "platform_post_id": "1239361359327526929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-22T19:55:03+08:00",
+  "source_url": "https://t.bilibili.com/1239361359327526929",
+  "plain_text": "8:10来！岁己的5070ti首秀呀",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b870a47a-1056-4df5-adff-ca00674a85f8",
+    "next_uuid": "de885886-5537-4e3c-9453-b060e850a60c"
+  }
+}

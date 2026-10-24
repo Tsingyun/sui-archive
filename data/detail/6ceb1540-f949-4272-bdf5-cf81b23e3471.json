@@ -1,0 +1,28 @@
+{
+  "uuid": "6ceb1540-f949-4272-bdf5-cf81b23e3471",
+  "platform_post_id": "1209371728706273284",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-03T00:19:58+08:00",
+  "source_url": "https://t.bilibili.com/1209371728706273284",
+  "plain_text": "谁要跟生病了还元气直播的可爱小岁说晚安[岁己收藏集表情包_哈哈]",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8056f992-f452-4c48-95ca-a6ecffbf6862",
+    "next_uuid": "63eecbaf-6684-4b4e-9577-ebcd648ddcc8"
+  }
+}

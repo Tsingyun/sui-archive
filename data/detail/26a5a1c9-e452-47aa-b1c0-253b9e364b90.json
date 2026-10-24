@@ -1,0 +1,28 @@
+{
+  "uuid": "26a5a1c9-e452-47aa-b1c0-253b9e364b90",
+  "platform_post_id": "1164459792533553159",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-01T23:38:43+08:00",
+  "source_url": "https://t.bilibili.com/1164459792533553159",
+  "plain_text": "这是一条带着疼痛的晚安动态，刚才嗑瓜子一小条瓜子壳竖着插进了牙龈，好痛😭好痛😭晚安，对嗑瓜子有了阴影…愿梦里只有瓜子仁没有疼痛…",
+  "images": [],
+  "stats": {
+    "likes": 292,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a837fc9b-7e96-4026-a62d-f372ad8f35d3",
+    "next_uuid": "8e7ccb6e-a6e0-4af2-8c57-927d3cb6464b"
+  }
+}

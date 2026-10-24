@@ -1,0 +1,28 @@
+{
+  "uuid": "998654b5-9575-411d-a5cb-885b45b2e858",
+  "platform_post_id": "1097979432596930566",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-06T20:00:58+08:00",
+  "source_url": "https://t.bilibili.com/1097979432596930566",
+  "plain_text": "十点来新衣煮面哦[UPOWER_1954091502_幻想了]今天演什么剧情",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0fa55fb5-2d34-4803-9b18-f84fb418848a",
+    "next_uuid": "292e1f63-8df3-4e76-ac0c-499f8da34086"
+  }
+}

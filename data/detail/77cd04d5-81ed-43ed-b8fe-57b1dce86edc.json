@@ -1,0 +1,28 @@
+{
+  "uuid": "77cd04d5-81ed-43ed-b8fe-57b1dce86edc",
+  "platform_post_id": "1168484623603204116",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-12T19:57:07+08:00",
+  "source_url": "https://t.bilibili.com/1168484623603204116",
+  "plain_text": "我今天8:30来哦，9点会作为米的线上嘉宾小小出现一下！[UPOWER_1954091502_小肥鸟]",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d17dbcef-0851-4485-9fd7-d1a455a57e2a",
+    "next_uuid": "cf0c38eb-31c1-43b8-8b13-f9f42575d4e4"
+  }
+}

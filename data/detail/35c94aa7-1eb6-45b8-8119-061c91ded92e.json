@@ -1,0 +1,28 @@
+{
+  "uuid": "35c94aa7-1eb6-45b8-8119-061c91ded92e",
+  "platform_post_id": "949235966264999957",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-02T00:00:21+08:00",
+  "source_url": "https://t.bilibili.com/949235966264999957",
+  "plain_text": "晚安，希望大家今天也有看得开心。",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d90ab1ae-635a-400b-949b-32cbabcc54ce",
+    "next_uuid": "222f2ac5-a8e4-4ab7-a117-58ae8e25bea5"
+  }
+}

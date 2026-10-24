@@ -1,0 +1,28 @@
+{
+  "uuid": "69e862a6-b65a-4616-bb8c-b2b877b9a257",
+  "platform_post_id": "1034146232786747408",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-15T19:35:33+08:00",
+  "source_url": "https://t.bilibili.com/1034146232786747408",
+  "plain_text": "欢迎通过下方链接及直播间选购哦！\n ​​【预售】VirtuaReal 2025 情人节徽章\n ​​【预售】VirtuaReal 2025 情人节立画 \n​​【预售】VirtuaReal 2025 情人节礼盒 \n\n",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d01908e1-cd5a-4a5b-ba30-dfde1e52d5e5",
+    "next_uuid": "f8c87ba3-7f02-4dc3-8838-0a4f12a22bfc"
+  }
+}

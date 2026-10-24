@@ -1,0 +1,28 @@
+{
+  "uuid": "03d4b4ba-2500-4463-ad10-21e90ef0f312",
+  "platform_post_id": "1256799987386286149",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-08T19:45:50+08:00",
+  "source_url": "https://t.bilibili.com/1256799987386286149",
+  "plain_text": "八点来 先聊聊，然后高手的法环爱看技术流的可以来 想学习技术的也可以来",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1606e7f-ed94-4dd3-8579-43d5bd20f2d4",
+    "next_uuid": "afad939d-64c2-4c29-a2ee-f323eeddb47c"
+  }
+}

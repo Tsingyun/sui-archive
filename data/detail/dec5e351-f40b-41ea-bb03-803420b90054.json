@@ -1,0 +1,28 @@
+{
+  "uuid": "dec5e351-f40b-41ea-bb03-803420b90054",
+  "platform_post_id": "882351896541528065",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-03T18:16:00+08:00",
+  "source_url": "https://t.bilibili.com/882351896541528065",
+  "plain_text": "洗个澡 7:20来吧！聊一下 神秘海域一下",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb53f3c7-d3d0-4f35-bd13-390b854b0a75",
+    "next_uuid": "ca673b55-2d8a-4b22-8a43-43ab73f49d01"
+  }
+}

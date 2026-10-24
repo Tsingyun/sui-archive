@@ -1,0 +1,28 @@
+{
+  "uuid": "9114885b-827a-4e41-8ee0-5997550837a0",
+  "platform_post_id": "864182170552369185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-15T19:08:11+08:00",
+  "source_url": "https://t.bilibili.com/864182170552369185",
+  "plain_text": "7:30家人萌",
+  "images": [],
+  "stats": {
+    "likes": 214,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e9f93f0-1612-4c4d-859e-e91f3350df83",
+    "next_uuid": "bd9b0584-7cf3-4f8f-92e8-ce72652020fa"
+  }
+}

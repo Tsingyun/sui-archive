@@ -1,0 +1,28 @@
+{
+  "uuid": "eba3d442-a095-448e-9a67-fdab72f206e5",
+  "platform_post_id": "739879512171348039",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-15T19:50:23+08:00",
+  "source_url": "https://t.bilibili.com/739879512171348039",
+  "plain_text": "不行不行 洗不了这么快 8:30来！",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "befc85c5-d049-41ab-94c8-3b0631b95db3",
+    "next_uuid": "6ce11b0e-b770-4f4a-8b57-b3eea6d13e98"
+  }
+}

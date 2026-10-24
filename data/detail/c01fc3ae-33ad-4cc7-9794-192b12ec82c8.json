@@ -1,0 +1,28 @@
+{
+  "uuid": "c01fc3ae-33ad-4cc7-9794-192b12ec82c8",
+  "platform_post_id": "915834838810886166",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-02T23:46:55+08:00",
+  "source_url": "https://t.bilibili.com/915834838810886166",
+  "plain_text": "❤️‍🔥❤️‍🔥❤️‍🔥热情❤️‍🔥❤️‍🔥❤️‍🔥地❤️‍🔥晚安❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥",
+  "images": [],
+  "stats": {
+    "likes": 382,
+    "comments": 72,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "699f87ba-d1cb-427c-bbe5-89615160fd5b",
+    "next_uuid": "f44c12ce-ca50-4eb5-879f-b2b8ae0f52b1"
+  }
+}

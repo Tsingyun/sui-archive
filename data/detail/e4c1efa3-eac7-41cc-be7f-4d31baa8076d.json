@@ -1,0 +1,38 @@
+{
+  "uuid": "e4c1efa3-eac7-41cc-be7f-4d31baa8076d",
+  "platform_post_id": "1093957543591411744",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-07-26T23:53:59+08:00",
+  "source_url": "https://t.bilibili.com/1093957543591411744",
+  "plain_text": "晚安叭 新衣前瞻part2~\n",
+  "images": [
+    {
+      "filename": "1093957543591411744_00@original.png",
+      "width": 367,
+      "height": 284,
+      "file_size": 28553,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 348,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "467902f2-8bea-4a82-a31e-df09b90c9d2b",
+    "next_uuid": "c0caa1c0-b6b9-418e-8f19-cf3ac4670a64"
+  }
+}

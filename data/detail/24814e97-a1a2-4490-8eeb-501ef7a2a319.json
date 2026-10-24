@@ -1,0 +1,28 @@
+{
+  "uuid": "24814e97-a1a2-4490-8eeb-501ef7a2a319",
+  "platform_post_id": "820838872425431060",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-21T23:54:03+08:00",
+  "source_url": "https://t.bilibili.com/820838872425431060",
+  "plain_text": "晚安打雷 打打打雷",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c1113f1a-fab4-4735-94d2-919124374821",
+    "next_uuid": "8feab702-4a79-4cc3-bcff-d523571affc0"
+  }
+}

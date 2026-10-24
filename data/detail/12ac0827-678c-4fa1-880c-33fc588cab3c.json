@@ -1,0 +1,28 @@
+{
+  "uuid": "12ac0827-678c-4fa1-880c-33fc588cab3c",
+  "platform_post_id": "768451288226594816",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-02T19:43:28+08:00",
+  "source_url": "https://t.bilibili.com/768451288226594816",
+  "plain_text": "八点半！原子之心试试！去洗头洗澡了",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22e9215d-7c79-4816-a9ae-0d4f8993e75b",
+    "next_uuid": "ecde50f3-e9f7-4c9f-b36c-bfba458824ac"
+  }
+}

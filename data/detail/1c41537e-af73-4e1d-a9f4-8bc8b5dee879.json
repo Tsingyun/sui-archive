@@ -1,0 +1,28 @@
+{
+  "uuid": "1c41537e-af73-4e1d-a9f4-8bc8b5dee879",
+  "platform_post_id": "1216071950671020056",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-21T01:40:15+08:00",
+  "source_url": "https://t.bilibili.com/1216071950671020056",
+  "plain_text": "[岁己收藏集表情包_啵啵]晚安晚安捏今天也度过了挺开心的一天",
+  "images": [],
+  "stats": {
+    "likes": 255,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8b3419ce-fdc3-4b42-b34b-7834fe5cd405",
+    "next_uuid": "73210745-a1d6-4e33-a265-c0fe2dc949df"
+  }
+}

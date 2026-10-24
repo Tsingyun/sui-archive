@@ -1,0 +1,28 @@
+{
+  "uuid": "97e10d93-1506-4af3-b119-1c0888ca4034",
+  "platform_post_id": "1117191663123431443",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-27T14:34:14+08:00",
+  "source_url": "https://t.bilibili.com/1117191663123431443",
+  "plain_text": "3:30来直直直播",
+  "images": [],
+  "stats": {
+    "likes": 197,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d3e85e9-3493-4747-8538-1a14406ff8ef",
+    "next_uuid": "f21122ce-5719-4ef6-a049-286b70b768da"
+  }
+}

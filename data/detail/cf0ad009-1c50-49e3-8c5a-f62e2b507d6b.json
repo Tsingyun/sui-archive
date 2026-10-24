@@ -1,0 +1,28 @@
+{
+  "uuid": "cf0ad009-1c50-49e3-8c5a-f62e2b507d6b",
+  "platform_post_id": "721346719680299008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-26T21:13:41+08:00",
+  "source_url": "https://t.bilibili.com/721346719680299008",
+  "plain_text": "先吹个头再吃个饭，感觉大概得9.40了，我尽快！",
+  "images": [],
+  "stats": {
+    "likes": 421,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0476649-3d71-4f91-8a2f-6d268f0e652b",
+    "next_uuid": "5c2584ad-a823-402d-847d-086015b4fbee"
+  }
+}

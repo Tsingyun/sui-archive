@@ -1,0 +1,28 @@
+{
+  "uuid": "e233368f-263f-44e0-b4ef-16fba0dfa18f",
+  "platform_post_id": "786900530674794537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-21T12:55:57+08:00",
+  "source_url": "https://t.bilibili.com/786900530674794537",
+  "plain_text": "周五周五，扭扭屁股\n上班苦苦，吃点补补\n哼哼呜呜，你是小猪\n小猪小猪，把你打哭\n\n\n",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 46,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f53f59a-de36-4399-9cc8-692376a9504c",
+    "next_uuid": "ce59eabf-1ecf-4c0d-8fe2-e5d7191a8464"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f5ea2c20-4374-46dd-b4e2-d7d59d5d3a20",
+  "platform_post_id": "1258713395287293960",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-13T23:30:50+08:00",
+  "source_url": "https://t.bilibili.com/1258713395287293960",
+  "plain_text": "晚安晚安喔。谢谢你来看岁己。岁己要出门了，遇到电脑没亮是没开机，地铁进不了是没扫码，外卖没到是没下单，手机用不了是没充电，还有什么不会的都可以问我，好好照顾自己。",
+  "images": [],
+  "stats": {
+    "likes": 511,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "613ed528-0970-4398-9a83-1a01214c43fb",
+    "next_uuid": "f32e082d-9f8e-4342-be51-2b852e4414e7"
+  }
+}

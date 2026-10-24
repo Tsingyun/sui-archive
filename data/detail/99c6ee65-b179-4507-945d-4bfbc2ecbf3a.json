@@ -1,0 +1,28 @@
+{
+  "uuid": "99c6ee65-b179-4507-945d-4bfbc2ecbf3a",
+  "platform_post_id": "1056876995012460562",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-18T01:42:31+08:00",
+  "source_url": "https://t.bilibili.com/1056876995012460562",
+  "plain_text": "播后未倦吗 跟我逛逛 再送你归家 我可以为你 关起手机sun灵魂对话~ 晚安内",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d6b49a76-c1d6-4276-929b-7ee8d8406bd9",
+    "next_uuid": "052de0ae-1d18-4b62-bc03-0d8fe8fa42c0"
+  }
+}

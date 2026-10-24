@@ -1,0 +1,28 @@
+{
+  "uuid": "84202067-c8bd-4539-8762-79b43fa51674",
+  "platform_post_id": "821869256564015129",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-24T18:32:28+08:00",
+  "source_url": "https://t.bilibili.com/821869256564015129",
+  "plain_text": "波比波比波八点播 大概是闲聊+",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "60724157-d1d7-4a1a-aaf3-4759a339e463",
+    "next_uuid": "603e9d81-7403-48c0-8071-50d81eac8a7a"
+  }
+}

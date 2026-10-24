@@ -1,0 +1,56 @@
+{
+  "uuid": "04cb9491-caee-4265-82ff-4d95d70cef2a",
+  "platform_post_id": "1121043815015120914",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-07T23:42:33+08:00",
+  "source_url": "https://t.bilibili.com/1121043815015120914",
+  "plain_text": "没有晚安...？跟我的拳头说去吧!!\n",
+  "images": [
+    {
+      "filename": "1121043815015120914_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 1004177,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1121043815015120914_01@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 973733,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1121043815015120914_02@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 973994,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 796,
+    "comments": 78,
+    "forwards": 10,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00d471a9-6e0d-4116-b51b-75d9c2d28a4f",
+    "next_uuid": "0ec636eb-d27f-4985-b40a-aacf911837c2"
+  }
+}

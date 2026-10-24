@@ -1,0 +1,28 @@
+{
+  "uuid": "55d14ea9-0ecb-4d1d-babe-3fb0bdf29053",
+  "platform_post_id": "761114285749305381",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-11T01:12:09+08:00",
+  "source_url": "https://t.bilibili.com/761114285749305381",
+  "plain_text": "晚安饼干岁！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！今天是很平淡的一天，但是因为有你的陪伴变得不是那么平淡了",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb4acd30-c5ee-46f7-90c9-173e5c16690f",
+    "next_uuid": "dde972dd-e513-4f8e-bbaf-fdc9cc67ab87"
+  }
+}

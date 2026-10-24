@@ -1,0 +1,28 @@
+{
+  "uuid": "364db724-a02d-4a6f-9511-1732f7ab3b1b",
+  "platform_post_id": "1257924646062260224",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-10-11T20:30:05+08:00",
+  "source_url": "https://t.bilibili.com/1257924646062260224",
+  "plain_text": "饼饼的干 我们8:50来好不好呀 马上到家了 我去拿个快递",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eda26feb-56b6-4435-a070-b90a5a6ca3e8",
+    "next_uuid": "faf8e0b7-b905-4042-ada1-ffd1fff8a317"
+  }
+}

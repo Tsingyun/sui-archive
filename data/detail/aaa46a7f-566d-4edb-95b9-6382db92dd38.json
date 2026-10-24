@@ -1,0 +1,28 @@
+{
+  "uuid": "aaa46a7f-566d-4edb-95b9-6382db92dd38",
+  "platform_post_id": "1209006420256620565",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-02T00:42:23+08:00",
+  "source_url": "https://t.bilibili.com/1209006420256620565",
+  "plain_text": "晚安大家！嗓子…嗓子死掉了 希望明天能好\nnightnight照顾好自己别像小岁姐姐一样生病了！\n洗澡去了",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9d736031-2576-4a7b-af42-ea872a5d1945",
+    "next_uuid": "8056f992-f452-4c48-95ca-a6ecffbf6862"
+  }
+}

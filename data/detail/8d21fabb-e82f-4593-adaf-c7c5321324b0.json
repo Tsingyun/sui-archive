@@ -1,0 +1,28 @@
+{
+  "uuid": "8d21fabb-e82f-4593-adaf-c7c5321324b0",
+  "platform_post_id": "782783452358377541",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-10T10:39:35+08:00",
+  "source_url": "https://t.bilibili.com/782783452358377541",
+  "plain_text": "拜拜，🍪，14号见了哦",
+  "images": [],
+  "stats": {
+    "likes": 422,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "987b14e8-c371-48e9-9a7a-df0609c45f50",
+    "next_uuid": "6d48164e-cb68-4475-af32-71c5120e998c"
+  }
+}

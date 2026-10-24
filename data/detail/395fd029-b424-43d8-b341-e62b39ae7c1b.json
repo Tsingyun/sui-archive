@@ -1,0 +1,38 @@
+{
+  "uuid": "395fd029-b424-43d8-b341-e62b39ae7c1b",
+  "platform_post_id": "1024876958887968792",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-01-21T20:06:02+08:00",
+  "source_url": "https://t.bilibili.com/1024876958887968792",
+  "plain_text": "恭喜@米歇尔-_san@咕咕-咕咕咕咕咕-咕@-宥州鹁鸽-等6位同学中奖，已私信通知，详情请点击抽奖查看。",
+  "images": [
+    {
+      "filename": "1024876958887968792_100@repost.png",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 1983227,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 142,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "[抽奖]\n这次要做为客人去尖叫浴场啦，让我看看服务咋样吧[UPOWER_1954091502_小肥鸟][UPOWER_1954091502_小肥鸟]\n1月24日晚20:00见嗷！\n",
+    "source_url": "https://t.bilibili.com/1024506741315862552"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7d7fc3a-51b4-4003-8671-b9a14cbd861f",
+    "next_uuid": "ef8cb3ad-04e0-4c82-8f1d-a28617cab458"
+  }
+}

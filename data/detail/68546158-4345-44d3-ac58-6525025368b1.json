@@ -1,0 +1,28 @@
+{
+  "uuid": "68546158-4345-44d3-ac58-6525025368b1",
+  "platform_post_id": "827435100387934214",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-08T18:30:47+08:00",
+  "source_url": "https://t.bilibili.com/827435100387934214",
+  "plain_text": "热死在路边了，刚醒来。\n6:40见 聊聊唱一唱然后接着看mygo和半泽直树",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "24127371-965e-4475-851d-2f7b4beb43e8",
+    "next_uuid": "ac43830a-10bb-4324-8b65-8457631a6cc3"
+  }
+}

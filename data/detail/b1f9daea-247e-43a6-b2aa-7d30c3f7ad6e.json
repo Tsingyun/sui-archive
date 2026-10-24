@@ -1,0 +1,28 @@
+{
+  "uuid": "b1f9daea-247e-43a6-b2aa-7d30c3f7ad6e",
+  "platform_post_id": "820661859898097685",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-21T12:27:09+08:00",
+  "source_url": "https://t.bilibili.com/820661859898097685",
+  "plain_text": "周五了耶诶诶诶诶诶诶诶诶诶\n午！",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00ba20e6-2d9b-4416-a1dc-2fdbb86dbcda",
+    "next_uuid": "c1113f1a-fab4-4735-94d2-919124374821"
+  }
+}

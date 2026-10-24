@@ -1,0 +1,28 @@
+{
+  "uuid": "28218912-2fd3-4684-95e2-b5c8e2910892",
+  "platform_post_id": "1100938553358024760",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-14T19:23:52+08:00",
+  "source_url": "https://t.bilibili.com/1100938553358024760",
+  "plain_text": "7:40来直播 但我好困😪有没有精神一点的话题",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd4535cc-6991-4a5a-b38b-ab1bd64a2ba0",
+    "next_uuid": "e6aeb123-761b-4037-81c2-c24d7dc5fb15"
+  }
+}

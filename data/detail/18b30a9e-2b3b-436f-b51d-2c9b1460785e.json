@@ -1,0 +1,38 @@
+{
+  "uuid": "18b30a9e-2b3b-436f-b51d-2c9b1460785e",
+  "platform_post_id": "818507671548198928",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-07-15T17:07:48+08:00",
+  "source_url": "https://t.bilibili.com/818507671548198928",
+  "plain_text": "学院水手服岁！“饼学长饼学长～”",
+  "images": [
+    {
+      "filename": "818507671548198928_100@repost.jpg",
+      "width": 4960,
+      "height": 7160,
+      "file_size": 16159073,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 287,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7a11f54-cb92-4d20-9c4a-30968f7d615c",
+    "next_uuid": "a29d827f-40ce-4a9f-8fcc-86e576d866ee"
+  }
+}

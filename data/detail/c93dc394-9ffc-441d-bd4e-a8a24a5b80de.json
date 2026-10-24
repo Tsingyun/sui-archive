@@ -1,0 +1,28 @@
+{
+  "uuid": "c93dc394-9ffc-441d-bd4e-a8a24a5b80de",
+  "platform_post_id": "981063799950802953",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-25T18:28:36+08:00",
+  "source_url": "https://t.bilibili.com/981063799950802953",
+  "plain_text": "7:40捏 好久没正经直播了紧张了有点！",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7e53193-8e95-4e01-b959-dc820b15514a",
+    "next_uuid": "00d736ff-d6aa-4370-a79a-6efd106f85db"
+  }
+}

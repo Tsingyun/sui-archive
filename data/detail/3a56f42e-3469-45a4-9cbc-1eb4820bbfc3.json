@@ -1,0 +1,28 @@
+{
+  "uuid": "3a56f42e-3469-45a4-9cbc-1eb4820bbfc3",
+  "platform_post_id": "1194750530423881752",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-24T14:42:15+08:00",
+  "source_url": "https://t.bilibili.com/1194750530423881752",
+  "plain_text": "下午好下午好 摸鱼了吗 2:50小小品尝一下异环",
+  "images": [],
+  "stats": {
+    "likes": 171,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9d2badc9-b168-487f-9159-18c1160a4190",
+    "next_uuid": "8c8b1367-18a6-4821-a204-d37e53b3cdd0"
+  }
+}

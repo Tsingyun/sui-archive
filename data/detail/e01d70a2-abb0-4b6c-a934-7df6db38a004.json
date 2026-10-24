@@ -1,0 +1,28 @@
+{
+  "uuid": "e01d70a2-abb0-4b6c-a934-7df6db38a004",
+  "platform_post_id": "815920043954012176",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-08T17:46:29+08:00",
+  "source_url": "https://t.bilibili.com/815920043954012176",
+  "plain_text": "要不我们今天10点之类的再见吧？\n现在要和家人一起吃饭，然后再工作会，然后再看别人的直播。10点11点之类的见！具体再等我通知。\n好 解散！都去玩吧！！",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73a343c3-1e02-4381-a770-a6864460d817",
+    "next_uuid": "d8da395f-7f06-4996-8d5b-7accb54ed03d"
+  }
+}

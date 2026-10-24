@@ -1,0 +1,38 @@
+{
+  "uuid": "09fadcf9-ac97-4787-9798-34420dd50486",
+  "platform_post_id": "837388291963617319",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-04T14:14:15+08:00",
+  "source_url": "https://t.bilibili.com/837388291963617319",
+  "plain_text": "有时候真的觉得bgs对有的东西爱得有点不正常了！",
+  "images": [
+    {
+      "filename": "837388291963617319_100@repost.png",
+      "width": 2034,
+      "height": 2520,
+      "file_size": 6063393,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 288,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "奶茶泡澡の卡宾枪-",
+    "author_url": "https://space.bilibili.com/3145632",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c6a4214-6910-4395-bf84-c61a6881200c",
+    "next_uuid": "1507ecf0-8276-48bb-9a26-fe087bc0de16"
+  }
+}

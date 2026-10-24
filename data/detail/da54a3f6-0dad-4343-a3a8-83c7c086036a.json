@@ -1,0 +1,28 @@
+{
+  "uuid": "da54a3f6-0dad-4343-a3a8-83c7c086036a",
+  "platform_post_id": "1259444811072536593",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-15T22:49:06+08:00",
+  "source_url": "https://t.bilibili.com/1259444811072536593",
+  "plain_text": "11点来啵啵一下",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9abddd0d-0ad1-4417-8b9e-6ed9c28ba08d",
+    "next_uuid": "b71b635d-feb8-4bf3-8a0c-c27e2d762c9e"
+  }
+}

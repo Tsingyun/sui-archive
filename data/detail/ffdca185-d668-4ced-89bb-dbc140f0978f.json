@@ -1,0 +1,28 @@
+{
+  "uuid": "ffdca185-d668-4ced-89bb-dbc140f0978f",
+  "platform_post_id": "1023386484996046865",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-17T19:42:14+08:00",
+  "source_url": "https://t.bilibili.com/1023386484996046865",
+  "plain_text": "我说一个数 十分钟后我们集合 怎么样",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3bbba837-46b1-49b7-9c62-06b6fc0b50e2",
+    "next_uuid": "d823a2cf-44d1-4a3e-9ef3-02bb6531a3d8"
+  }
+}

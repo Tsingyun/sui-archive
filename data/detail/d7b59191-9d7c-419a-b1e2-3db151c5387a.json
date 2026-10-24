@@ -1,0 +1,28 @@
+{
+  "uuid": "d7b59191-9d7c-419a-b1e2-3db151c5387a",
+  "platform_post_id": "1243113803502059538",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-09-01T22:36:27+08:00",
+  "source_url": "https://t.bilibili.com/1243113803502059538",
+  "plain_text": "我去饼干岁送的美美大屏应援！大家有空都可以去看看小岁捏",
+  "images": [],
+  "stats": {
+    "likes": 167,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ff6799de-182b-4e55-a4a6-aeff6cfa3b5a",
+    "next_uuid": "bb71b026-d4bc-465d-93f2-5c3e16abcc94"
+  }
+}

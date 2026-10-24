@@ -1,0 +1,28 @@
+{
+  "uuid": "3875e0a2-c8c9-4362-86ec-0a89429c3b80",
+  "platform_post_id": "1163369485044809730",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-30T01:07:46+08:00",
+  "source_url": "https://t.bilibili.com/1163369485044809730",
+  "plain_text": "​感觉梦里都是赤鬼的大脚啊 晚安晚安 怒了！怒了！等我调整好状态",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3c9c8b9e-bc75-4bdb-864b-e95e8d31b44e",
+    "next_uuid": "f51ef1b0-6bc3-4c7c-a0b6-8c99f3d929fa"
+  }
+}

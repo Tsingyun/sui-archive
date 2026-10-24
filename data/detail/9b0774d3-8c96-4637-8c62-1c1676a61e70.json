@@ -1,0 +1,28 @@
+{
+  "uuid": "9b0774d3-8c96-4637-8c62-1c1676a61e70",
+  "platform_post_id": "789961064236187685",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-29T18:52:23+08:00",
+  "source_url": "https://t.bilibili.com/789961064236187685",
+  "plain_text": "啊 睡着了 还需要播吗",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3f854d43-29fd-4b23-9759-bf604d6879b7",
+    "next_uuid": "3f09f319-3d0e-49c1-bb41-ff9e1171e981"
+  }
+}

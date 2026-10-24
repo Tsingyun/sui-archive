@@ -1,0 +1,28 @@
+{
+  "uuid": "363e9dbf-9f3f-40d1-abad-b0e791083909",
+  "platform_post_id": "811174002000134169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-25T22:49:25+08:00",
+  "source_url": "https://t.bilibili.com/811174002000134169",
+  "plain_text": "昂 那就牺牲岁己玩乐的时间小播一会",
+  "images": [],
+  "stats": {
+    "likes": 408,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "45d1e806-52fd-4c89-8b81-c8acc67e335d",
+    "next_uuid": "713effd3-f921-40e8-9a07-86b9cc57f25a"
+  }
+}

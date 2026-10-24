@@ -1,0 +1,28 @@
+{
+  "uuid": "3ca67836-1d48-4fd9-9322-ee7ec94d7ed2",
+  "platform_post_id": "1213443838738169874",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-13T23:41:50+08:00",
+  "source_url": "https://t.bilibili.com/1213443838738169874",
+  "plain_text": "笨笨的也可以幸福地生活着…晚安晚安大家！",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "20e0f14e-be73-453b-a19b-1d070db30e0e",
+    "next_uuid": "c30439b0-d6e4-4183-b319-700235cc264f"
+  }
+}

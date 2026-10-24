@@ -1,0 +1,28 @@
+{
+  "uuid": "70ef4e95-a96d-47a5-984d-4916091ecced",
+  "platform_post_id": "1083220752413491202",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-28T01:29:45+08:00",
+  "source_url": "https://t.bilibili.com/1083220752413491202",
+  "plain_text": "你说我今天对你好不好 你是不是很想夸夸我 那我给你一个机会吧！[岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "47628620-dd75-47f7-96ee-017820cada95",
+    "next_uuid": "79c0a297-d99b-4806-bc72-de3d05b280e8"
+  }
+}

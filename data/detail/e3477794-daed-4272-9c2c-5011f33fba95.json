@@ -1,0 +1,38 @@
+{
+  "uuid": "e3477794-daed-4272-9c2c-5011f33fba95",
+  "platform_post_id": "887221728291323941",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-01-16T21:13:26+08:00",
+  "source_url": "https://t.bilibili.com/887221728291323941",
+  "plain_text": "500天快乐！\n",
+  "images": [
+    {
+      "filename": "887221728291323941_00@original.jpg",
+      "width": 2160,
+      "height": 1518,
+      "file_size": 1436208,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 721,
+    "comments": 114,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9e087d19-ae27-4cd3-9be8-4a5318189ed4",
+    "next_uuid": "3180c71d-83ba-4dbe-a6b7-c7cbb7f669f2"
+  }
+}

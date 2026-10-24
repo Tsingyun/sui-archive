@@ -1,0 +1,38 @@
+{
+  "uuid": "582c83ba-ff15-4141-804a-a0f022eff214",
+  "platform_post_id": "835170298076594201",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-29T14:47:18+08:00",
+  "source_url": "https://t.bilibili.com/835170298076594201",
+  "plain_text": "忧郁惆怅的小鸟",
+  "images": [
+    {
+      "filename": "835170298076594201_100@repost.png",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 4052402,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 318,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "faccdebd-6f43-4539-9c06-e3b8b920aebb",
+    "next_uuid": "50f90ca7-9d01-4e04-ada5-b88c66982071"
+  }
+}

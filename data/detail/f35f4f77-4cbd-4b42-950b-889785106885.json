@@ -1,0 +1,28 @@
+{
+  "uuid": "f35f4f77-4cbd-4b42-950b-889785106885",
+  "platform_post_id": "762612198581207094",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-15T02:04:49+08:00",
+  "source_url": "https://t.bilibili.com/762612198581207094",
+  "plain_text": "拜。",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88ff1e77-d81b-4558-a26c-bd20905974fb",
+    "next_uuid": "d4899b81-5a33-43f1-a5ee-afcc2e27da7c"
+  }
+}

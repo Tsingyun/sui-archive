@@ -1,0 +1,28 @@
+{
+  "uuid": "ab0fe490-1478-4ec8-939b-388446292c18",
+  "platform_post_id": "866113183556829217",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-21T00:01:30+08:00",
+  "source_url": "https://t.bilibili.com/866113183556829217",
+  "plain_text": "全体都有 晚安",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b5513ee-6ce0-4832-bf8c-d0010d876c8e",
+    "next_uuid": "14f6adfa-f6a0-4baf-8386-878cae4734e7"
+  }
+}

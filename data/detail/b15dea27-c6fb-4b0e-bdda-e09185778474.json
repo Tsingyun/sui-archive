@@ -1,0 +1,28 @@
+{
+  "uuid": "b15dea27-c6fb-4b0e-bdda-e09185778474",
+  "platform_post_id": "953316576081215511",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-12T23:55:12+08:00",
+  "source_url": "https://t.bilibili.com/953316576081215511",
+  "plain_text": "还在吃饭 今天应该没播了 明天还要早起\n晚安安啵唧啵唧",
+  "images": [],
+  "stats": {
+    "likes": 349,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2c66ff0b-1eb9-4116-8920-3c62f76c0468",
+    "next_uuid": "e67347e3-aff2-432c-9afa-251655a1ea6f"
+  }
+}

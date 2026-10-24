@@ -1,0 +1,28 @@
+{
+  "uuid": "05158661-3122-4f4c-94be-5e6a04f5d6c5",
+  "platform_post_id": "1243382462342496288",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-02T15:58:59+08:00",
+  "source_url": "https://t.bilibili.com/1243382462342496288",
+  "plain_text": "问了动补棚老师显卡是啥，说用的都是5090，不死心地问了就一个还是都，说基本都，我军败矣！",
+  "images": [],
+  "stats": {
+    "likes": 429,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb71b026-d4bc-465d-93f2-5c3e16abcc94",
+    "next_uuid": "44ab60ff-4809-482c-ba1a-628f585d93f0"
+  }
+}

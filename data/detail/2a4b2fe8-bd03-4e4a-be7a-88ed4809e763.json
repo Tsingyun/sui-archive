@@ -1,0 +1,28 @@
+{
+  "uuid": "2a4b2fe8-bd03-4e4a-be7a-88ed4809e763",
+  "platform_post_id": "1221547174988349449",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-05T19:46:55+08:00",
+  "source_url": "https://t.bilibili.com/1221547174988349449",
+  "plain_text": "来播播了 10分钟！",
+  "images": [],
+  "stats": {
+    "likes": 199,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5f2c0eb3-52ed-4f68-877e-0f74c985d7e1",
+    "next_uuid": "b2646541-98f9-4f41-b495-2487a679b55c"
+  }
+}

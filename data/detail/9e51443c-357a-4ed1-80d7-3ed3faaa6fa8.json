@@ -1,0 +1,38 @@
+{
+  "uuid": "9e51443c-357a-4ed1-80d7-3ed3faaa6fa8",
+  "platform_post_id": "1080902131525877800",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-06-21T19:32:19+08:00",
+  "source_url": "https://t.bilibili.com/1080902131525877800",
+  "plain_text": "十分钟后见\n以及 本月舰礼是↓吧唧+立牌+本周末限定转盘转到的东西！\n",
+  "images": [
+    {
+      "filename": "1080902131525877800_00@original.png",
+      "width": 4000,
+      "height": 4000,
+      "file_size": 3393256,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 253,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "341f78f8-af5f-4062-88ca-0fd61539edcf",
+    "next_uuid": "1ce10979-23e4-49a5-921d-d00e35ee7410"
+  }
+}

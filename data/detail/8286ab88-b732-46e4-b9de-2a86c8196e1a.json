@@ -1,0 +1,28 @@
+{
+  "uuid": "8286ab88-b732-46e4-b9de-2a86c8196e1a",
+  "platform_post_id": "944032128087097353",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-17T23:26:48+08:00",
+  "source_url": "https://t.bilibili.com/944032128087097353",
+  "plain_text": "试着一起走到更远的地方去看看吧，晚安",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "739f04b8-d3c5-446c-b3f2-2730603f9e63",
+    "next_uuid": "65d9b85b-8bae-4af8-9263-7fe50300c6aa"
+  }
+}

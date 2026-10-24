@@ -1,0 +1,28 @@
+{
+  "uuid": "a35872ab-1daa-4565-8596-1ef7b522373f",
+  "platform_post_id": "995978924265570326",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-04T23:06:54+08:00",
+  "source_url": "https://t.bilibili.com/995978924265570326",
+  "plain_text": "来我来说几句啊，晚安",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e2016d8-ce07-4942-bfe8-6758b08b84ef",
+    "next_uuid": "9d128d6d-a8da-4045-a7a6-de392edfe753"
+  }
+}

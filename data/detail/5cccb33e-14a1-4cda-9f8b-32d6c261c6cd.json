@@ -1,0 +1,28 @@
+{
+  "uuid": "5cccb33e-14a1-4cda-9f8b-32d6c261c6cd",
+  "platform_post_id": "889848779177459719",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-23T23:07:44+08:00",
+  "source_url": "https://t.bilibili.com/889848779177459719",
+  "plain_text": "发了这条动态跟bgs说晚安，bgs就可以回复晚安，也就是说我不发这条动态的话，bgs所以就没有办法跟岁己说晚安！\n那就帮bgs个忙，发个晚安动态吧～",
+  "images": [],
+  "stats": {
+    "likes": 539,
+    "comments": 121,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c9b3ae86-849e-4756-890a-90275eed6b14",
+    "next_uuid": "9d9ed139-bb8e-4f66-98d5-c190627ea93d"
+  }
+}

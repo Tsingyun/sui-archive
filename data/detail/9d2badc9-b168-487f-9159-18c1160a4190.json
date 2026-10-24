@@ -1,0 +1,28 @@
+{
+  "uuid": "9d2badc9-b168-487f-9159-18c1160a4190",
+  "platform_post_id": "1194527681796898841",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-24T00:17:29+08:00",
+  "source_url": "https://t.bilibili.com/1194527681796898841",
+  "plain_text": "看到了不错的电影呢 晚安哟[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e0b225c3-f146-45a0-a2e0-a0141cd78e04",
+    "next_uuid": "3a56f42e-3469-45a4-9cbc-1eb4820bbfc3"
+  }
+}

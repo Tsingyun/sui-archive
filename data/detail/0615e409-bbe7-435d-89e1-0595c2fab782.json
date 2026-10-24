@@ -1,0 +1,28 @@
+{
+  "uuid": "0615e409-bbe7-435d-89e1-0595c2fab782",
+  "platform_post_id": "773572366710079504",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-16T14:55:52+08:00",
+  "source_url": "https://t.bilibili.com/773572366710079504",
+  "plain_text": "今天的托管所3:10分开门哦。宝宝们注意按时上学[UP_1954091502_啾咪啾]",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e78e889-2996-437b-a379-3e2233ac3d2f",
+    "next_uuid": "d6a22cf0-ee95-403d-be28-585b950f4d7c"
+  }
+}

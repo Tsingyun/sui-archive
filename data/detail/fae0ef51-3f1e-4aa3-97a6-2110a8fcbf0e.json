@@ -1,0 +1,28 @@
+{
+  "uuid": "fae0ef51-3f1e-4aa3-97a6-2110a8fcbf0e",
+  "platform_post_id": "961099327606882354",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-02T23:16:15+08:00",
+  "source_url": "https://t.bilibili.com/961099327606882354",
+  "plain_text": "说点什么来提高岁己的好感度______________",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 103,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf896efe-4efd-4f4b-b700-510d87888521",
+    "next_uuid": "d1fe43cc-da52-4250-a880-95885654f1f0"
+  }
+}

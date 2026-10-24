@@ -1,0 +1,28 @@
+{
+  "uuid": "d562bf33-f142-4bd1-8f73-31957fa3ec5a",
+  "platform_post_id": "997466387426312194",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-08T23:19:01+08:00",
+  "source_url": "https://t.bilibili.com/997466387426312194",
+  "plain_text": "饼饼萝晚安昂",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ff62c0f3-da86-4fc7-b507-8dc6f833bee4",
+    "next_uuid": "34d67b4c-9ec3-4594-aff4-927fd13d4518"
+  }
+}

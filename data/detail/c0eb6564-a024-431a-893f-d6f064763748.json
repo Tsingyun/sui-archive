@@ -1,0 +1,28 @@
+{
+  "uuid": "c0eb6564-a024-431a-893f-d6f064763748",
+  "platform_post_id": "870178670749155416",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-01T22:57:40+08:00",
+  "source_url": "https://t.bilibili.com/870178670749155416",
+  "plain_text": "一个或许你会需要的晚安动态⭐️",
+  "images": [],
+  "stats": {
+    "likes": 464,
+    "comments": 101,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d0fe717-9650-42cb-b4de-760853e08b9f",
+    "next_uuid": "ba012658-d371-4b49-9fbf-6b2a6b86fef9"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "edfe87dc-cab2-4721-845c-3b810af90b0b",
+  "platform_post_id": "796264869398577184",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-16T18:34:22+08:00",
+  "source_url": "https://t.bilibili.com/796264869398577184",
+  "plain_text": "🤔🤔🤔让叔叔想想今天来不来见小美女们",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2757187c-367d-4582-867f-7d91df2a0046",
+    "next_uuid": "80e7fc49-fcc1-4c5b-8113-5af9cf38c838"
+  }
+}

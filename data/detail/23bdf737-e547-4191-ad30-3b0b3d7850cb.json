@@ -1,0 +1,28 @@
+{
+  "uuid": "23bdf737-e547-4191-ad30-3b0b3d7850cb",
+  "platform_post_id": "755392929786232880",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-01-26T15:10:22+08:00",
+  "source_url": "https://t.bilibili.com/755392929786232880",
+  "plain_text": "欢迎！我也是前辈了 ⁰̷̴͈꒨⁰̷̴͈",
+  "images": [],
+  "stats": {
+    "likes": 507,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "631c5ec0-057d-4a9b-87c6-8e51adfa38f0",
+    "next_uuid": "9246bd78-4066-448d-b830-a608b6ecc6d8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "2ddf4ce2-c895-4ebf-b9df-b8cf9bb5b744",
+  "platform_post_id": "759676339325239297",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T04:12:11+08:00",
+  "source_url": "https://t.bilibili.com/759676339325239297",
+  "plain_text": "omg失眠啦失眠啦失眠啦失眠啦！！！为什么为什么为什么！主播全身上下最引以为傲的睡眠！！",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "99618f12-81c2-462a-b182-75373175db27",
+    "next_uuid": "8fb3d95e-f8b6-4bb0-b1b1-029dadc4d17b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8da3a7b2-e12d-47a7-9b00-87a98787042b",
+  "platform_post_id": "785463258519699496",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-17T15:58:36+08:00",
+  "source_url": "https://t.bilibili.com/785463258519699496",
+  "plain_text": "天气好热吧？请你吃冰淇淋🍦🧁，什么？不够啊？那再喝点🥤🧋🍹\n我点的这个冰沙挺好吃的你尝尝🍧，勺子在这🥄，给。好了好了，这次我请你的嗷，下次你请我",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 45,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1aa892d9-c971-44b3-8301-a52e192dcec9",
+    "next_uuid": "9858a693-8f5b-4d6b-9607-4f2e265de38a"
+  }
+}

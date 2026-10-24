@@ -1,0 +1,38 @@
+{
+  "uuid": "d84ad2a8-35af-40bb-9af7-d79a8c280978",
+  "platform_post_id": "861927055011348505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-11-09T17:17:11+08:00",
+  "source_url": "https://t.bilibili.com/861927055011348505",
+  "plain_text": "👀桌面/房间鉴赏回！看看你的\n图片请发在话题：吃了岁岁了吃，内向害羞纯情饼可以发在我邮箱suiji11@qq.com\n11.12日举办！\n截止时间：11.12日晚5点！\n",
+  "images": [
+    {
+      "filename": "861927055011348505_00@original.jpg",
+      "width": 585,
+      "height": 499,
+      "file_size": 178810,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 265,
+    "comments": 26,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8840c357-1b7d-47d0-8876-3d5901453fff",
+    "next_uuid": "8acf12b5-7b58-4b67-a241-ead873268276"
+  }
+}

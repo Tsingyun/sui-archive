@@ -1,0 +1,28 @@
+{
+  "uuid": "81da6f8c-5f41-44cf-8efa-e916cc937d49",
+  "platform_post_id": "822347432452947992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-26T01:28:02+08:00",
+  "source_url": "https://t.bilibili.com/822347432452947992",
+  "plain_text": "温情晚安",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0bc587eb-e412-4ece-8992-374448bfbe1e",
+    "next_uuid": "1e06a6a0-ca09-4575-995d-d22a46dc32b5"
+  }
+}

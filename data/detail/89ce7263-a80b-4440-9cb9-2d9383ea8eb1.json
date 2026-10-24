@@ -1,0 +1,28 @@
+{
+  "uuid": "89ce7263-a80b-4440-9cb9-2d9383ea8eb1",
+  "platform_post_id": "831940315168374808",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-20T21:53:19+08:00",
+  "source_url": "https://t.bilibili.com/831940315168374808",
+  "plain_text": "晚安晚安，工作去了[奋斗]",
+  "images": [],
+  "stats": {
+    "likes": 352,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "95965cb5-62ce-4564-81d9-1b1949e3437d",
+    "next_uuid": "9a8f6b93-a21b-4b2b-b969-bfce537b8da8"
+  }
+}

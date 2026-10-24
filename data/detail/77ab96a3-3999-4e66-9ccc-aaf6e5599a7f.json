@@ -1,0 +1,28 @@
+{
+  "uuid": "77ab96a3-3999-4e66-9ccc-aaf6e5599a7f",
+  "platform_post_id": "910948175368421447",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-20T19:44:10+08:00",
+  "source_url": "https://t.bilibili.com/910948175368421447",
+  "plain_text": "今天没播(* ￣3)(ε￣ *)",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d518114-911b-4214-b230-d24e728b94f8",
+    "next_uuid": "59eed793-2161-417d-b83a-0229acb290ea"
+  }
+}

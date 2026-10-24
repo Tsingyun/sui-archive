@@ -1,0 +1,110 @@
+{
+  "uuid": "68dde852-e95d-4c91-8c1f-498682f6f8eb",
+  "platform_post_id": "956580493488291849",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-21T19:00:52+08:00",
+  "source_url": "https://t.bilibili.com/956580493488291849",
+  "plain_text": "8点来看我演得磕磕绊绊的新衣服 会来的对吧（眼泪汪汪）",
+  "images": [
+    {
+      "filename": "956580493488291849_100@repost.jpg",
+      "width": 687,
+      "height": 687,
+      "file_size": 964028,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_101@repost.jpg",
+      "width": 687,
+      "height": 687,
+      "file_size": 558406,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_102@repost.jpg",
+      "width": 687,
+      "height": 687,
+      "file_size": 1031720,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_103@repost.jpg",
+      "width": 687,
+      "height": 688,
+      "file_size": 929838,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_104@repost.jpg",
+      "width": 687,
+      "height": 688,
+      "file_size": 385220,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_105@repost.jpg",
+      "width": 687,
+      "height": 688,
+      "file_size": 851316,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_106@repost.jpg",
+      "width": 687,
+      "height": 686,
+      "file_size": 1071918,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_107@repost.jpg",
+      "width": 687,
+      "height": 686,
+      "file_size": 239091,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "956580493488291849_108@repost.png",
+      "width": 800,
+      "height": 5858,
+      "file_size": 3415435,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 352,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "💫【岁己夏日新衣发布回】💫\n🌸2024.07.21 20:00\n\n沿岸砂砾刻下的文字，瞬间绽放出光芒的烟火\n比这些更深刻更耀眼的，是我们的故事\n来创造只属于我们的回忆吧\n\n本次大航海礼物（7.21-8.09）\n>舰长：吧唧+立牌+镭射票+动态壁纸\n>提督：等身抱枕+To签色纸+鼠标垫+以上\n>总督：手作戒指 +手写💌+指定投稿or抱枕背面or手织围巾\n",
+    "source_url": "https://t.bilibili.com/954957502899814403"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "af6b847a-c7ab-4d07-b207-938e5b26105b",
+    "next_uuid": "965ee8d0-c2ab-4583-97ba-1af9f9a0c97f"
+  }
+}

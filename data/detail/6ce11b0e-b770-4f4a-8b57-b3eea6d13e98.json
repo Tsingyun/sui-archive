@@ -1,0 +1,28 @@
+{
+  "uuid": "6ce11b0e-b770-4f4a-8b57-b3eea6d13e98",
+  "platform_post_id": "739968783081275427",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-16T01:36:48+08:00",
+  "source_url": "https://t.bilibili.com/739968783081275427",
+  "plain_text": "这个用户很懒，什么也不想对你说",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 40,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eba3d442-a095-448e-9a67-fdab72f206e5",
+    "next_uuid": "12c4e535-e0ed-400f-bcc2-5184741e22e8"
+  }
+}

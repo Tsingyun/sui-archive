@@ -1,0 +1,28 @@
+{
+  "uuid": "d7ecf351-6e5b-4263-a9a9-a776c328710a",
+  "platform_post_id": "778707837631070213",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-30T11:04:07+08:00",
+  "source_url": "https://t.bilibili.com/778707837631070213",
+  "plain_text": "wake了wake了 多眯了半小时就像大家让多播半小时一样 没什么的 对吧？哼哼 早！",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "21387dbe-1b07-46a0-aae6-d655d34e6d12",
+    "next_uuid": "b1595a36-8f75-4892-974b-314e506529af"
+  }
+}

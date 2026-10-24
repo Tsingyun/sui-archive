@@ -1,0 +1,28 @@
+{
+  "uuid": "f948691d-6b22-4212-8ff7-094430b46de6",
+  "platform_post_id": "1262074400480428037",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-23T00:53:15+08:00",
+  "source_url": "https://t.bilibili.com/1262074400480428037",
+  "plain_text": "晚安哟，好菜呀[UPOWER_1954091502_小肥鸟]小菜鸟洗澡睡觉觉去了，专心经营自己的呆萌生活",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "806c09c3-ed14-4185-8201-9ba64f44d36c",
+    "next_uuid": "436d59af-dea5-4d1a-8403-e690f92b15da"
+  }
+}

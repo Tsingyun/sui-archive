@@ -1,0 +1,28 @@
+{
+  "uuid": "456f05bb-c7b2-4886-8f9a-3a6b05890835",
+  "platform_post_id": "767320530686574664",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-27T18:35:33+08:00",
+  "source_url": "https://t.bilibili.com/767320530686574664",
+  "plain_text": "不播！播吧播吧。今天不播哦。小播一下吧还是。不播不播的说！播吧播吧的说！你说播不播！",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d71d580-db84-4e16-9fbf-f8dc114521eb",
+    "next_uuid": "0633119e-c954-42dc-9ed2-a3417b9f7ef6"
+  }
+}

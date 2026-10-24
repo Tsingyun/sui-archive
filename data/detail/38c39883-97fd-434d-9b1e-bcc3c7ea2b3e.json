@@ -1,0 +1,28 @@
+{
+  "uuid": "38c39883-97fd-434d-9b1e-bcc3c7ea2b3e",
+  "platform_post_id": "765477805030899729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-22T19:24:50+08:00",
+  "source_url": "https://t.bilibili.com/765477805030899729",
+  "plain_text": ".ᐟ.ᐟ ᯅ̈ \n外卖有点慢，八点半来！播什么！你说！",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "083de5dd-1378-4ac2-a00b-e3ced96c9fc8",
+    "next_uuid": "b043da42-88c0-4b3f-8927-7139003997ae"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c5b5b125-e40e-4caf-a8ba-fd4519f59a09",
+  "platform_post_id": "1073547670062104597",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-01T23:53:15+08:00",
+  "source_url": "https://t.bilibili.com/1073547670062104597",
+  "plain_text": "晚安安大家[岁己收藏集表情包_啵啵][岁己收藏集表情包_啵啵]早点睡",
+  "images": [],
+  "stats": {
+    "likes": 269,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e5862fa-0bc7-4c99-a722-363ece55c4c5",
+    "next_uuid": "60a506bd-7315-47aa-a35d-c062290a3578"
+  }
+}

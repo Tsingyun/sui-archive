@@ -1,0 +1,28 @@
+{
+  "uuid": "f58e3115-96d8-4c4e-bdff-81a13302853e",
+  "platform_post_id": "847851725640433664",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-02T18:57:43+08:00",
+  "source_url": "https://t.bilibili.com/847851725640433664",
+  "plain_text": "7:20来唱唱聊聊 然后把舅舅补完！",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18ce25a1-f323-4461-a14c-1c68b3b229ef",
+    "next_uuid": "3526437b-817c-4f1c-8d7c-5ddc94c5e129"
+  }
+}

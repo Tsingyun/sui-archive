@@ -1,0 +1,28 @@
+{
+  "uuid": "26f689b3-dcfb-4a6d-b371-918d78d3fbd7",
+  "platform_post_id": "749125649048797206",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-09T17:50:07+08:00",
+  "source_url": "https://t.bilibili.com/749125649048797206",
+  "plain_text": "诚邀您今晚八点和我一起玩艾蒂芬奇的记忆。不来也没关系，明天我再邀请你干点别的～",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 31,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "37183f14-e92a-400d-ac24-eb756487c8ce",
+    "next_uuid": "80ee7ec0-83bd-4456-97a0-6af046799a0c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d84a2650-8648-425b-8dc7-e2719fd041f4",
+  "platform_post_id": "1206776318616666114",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-27T00:28:27+08:00",
+  "source_url": "https://t.bilibili.com/1206776318616666114",
+  "plain_text": "晚安晚安 不要说sayonara",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a2bf91c-b51f-4890-b775-830a616c10d7",
+    "next_uuid": "b9382581-45fb-42c9-9443-feb3e1162a90"
+  }
+}

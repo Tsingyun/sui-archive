@@ -1,0 +1,28 @@
+{
+  "uuid": "df768b56-5498-4a80-a83f-defa94871cbe",
+  "platform_post_id": "742107397606080532",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-21T19:55:43+08:00",
+  "source_url": "https://t.bilibili.com/742107397606080532",
+  "plain_text": "忙工作 不确定几点来 你先自己玩会",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 43,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f6eec3c0-72e1-4b0d-af9a-7c2135f37f92",
+    "next_uuid": "29ad57b0-f2a0-4e98-9763-b5aa29fa3474"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "dd6ae42d-d4ce-46a2-b9a1-7a7cd96d1bf5",
+  "platform_post_id": "951475018634625026",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-08T00:49:01+08:00",
+  "source_url": "https://t.bilibili.com/951475018634625026",
+  "plain_text": "好羞耻我去！ 晚安",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8ae6d7e3-9b2c-4524-a27e-efd4e8e04192",
+    "next_uuid": "a267f86b-9b3b-4c60-b8a2-a4f1532eb594"
+  }
+}

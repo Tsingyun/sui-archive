@@ -1,0 +1,38 @@
+{
+  "uuid": "c0469a7c-320f-4d59-9b15-25f95871cd6b",
+  "platform_post_id": "923534783183585289",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-04-23T17:46:38+08:00",
+  "source_url": "https://t.bilibili.com/923534783183585289",
+  "plain_text": "想要光着脚丫~树上唱歌~",
+  "images": [
+    {
+      "filename": "923534783183585289_100@repost.png",
+      "width": 2790,
+      "height": 4731,
+      "file_size": 11440916,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 294,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6cfc61ab-45df-4af4-83c0-ac2c33a937c6",
+    "next_uuid": "ad5e8412-bf28-4213-9538-524360780955"
+  }
+}

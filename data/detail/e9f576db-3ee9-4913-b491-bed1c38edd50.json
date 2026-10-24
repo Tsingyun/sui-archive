@@ -1,0 +1,28 @@
+{
+  "uuid": "e9f576db-3ee9-4913-b491-bed1c38edd50",
+  "platform_post_id": "950393850826850311",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-05T02:53:32+08:00",
+  "source_url": "https://t.bilibili.com/950393850826850311",
+  "plain_text": "晚安晚安，金枪鱼好！看岁己玩游戏的饼干岁也好",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "beab1694-a7e9-42f2-b275-707c5ba74db3",
+    "next_uuid": "e00c1aa2-82a4-4977-a0f9-d3591b0acfde"
+  }
+}

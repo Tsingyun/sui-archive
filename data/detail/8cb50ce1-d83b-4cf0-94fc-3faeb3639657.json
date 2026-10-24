@@ -1,0 +1,28 @@
+{
+  "uuid": "8cb50ce1-d83b-4cf0-94fc-3faeb3639657",
+  "platform_post_id": "1241923101171646470",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-08-29T17:35:55+08:00",
+  "source_url": "https://t.bilibili.com/1241923101171646470",
+  "plain_text": "饼干岁要好好看着我哦",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 20,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32c92803-3e33-4acc-ae99-c260098651bc",
+    "next_uuid": "1134b91f-a723-4976-9b9d-e3d4ac7a69ea"
+  }
+}

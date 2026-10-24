@@ -1,0 +1,47 @@
+{
+  "uuid": "72c2a6d4-a1ee-4f78-9f99-8376a95b37f3",
+  "platform_post_id": "770608268022120452",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-08T15:13:39+08:00",
+  "source_url": "https://t.bilibili.com/770608268022120452",
+  "plain_text": "温柔一下\n：今天工作很辛苦吗宝？\n：加油哦\n\n",
+  "images": [
+    {
+      "filename": "770608268022120452_00@original.png",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1143603,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "770608268022120452_01@original.png",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1077452,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 438,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4a5bd7f0-1563-403f-b803-55bd43ae81f2",
+    "next_uuid": "7dff2199-0e93-47c4-af81-7f2b4adea184"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "85c3d1b0-6fd0-4524-8e3a-991506e89bc9",
+  "platform_post_id": "766856626999132183",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-26T12:35:22+08:00",
+  "source_url": "https://t.bilibili.com/766856626999132183",
+  "plain_text": "早。\n书上说，吃零食不好，我戒了。\n书上说，吃太辣不好，我戒了。\n书上说饼干岁不好，我把书撕了。",
+  "images": [],
+  "stats": {
+    "likes": 473,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3a3de8c8-f571-4345-a251-0f4623753f66",
+    "next_uuid": "6f3f9dd5-3b2f-4405-b96c-e383d6b23cc0"
+  }
+}

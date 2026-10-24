@@ -1,0 +1,28 @@
+{
+  "uuid": "a44d323d-06f0-4281-93d3-59fed7d767a6",
+  "platform_post_id": "1249834057267675154",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-20T01:14:28+08:00",
+  "source_url": "https://t.bilibili.com/1249834057267675154",
+  "plain_text": "最终兵器岁己SUI向平民饼干岁说晚安",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c8e9790a-c563-489a-81b8-2c77ca444460",
+    "next_uuid": "5ee00ac0-cd8e-4aff-a45a-ac7ae2f4fe75"
+  }
+}

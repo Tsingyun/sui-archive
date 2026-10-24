@@ -1,0 +1,28 @@
+{
+  "uuid": "0b1dee86-7b14-46a6-aedd-165490931952",
+  "platform_post_id": "1028946229963259904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-01T19:16:53+08:00",
+  "source_url": "https://t.bilibili.com/1028946229963259904",
+  "plain_text": "7:40见！今天来看电影催眠大师吧嘘，好像有视频嘘",
+  "images": [],
+  "stats": {
+    "likes": 226,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5049a6dd-693c-4546-8cde-816743039d67",
+    "next_uuid": "b3cf3233-b0b1-49d5-b17b-bf180fd51e8d"
+  }
+}

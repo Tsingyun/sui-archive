@@ -1,0 +1,38 @@
+{
+  "uuid": "5412d352-ebdd-4995-805b-11b174af74c1",
+  "platform_post_id": "1103118695950974979",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-08-20T16:23:56+08:00",
+  "source_url": "https://t.bilibili.com/1103118695950974979",
+  "plain_text": "怎么样我穿的是不是很可爱",
+  "images": [
+    {
+      "filename": "1103118695950974979_100@repost.png",
+      "width": 2400,
+      "height": 3849,
+      "file_size": 17904570,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 256,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d73d5ff2-e70f-433a-8406-a90b129e67a6",
+    "next_uuid": "227010ae-3cd1-415f-b0b0-e8562675883a"
+  }
+}

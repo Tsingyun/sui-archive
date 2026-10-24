@@ -1,0 +1,28 @@
+{
+  "uuid": "cb36798f-ba36-41c3-a8df-a9b75220703f",
+  "platform_post_id": "705733757611540546",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-14T19:27:25+08:00",
+  "source_url": "https://t.bilibili.com/705733757611540546",
+  "plain_text": "以防有人没关注virtua 啊不是 以防没看到预告！",
+  "images": [],
+  "stats": {
+    "likes": 502,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fe3bfdd0-e1a2-4d29-bae9-1f9601246db6",
+    "next_uuid": "06bedc83-058b-4020-a0f8-a7ca620c7b90"
+  }
+}

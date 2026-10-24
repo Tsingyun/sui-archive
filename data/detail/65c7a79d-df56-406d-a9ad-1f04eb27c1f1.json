@@ -1,0 +1,28 @@
+{
+  "uuid": "65c7a79d-df56-406d-a9ad-1f04eb27c1f1",
+  "platform_post_id": "1164847430515032069",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-03T00:42:57+08:00",
+  "source_url": "https://t.bilibili.com/1164847430515032069",
+  "plain_text": "我乃世界第一黑客，不跟我说晚安的人我将偷走你1%的电量🔋",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e8fe6943-8944-4ac2-8686-a9de205fc636",
+    "next_uuid": "f688a54b-885d-4b63-86c3-c8213b645ac8"
+  }
+}

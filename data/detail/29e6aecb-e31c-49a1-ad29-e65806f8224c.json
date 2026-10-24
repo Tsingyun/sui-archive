@@ -1,0 +1,28 @@
+{
+  "uuid": "29e6aecb-e31c-49a1-ad29-e65806f8224c",
+  "platform_post_id": "905751982201897000",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-06T19:40:17+08:00",
+  "source_url": "https://t.bilibili.com/905751982201897000",
+  "plain_text": "7:55喵 先聊聊然后jojo第五季",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d9d1bf7-03f5-476f-94b3-3cc32686e895",
+    "next_uuid": "41e739a6-bdbf-4079-b1fa-2d045126b5dd"
+  }
+}

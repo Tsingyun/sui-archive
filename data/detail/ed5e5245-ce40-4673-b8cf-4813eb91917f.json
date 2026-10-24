@@ -1,0 +1,28 @@
+{
+  "uuid": "ed5e5245-ce40-4673-b8cf-4813eb91917f",
+  "platform_post_id": "751651850061611031",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-16T13:13:04+08:00",
+  "source_url": "https://t.bilibili.com/751651850061611031",
+  "plain_text": "早哦[UP_1954091502_可爱捏]",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73de9dd8-f3cb-4316-a22a-8260906691c3",
+    "next_uuid": "c42e7eab-7660-4cd6-9d2f-c6d34ca3e7ee"
+  }
+}

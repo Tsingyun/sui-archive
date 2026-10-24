@@ -1,0 +1,28 @@
+{
+  "uuid": "8fc5774f-7672-4fe9-abf3-a446a0215493",
+  "platform_post_id": "1172921642634969105",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-24T18:55:01+08:00",
+  "source_url": "https://t.bilibili.com/1172921642634969105",
+  "plain_text": "7:35来播哦！依然是唱唱聊聊打底，然后好纠结是芙莉莲还是空洞骑士还是只狼",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4504632e-2fad-4d04-a812-8d0aa9196646",
+    "next_uuid": "cdab1c00-e1ea-4dab-9012-81d5ed8aee63"
+  }
+}

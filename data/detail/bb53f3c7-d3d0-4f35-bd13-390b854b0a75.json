@@ -1,0 +1,28 @@
+{
+  "uuid": "bb53f3c7-d3d0-4f35-bd13-390b854b0a75",
+  "platform_post_id": "882063330574860310",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-02T23:36:13+08:00",
+  "source_url": "https://t.bilibili.com/882063330574860310",
+  "plain_text": "这是一条可能会有饼需要的晚安动态\n晚安！",
+  "images": [],
+  "stats": {
+    "likes": 425,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3d3ae23e-b150-4a0c-a827-d9dc973e0fa0",
+    "next_uuid": "dec5e351-f40b-41ea-bb03-803420b90054"
+  }
+}

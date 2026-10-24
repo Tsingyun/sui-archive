@@ -1,0 +1,28 @@
+{
+  "uuid": "5359b401-1603-4ecc-8db8-0d09ab120fcf",
+  "platform_post_id": "845589630795382786",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-26T16:39:38+08:00",
+  "source_url": "https://t.bilibili.com/845589630795382786",
+  "plain_text": "六点半 你最最最喜欢的岁宝来接你下班哦！",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9164913f-090d-497a-bd41-5d2abc7ea878",
+    "next_uuid": "af6ae636-4deb-4e1e-826c-c728a0a01728"
+  }
+}

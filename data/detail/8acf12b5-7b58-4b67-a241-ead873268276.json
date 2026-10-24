@@ -1,0 +1,28 @@
+{
+  "uuid": "8acf12b5-7b58-4b67-a241-ead873268276",
+  "platform_post_id": "861959778370322455",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-09T19:24:10+08:00",
+  "source_url": "https://t.bilibili.com/861959778370322455",
+  "plain_text": "7:35的说！说说说说说",
+  "images": [],
+  "stats": {
+    "likes": 201,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d84ad2a8-35af-40bb-9af7-d79a8c280978",
+    "next_uuid": "2eed64db-2289-431e-8160-8e1691137b83"
+  }
+}

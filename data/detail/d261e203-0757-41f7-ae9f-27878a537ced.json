@@ -1,0 +1,28 @@
+{
+  "uuid": "d261e203-0757-41f7-ae9f-27878a537ced",
+  "platform_post_id": "1021166974730764306",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-11T20:09:24+08:00",
+  "source_url": "https://t.bilibili.com/1021166974730764306",
+  "plain_text": "马上来 今天干嘛呢",
+  "images": [],
+  "stats": {
+    "likes": 208,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4fb43fa-d70c-42a8-a345-157bac4f9cbe",
+    "next_uuid": "b7fb08c3-2fd9-472d-93c2-9444d4c5488c"
+  }
+}

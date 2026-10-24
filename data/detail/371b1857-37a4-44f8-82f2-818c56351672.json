@@ -1,0 +1,38 @@
+{
+  "uuid": "371b1857-37a4-44f8-82f2-818c56351672",
+  "platform_post_id": "1099902225036083200",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-12T00:22:23+08:00",
+  "source_url": "https://t.bilibili.com/1099902225036083200",
+  "plain_text": "晚安。\n不回我把你号盗了\n",
+  "images": [
+    {
+      "filename": "1099902225036083200_00@original.png",
+      "width": 768,
+      "height": 1351,
+      "file_size": 811795,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 436,
+    "comments": 110,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7d11894e-95af-4f07-b7a0-0465d2b9e89f",
+    "next_uuid": "f9031a56-02cd-447b-bab5-597189c84726"
+  }
+}

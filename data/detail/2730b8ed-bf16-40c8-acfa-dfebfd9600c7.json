@@ -1,0 +1,28 @@
+{
+  "uuid": "2730b8ed-bf16-40c8-acfa-dfebfd9600c7",
+  "platform_post_id": "1178871237506498560",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-12T19:42:29+08:00",
+  "source_url": "https://t.bilibili.com/1178871237506498560",
+  "plain_text": "8点来嗷！老大你说我们今天干嘛",
+  "images": [],
+  "stats": {
+    "likes": 183,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9825b622-ec04-482f-b412-5152df7abcc0",
+    "next_uuid": "fe917181-2eec-4fb3-961b-f381d3d5aca7"
+  }
+}

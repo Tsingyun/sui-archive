@@ -1,0 +1,65 @@
+{
+  "uuid": "c70ce464-4315-4f10-89f2-e7c2f4ea3643",
+  "platform_post_id": "1208042947435560983",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-30T10:23:37+08:00",
+  "source_url": "https://t.bilibili.com/1208042947435560983",
+  "plain_text": "谢谢大家应援的花篮，好喜欢好喜欢的说！\n谢谢每一朵花谢谢每一个饼干岁。一起度过一辈子都不会忘记的一天吧！\n（花篮有小彩蛋",
+  "images": [
+    {
+      "filename": "1208042947435560983_100@repost.jpg",
+      "width": 1080,
+      "height": 1620,
+      "file_size": 1371606,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1208042947435560983_101@repost.jpg",
+      "width": 1620,
+      "height": 1080,
+      "file_size": 1039414,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1208042947435560983_102@repost.jpg",
+      "width": 1080,
+      "height": 1620,
+      "file_size": 1362421,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1208042947435560983_103@repost.jpg",
+      "width": 1620,
+      "height": 1080,
+      "file_size": 1114779,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 241,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2e7a293e-1f0a-4071-bac4-eae17d2082b2",
+    "next_uuid": "160bd755-2603-4527-abd1-bbca123ce6a4"
+  }
+}

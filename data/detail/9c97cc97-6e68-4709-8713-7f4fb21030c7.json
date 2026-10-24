@@ -1,0 +1,28 @@
+{
+  "uuid": "9c97cc97-6e68-4709-8713-7f4fb21030c7",
+  "platform_post_id": "1236840441160138775",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-16T00:52:36+08:00",
+  "source_url": "https://t.bilibili.com/1236840441160138775",
+  "plain_text": "这个小岁初见单人绣湖就这么理解迅速真是冰雪聪明呀 很聪明的小岁和你说晚安",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8384e725-47e1-4fbd-8805-683e2c6a3330",
+    "next_uuid": "9e246203-f8af-4c46-bcc1-8cec644b5612"
+  }
+}

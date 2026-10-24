@@ -1,0 +1,28 @@
+{
+  "uuid": "6a3b754d-4672-40e5-bbbf-6cb38036a09b",
+  "platform_post_id": "762154775951179785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-13T20:29:47+08:00",
+  "source_url": "https://t.bilibili.com/762154775951179785",
+  "plain_text": "不好意思，玩入迷了，emo了，等我十分钟。",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c4bbbc52-57e9-4d9b-8fd4-70685f43eb8c",
+    "next_uuid": "08a6a776-9a20-41d5-8cb2-148338ae907b"
+  }
+}

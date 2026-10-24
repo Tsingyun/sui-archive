@@ -1,0 +1,28 @@
+{
+  "uuid": "ee1b217d-975c-43cf-a3e6-1cf761df6972",
+  "platform_post_id": "1018630968351653908",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-05T00:08:24+08:00",
+  "source_url": "https://t.bilibili.com/1018630968351653908",
+  "plain_text": "晚安～你回不回我啊 不回我我就不发了",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c21c6b72-fd4d-45e9-b0c4-b4543ede8806",
+    "next_uuid": "7301d626-2a4c-4595-a6eb-d35684b58e48"
+  }
+}

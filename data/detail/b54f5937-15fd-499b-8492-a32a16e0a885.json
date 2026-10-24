@@ -1,0 +1,28 @@
+{
+  "uuid": "b54f5937-15fd-499b-8492-a32a16e0a885",
+  "platform_post_id": "1022359876123230212",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-15T01:18:28+08:00",
+  "source_url": "https://t.bilibili.com/1022359876123230212",
+  "plain_text": "快说点温柔的话报答我！",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "653b228e-a41d-4d3c-a2e7-ce36467517c2",
+    "next_uuid": "0e6d2c5b-ab2f-4371-afbd-d152924a3d72"
+  }
+}

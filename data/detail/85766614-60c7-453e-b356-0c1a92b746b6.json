@@ -1,0 +1,28 @@
+{
+  "uuid": "85766614-60c7-453e-b356-0c1a92b746b6",
+  "platform_post_id": "1089439835019542567",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-14T19:42:58+08:00",
+  "source_url": "https://t.bilibili.com/1089439835019542567",
+  "plain_text": "嗓子和肚子都不太舒服，休息一天(´･_･`)",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6c7d0e09-460a-43ef-96b1-618eaa0cab4b",
+    "next_uuid": "4d2125c0-936a-48db-8ad4-2e0bc06ac55a"
+  }
+}

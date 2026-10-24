@@ -1,0 +1,38 @@
+{
+  "uuid": "47e891bd-ad84-467f-9c7d-6a8ea3587cb7",
+  "platform_post_id": "972243251383762960",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-09-02T00:00:22+08:00",
+  "source_url": "https://t.bilibili.com/972243251383762960",
+  "plain_text": "和朋友一人一个 开心的一天 你今天开心吗  晚安晚安\n",
+  "images": [
+    {
+      "filename": "972243251383762960_00@original.jpg",
+      "width": 1240,
+      "height": 1514,
+      "file_size": 769935,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 366,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e79ef652-c925-4927-b3be-eef45a553eac",
+    "next_uuid": "f99e3541-d9e1-4394-91bd-5a43cab04736"
+  }
+}

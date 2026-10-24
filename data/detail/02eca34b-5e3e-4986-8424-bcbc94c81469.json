@@ -1,0 +1,38 @@
+{
+  "uuid": "02eca34b-5e3e-4986-8424-bcbc94c81469",
+  "platform_post_id": "984860967671169033",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-10-06T00:03:33+08:00",
+  "source_url": "https://t.bilibili.com/984860967671169033",
+  "plain_text": "全体饼民晚安\n",
+  "images": [
+    {
+      "filename": "984860967671169033_00@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1456032,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 434,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "838116a0-2521-40ce-a0d8-2c4f60642bc9",
+    "next_uuid": "f96776d6-3ed7-45c5-b8ce-3c032263188d"
+  }
+}

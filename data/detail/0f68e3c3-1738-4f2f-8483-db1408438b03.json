@@ -1,0 +1,28 @@
+{
+  "uuid": "0f68e3c3-1738-4f2f-8483-db1408438b03",
+  "platform_post_id": "697851706534264835",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-08-24T13:41:02+08:00",
+  "source_url": "https://t.bilibili.com/697851706534264835",
+  "plain_text": "哈咯哈咯下午好呀，感谢大家的三连和评论！可以帮我想一下粉丝牌和fanart名称吗？",
+  "images": [],
+  "stats": {
+    "likes": 1237,
+    "comments": 255,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d77242b3-1769-4f1a-8abe-03191a3ecbf5",
+    "next_uuid": "0f3178e9-7d43-47c4-868d-6df896fb849a"
+  }
+}

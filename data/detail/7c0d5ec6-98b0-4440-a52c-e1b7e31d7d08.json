@@ -1,0 +1,28 @@
+{
+  "uuid": "7c0d5ec6-98b0-4440-a52c-e1b7e31d7d08",
+  "platform_post_id": "824512555513806887",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-31T21:29:49+08:00",
+  "source_url": "https://t.bilibili.com/824512555513806887",
+  "plain_text": "11:30电台 一起去往八月吧！bgs的要求\n好任性哦 哎哎 任性任性",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2e63f116-7643-490a-8d37-520f7a98e83d",
+    "next_uuid": "a86753eb-835e-48ea-8065-3c5d26a8cad0"
+  }
+}

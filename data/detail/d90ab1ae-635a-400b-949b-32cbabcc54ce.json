@@ -1,0 +1,28 @@
+{
+  "uuid": "d90ab1ae-635a-400b-949b-32cbabcc54ce",
+  "platform_post_id": "949157196572131351",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-01T18:54:41+08:00",
+  "source_url": "https://t.bilibili.com/949157196572131351",
+  "plain_text": "嗯嗯7:30直播！今天是棉花糖！",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fda00e39-4929-43a4-bee6-c5e589250b2e",
+    "next_uuid": "35c94aa7-1eb6-45b8-8119-061c91ded92e"
+  }
+}

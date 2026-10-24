@@ -1,0 +1,28 @@
+{
+  "uuid": "9e26ae39-224e-499e-8e1a-618867f0fe95",
+  "platform_post_id": "1245994493919887364",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-09-09T16:55:00+08:00",
+  "source_url": "https://t.bilibili.com/1245994493919887364",
+  "plain_text": "wink你一下",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22cd5949-0dd4-4bb8-99ac-688e85eab5ca",
+    "next_uuid": "e09ec3d0-b4d7-41c7-b347-871e4073406d"
+  }
+}
