@@ -1,0 +1,28 @@
+{
+  "uuid": "24b81bfe-54df-4b83-a099-9845815fbcdf",
+  "platform_post_id": "907291126660071497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-10T23:12:57+08:00",
+  "source_url": "https://t.bilibili.com/907291126660071497",
+  "plain_text": "晚安捏捏捏你诶",
+  "images": [],
+  "stats": {
+    "likes": 297,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4b8880bd-8c45-4ed6-9a37-90a8b201a5c8",
+    "next_uuid": "af1e6d38-9f1c-4df5-bdc7-76335a1116d8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "892bba60-f4ab-4c7b-b8c0-f80edbeb0333",
+  "platform_post_id": "804767216727752754",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-08T16:27:49+08:00",
+  "source_url": "https://t.bilibili.com/804767216727752754",
+  "plain_text": "各位jk、dk都考完试了？今天可以在直播间看到你了？待会我去考场接你\n今晚6点我必须看到你人，没办法来的都给岁老师详细说明原因！",
+  "images": [],
+  "stats": {
+    "likes": 350,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "31258932-3d15-424d-a009-240568c0b799",
+    "next_uuid": "f778c830-48c4-41e0-9434-d627c71f2845"
+  }
+}

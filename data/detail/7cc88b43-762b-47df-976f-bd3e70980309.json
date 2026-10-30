@@ -1,0 +1,28 @@
+{
+  "uuid": "7cc88b43-762b-47df-976f-bd3e70980309",
+  "platform_post_id": "716511896471076904",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-13T20:32:06+08:00",
+  "source_url": "https://t.bilibili.com/716511896471076904",
+  "plain_text": "9:10分随便播一下 哈哈 喝和嗯 吧  嘻",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 26,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b20cca83-3c24-459a-9617-db209dd68ad9",
+    "next_uuid": "afd68bb2-05f7-4377-9084-7e59d77d6942"
+  }
+}

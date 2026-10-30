@@ -1,0 +1,28 @@
+{
+  "uuid": "0cb6b227-1599-4279-8338-636bcdb3ec9c",
+  "platform_post_id": "801908073916530774",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-31T23:32:53+08:00",
+  "source_url": "https://t.bilibili.com/801908073916530774",
+  "plain_text": "晚安哦哦哦 5月就这么过去啦 祝你有个开心的6月",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75dd8fbe-2986-4370-ae5c-917e0b959e03",
+    "next_uuid": "ab0eb97b-3ac8-497f-b752-8d120a267ef0"
+  }
+}

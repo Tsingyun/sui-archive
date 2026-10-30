@@ -1,0 +1,28 @@
+{
+  "uuid": "6a3f8488-2d20-43b2-b0e7-7a9bc1d486e7",
+  "platform_post_id": "707603369790799912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-19T20:22:28+08:00",
+  "source_url": "https://t.bilibili.com/707603369790799912",
+  "plain_text": "9:10来哦，今天有事基本没准备什么今天就悠闲地随便聊聊唱唱以及试试能不能一起玩糖豆人！",
+  "images": [],
+  "stats": {
+    "likes": 436,
+    "comments": 24,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73d6a7b4-a5b5-410b-8a22-0eec1566678c",
+    "next_uuid": "65ba96a5-721a-487f-8401-47888bfbd586"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0889ecb2-6e17-41ce-b8d9-594fa0452572",
+  "platform_post_id": "815872129291517989",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-08T14:40:33+08:00",
+  "source_url": "https://t.bilibili.com/815872129291517989",
+  "plain_text": "来聊天！说话！",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 213,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86e3c6e6-9139-4eae-bfb6-166e50ec6af3",
+    "next_uuid": "73a343c3-1e02-4381-a770-a6864460d817"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6cb767b7-eeb4-4302-9e58-7dfa19fab431",
+  "platform_post_id": "790304511344246787",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-30T17:05:08+08:00",
+  "source_url": "https://t.bilibili.com/790304511344246787",
+  "plain_text": "6：10分见。买网易云会员了，哼，想听什么付费歌曲岁己会狠狠地放给你听",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1223fd61-9598-433c-a8c0-c693d3bc8135",
+    "next_uuid": "ec4314f6-509b-4930-b9ff-6f9e02a7c149"
+  }
+}

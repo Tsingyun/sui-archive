@@ -1,0 +1,28 @@
+{
+  "uuid": "d2e5536a-321b-4ed1-bcbf-715893454e6f",
+  "platform_post_id": "1019749695663112215",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-08T00:29:38+08:00",
+  "source_url": "https://t.bilibili.com/1019749695663112215",
+  "plain_text": "2077挺好玩的!大家晚安喔，明天见~",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32792e9b-a5fe-4cf1-bd7d-357d9a73531f",
+    "next_uuid": "b7034bf2-18b5-409c-9cab-3705f54f2bbd"
+  }
+}

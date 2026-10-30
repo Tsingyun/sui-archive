@@ -1,0 +1,28 @@
+{
+  "uuid": "d1cefd23-8ce4-47c2-b13c-43249850bb3e",
+  "platform_post_id": "747807699676168209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-06T04:35:48+08:00",
+  "source_url": "https://t.bilibili.com/747807699676168209",
+  "plain_text": "晚安。再也不会播到这个点了！晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f8f96df-a386-42db-9134-e37b6de371d5",
+    "next_uuid": "7e59b3a3-51e3-4df4-8b54-eb22732f8c91"
+  }
+}

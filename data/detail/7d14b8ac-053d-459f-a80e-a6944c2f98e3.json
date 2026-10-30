@@ -1,0 +1,28 @@
+{
+  "uuid": "7d14b8ac-053d-459f-a80e-a6944c2f98e3",
+  "platform_post_id": "754340572580282375",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-23T19:06:41+08:00",
+  "source_url": "https://t.bilibili.com/754340572580282375",
+  "plain_text": "8:30，今晚干什么呢，猜一下吧！不是我还没决定只是想让大家竞猜一下",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7360015c-5390-4875-9ef0-792748cf6593",
+    "next_uuid": "e004a979-e2b4-4737-9609-974ed8864329"
+  }
+}

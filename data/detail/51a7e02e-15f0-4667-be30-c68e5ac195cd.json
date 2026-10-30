@@ -1,0 +1,28 @@
+{
+  "uuid": "51a7e02e-15f0-4667-be30-c68e5ac195cd",
+  "platform_post_id": "883586661001199618",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-07T02:07:31+08:00",
+  "source_url": "https://t.bilibili.com/883586661001199618",
+  "plain_text": "差点忘了！虽然很晚了 还是晚安！",
+  "images": [],
+  "stats": {
+    "likes": 443,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "228b9583-cbf0-4e7d-98c6-3f1a7bd2c865",
+    "next_uuid": "bbbcaed7-6cac-4faf-820d-ae544bfc96a7"
+  }
+}

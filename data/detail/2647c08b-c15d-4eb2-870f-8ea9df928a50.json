@@ -1,0 +1,28 @@
+{
+  "uuid": "2647c08b-c15d-4eb2-870f-8ea9df928a50",
+  "platform_post_id": "1159578970236125189",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-19T19:58:38+08:00",
+  "source_url": "https://t.bilibili.com/1159578970236125189",
+  "plain_text": "8:10来！画画头像听听歌 我要火力全开🔥🔥🔥",
+  "images": [],
+  "stats": {
+    "likes": 186,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "62703b71-34bf-4ce5-8e69-54c889b6bf05",
+    "next_uuid": "d9252aba-92ae-4b23-849f-129d035cbb1c"
+  }
+}

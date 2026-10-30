@@ -1,0 +1,28 @@
+{
+  "uuid": "ccc9cf26-dc55-4f28-bdc6-f64c4c710520",
+  "platform_post_id": "1058707196523577347",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-23T00:04:38+08:00",
+  "source_url": "https://t.bilibili.com/1058707196523577347",
+  "plain_text": "给我晚安 不给就邦邦两拳揍你身上[岁己收藏集表情包_笑了]",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ab5c5b36-12c3-4fe2-b71c-1597e1d981dc",
+    "next_uuid": "ce56a36f-4d1c-4af1-9667-a80ca82e286c"
+  }
+}

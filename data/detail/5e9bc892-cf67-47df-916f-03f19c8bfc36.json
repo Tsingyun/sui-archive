@@ -1,0 +1,28 @@
+{
+  "uuid": "5e9bc892-cf67-47df-916f-03f19c8bfc36",
+  "platform_post_id": "810087079184695316",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-23T00:31:36+08:00",
+  "source_url": "https://t.bilibili.com/810087079184695316",
+  "plain_text": "晚安哦 希望今天说的你能记住哦",
+  "images": [],
+  "stats": {
+    "likes": 391,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "34f18dd8-c7ba-447c-8b30-4c6cbaff03e3",
+    "next_uuid": "627193ee-acf1-4416-8643-b921f9246ace"
+  }
+}

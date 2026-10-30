@@ -1,0 +1,28 @@
+{
+  "uuid": "c541d5dd-22c9-4163-8fee-32d967aff8f8",
+  "platform_post_id": "759123516870098997",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-02-05T16:26:57+08:00",
+  "source_url": "https://t.bilibili.com/759123516870098997",
+  "plain_text": "下半身不是很健全的样子呢",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 24,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22e31dbe-9f06-4c96-99a0-79680ae07105",
+    "next_uuid": "58c5b6f7-0de4-49a0-b475-0f287314734f"
+  }
+}

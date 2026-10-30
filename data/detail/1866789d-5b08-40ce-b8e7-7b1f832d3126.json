@@ -1,0 +1,38 @@
+{
+  "uuid": "1866789d-5b08-40ce-b8e7-7b1f832d3126",
+  "platform_post_id": "777798885074534416",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-28T00:16:55+08:00",
+  "source_url": "https://t.bilibili.com/777798885074534416",
+  "plain_text": "弄东西弄得快睡着了，再玩一小下就睡了，晚安[UP_1954091502_晚安]\n",
+  "images": [
+    {
+      "filename": "777798885074534416_00@original.png",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1189483,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 378,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6a1320e7-2018-4193-ab81-39d27c86fadc",
+    "next_uuid": "622c3a90-5dc0-4295-a003-75c4ff1f27e4"
+  }
+}

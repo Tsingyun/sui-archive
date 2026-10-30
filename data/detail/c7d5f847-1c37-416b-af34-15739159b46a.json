@@ -1,0 +1,28 @@
+{
+  "uuid": "c7d5f847-1c37-416b-af34-15739159b46a",
+  "platform_post_id": "842669164716883972",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-18T19:46:44+08:00",
+  "source_url": "https://t.bilibili.com/842669164716883972",
+  "plain_text": "啊啊啊休休 今晚就整理整理快递地址 明天见\n",
+  "images": [],
+  "stats": {
+    "likes": 383,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e20b6997-be89-4a9e-8bd9-fb1a8dd5e4ab",
+    "next_uuid": "8f9e2377-04fd-4478-9dd9-b322744e6fe8"
+  }
+}

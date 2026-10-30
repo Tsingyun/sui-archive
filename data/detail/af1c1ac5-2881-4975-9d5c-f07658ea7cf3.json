@@ -1,0 +1,28 @@
+{
+  "uuid": "af1c1ac5-2881-4975-9d5c-f07658ea7cf3",
+  "platform_post_id": "1234907641414680578",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-10T19:52:21+08:00",
+  "source_url": "https://t.bilibili.com/1234907641414680578",
+  "plain_text": "20:00来~你说战神还是滴嘟侠 我们还有滴嘟侠储备吗话说",
+  "images": [],
+  "stats": {
+    "likes": 160,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2b28545f-5e0d-4298-896c-6ad95aa36180",
+    "next_uuid": "3eeb260e-6cfa-4ea4-aaa0-a22e4cbbbb7c"
+  }
+}

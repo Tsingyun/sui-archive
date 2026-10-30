@@ -1,0 +1,28 @@
+{
+  "uuid": "809464e9-9ca8-4ab3-aa5d-385115bb6d7a",
+  "platform_post_id": "1103263182937391109",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-21T01:44:37+08:00",
+  "source_url": "https://t.bilibili.com/1103263182937391109",
+  "plain_text": "【投稿】我有一个好友欠了我好久东西一直不还，我应该怎么委婉提醒他还我那个晚安呀",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "227010ae-3cd1-415f-b0b0-e8562675883a",
+    "next_uuid": "8ecff2f7-7819-49a4-8d85-116db7d06aed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "cb35e99e-6bfb-4201-8ed0-916537179481",
+  "platform_post_id": "980392689844355081",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-23T23:04:21+08:00",
+  "source_url": "https://t.bilibili.com/980392689844355081",
+  "plain_text": "最近在忙什么有没有开心我不在的日子你的生活有什么变化吗有什么要分享的吗吃了什么睡得好吗想我了吗想的程度是几分准备回我的晚安动态吗 说！",
+  "images": [],
+  "stats": {
+    "likes": 386,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29dabf8f-5c3a-4df2-a923-4cc4ea40a6fb",
+    "next_uuid": "b7fe203e-d694-42ca-a954-fb50b97282a2"
+  }
+}

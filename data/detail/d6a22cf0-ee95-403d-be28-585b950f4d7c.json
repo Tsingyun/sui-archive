@@ -1,0 +1,28 @@
+{
+  "uuid": "d6a22cf0-ee95-403d-be28-585b950f4d7c",
+  "platform_post_id": "773706159198568489",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-16T23:35:03+08:00",
+  "source_url": "https://t.bilibili.com/773706159198568489",
+  "plain_text": "你们现在…看别人看得很开心对吧！哼哼，没事，我也玩得很开心！晚安～！",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0615e409-bbe7-435d-89e1-0595c2fab782",
+    "next_uuid": "ab0ff513-85b1-4f1e-8aaa-b6570712e448"
+  }
+}

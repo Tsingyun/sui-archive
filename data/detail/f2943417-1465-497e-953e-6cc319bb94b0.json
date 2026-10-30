@@ -1,0 +1,38 @@
+{
+  "uuid": "f2943417-1465-497e-953e-6cc319bb94b0",
+  "platform_post_id": "1170661819816083456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-02-18T16:45:45+08:00",
+  "source_url": "https://t.bilibili.com/1170661819816083456",
+  "plain_text": "今天是晚上9:00见，岁己将占领vr直播间！\n直播中会有一些抽奖～晚上见",
+  "images": [
+    {
+      "filename": "1170661819816083456_00@original.jpg",
+      "width": 1080,
+      "height": 1920,
+      "file_size": 792662,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 253,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00e1ce19-fb1d-40b2-880f-2a3d51372016",
+    "next_uuid": "8c69f282-e586-48a9-8f5c-42a591654327"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "11089830-94c6-46ea-8bfc-9fae3e83ce61",
+  "platform_post_id": "789269806478000153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-27T22:09:57+08:00",
+  "source_url": "https://t.bilibili.com/789269806478000153",
+  "plain_text": "晚安！我去工作工作就差不多睡觉了，最后一天啦加油加油！",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27240e38-15f7-4194-ae6e-c9413330081a",
+    "next_uuid": "4fcb267b-c040-4b42-a89b-af121d28143c"
+  }
+}

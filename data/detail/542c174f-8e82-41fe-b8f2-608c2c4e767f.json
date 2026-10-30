@@ -1,0 +1,28 @@
+{
+  "uuid": "542c174f-8e82-41fe-b8f2-608c2c4e767f",
+  "platform_post_id": "711956778719379575",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-10-01T13:55:55+08:00",
+  "source_url": "https://t.bilibili.com/711956778719379575",
+  "plain_text": "明晚九点哦！会努力的💪💪🏻💪🏼💪🏽💪🏾💪🏿",
+  "images": [],
+  "stats": {
+    "likes": 427,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9ebb7f35-cccd-4894-b916-add1c328816e",
+    "next_uuid": "fc5ca77d-95c7-4485-a6a7-00868652dcba"
+  }
+}

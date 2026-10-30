@@ -1,0 +1,28 @@
+{
+  "uuid": "c3348e3e-4183-4721-b1b8-8070761797a8",
+  "platform_post_id": "751023260086304773",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-14T20:33:49+08:00",
+  "source_url": "https://t.bilibili.com/751023260086304773",
+  "plain_text": "8:45来！接个水想想吃什么",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c8b900af-01d2-47bd-97d9-537b4a9a4398",
+    "next_uuid": "e3c9f58f-9a44-48fa-be67-02b0048ac464"
+  }
+}

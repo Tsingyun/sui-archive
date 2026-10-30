@@ -1,0 +1,28 @@
+{
+  "uuid": "e5a47841-4997-4edc-8b17-2073511d76f0",
+  "platform_post_id": "1185548524334350345",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-30T19:33:46+08:00",
+  "source_url": "https://t.bilibili.com/1185548524334350345",
+  "plain_text": "和妈妈聊会 7:55来～",
+  "images": [],
+  "stats": {
+    "likes": 178,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a56c2228-3825-4014-8583-4f79d64d6f55",
+    "next_uuid": "7f00cb66-619f-43ba-adf3-dd686bf29a70"
+  }
+}

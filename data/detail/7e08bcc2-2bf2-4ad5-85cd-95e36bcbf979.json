@@ -1,0 +1,38 @@
+{
+  "uuid": "7e08bcc2-2bf2-4ad5-85cd-95e36bcbf979",
+  "platform_post_id": "724957945364742210",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-11-05T14:47:05+08:00",
+  "source_url": "https://t.bilibili.com/724957945364742210",
+  "plain_text": "十一月的上舰礼物哦！🎁 \n",
+  "images": [
+    {
+      "filename": "724957945364742210_00@original.png",
+      "width": 1080,
+      "height": 1663,
+      "file_size": 1919201,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 380,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68b801f6-0b4f-48ac-91d6-1a9a6da14779",
+    "next_uuid": "06ba2bfc-24c7-440a-ae91-ac3569dc3fed"
+  }
+}

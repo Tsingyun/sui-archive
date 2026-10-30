@@ -1,0 +1,28 @@
+{
+  "uuid": "0a997422-2b8c-4ec1-b8d5-3c8dfce7c2c2",
+  "platform_post_id": "738183652901388289",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-11T06:09:35+08:00",
+  "source_url": "https://t.bilibili.com/738183652901388289",
+  "plain_text": "迎风吹过你的头发 我好喜欢～\n晚安大家，带着乌梅子酱和甜蜜故事进入今晚的梦中吧",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 13,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "680a5f3e-9791-40ed-8f2a-9e08c1ed0f83",
+    "next_uuid": "b05c9258-c3f3-4316-b4d1-942bb6522fc7"
+  }
+}

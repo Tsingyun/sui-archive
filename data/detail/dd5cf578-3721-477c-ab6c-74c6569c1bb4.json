@@ -1,0 +1,28 @@
+{
+  "uuid": "dd5cf578-3721-477c-ab6c-74c6569c1bb4",
+  "platform_post_id": "942106466828943427",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-12T18:54:15+08:00",
+  "source_url": "https://t.bilibili.com/942106466828943427",
+  "plain_text": "7:20直播直播直播！",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "263d6a76-80fa-40d9-915f-66da5ed9fd26",
+    "next_uuid": "3ec98c70-3b2d-4e35-83cd-78ee03623219"
+  }
+}

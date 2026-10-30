@@ -1,0 +1,28 @@
+{
+  "uuid": "38486d8f-7a64-436b-b595-15139648940f",
+  "platform_post_id": "1197504162791686153",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-02T00:47:45+08:00",
+  "source_url": "https://t.bilibili.com/1197504162791686153",
+  "plain_text": "晚安晚安大家！都辛苦啦 爆睡一下吧 zzz",
+  "images": [],
+  "stats": {
+    "likes": 200,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a17e5f6-cd4d-44cf-b4a9-ef85371b8e1d",
+    "next_uuid": "5141a620-b208-47a0-a8a1-cd94d2ea0376"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0ec636eb-d27f-4985-b40a-aacf911837c2",
+  "platform_post_id": "1121344041789685794",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-08T19:07:35+08:00",
+  "source_url": "https://t.bilibili.com/1121344041789685794",
+  "plain_text": "今天是10点的温柔煮面你没记错吧，谁敢看!",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "04cb9491-caee-4265-82ff-4d95d70cef2a",
+    "next_uuid": "0b482d9b-17ea-4d36-b54d-e654d805c5f4"
+  }
+}

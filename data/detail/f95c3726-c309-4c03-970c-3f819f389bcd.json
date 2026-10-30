@@ -1,0 +1,28 @@
+{
+  "uuid": "f95c3726-c309-4c03-970c-3f819f389bcd",
+  "platform_post_id": "745760091198717969",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-31T16:10:02+08:00",
+  "source_url": "https://t.bilibili.com/745760091198717969",
+  "plain_text": "昂今晚会在这里出现十分钟。感谢收留的说捏",
+  "images": [],
+  "stats": {
+    "likes": 364,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68b6e27b-591a-47c8-b294-40893507b5b2",
+    "next_uuid": "33800c41-956b-4d0a-84a2-c9e82e7749ee"
+  }
+}

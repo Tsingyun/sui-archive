@@ -1,0 +1,28 @@
+{
+  "uuid": "467902f2-8bea-4a82-a31e-df09b90c9d2b",
+  "platform_post_id": "1093887617256128521",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-26T19:22:38+08:00",
+  "source_url": "https://t.bilibili.com/1093887617256128521",
+  "plain_text": "你猜我几点来 没错答对了",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "78958a82-e836-4447-ad1f-bd0166d62628",
+    "next_uuid": "e4c1efa3-eac7-41cc-be7f-4d31baa8076d"
+  }
+}

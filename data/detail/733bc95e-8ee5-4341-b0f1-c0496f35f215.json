@@ -1,0 +1,28 @@
+{
+  "uuid": "733bc95e-8ee5-4341-b0f1-c0496f35f215",
+  "platform_post_id": "939892767458328631",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-06T19:43:58+08:00",
+  "source_url": "https://t.bilibili.com/939892767458328631",
+  "plain_text": "一分钟就来直播了，粽子到了刚热好，边吃饭边看吧今天直接！",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea79331b-4fe7-4021-8b37-176ba71a0950",
+    "next_uuid": "8391e72e-4e24-4c5d-9d8b-f41811645985"
+  }
+}

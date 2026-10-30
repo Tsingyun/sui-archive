@@ -1,0 +1,28 @@
+{
+  "uuid": "91d102a7-be23-480d-a19a-6e05e40e9114",
+  "platform_post_id": "833003053047087126",
+  "platform_name": "哔哩哔哩",
+  "post_type": "mixed",
+  "published_at": "2023-08-23T18:37:17+08:00",
+  "source_url": "https://t.bilibili.com/833003053047087126",
+  "plain_text": "#bilibili个性装扮# 大会员可免费体验个性装扮啦，我正在使用“饼饼猫饼 有猫饼”装扮套装，你也来试试吧~",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "969a0a8b-0ae1-469f-9f5a-a18b069c1789",
+    "next_uuid": "4691068a-a5e1-464a-aad8-075c591fd7f4"
+  }
+}

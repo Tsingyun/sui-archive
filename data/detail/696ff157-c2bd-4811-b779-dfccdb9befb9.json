@@ -1,0 +1,28 @@
+{
+  "uuid": "696ff157-c2bd-4811-b779-dfccdb9befb9",
+  "platform_post_id": "817985429552758792",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-14T07:21:14+08:00",
+  "source_url": "https://t.bilibili.com/817985429552758792",
+  "plain_text": "醒了！睡不着了！难道因为昨天睡太多了？\n你现在看到的是！七点醒来的岁己！！",
+  "images": [],
+  "stats": {
+    "likes": 417,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7cbd4bd-17f2-4cf0-b132-7250f3e04e23",
+    "next_uuid": "b437479a-6dfd-4864-8195-5fe0d8a50e04"
+  }
+}

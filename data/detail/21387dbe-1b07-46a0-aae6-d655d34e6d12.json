@@ -1,0 +1,28 @@
+{
+  "uuid": "21387dbe-1b07-46a0-aae6-d655d34e6d12",
+  "platform_post_id": "778527466156195888",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-29T23:24:11+08:00",
+  "source_url": "https://t.bilibili.com/778527466156195888",
+  "plain_text": "在饼干岁和给嘉嘉一个干净的入厕环境之间我还是选择了后者，洗猫砂盆去了，那今天真的会早睡了。十点半见吧朋友们，哼哼",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7d213cb-3272-4cb6-bb1a-d6015e4b46e2",
+    "next_uuid": "d7ecf351-6e5b-4263-a9a9-a776c328710a"
+  }
+}

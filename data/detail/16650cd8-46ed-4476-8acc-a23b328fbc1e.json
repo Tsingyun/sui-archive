@@ -1,0 +1,28 @@
+{
+  "uuid": "16650cd8-46ed-4476-8acc-a23b328fbc1e",
+  "platform_post_id": "936883270938787858",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-29T17:05:35+08:00",
+  "source_url": "https://t.bilibili.com/936883270938787858",
+  "plain_text": "竟然时长96小时了！那今天休息一下做点工作吧！别太想岁己2333",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "97f7b7ad-f6b8-4970-ac02-cb273e8c9f90",
+    "next_uuid": "ab068a30-f900-4aac-9f5e-4790fb4d9121"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a91e7545-65d4-453f-909f-457a3deacdf3",
+  "platform_post_id": "869093779193200642",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-29T00:47:44+08:00",
+  "source_url": "https://t.bilibili.com/869093779193200642",
+  "plain_text": "拜拜！今天跟你聊得很愉快 改天再约你一起玩┏(＾0＾)┛",
+  "images": [],
+  "stats": {
+    "likes": 322,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8274dc09-06ba-406e-b9f9-dee8bcb76df2",
+    "next_uuid": "73618474-fb37-49d7-8822-273a61889ad4"
+  }
+}

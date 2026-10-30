@@ -1,0 +1,28 @@
+{
+  "uuid": "724a6eed-ac2a-4a44-a0c4-28b58697c583",
+  "platform_post_id": "791461403730903124",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-03T19:54:28+08:00",
+  "source_url": "https://t.bilibili.com/791461403730903124",
+  "plain_text": "夫人夫人 长工有点急事 8:20 见",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0fe27b32-237a-4d0f-9729-8c7b54ebc402",
+    "next_uuid": "4182c3cf-b213-4118-a666-76b340ea1a58"
+  }
+}

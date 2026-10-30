@@ -1,0 +1,28 @@
+{
+  "uuid": "5836770d-ea51-43a9-85ba-70ce6fc8170b",
+  "platform_post_id": "1223855840147013638",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-12T01:05:43+08:00",
+  "source_url": "https://t.bilibili.com/1223855840147013638",
+  "plain_text": "饼饼的干晚安晚安！",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1b09b2eb-4737-43b7-81a9-4673c791de3f",
+    "next_uuid": "98b5b321-5815-4689-9a4c-6e0c9e55159e"
+  }
+}

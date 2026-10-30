@@ -1,0 +1,38 @@
+{
+  "uuid": "96ba7519-287b-43cc-a328-ce90a6999fe3",
+  "platform_post_id": "814786589187112994",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-07-05T16:28:06+08:00",
+  "source_url": "https://t.bilibili.com/814786589187112994",
+  "plain_text": "【直播预告】\n恋诗夜&岁己\n今晚八点，将进行一个什么卡组也没准备的杂谈联动。\n这个人不知道哪去了，全网通缉@690608690！！因此八点是暂定时间，时间有变的话再进行告知！\n",
+  "images": [
+    {
+      "filename": "814786589187112994_00@original.png",
+      "width": 4800,
+      "height": 2700,
+      "file_size": 5142929,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 627,
+    "comments": 85,
+    "forwards": 3,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d7e758d-c0b8-4747-b1ab-ee1960b56dd0",
+    "next_uuid": "6d08702d-f927-4d0c-94ce-4bb69f423473"
+  }
+}

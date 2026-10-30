@@ -1,0 +1,28 @@
+{
+  "uuid": "808c8a75-e6c7-432d-b0fd-a991f92d747a",
+  "platform_post_id": "747412704432488452",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-05T03:03:01+08:00",
+  "source_url": "https://t.bilibili.com/747412704432488452",
+  "plain_text": "晚安晚安，谢谢你今天也来了！[UP_1954091502_抱抱]",
+  "images": [],
+  "stats": {
+    "likes": 434,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ffa3ca61-105c-458b-85f4-16b4e0d1f2d6",
+    "next_uuid": "ae21f852-dea1-4d94-b815-42863a7b3202"
+  }
+}

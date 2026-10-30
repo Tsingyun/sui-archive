@@ -1,0 +1,28 @@
+{
+  "uuid": "8e2ba280-6ca0-48d1-9ec3-777f902e6649",
+  "platform_post_id": "702064940684410917",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-04T22:10:32+08:00",
+  "source_url": "https://t.bilibili.com/702064940684410917",
+  "plain_text": "啊结束了！今晚终于可以早点睡了，大家感觉怎么样呢！\n然后我开通微博了，感兴趣也可以去看看我的碎碎念，和b站同名！\n迅速躺下了",
+  "images": [],
+  "stats": {
+    "likes": 1304,
+    "comments": 108,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06a1fea5-ef4d-4447-a66e-4aab07d276e4",
+    "next_uuid": "5df30f76-6218-445b-b1ab-bfb09343f4ee"
+  }
+}

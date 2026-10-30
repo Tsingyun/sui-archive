@@ -1,0 +1,28 @@
+{
+  "uuid": "1ff7536f-4c7a-40d1-9b14-00bffe591d82",
+  "platform_post_id": "1248631865829490692",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-16T19:29:21+08:00",
+  "source_url": "https://t.bilibili.com/1248631865829490692",
+  "plain_text": "今天是10点的温柔煮面啊你直到吗",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0dc135ac-c474-4292-94ef-2d7a285b187d",
+    "next_uuid": "77de6529-e069-4786-9602-99d0f1ac2d40"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "503494e1-d540-446a-96b6-2f5c1b686538",
+  "platform_post_id": "838825336481251365",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-08T11:10:43+08:00",
+  "source_url": "https://t.bilibili.com/838825336481251365",
+  "plain_text": "📢起了起了起了起了起了 早！",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d143131c-3774-4efc-be7e-b22f5229005e",
+    "next_uuid": "9df4668d-6229-40e8-9c21-894589c0b614"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "31ea19b2-a4e0-4a6b-9568-d6b0ee2df492",
+  "platform_post_id": "1160687170595323909",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-22T19:39:01+08:00",
+  "source_url": "https://t.bilibili.com/1160687170595323909",
+  "plain_text": "7:50来 今天做点什么好呢",
+  "images": [],
+  "stats": {
+    "likes": 186,
+    "comments": 20,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7e7c551-7229-42e8-9f70-83e4b0939c41",
+    "next_uuid": "616dfe04-c309-41d6-8235-01ea9c000cc8"
+  }
+}

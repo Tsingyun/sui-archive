@@ -1,0 +1,28 @@
+{
+  "uuid": "970540bd-67ad-4e36-8662-3b379b9d89d2",
+  "platform_post_id": "1246335729079943190",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-09-10T14:59:10+08:00",
+  "source_url": "https://t.bilibili.com/1246335729079943190",
+  "plain_text": "是小红帽呀",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 9,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "響-ヒビキ-",
+    "author_url": "https://space.bilibili.com/488882",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e09ec3d0-b4d7-41c7-b347-871e4073406d",
+    "next_uuid": "33b8a300-f1cd-4674-834d-1f4c6a21223c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4dfddbb7-7276-44bf-8cae-b7817239a578",
+  "platform_post_id": "753240519782432802",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-20T19:57:55+08:00",
+  "source_url": "https://t.bilibili.com/753240519782432802",
+  "plain_text": "突然被通知明天要早起出门！那我先洗个头，8:30见",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a9ce11d-fc3b-4d40-8572-3d5665d2d852",
+    "next_uuid": "9d73cab2-f36c-4277-9801-a926eed8e151"
+  }
+}

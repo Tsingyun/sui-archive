@@ -1,0 +1,28 @@
+{
+  "uuid": "808952bc-4cdc-41d9-a617-d19a58d2f34a",
+  "platform_post_id": "1032734017441497095",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-12T00:15:26+08:00",
+  "source_url": "https://t.bilibili.com/1032734017441497095",
+  "plain_text": "[UP_1954091502_吃我一拳] 明天见",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4a240f37-b925-4f68-9173-0563943e6d4d",
+    "next_uuid": "310f59f9-2162-45fc-9e3c-a138d6eee4f2"
+  }
+}

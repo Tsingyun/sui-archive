@@ -1,0 +1,28 @@
+{
+  "uuid": "0c7fb5e3-7262-43b6-959e-2e3e740189d5",
+  "platform_post_id": "1151034888748531766",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-27T19:23:14+08:00",
+  "source_url": "https://t.bilibili.com/1151034888748531766",
+  "plain_text": "计划有变！出门吃个饭，可能晚点来一会电台。可能11.12点[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 253,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3cb56337-d65b-4f9e-8ed1-ae8e3c398c9f",
+    "next_uuid": "cbe52f00-8d27-4d23-a4d1-d7b662f9078b"
+  }
+}

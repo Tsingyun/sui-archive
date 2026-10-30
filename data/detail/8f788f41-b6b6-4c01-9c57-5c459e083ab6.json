@@ -1,0 +1,28 @@
+{
+  "uuid": "8f788f41-b6b6-4c01-9c57-5c459e083ab6",
+  "platform_post_id": "912428551806910469",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-24T19:28:47+08:00",
+  "source_url": "https://t.bilibili.com/912428551806910469",
+  "plain_text": "休息一天去放松一下心灵拥抱一下大自然什么的 明天见好吗",
+  "images": [],
+  "stats": {
+    "likes": 376,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b99b65b-b538-45b3-a52f-332bdbb6f5ad",
+    "next_uuid": "07b87808-36bd-4505-93d9-91ecb82a388a"
+  }
+}

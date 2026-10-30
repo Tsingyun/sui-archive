@@ -1,0 +1,28 @@
+{
+  "uuid": "1e703c43-4239-4291-a793-7e840d2ac860",
+  "platform_post_id": "1259081564230254601",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-14T23:19:31+08:00",
+  "source_url": "https://t.bilibili.com/1259081564230254601",
+  "plain_text": "我也来播一小下",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 6,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ff822473-55d5-4a7d-a321-66488019647e",
+    "next_uuid": "9abddd0d-0ad1-4417-8b9e-6ed9c28ba08d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "32a5862a-cbd2-4c55-a382-aee1e0f10d6f",
+  "platform_post_id": "1258218318764965892",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-10-12T15:29:41+08:00",
+  "source_url": "https://t.bilibili.com/1258218318764965892",
+  "plain_text": "很喜欢的一张～化妆镜前的每一个小岁",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "faf8e0b7-b905-4042-ada1-ffd1fff8a317",
+    "next_uuid": "69ab00db-108c-4dcb-87bc-d18bc405a1d1"
+  }
+}

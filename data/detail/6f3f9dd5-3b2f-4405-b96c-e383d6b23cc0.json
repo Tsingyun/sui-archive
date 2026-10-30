@@ -1,0 +1,47 @@
+{
+  "uuid": "6f3f9dd5-3b2f-4405-b96c-e383d6b23cc0",
+  "platform_post_id": "766918899727859746",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-26T16:37:01+08:00",
+  "source_url": "https://t.bilibili.com/766918899727859746",
+  "plain_text": "生气了(ᓀ‸ᓂ) \n瞄一眼(๑‾᷅^‾᷅๑)\n",
+  "images": [
+    {
+      "filename": "766918899727859746_00@original.jpg",
+      "width": 828,
+      "height": 1792,
+      "file_size": 127023,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "766918899727859746_01@original.jpg",
+      "width": 828,
+      "height": 1792,
+      "file_size": 130362,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 519,
+    "comments": 51,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "85c3d1b0-6fd0-4524-8e3a-991506e89bc9",
+    "next_uuid": "7fa61752-3931-4e45-ade7-e73e73512075"
+  }
+}

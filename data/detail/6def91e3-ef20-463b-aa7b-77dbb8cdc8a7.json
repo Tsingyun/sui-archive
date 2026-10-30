@@ -1,0 +1,28 @@
+{
+  "uuid": "6def91e3-ef20-463b-aa7b-77dbb8cdc8a7",
+  "platform_post_id": "1191120754802950181",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-14T19:56:52+08:00",
+  "source_url": "https://t.bilibili.com/1191120754802950181",
+  "plain_text": "吹头ing 8:15来",
+  "images": [],
+  "stats": {
+    "likes": 172,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98bd4dee-b124-474e-bacf-06467497881d",
+    "next_uuid": "c6c16cae-68c7-45f5-adc6-e7cad25d7961"
+  }
+}

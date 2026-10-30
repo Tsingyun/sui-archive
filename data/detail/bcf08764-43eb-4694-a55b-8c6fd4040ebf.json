@@ -1,0 +1,28 @@
+{
+  "uuid": "bcf08764-43eb-4694-a55b-8c6fd4040ebf",
+  "platform_post_id": "1224211978848829492",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-13T00:07:43+08:00",
+  "source_url": "https://t.bilibili.com/1224211978848829492",
+  "plain_text": "晚安大家，今天有平淡幸福地度过吗",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98b5b321-5815-4689-9a4c-6e0c9e55159e",
+    "next_uuid": "d042d3b7-7f3e-434c-b446-be9b2c69e3b0"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "295b1a69-3d6f-49de-9d88-0332a4ea1f0b",
+  "platform_post_id": "958441099121131542",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-26T19:20:58+08:00",
+  "source_url": "https://t.bilibili.com/958441099121131542",
+  "plain_text": "半身不遂地上线了，7:40 老师我们干嘛",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed6e40da-ce04-4edd-bd5f-bb3ce0a2c580",
+    "next_uuid": "45ab983d-d364-4215-abfb-49a85f6c9fb1"
+  }
+}

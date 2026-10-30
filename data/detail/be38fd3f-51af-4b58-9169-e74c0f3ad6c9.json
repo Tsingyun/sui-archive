@@ -1,0 +1,28 @@
+{
+  "uuid": "be38fd3f-51af-4b58-9169-e74c0f3ad6c9",
+  "platform_post_id": "904698143232229424",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-03T23:30:51+08:00",
+  "source_url": "https://t.bilibili.com/904698143232229424",
+  "plain_text": "发个晚安动态维护维护老饼新饼 晚安",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 91,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8e416cd2-1aa2-429e-851e-b530351a5c93",
+    "next_uuid": "3bc6b3fe-6587-48ae-88e8-c9af80be8021"
+  }
+}

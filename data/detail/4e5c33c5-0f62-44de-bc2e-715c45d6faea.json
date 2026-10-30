@@ -1,0 +1,28 @@
+{
+  "uuid": "4e5c33c5-0f62-44de-bc2e-715c45d6faea",
+  "platform_post_id": "1010440839352025097",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-13T22:26:31+08:00",
+  "source_url": "https://t.bilibili.com/1010440839352025097",
+  "plain_text": "晚安，下播三分钟了，开始想我了吗！晚安的说！",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 90,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f80cc5d0-95a4-408b-9532-ae206d4bff92",
+    "next_uuid": "0f8fbf6b-660c-49b3-a1b1-cee9b4b14eea"
+  }
+}

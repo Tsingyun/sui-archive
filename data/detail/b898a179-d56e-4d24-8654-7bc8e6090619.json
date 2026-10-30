@@ -1,0 +1,28 @@
+{
+  "uuid": "b898a179-d56e-4d24-8654-7bc8e6090619",
+  "platform_post_id": "806759218006720515",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-14T01:17:48+08:00",
+  "source_url": "https://t.bilibili.com/806759218006720515",
+  "plain_text": "回想五次然后睡觉吧 晚安😴",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "281c9dca-f969-4814-aacd-58daee938578",
+    "next_uuid": "a05ba3e4-cb7c-4c38-a13e-5711c1492565"
+  }
+}

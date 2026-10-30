@@ -1,0 +1,28 @@
+{
+  "uuid": "00d471a9-6e0d-4116-b51b-75d9c2d28a4f",
+  "platform_post_id": "1120689183858360324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-07T00:46:24+08:00",
+  "source_url": "https://t.bilibili.com/1120689183858360324",
+  "plain_text": "[岁己收藏集表情包_好耶]中秋节快乐呀！第四个和大家一起过的中秋节了竟然是。在这个大大圆圆的月亮下祝你晚安~",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4425e023-6124-4e4a-a18e-a1a3eaaa36d9",
+    "next_uuid": "04cb9491-caee-4265-82ff-4d95d70cef2a"
+  }
+}

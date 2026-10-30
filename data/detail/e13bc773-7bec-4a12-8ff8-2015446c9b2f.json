@@ -1,0 +1,28 @@
+{
+  "uuid": "e13bc773-7bec-4a12-8ff8-2015446c9b2f",
+  "platform_post_id": "798140644815011911",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-21T19:53:20+08:00",
+  "source_url": "https://t.bilibili.com/798140644815011911",
+  "plain_text": "8:10来唱聊/斗地主，对不起啊，真的对不起，这一次真不玩节目效果那一套，只想赢钱，真的抱歉啊，呵",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7c8d9b3c-eb6f-49b6-9d5b-6f1cf057f831",
+    "next_uuid": "ea19126a-fa30-44fb-b345-84e5d98fe6fd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "33b8a300-f1cd-4674-834d-1f4c6a21223c",
+  "platform_post_id": "1246413704198619176",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-10T20:01:45+08:00",
+  "source_url": "https://t.bilibili.com/1246413704198619176",
+  "plain_text": "饼干岁我十分钟后来，你准备好了没！唱唱聊聊法环！",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "970540bd-67ad-4e36-8662-3b379b9d89d2",
+    "next_uuid": "00dbbf24-ec82-405b-809a-6600b610fd23"
+  }
+}

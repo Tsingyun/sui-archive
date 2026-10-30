@@ -1,0 +1,28 @@
+{
+  "uuid": "79063923-9805-447a-80fd-79e204ac1be2",
+  "platform_post_id": "726069281037484112",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-11-08T14:39:38+08:00",
+  "source_url": "https://t.bilibili.com/726069281037484112",
+  "plain_text": "个人觉得还是左边的女生更可爱耐看一点",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "79c947d7-ff64-4ae4-8144-9ea6cb070ba4",
+    "next_uuid": "20690f7a-5822-47ba-b1bf-36c3363bf3f0"
+  }
+}

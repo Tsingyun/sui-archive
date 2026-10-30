@@ -1,0 +1,28 @@
+{
+  "uuid": "62068c6b-ed1e-4128-95a2-49b5e46d9304",
+  "platform_post_id": "707944007957741577",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-20T18:24:19+08:00",
+  "source_url": "https://t.bilibili.com/707944007957741577",
+  "plain_text": "吃了吗大家！稍后有一个投稿哦！",
+  "images": [],
+  "stats": {
+    "likes": 357,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3f1fb3c-361e-4341-a95f-43e061bb73fb",
+    "next_uuid": "29b58c17-0d95-4b62-a573-4da6d5397476"
+  }
+}

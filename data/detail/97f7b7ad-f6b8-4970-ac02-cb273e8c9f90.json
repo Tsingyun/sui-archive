@@ -1,0 +1,28 @@
+{
+  "uuid": "97f7b7ad-f6b8-4970-ac02-cb273e8c9f90",
+  "platform_post_id": "936623189221441545",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-29T00:16:20+08:00",
+  "source_url": "https://t.bilibili.com/936623189221441545",
+  "plain_text": "趁没人承包这个饼干岁，抱着饼干岁就是一个百米冲刺 \n晚安",
+  "images": [],
+  "stats": {
+    "likes": 447,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a7dcc6b2-a1a3-4ab8-9728-48be6134a1d1",
+    "next_uuid": "16650cd8-46ed-4476-8acc-a23b328fbc1e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f8c87ba3-7f02-4dc3-8838-0a4f12a22bfc",
+  "platform_post_id": "1034459670879666213",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-16T15:51:51+08:00",
+  "source_url": "https://t.bilibili.com/1034459670879666213",
+  "plain_text": "还在吃饭，不太好吃。4点3x5来播～",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "69e862a6-b65a-4616-bb8c-b2b877b9a257",
+    "next_uuid": "96cd7d7a-c4fb-4737-9cdf-45ad076eee4a"
+  }
+}

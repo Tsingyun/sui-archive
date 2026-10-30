@@ -1,0 +1,28 @@
+{
+  "uuid": "40455fbb-2b61-4012-84e4-0dc2993b2b05",
+  "platform_post_id": "885561933631062019",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-12T09:52:35+08:00",
+  "source_url": "https://t.bilibili.com/885561933631062019",
+  "plain_text": "早！！额啊啊啊啊啊啊啊啊\n天气真好",
+  "images": [],
+  "stats": {
+    "likes": 468,
+    "comments": 85,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5d65e92-b0a8-42b3-b427-4146f4f5774d",
+    "next_uuid": "261bf6bf-4163-45d1-8cce-688f515cf47c"
+  }
+}

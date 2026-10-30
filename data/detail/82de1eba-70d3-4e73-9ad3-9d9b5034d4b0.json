@@ -1,0 +1,28 @@
+{
+  "uuid": "82de1eba-70d3-4e73-9ad3-9d9b5034d4b0",
+  "platform_post_id": "1069767347176210432",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-22T19:23:40+08:00",
+  "source_url": "https://t.bilibili.com/1069767347176210432",
+  "plain_text": "你好你好我7:40来直播 你几点来看直播",
+  "images": [],
+  "stats": {
+    "likes": 196,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "40052f01-e45d-4975-a568-34854c06f35d",
+    "next_uuid": "1c71fc80-e78b-4067-9495-04e14f17208d"
+  }
+}

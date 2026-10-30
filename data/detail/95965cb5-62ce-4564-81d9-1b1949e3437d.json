@@ -1,0 +1,28 @@
+{
+  "uuid": "95965cb5-62ce-4564-81d9-1b1949e3437d",
+  "platform_post_id": "831901724632416291",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-20T19:23:34+08:00",
+  "source_url": "https://t.bilibili.com/831901724632416291",
+  "plain_text": "暂停8:30好了可能会提前不过",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bd595797-24f7-4a00-bf49-69c531cb5dd4",
+    "next_uuid": "89ce7263-a80b-4440-9cb9-2d9383ea8eb1"
+  }
+}

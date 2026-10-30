@@ -1,0 +1,28 @@
+{
+  "uuid": "a4714264-3071-4b69-ad77-c15106f7d0d9",
+  "platform_post_id": "1136947507628081184",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-19T20:17:00+08:00",
+  "source_url": "https://t.bilibili.com/1136947507628081184",
+  "plain_text": "注意注意今天是10点的助眠 都知道吧 别走错了\n(^・ω・^)",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fc8d7e93-344d-4e68-be75-ae042e566abd",
+    "next_uuid": "71257cb6-e23d-4b16-802d-1fc27224444c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "eae2d012-df65-4e86-be9b-b1a20d9811f9",
+  "platform_post_id": "1210849893249187848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-06T23:56:00+08:00",
+  "source_url": "https://t.bilibili.com/1210849893249187848",
+  "plain_text": "饼干岁同学，晚..晚安的说\n明天要考试了 好紧张..不知道能不能和你考上同一所学校  能替我加油吗",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e431bbc9-a998-4e18-9707-a011a0334b19",
+    "next_uuid": "7ec27b59-fe41-463b-91fa-847bd8839094"
+  }
+}

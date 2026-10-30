@@ -1,0 +1,28 @@
+{
+  "uuid": "902e1043-3067-445c-9b59-9c0a13254991",
+  "platform_post_id": "971126074560741394",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-29T23:45:09+08:00",
+  "source_url": "https://t.bilibili.com/971126074560741394",
+  "plain_text": "岁袋熊晚安晚安！",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 91,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a12a339-d247-4858-a065-fa0c8eb31360",
+    "next_uuid": "32abfc45-c8ff-48f0-a8a7-023974455e3a"
+  }
+}

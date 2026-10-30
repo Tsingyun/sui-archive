@@ -1,0 +1,28 @@
+{
+  "uuid": "e1747c3b-4670-48a8-9174-68ddb71e2710",
+  "platform_post_id": "1221996042031988745",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-07T00:48:45+08:00",
+  "source_url": "https://t.bilibili.com/1221996042031988745",
+  "plain_text": "你很有趣啊饼干岁，别的护工都没你这么特别，成功吸引了我的注意，明天还找你玩 晚安",
+  "images": [],
+  "stats": {
+    "likes": 373,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1d3bf4cc-4491-40e4-8fb1-88d769964911",
+    "next_uuid": "200160d2-f929-414a-80ea-bbcc71ee30cf"
+  }
+}

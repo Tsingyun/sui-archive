@@ -1,0 +1,28 @@
+{
+  "uuid": "7c374a0f-b538-4925-b1c1-c4ad418869af",
+  "platform_post_id": "907602133831909393",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-11T19:19:49+08:00",
+  "source_url": "https://t.bilibili.com/907602133831909393",
+  "plain_text": "今天好多事情要忙 播不了了[UPOWER_1954091502_分号分号][UPOWER_1954091502_分号分号][UPOWER_1954091502_分号分号]\n",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "94e3e512-2125-4f37-8137-fb59373b4e1e",
+    "next_uuid": "3f380118-fe94-4610-9656-dfb727d9add8"
+  }
+}

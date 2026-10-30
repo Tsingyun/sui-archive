@@ -1,0 +1,28 @@
+{
+  "uuid": "2f89d43d-7044-41d8-9664-e66ef2339fd5",
+  "platform_post_id": "783372412605431849",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-12T00:45:03+08:00",
+  "source_url": "https://t.bilibili.com/783372412605431849",
+  "plain_text": "今天吃了厚切酸奶，真好吃，幸福，但是这次的没有花生，总觉得缺了点什么。可能这跟没有饼干岁一个道理吧，没有的日子也还行，但总觉得缺了点什么呜呜呜啊呜呜啊",
+  "images": [],
+  "stats": {
+    "likes": 430,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6d48164e-cb68-4475-af32-71c5120e998c",
+    "next_uuid": "8facf8ee-5500-4e71-ab1a-eb170afef3e7"
+  }
+}

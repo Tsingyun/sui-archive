@@ -1,0 +1,28 @@
+{
+  "uuid": "d54949f1-3f15-46c3-9d12-6a28db71c50a",
+  "platform_post_id": "1057821836281118729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-20T14:48:59+08:00",
+  "source_url": "https://t.bilibili.com/1057821836281118729",
+  "plain_text": "怎么回事 怎么回事 …睡过头了\n我们3:30见好吗[岁己收藏集表情包_啊啊啊]",
+  "images": [],
+  "stats": {
+    "likes": 227,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f8e45d61-0fcd-4eb4-aa2d-a56a32b33661",
+    "next_uuid": "45ae2a31-0cc0-47c0-8456-c5d8401cf51d"
+  }
+}

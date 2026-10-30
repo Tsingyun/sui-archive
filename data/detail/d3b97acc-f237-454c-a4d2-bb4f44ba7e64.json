@@ -1,0 +1,28 @@
+{
+  "uuid": "d3b97acc-f237-454c-a4d2-bb4f44ba7e64",
+  "platform_post_id": "1063088823387291654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-04T19:27:35+08:00",
+  "source_url": "https://t.bilibili.com/1063088823387291654",
+  "plain_text": "大家！今天8:30来(●´З｀●)播播 唱唱歌看看大家repo之类的~",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "81489637-39b6-4b56-89a5-364a45adb332",
+    "next_uuid": "b4296f1a-b848-4132-8767-749920444258"
+  }
+}

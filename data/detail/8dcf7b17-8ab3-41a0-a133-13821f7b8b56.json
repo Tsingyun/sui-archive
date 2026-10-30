@@ -1,0 +1,28 @@
+{
+  "uuid": "8dcf7b17-8ab3-41a0-a133-13821f7b8b56",
+  "platform_post_id": "911750475277139989",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-22T23:37:30+08:00",
+  "source_url": "https://t.bilibili.com/911750475277139989",
+  "plain_text": "晚安我告诉你晚安我告诉你晚安我告诉你晚安我告诉你",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d6ef658-991b-4e02-ac9f-ab221f92ed83",
+    "next_uuid": "75a73d5d-fd7d-43fd-abc9-48836bd77d41"
+  }
+}

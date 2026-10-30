@@ -1,0 +1,28 @@
+{
+  "uuid": "479f520b-c17b-45fb-8e94-8c81d594e51e",
+  "platform_post_id": "1039725030204768292",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-02T20:24:08+08:00",
+  "source_url": "https://t.bilibili.com/1039725030204768292",
+  "plain_text": "如果你喜欢岁己，建议你回复岁己的晚安动态，让岁己也喜欢你\n如果你不喜欢岁己，也建议你回复岁己的晚安动态，让岁己单方面喜欢你",
+  "images": [],
+  "stats": {
+    "likes": 444,
+    "comments": 130,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6dccb39c-5aea-48d8-878f-c1dbcab18ddf",
+    "next_uuid": "10e3cd87-7c53-4f58-8a58-49a5ef875fd7"
+  }
+}

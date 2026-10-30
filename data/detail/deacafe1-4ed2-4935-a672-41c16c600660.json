@@ -1,0 +1,28 @@
+{
+  "uuid": "deacafe1-4ed2-4935-a672-41c16c600660",
+  "platform_post_id": "1027416749134315527",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-28T16:21:43+08:00",
+  "source_url": "https://t.bilibili.com/1027416749134315527",
+  "plain_text": "看看你的年夜饭！发到这里！\n八点来直播蹭饭，我来选选我要吃哪几个菜[UPOWER_1954091502_小肥鸟]\n",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea3f3653-1a74-490a-b928-05e54911fd21",
+    "next_uuid": "e13bc9f3-fc27-4169-94c2-b8601925d726"
+  }
+}

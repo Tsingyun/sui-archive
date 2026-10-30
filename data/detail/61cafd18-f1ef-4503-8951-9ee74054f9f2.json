@@ -1,0 +1,28 @@
+{
+  "uuid": "61cafd18-f1ef-4503-8951-9ee74054f9f2",
+  "platform_post_id": "969533968805265415",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-25T16:46:58+08:00",
+  "source_url": "https://t.bilibili.com/969533968805265415",
+  "plain_text": "惊天动地时间!岁己来下午也是午的午台歌杂！5:10来",
+  "images": [],
+  "stats": {
+    "likes": 270,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0853372-ebad-485d-929b-a3fdc68a2a26",
+    "next_uuid": "e2ecbf8e-a04f-4937-808f-9c368e4c570a"
+  }
+}

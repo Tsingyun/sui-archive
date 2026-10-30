@@ -1,0 +1,28 @@
+{
+  "uuid": "1e5a4d33-4b86-4cf7-9fdb-c2cd847c72d7",
+  "platform_post_id": "1052274069978742785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-04-05T16:00:49+08:00",
+  "source_url": "https://t.bilibili.com/1052274069978742785",
+  "plain_text": "这个岁己在坏笑什么呢",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ae1bf043-c0ae-4624-b32a-aed5ad61dd92",
+    "next_uuid": "e41d00a5-bce1-48aa-af67-4a54701bc62d"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "dffc88c5-f8f7-4d62-9645-86af282f6fd1",
+  "platform_post_id": "1201890088915566601",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-05-13T20:27:23+08:00",
+  "source_url": "https://t.bilibili.com/1201890088915566601",
+  "plain_text": "<VirtuaReal 2026 Mixup!! 演唱会>即将开演！\n\n托大家的福这次又能在mixup和大家见面啦，会努力闪闪发光的！\n一定要看着岁己喔\n\n【购票链接】\n线下票：网页链接\n线上票：网页链接\n [抽奖]\n",
+  "images": [
+    {
+      "filename": "1201890088915566601_00@original.png",
+      "width": 1280,
+      "height": 1896,
+      "file_size": 3076904,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 384,
+    "comments": 106,
+    "forwards": 460,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ae9a2846-c6f7-4b7e-8786-af5bd4f4559c",
+    "next_uuid": "dedaa79d-d932-4a80-8998-e38d06e01357"
+  }
+}

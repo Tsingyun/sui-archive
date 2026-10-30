@@ -1,0 +1,28 @@
+{
+  "uuid": "8c499091-4f6a-4eed-a440-09ddf182808d",
+  "platform_post_id": "1261706978948808711",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-22T01:07:28+08:00",
+  "source_url": "https://t.bilibili.com/1261706978948808711",
+  "plain_text": "躺在床上莫名又会想人为了获得晚安要付出多少呢到底值不值得呢",
+  "images": [],
+  "stats": {
+    "likes": 460,
+    "comments": 102,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3ba8a95d-f380-4972-bda6-fb414a9ae25f",
+    "next_uuid": "806c09c3-ed14-4185-8201-9ba64f44d36c"
+  }
+}

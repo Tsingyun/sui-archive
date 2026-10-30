@@ -1,0 +1,28 @@
+{
+  "uuid": "4977b20f-4d49-4308-b80e-239c5ec7810f",
+  "platform_post_id": "795548451670589456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-14T20:14:18+08:00",
+  "source_url": "https://t.bilibili.com/795548451670589456",
+  "plain_text": "怎么没人回复 画得怎么样 急死了好想看看 ？",
+  "images": [],
+  "stats": {
+    "likes": 297,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "30edd88f-9db4-4250-aa93-df33d5434940",
+    "next_uuid": "8a579be9-8521-458e-9647-06f2411ad8fa"
+  }
+}

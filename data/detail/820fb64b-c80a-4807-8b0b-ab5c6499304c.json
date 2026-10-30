@@ -1,0 +1,28 @@
+{
+  "uuid": "820fb64b-c80a-4807-8b0b-ab5c6499304c",
+  "platform_post_id": "1157422737755471876",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-14T00:31:21+08:00",
+  "source_url": "https://t.bilibili.com/1157422737755471876",
+  "plain_text": "饱饱的晚安[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 226,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b101c512-3390-406b-8d94-fa11eb4fcc42",
+    "next_uuid": "48454003-64fd-4908-bf57-c7ab0837a4ab"
+  }
+}

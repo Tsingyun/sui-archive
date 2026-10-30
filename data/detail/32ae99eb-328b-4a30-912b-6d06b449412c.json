@@ -1,0 +1,28 @@
+{
+  "uuid": "32ae99eb-328b-4a30-912b-6d06b449412c",
+  "platform_post_id": "801829690763378772",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-31T18:28:43+08:00",
+  "source_url": "https://t.bilibili.com/801829690763378772",
+  "plain_text": "你好啊，5月最后一天了，这个月过得还好吗？我们7点见，来唱唱歌，可能不播太久哦，最近跳舞太多有点累了",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e4b2903-7bb7-4ee0-9f3d-60689a7b047e",
+    "next_uuid": "75dd8fbe-2986-4370-ae5c-917e0b959e03"
+  }
+}

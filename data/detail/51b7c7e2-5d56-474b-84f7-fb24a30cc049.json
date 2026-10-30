@@ -1,0 +1,28 @@
+{
+  "uuid": "51b7c7e2-5d56-474b-84f7-fb24a30cc049",
+  "platform_post_id": "1039269458742345734",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-01T14:56:17+08:00",
+  "source_url": "https://t.bilibili.com/1039269458742345734",
+  "plain_text": "今天天气不错 3:30有空出来一起玩玩啵",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a5c3c057-6bd4-49df-b14a-2f1a04f3578b",
+    "next_uuid": "6bb9b8ad-4133-40d0-8912-a9f4424be534"
+  }
+}

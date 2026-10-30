@@ -1,0 +1,28 @@
+{
+  "uuid": "2dbbcd3c-8f73-44c4-8e21-307340a66276",
+  "platform_post_id": "1095379684558897158",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-30T19:52:37+08:00",
+  "source_url": "https://t.bilibili.com/1095379684558897158",
+  "plain_text": "哦哦今天10点来煮面[岁己收藏集表情包_昂？]",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "698ed354-f80c-4e78-9f0f-248a3bd872e3",
+    "next_uuid": "466ecc0c-f410-4a7d-b749-c5fd7037932a"
+  }
+}

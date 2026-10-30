@@ -1,0 +1,28 @@
+{
+  "uuid": "fd65acc1-139a-4d5e-ae7c-de3058cb4da9",
+  "platform_post_id": "1060932281629147138",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-28T23:59:06+08:00",
+  "source_url": "https://t.bilibili.com/1060932281629147138",
+  "plain_text": "你好我要存款一个晚安 \n你好手头有点紧我要取出一个晚安",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5ca99838-4edf-4b41-a0d4-81b756f3c27c",
+    "next_uuid": "41e1a712-92ed-4dec-b1cf-65e1c50828c9"
+  }
+}

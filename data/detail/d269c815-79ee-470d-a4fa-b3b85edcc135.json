@@ -1,0 +1,38 @@
+{
+  "uuid": "d269c815-79ee-470d-a4fa-b3b85edcc135",
+  "platform_post_id": "727970791903199240",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2022-11-13T17:38:28+08:00",
+  "source_url": "https://t.bilibili.com/727970791903199240",
+  "plain_text": "今天不播，明天见，度过了糟糕不顺心的一天，安慰一下\n",
+  "images": [
+    {
+      "filename": "727970791903199240_00@original.jpg",
+      "width": 769,
+      "height": 907,
+      "file_size": 314090,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 685,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d74584ab-2b5c-435a-bf49-f4504acd40c0",
+    "next_uuid": "406b3782-c162-4d40-ba40-e6feb1b84b52"
+  }
+}

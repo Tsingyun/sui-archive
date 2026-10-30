@@ -1,0 +1,28 @@
+{
+  "uuid": "cc94c868-64e4-4290-989f-4213589d1a45",
+  "platform_post_id": "758059997106012243",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-02T19:39:57+08:00",
+  "source_url": "https://t.bilibili.com/758059997106012243",
+  "plain_text": "九点玩428！研究中，如果到时候还没打好补丁就唱唱聊聊",
+  "images": [],
+  "stats": {
+    "likes": 265,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "45fe05ea-d219-4b74-99b2-ede18956b05d",
+    "next_uuid": "d56d86c8-221a-4f66-b819-cd767145a4f3"
+  }
+}

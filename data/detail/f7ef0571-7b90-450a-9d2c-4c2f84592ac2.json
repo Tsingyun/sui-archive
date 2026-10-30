@@ -1,0 +1,28 @@
+{
+  "uuid": "f7ef0571-7b90-450a-9d2c-4c2f84592ac2",
+  "platform_post_id": "749885020738420760",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-01-11T18:56:52+08:00",
+  "source_url": "https://t.bilibili.com/749885020738420760",
+  "plain_text": "第一次参加接力歌回，很荣幸！",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "94af7162-34f8-42f8-aac8-4e76fbf210eb",
+    "next_uuid": "8f6b9a5c-36c5-48e8-9fa6-8690e9d6ba63"
+  }
+}

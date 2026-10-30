@@ -1,0 +1,28 @@
+{
+  "uuid": "9f489b2b-aca1-4d3b-a380-f6ffec35e23a",
+  "platform_post_id": "1144564348673327111",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-10T08:54:14+08:00",
+  "source_url": "https://t.bilibili.com/1144564348673327111",
+  "plain_text": "[UP_1954091502_跳恰恰]9:12来播早早起的小鸟有..吃",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd07ca14-b855-477e-b70a-2c91af6319b3",
+    "next_uuid": "22edf4f1-6096-40cc-a60b-2ff628b191ec"
+  }
+}

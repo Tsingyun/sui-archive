@@ -1,0 +1,28 @@
+{
+  "uuid": "00705e20-2b83-4f10-addb-262fbd22b6d1",
+  "platform_post_id": "1078388708033429510",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-15T00:58:57+08:00",
+  "source_url": "https://t.bilibili.com/1078388708033429510",
+  "plain_text": "这么困了还要去洗澡啊啊啊[岁己收藏集表情包_啊啊啊]大家晚安[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 275,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23d89266-04bc-40f9-8ed2-ae71538f17ae",
+    "next_uuid": "02984dc3-df12-4949-9a6e-99b4cd9beb3b"
+  }
+}

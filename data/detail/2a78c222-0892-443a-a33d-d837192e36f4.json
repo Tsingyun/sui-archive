@@ -1,0 +1,28 @@
+{
+  "uuid": "2a78c222-0892-443a-a33d-d837192e36f4",
+  "platform_post_id": "869747198350327858",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-30T19:03:20+08:00",
+  "source_url": "https://t.bilibili.com/869747198350327858",
+  "plain_text": "先不播了 有点急事 哎",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32dad2eb-bf57-46fe-bc8e-7f1df9a34b49",
+    "next_uuid": "80327d80-58d8-49e7-a6c4-6ca0f02ef48c"
+  }
+}

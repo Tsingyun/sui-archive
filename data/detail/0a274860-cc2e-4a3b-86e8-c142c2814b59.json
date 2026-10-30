@@ -1,0 +1,38 @@
+{
+  "uuid": "0a274860-cc2e-4a3b-86e8-c142c2814b59",
+  "platform_post_id": "1122908367692496951",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-13T00:17:58+08:00",
+  "source_url": "https://t.bilibili.com/1122908367692496951",
+  "plain_text": "拿起手机，立刻回复我，以后每一次都要这样，明白吗！\n（p了十多分钟，呼_(:з」∠)_） \n\n",
+  "images": [
+    {
+      "filename": "1122908367692496951_00@original.png",
+      "width": 725,
+      "height": 1225,
+      "file_size": 940336,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 375,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a5b0cc0d-6128-4620-ada4-2e7a18aac1c1",
+    "next_uuid": "dc894e90-6a59-4843-8382-7a0e2a031729"
+  }
+}

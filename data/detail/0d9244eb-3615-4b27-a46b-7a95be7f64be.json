@@ -1,0 +1,28 @@
+{
+  "uuid": "0d9244eb-3615-4b27-a46b-7a95be7f64be",
+  "platform_post_id": "964462123548672004",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-12T00:45:37+08:00",
+  "source_url": "https://t.bilibili.com/964462123548672004",
+  "plain_text": "全世界最神秘最酷酷的小饼啊，用自创小手势向上天虔诚祈祷的话，你会稍微放下你尊贵的神秘感出现在我眼前并对我说晚安吗",
+  "images": [],
+  "stats": {
+    "likes": 437,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "19cd06df-a62a-4d36-8683-a008e05fc45a",
+    "next_uuid": "a7a291f7-5a7c-4f17-bde3-43702ba52b45"
+  }
+}

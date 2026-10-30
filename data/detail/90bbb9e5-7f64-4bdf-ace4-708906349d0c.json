@@ -1,0 +1,28 @@
+{
+  "uuid": "90bbb9e5-7f64-4bdf-ace4-708906349d0c",
+  "platform_post_id": "753606025795338249",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-21T19:36:16+08:00",
+  "source_url": "https://t.bilibili.com/753606025795338249",
+  "plain_text": "刚弄完音声！竟然在开播前赶上了\n我先吃个饭，9点见哦，一起跨年吧饼干岁[UP_1954091502_打call]",
+  "images": [],
+  "stats": {
+    "likes": 317,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "608703ec-d236-4964-bdb4-15fd6cd81590",
+    "next_uuid": "5bf565db-0002-4a8b-b241-771d000585e8"
+  }
+}

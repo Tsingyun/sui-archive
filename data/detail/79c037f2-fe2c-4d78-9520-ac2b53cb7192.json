@@ -1,0 +1,28 @@
+{
+  "uuid": "79c037f2-fe2c-4d78-9520-ac2b53cb7192",
+  "platform_post_id": "977060761580863505",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-14T23:34:46+08:00",
+  "source_url": "https://t.bilibili.com/977060761580863505",
+  "plain_text": "你好，麻烦帮我看看这个岁己牌晚安能换一个饼干岁牌晚安吗",
+  "images": [],
+  "stats": {
+    "likes": 373,
+    "comments": 105,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afb7eb5a-bc7d-4254-94b6-01acca8a1547",
+    "next_uuid": "5558cc7e-ee2b-40de-97d5-4eecc33da5a1"
+  }
+}

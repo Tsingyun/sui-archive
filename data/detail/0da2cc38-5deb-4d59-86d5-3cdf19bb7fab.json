@@ -1,0 +1,38 @@
+{
+  "uuid": "0da2cc38-5deb-4d59-86d5-3cdf19bb7fab",
+  "platform_post_id": "863030238850842628",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-11-12T16:38:06+08:00",
+  "source_url": "https://t.bilibili.com/863030238850842628",
+  "plain_text": "今天七点来偷窥大家房间哦，想被我偷窥的可以抓紧最后的时间投稿了的说",
+  "images": [
+    {
+      "filename": "863030238850842628_100@repost.jpg",
+      "width": 585,
+      "height": 499,
+      "file_size": 178810,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 236,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "👀桌面/房间鉴赏回！看看你的\n图片请发在话题：吃了岁岁了吃，内向害羞纯情饼可以发在我邮箱suiji11@qq.com\n11.12日举办！\n截止时间：11.12日晚5点！\n",
+    "source_url": "https://t.bilibili.com/861927055011348505"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7755b240-3f45-4b83-9521-249f7ac264cf",
+    "next_uuid": "a281be2b-4996-4085-a688-c87bbe032749"
+  }
+}

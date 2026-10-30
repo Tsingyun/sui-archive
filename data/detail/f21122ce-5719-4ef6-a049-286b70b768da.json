@@ -1,0 +1,28 @@
+{
+  "uuid": "f21122ce-5719-4ef6-a049-286b70b768da",
+  "platform_post_id": "1117275762863374344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-27T20:00:35+08:00",
+  "source_url": "https://t.bilibili.com/1117275762863374344",
+  "plain_text": "十分钟后到达直播间",
+  "images": [],
+  "stats": {
+    "likes": 197,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "97e10d93-1506-4af3-b119-1c0888ca4034",
+    "next_uuid": "ed54c63e-5f83-4fa3-b6ff-f869dd71ba86"
+  }
+}

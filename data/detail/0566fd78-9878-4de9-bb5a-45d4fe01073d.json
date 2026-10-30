@@ -1,0 +1,28 @@
+{
+  "uuid": "0566fd78-9878-4de9-bb5a-45d4fe01073d",
+  "platform_post_id": "1010768704278888482",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-14T19:38:48+08:00",
+  "source_url": "https://t.bilibili.com/1010768704278888482",
+  "plain_text": "十分钟后来(●´З｀●)",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a76d281-8af6-44f1-904c-d9c5d25296c7",
+    "next_uuid": "2c413e92-38c8-489a-b947-f084230ddd73"
+  }
+}

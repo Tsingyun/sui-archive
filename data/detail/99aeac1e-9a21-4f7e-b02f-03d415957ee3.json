@@ -1,0 +1,28 @@
+{
+  "uuid": "99aeac1e-9a21-4f7e-b02f-03d415957ee3",
+  "platform_post_id": "973652030706941985",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-05T19:07:09+08:00",
+  "source_url": "https://t.bilibili.com/973652030706941985",
+  "plain_text": "哟大家！岁己今天7:40直播！",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57310cea-95af-4712-9948-fdc804ac2bf9",
+    "next_uuid": "1e7999ce-6c4d-40c9-869a-af1430d9ed31"
+  }
+}

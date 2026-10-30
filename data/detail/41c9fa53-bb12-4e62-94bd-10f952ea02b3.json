@@ -1,0 +1,28 @@
+{
+  "uuid": "41c9fa53-bb12-4e62-94bd-10f952ea02b3",
+  "platform_post_id": "1124682043129593860",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-17T19:00:44+08:00",
+  "source_url": "https://t.bilibili.com/1124682043129593860",
+  "plain_text": "做了一个重大决定 7:30来直播",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e8ae082-8b8c-4f02-9e45-191775a73295",
+    "next_uuid": "8b506386-86e7-46d0-a2d5-b97572ff0c98"
+  }
+}

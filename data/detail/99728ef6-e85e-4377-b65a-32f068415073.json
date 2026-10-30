@@ -1,0 +1,28 @@
+{
+  "uuid": "99728ef6-e85e-4377-b65a-32f068415073",
+  "platform_post_id": "1040455157473607697",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-04T19:37:24+08:00",
+  "source_url": "https://t.bilibili.com/1040455157473607697",
+  "plain_text": "躺一小下。五分钟后见~",
+  "images": [],
+  "stats": {
+    "likes": 229,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3d74c170-41e5-44f7-ba69-c08b1453d228",
+    "next_uuid": "12b5f288-eac0-4527-a77d-ada805b166bf"
+  }
+}

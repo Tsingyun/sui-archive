@@ -1,0 +1,28 @@
+{
+  "uuid": "e0feb5f1-725b-4f2d-b4f6-5bd7f572466f",
+  "platform_post_id": "1032592635732164628",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-11T15:06:48+08:00",
+  "source_url": "https://t.bilibili.com/1032592635732164628",
+  "plain_text": "下午困了可以看看这个[UPOWER_1954091502_笑死]",
+  "images": [],
+  "stats": {
+    "likes": 226,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "米歇尔_已他化自在天",
+    "author_url": "https://space.bilibili.com/3427592",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d1fbc00-ed9a-4af9-b283-ea3601164772",
+    "next_uuid": "4a240f37-b925-4f68-9173-0563943e6d4d"
+  }
+}

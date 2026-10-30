@@ -1,0 +1,28 @@
+{
+  "uuid": "58fee5f6-fe98-4ccf-90e3-be3c9c04fd39",
+  "platform_post_id": "1208186854598246425",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-30T19:42:03+08:00",
+  "source_url": "https://t.bilibili.com/1208186854598246425",
+  "plain_text": "8点见！紧张紧张，我们的应援色是红色吧红色！\n要仔细看着我哦",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "160bd755-2603-4527-abd1-bbca123ce6a4",
+    "next_uuid": "18819128-2fe0-4de6-9495-44ab17b839ab"
+  }
+}

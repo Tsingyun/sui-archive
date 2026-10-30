@@ -1,0 +1,28 @@
+{
+  "uuid": "631a3892-2c4e-4dd7-b1ab-23bcf173f8bf",
+  "platform_post_id": "1171822616355274773",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-21T19:50:14+08:00",
+  "source_url": "https://t.bilibili.com/1171822616355274773",
+  "plain_text": "8:15开播！各部门准备",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f83d6982-077c-4894-8c3f-ea04c2735236",
+    "next_uuid": "07ec444d-2597-45b7-a154-c279195cc403"
+  }
+}

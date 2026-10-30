@@ -1,0 +1,28 @@
+{
+  "uuid": "2d1b87f4-4886-414a-92ab-699c956a46f7",
+  "platform_post_id": "742775655875215395",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-23T15:08:54+08:00",
+  "source_url": "https://t.bilibili.com/742775655875215395",
+  "plain_text": "又变成今天出门了呢，4点来get ready with me直播了，边化妆边聊聊天这样，很随便的。",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "31465b93-4e85-40a5-9132-4fe9c442e9f2",
+    "next_uuid": "6c3aad47-fdfd-45a0-a727-31cb92bc3564"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "673119d9-9e0e-4524-8579-6cd587e017e0",
+  "platform_post_id": "907992494845722633",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-12T20:34:37+08:00",
+  "source_url": "https://t.bilibili.com/907992494845722633",
+  "plain_text": "明天播明天播 现在有点那个啊 我有点不好意思 而且我今天一直胃痛 明天见 知道吗！？",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "81676896-7d6b-41ca-b5a5-4af0d8d38b66",
+    "next_uuid": "1a037af7-de39-4ab4-9662-2fe5de22c6b5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "a2f35c91-8c75-4878-a38b-8674869d5239",
+  "platform_post_id": "948748298501488641",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-30T16:27:57+08:00",
+  "source_url": "https://t.bilibili.com/948748298501488641",
+  "plain_text": "全体饼干岁听令，岁己十分钟后开播。小播一个小时四十分钟，然后晚上电台一小会吧",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b082c673-6ce0-4256-b855-e2fa9c1cc48f",
+    "next_uuid": "b744ba81-0b90-441e-b33e-dab59360d7fa"
+  }
+}

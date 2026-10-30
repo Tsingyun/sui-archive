@@ -1,0 +1,28 @@
+{
+  "uuid": "99618f12-81c2-462a-b182-75373175db27",
+  "platform_post_id": "759626934290219015",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T01:00:28+08:00",
+  "source_url": "https://t.bilibili.com/759626934290219015",
+  "plain_text": "223舰了！谢谢大家的支持！也谢谢大家的陪伴！完美的一天捏，晚安！",
+  "images": [],
+  "stats": {
+    "likes": 442,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d72d8f33-d9f2-4ab4-b95a-f3ff93f7e875",
+    "next_uuid": "2ddf4ce2-c895-4ebf-b9df-b8cf9bb5b744"
+  }
+}

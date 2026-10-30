@@ -1,0 +1,28 @@
+{
+  "uuid": "f807d354-e932-4af4-8287-a97dc437ac25",
+  "platform_post_id": "818568187644739589",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-15T21:02:38+08:00",
+  "source_url": "https://t.bilibili.com/818568187644739589",
+  "plain_text": "今天就10点那个那个  电台吧！还没想好要说些什么 你们先想点",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a29d827f-40ce-4a9f-8fcc-86e576d866ee",
+    "next_uuid": "1c31e45e-1eaa-4288-a87c-737557ab7218"
+  }
+}

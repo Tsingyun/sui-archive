@@ -1,0 +1,28 @@
+{
+  "uuid": "631c5ec0-057d-4a9b-87c6-8e51adfa38f0",
+  "platform_post_id": "755164407437197417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-26T00:23:35+08:00",
+  "source_url": "https://t.bilibili.com/755164407437197417",
+  "plain_text": "[UP_1954091502_想岁了]",
+  "images": [],
+  "stats": {
+    "likes": 362,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dbe405e5-6e85-4269-b6f0-182ec2f9e376",
+    "next_uuid": "23bdf737-e547-4191-ad30-3b0b3d7850cb"
+  }
+}

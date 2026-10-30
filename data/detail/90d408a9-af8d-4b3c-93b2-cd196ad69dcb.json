@@ -1,0 +1,28 @@
+{
+  "uuid": "90d408a9-af8d-4b3c-93b2-cd196ad69dcb",
+  "platform_post_id": "978910475380064328",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-19T23:12:36+08:00",
+  "source_url": "https://t.bilibili.com/978910475380064328",
+  "plain_text": "[UPOWER_1954091502_大家][UPOWER_1954091502_大家][UPOWER_1954091502_大家]晚安喔[UPOWER_1954091502_大家][UPOWER_1954091502_大家][UPOWER_1954091502_大家]",
+  "images": [],
+  "stats": {
+    "likes": 351,
+    "comments": 87,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "66f4020b-491b-4a19-8d20-ce78adcd84b5",
+    "next_uuid": "5589e149-a7dd-4b43-8079-f05215a7d4df"
+  }
+}

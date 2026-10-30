@@ -1,0 +1,28 @@
+{
+  "uuid": "8fb3d95e-f8b6-4bb0-b1b1-029dadc4d17b",
+  "platform_post_id": "759677138163990533",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T04:15:17+08:00",
+  "source_url": "https://t.bilibili.com/759677138163990533",
+  "plain_text": "大家真的都睡了吗！身旁的猫睡得好香，大家也睡得这么香？只有我睡不着？好不甘心好不甘心好不甘心！真想一个电话把饼干岁叫醒，都别睡了！",
+  "images": [],
+  "stats": {
+    "likes": 518,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2ddf4ce2-c895-4ebf-b9df-b8cf9bb5b744",
+    "next_uuid": "568893a4-0d3e-4837-b1aa-2c9bd25cfaca"
+  }
+}

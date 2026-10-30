@@ -1,0 +1,38 @@
+{
+  "uuid": "245b9a15-041e-45a3-b15f-c65bf9f5664a",
+  "platform_post_id": "981339085851328516",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-09-26T12:16:51+08:00",
+  "source_url": "https://t.bilibili.com/981339085851328516",
+  "plain_text": "感觉有点像开学第一天的偶遇 同学你好 你也是25788785班的吗（撩耳发",
+  "images": [
+    {
+      "filename": "981339085851328516_100@repost.jpg",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 4175905,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 235,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "00d736ff-d6aa-4370-a79a-6efd106f85db",
+    "next_uuid": "bd684bed-d94d-43ad-b950-4354d6ff680b"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "59eed793-2161-417d-b83a-0229acb290ea",
+  "platform_post_id": "911010984970158119",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-20T23:47:54+08:00",
+  "source_url": "https://t.bilibili.com/911010984970158119",
+  "plain_text": "用这条晚安动态将你的幸福指数+0.1分",
+  "images": [],
+  "stats": {
+    "likes": 425,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77ab96a3-3999-4e66-9ccc-aaf6e5599a7f",
+    "next_uuid": "ee6720af-2ed2-48e3-905e-fc5ce3e41956"
+  }
+}

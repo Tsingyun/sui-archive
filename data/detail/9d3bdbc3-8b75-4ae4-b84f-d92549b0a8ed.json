@@ -1,0 +1,47 @@
+{
+  "uuid": "9d3bdbc3-8b75-4ae4-b84f-d92549b0a8ed",
+  "platform_post_id": "961850972652437510",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-08-04T23:53:01+08:00",
+  "source_url": "https://t.bilibili.com/961850972652437510",
+  "plain_text": "晚安昂",
+  "images": [
+    {
+      "filename": "961850972652437510_00@original.jpg",
+      "width": 828,
+      "height": 1686,
+      "file_size": 218177,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "961850972652437510_01@original.jpg",
+      "width": 828,
+      "height": 1685,
+      "file_size": 226024,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 523,
+    "comments": 99,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "90a3698d-263b-4fc0-b61e-27113c183c8b",
+    "next_uuid": "16606a96-2b5d-4277-9fb6-7b09f003069e"
+  }
+}

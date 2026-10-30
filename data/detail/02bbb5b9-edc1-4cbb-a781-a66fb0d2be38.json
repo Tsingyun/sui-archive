@@ -1,0 +1,38 @@
+{
+  "uuid": "02bbb5b9-edc1-4cbb-a781-a66fb0d2be38",
+  "platform_post_id": "839303864536530962",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-09T18:07:39+08:00",
+  "source_url": "https://t.bilibili.com/839303864536530962",
+  "plain_text": "哈？看什么看？踹死你",
+  "images": [
+    {
+      "filename": "839303864536530962_100@repost.png",
+      "width": 2307,
+      "height": 3218,
+      "file_size": 3793411,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 360,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c6ebad3b-a9e0-4931-8a30-797c441e5d34",
+    "next_uuid": "0cb59693-ca2e-4450-8985-8ec0bafa5194"
+  }
+}

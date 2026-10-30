@@ -1,0 +1,28 @@
+{
+  "uuid": "8fde4669-c557-4714-843b-dbc60e14bf56",
+  "platform_post_id": "925850238711758871",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-29T23:31:47+08:00",
+  "source_url": "https://t.bilibili.com/925850238711758871",
+  "plain_text": "好心饼好心饼，可不可以请你跟我说一下晚安，这样我才能开心地结束这一天",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 110,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4dd919df-78af-498d-82c7-3ab2741c80d7",
+    "next_uuid": "e140b2b9-423a-4941-ab4c-633fed9d8a54"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "914da149-90d7-44cd-a7bc-c46414d378d6",
+  "platform_post_id": "1228224663742578725",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-23T19:38:59+08:00",
+  "source_url": "https://t.bilibili.com/1228224663742578725",
+  "plain_text": "本人将于7:50降临直播间进行直播",
+  "images": [],
+  "stats": {
+    "likes": 181,
+    "comments": 16,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6fd39a7-c982-4e7f-82bd-6bdb97e24d8f",
+    "next_uuid": "c996cee9-d5bc-441c-baff-549f6b7380c5"
+  }
+}

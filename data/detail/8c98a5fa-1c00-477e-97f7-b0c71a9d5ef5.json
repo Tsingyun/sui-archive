@@ -1,0 +1,47 @@
+{
+  "uuid": "8c98a5fa-1c00-477e-97f7-b0c71a9d5ef5",
+  "platform_post_id": "814343786646732837",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-07-04T11:49:48+08:00",
+  "source_url": "https://t.bilibili.com/814343786646732837",
+  "plain_text": "中午好！学习工作辛苦了 给你捶锤肩🤜🤜\n",
+  "images": [
+    {
+      "filename": "814343786646732837_00@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1798010,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "814343786646732837_01@original.png",
+      "width": 1080,
+      "height": 2338,
+      "file_size": 1815400,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 579,
+    "comments": 77,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d656987d-e1c2-4d7b-9f41-359944c5dc5a",
+    "next_uuid": "63f5f605-3857-44df-823c-3b5b6f80fc7d"
+  }
+}

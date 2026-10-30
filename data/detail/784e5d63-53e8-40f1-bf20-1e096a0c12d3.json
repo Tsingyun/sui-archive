@@ -1,0 +1,28 @@
+{
+  "uuid": "784e5d63-53e8-40f1-bf20-1e096a0c12d3",
+  "platform_post_id": "1012338484757659654",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-19T01:10:21+08:00",
+  "source_url": "https://t.bilibili.com/1012338484757659654",
+  "plain_text": "晚安的说，谢谢大家一直以来对岁己的好，今天也晚安了的说",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f81b00f0-d8bd-4ffb-8183-b52bd2248a84",
+    "next_uuid": "a522c07c-a456-48be-b43e-a0e91b1ff9cc"
+  }
+}

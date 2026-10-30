@@ -1,0 +1,28 @@
+{
+  "uuid": "987b14e8-c371-48e9-9a7a-df0609c45f50",
+  "platform_post_id": "782735911328677895",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-10T07:35:06+08:00",
+  "source_url": "https://t.bilibili.com/782735911328677895",
+  "plain_text": "几辈子没这么困过了，8:20见，大概播到10点，近期的最后的岁己！",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b25beb7f-77af-4b34-8fd8-5942bf012404",
+    "next_uuid": "8d21fabb-e82f-4593-adaf-c7c5321324b0"
+  }
+}

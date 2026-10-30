@@ -1,0 +1,28 @@
+{
+  "uuid": "58d95dbb-6a58-45ea-a6ed-905f720ac156",
+  "platform_post_id": "738382462655135744",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-11T19:01:04+08:00",
+  "source_url": "https://t.bilibili.com/738382462655135744",
+  "plain_text": "本来想玩游戏的但是它那个 结果 然后总之就那个了\n所以今晚是烂片吐槽回 请选择你的英雄[投票]",
+  "images": [],
+  "stats": {
+    "likes": 182,
+    "comments": 27,
+    "forwards": 33,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b05c9258-c3f3-4316-b4d1-942bb6522fc7",
+    "next_uuid": "85102bc7-8aa2-4cd4-90e9-f164739fdecc"
+  }
+}

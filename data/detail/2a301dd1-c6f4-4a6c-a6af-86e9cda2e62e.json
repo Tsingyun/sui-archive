@@ -1,0 +1,28 @@
+{
+  "uuid": "2a301dd1-c6f4-4a6c-a6af-86e9cda2e62e",
+  "platform_post_id": "771651378136219652",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-11T10:41:27+08:00",
+  "source_url": "https://t.bilibili.com/771651378136219652",
+  "plain_text": "提前把晚起借口都想好了的，结果被狠狠吵醒了，早。起床时间超过80%饼",
+  "images": [],
+  "stats": {
+    "likes": 384,
+    "comments": 60,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b5dc3bb6-ce95-4ef5-8897-b874caf08a52",
+    "next_uuid": "8b1531e7-e498-44a2-8a79-ea1c407ce339"
+  }
+}

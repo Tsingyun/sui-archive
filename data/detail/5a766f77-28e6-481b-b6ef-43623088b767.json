@@ -1,0 +1,28 @@
+{
+  "uuid": "5a766f77-28e6-481b-b6ef-43623088b767",
+  "platform_post_id": "1216725704837693446",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-22T19:57:09+08:00",
+  "source_url": "https://t.bilibili.com/1216725704837693446",
+  "plain_text": "8:10悠闲夜晚唱唱聊聊！",
+  "images": [],
+  "stats": {
+    "likes": 175,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "15e3c3b4-f03b-434f-8c5a-5ac9f74fa616",
+    "next_uuid": "37d5b6a8-9d0e-447b-a986-d9c108f1b4b6"
+  }
+}

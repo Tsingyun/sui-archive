@@ -1,0 +1,28 @@
+{
+  "uuid": "ee7c29a1-fce8-4276-b195-f9ee7f6d1cee",
+  "platform_post_id": "752217209492733954",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-18T01:46:57+08:00",
+  "source_url": "https://t.bilibili.com/752217209492733954",
+  "plain_text": "今天联动很开心！和大家聊天看东西也好开心！托大家的福又度过了开心的一天，晚安",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d060533-7225-48a0-8402-5ae2f53f74ef",
+    "next_uuid": "01e07eba-3bfb-407f-a8f9-934fb2231606"
+  }
+}

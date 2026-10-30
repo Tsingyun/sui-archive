@@ -1,0 +1,28 @@
+{
+  "uuid": "d407cd78-45d2-43d5-aa1b-6bbf369bea12",
+  "platform_post_id": "837816830915510295",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-05T17:57:12+08:00",
+  "source_url": "https://t.bilibili.com/837816830915510295",
+  "plain_text": "让所有人都没想到的是，昨天努力办完周年的小岁，今天竟然6:40还要来唱唱聊聊 omg！！！！",
+  "images": [],
+  "stats": {
+    "likes": 402,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "13679624-df46-4bb7-a64c-77ceaa050a17",
+    "next_uuid": "e70c28f3-f755-4a58-a58a-8215781f8e16"
+  }
+}

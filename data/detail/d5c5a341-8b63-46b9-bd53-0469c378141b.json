@@ -1,0 +1,28 @@
+{
+  "uuid": "d5c5a341-8b63-46b9-bd53-0469c378141b",
+  "platform_post_id": "1265030665135456258",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-31T00:05:04+08:00",
+  "source_url": "https://t.bilibili.com/1265030665135456258",
+  "plain_text": "饼小干，小岁在边听歌边捣鼓工作呢，你先睡吧！night哟",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a726a152-f04d-450f-bb32-4fa7dc7f5668",
+    "next_uuid": null
+  }
+}

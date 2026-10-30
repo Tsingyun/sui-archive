@@ -1,0 +1,28 @@
+{
+  "uuid": "1aa892d9-c971-44b3-8301-a52e192dcec9",
+  "platform_post_id": "785399306460856338",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-17T11:50:26+08:00",
+  "source_url": "https://t.bilibili.com/785399306460856338",
+  "plain_text": "周一周一，真不咋地\n小饼小饼，垂头丧气\n不要伤心，不要着急\n小岁给你，加油打气！",
+  "images": [],
+  "stats": {
+    "likes": 455,
+    "comments": 55,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afc383ef-7671-422f-b78e-d5050c8dcc96",
+    "next_uuid": "8da3a7b2-e12d-47a7-9b00-87a98787042b"
+  }
+}

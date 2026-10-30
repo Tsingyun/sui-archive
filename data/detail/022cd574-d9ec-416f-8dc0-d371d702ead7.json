@@ -1,0 +1,28 @@
+{
+  "uuid": "022cd574-d9ec-416f-8dc0-d371d702ead7",
+  "platform_post_id": "891749551307751426",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-29T02:03:42+08:00",
+  "source_url": "https://t.bilibili.com/891749551307751426",
+  "plain_text": "谢谢你陪我聊天，感觉孤单变少了很多。晚安，今晚见！",
+  "images": [],
+  "stats": {
+    "likes": 524,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bf6d766e-02f2-472c-8f0c-80bcc8e1658c",
+    "next_uuid": "b30ae120-13a8-4d58-a6ab-f490c3c38f19"
+  }
+}

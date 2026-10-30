@@ -1,0 +1,38 @@
+{
+  "uuid": "e07eecb7-ff59-4db7-a6a8-13533baa550c",
+  "platform_post_id": "752502000147497095",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-01-18T20:12:05+08:00",
+  "source_url": "https://t.bilibili.com/752502000147497095",
+  "plain_text": "八点了，在干嘛！你，就你！\n",
+  "images": [
+    {
+      "filename": "752502000147497095_00@original.jpg",
+      "width": 1164,
+      "height": 1080,
+      "file_size": 905388,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 526,
+    "comments": 67,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b8dddd60-8eb5-40e0-8619-315647dbcdab",
+    "next_uuid": "3121a860-3c0a-4412-bd8f-9534a6e5b09a"
+  }
+}

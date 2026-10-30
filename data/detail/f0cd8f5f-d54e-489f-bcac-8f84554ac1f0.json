@@ -1,0 +1,28 @@
+{
+  "uuid": "f0cd8f5f-d54e-489f-bcac-8f84554ac1f0",
+  "platform_post_id": "925044309565112376",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-27T19:24:22+08:00",
+  "source_url": "https://t.bilibili.com/925044309565112376",
+  "plain_text": "小饼啊...7:40唱聊jojo",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96ec32ea-d66a-46bd-90a3-d6cea07c2704",
+    "next_uuid": "c3840111-d8c2-4179-9d8a-72fa4c2bbdf2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "436d59af-dea5-4d1a-8403-e690f92b15da",
+  "platform_post_id": "1262364671552258051",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-23T19:39:39+08:00",
+  "source_url": "https://t.bilibili.com/1262364671552258051",
+  "plain_text": "8点来！你想干嘛 看电影还是法环",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f948691d-6b22-4212-8ff7-094430b46de6",
+    "next_uuid": "f25f5079-82e0-4795-9893-b3a9b54a43ee"
+  }
+}

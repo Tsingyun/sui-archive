@@ -1,0 +1,28 @@
+{
+  "uuid": "9876f262-1737-407a-af16-c402c7a98167",
+  "platform_post_id": "787067476078755892",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-21T23:43:47+08:00",
+  "source_url": "https://t.bilibili.com/787067476078755892",
+  "plain_text": "晚安晚安 不放ed有这么过分吗！怎么都在说我！",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "69ad058a-24b3-4028-a1a0-79d85715b2fc",
+    "next_uuid": "d3d11c9f-5322-4cec-b903-f5a6cb5b1ddd"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ef646b1c-5120-4806-84ad-917b3646bee5",
+  "platform_post_id": "860841154153807923",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-06T19:03:20+08:00",
+  "source_url": "https://t.bilibili.com/860841154153807923",
+  "plain_text": "哎呀本来想休息的，饼干岁一直问播不播播不播。未免太粘人，7:15小小播一播吧",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c570c735-d5e1-4571-b2c3-31218fc7d57b",
+    "next_uuid": "ba4cb69f-eadb-45fc-a8ab-97ebf61e50db"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "143a091b-8c6c-4b42-a9dc-4059f8ad5705",
+  "platform_post_id": "791420223569788976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-03T17:14:40+08:00",
+  "source_url": "https://t.bilibili.com/791420223569788976",
+  "plain_text": "💪🏻💪🏻我厉害吗",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "216dc903-3745-46d4-8646-9f2a97ee6fca",
+    "next_uuid": "0fe27b32-237a-4d0f-9729-8c7b54ebc402"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "2a8627ff-cb26-4b48-a734-23ea7e32f46b",
+  "platform_post_id": "1160246274995257383",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-21T15:08:07+08:00",
+  "source_url": "https://t.bilibili.com/1160246274995257383",
+  "plain_text": "紧急通知！十分钟后全体溜出来摸鱼",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f5632292-110b-4f4b-a575-81979655cef2",
+    "next_uuid": "bc43c7ae-143c-4c76-acaa-81788c0a7ba3"
+  }
+}

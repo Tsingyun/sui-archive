@@ -1,0 +1,28 @@
+{
+  "uuid": "c0525296-b21d-4c72-afdd-18c51f684f04",
+  "platform_post_id": "903151173326864388",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-28T19:27:49+08:00",
+  "source_url": "https://t.bilibili.com/903151173326864388",
+  "plain_text": "洗澡啊洗澡 8:15感觉能开播！先唱歌聊天吧 然后中质量一下",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98986693-c4b1-4303-ac0c-3424fe824b98",
+    "next_uuid": "8da42781-6bb7-42a1-93c4-bb721ec7ef77"
+  }
+}

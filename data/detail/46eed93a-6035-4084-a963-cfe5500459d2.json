@@ -1,0 +1,28 @@
+{
+  "uuid": "46eed93a-6035-4084-a963-cfe5500459d2",
+  "platform_post_id": "866402136056922113",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-21T18:42:47+08:00",
+  "source_url": "https://t.bilibili.com/866402136056922113",
+  "plain_text": "今天是人头麦音声活动最后一天的说！\n所以10点播播助眠的说",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "14f6adfa-f6a0-4baf-8386-878cae4734e7",
+    "next_uuid": "de760e2f-184e-454e-896e-90ab3fb98d1e"
+  }
+}

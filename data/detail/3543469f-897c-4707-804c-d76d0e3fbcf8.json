@@ -1,0 +1,28 @@
+{
+  "uuid": "3543469f-897c-4707-804c-d76d0e3fbcf8",
+  "platform_post_id": "788363357906272309",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-25T11:32:28+08:00",
+  "source_url": "https://t.bilibili.com/788363357906272309",
+  "plain_text": "好困 早zzz",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "890b4fc0-4cad-4cbb-b056-a7d90c1a6cac",
+    "next_uuid": "45f7b25d-ff7b-46ba-9865-86d387918b2d"
+  }
+}

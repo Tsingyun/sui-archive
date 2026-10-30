@@ -1,0 +1,28 @@
+{
+  "uuid": "c8c17ad4-6e24-4309-b802-79289da6660f",
+  "platform_post_id": "767712429272465457",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-28T19:56:19+08:00",
+  "source_url": "https://t.bilibili.com/767712429272465457",
+  "plain_text": "今天直播吗，这是一个很有趣的问题，那么既然让我说几句呢，那么我就说几句啊，也是想了想啊，说哪几句呢，那我就说这一句那么我相信啊，这几句呢，嗯也是比那几句强，所以我今天呢就先说这几句，那么如果大家觉得我说的这几句不够，那就再给我补充几句。",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "33dd7f3b-98b9-4a65-bd96-e011b2f01c23",
+    "next_uuid": "91b377e7-fd78-4531-aa69-d668b3d3967c"
+  }
+}

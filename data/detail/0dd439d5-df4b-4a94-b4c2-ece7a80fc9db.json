@@ -1,0 +1,28 @@
+{
+  "uuid": "0dd439d5-df4b-4a94-b4c2-ece7a80fc9db",
+  "platform_post_id": "778101560047566885",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-28T19:51:27+08:00",
+  "source_url": "https://t.bilibili.com/778101560047566885",
+  "plain_text": "9点见",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "622c3a90-5dc0-4295-a003-75c4ff1f27e4",
+    "next_uuid": "f7252b5b-236f-40ab-8d2b-4e2661369616"
+  }
+}

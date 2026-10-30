@@ -1,0 +1,28 @@
+{
+  "uuid": "f78ce47b-8a34-42ab-a147-df2032db3bdd",
+  "platform_post_id": "1204925771801427970",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-22T00:47:23+08:00",
+  "source_url": "https://t.bilibili.com/1204925771801427970",
+  "plain_text": "死饼干岁晚安",
+  "images": [],
+  "stats": {
+    "likes": 245,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "60f062c7-6256-4fdc-92f6-551559b5c9e8",
+    "next_uuid": "6538452b-e746-4b77-88be-1b501155827c"
+  }
+}

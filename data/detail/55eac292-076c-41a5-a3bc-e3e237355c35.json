@@ -1,0 +1,28 @@
+{
+  "uuid": "55eac292-076c-41a5-a3bc-e3e237355c35",
+  "platform_post_id": "740613071110668306",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-17T19:16:58+08:00",
+  "source_url": "https://t.bilibili.com/740613071110668306",
+  "plain_text": "今晚八点！43分3秒后。一秒钟都不准迟到！！",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "640402a6-bee9-4e98-a388-a77980c1e01f",
+    "next_uuid": "dd0fb374-3c72-40bf-a75c-7928424079df"
+  }
+}

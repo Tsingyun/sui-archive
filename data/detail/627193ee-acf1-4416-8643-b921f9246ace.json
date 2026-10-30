@@ -1,0 +1,47 @@
+{
+  "uuid": "627193ee-acf1-4416-8643-b921f9246ace",
+  "platform_post_id": "810273278641832038",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-06-23T12:34:09+08:00",
+  "source_url": "https://t.bilibili.com/810273278641832038",
+  "plain_text": "可爱捏！在原动态评论会抽送小周边！大家喜欢可以去试试//@小笨酱_:此动态​评论随机啾5份图2无料 要求：关注 @岁己SUI 且粉丝牌等级≥10 6.30开",
+  "images": [
+    {
+      "filename": "810273278641832038_100@repost.jpg",
+      "width": 2500,
+      "height": 2500,
+      "file_size": 7955212,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "810273278641832038_101@repost.jpg",
+      "width": 3164,
+      "height": 2721,
+      "file_size": 2370513,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 281,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5e9bc892-cf67-47df-916f-03f19c8bfc36",
+    "next_uuid": "c9730df2-03db-4cfb-9ba3-9c33280a314a"
+  }
+}

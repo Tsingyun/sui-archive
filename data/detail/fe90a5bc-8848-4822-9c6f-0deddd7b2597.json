@@ -1,0 +1,28 @@
+{
+  "uuid": "fe90a5bc-8848-4822-9c6f-0deddd7b2597",
+  "platform_post_id": "1033483008231866375",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-14T00:41:54+08:00",
+  "source_url": "https://t.bilibili.com/1033483008231866375",
+  "plain_text": "昨天偷情节一起过了，今晚的情人节呢，怎么说，还能一起过吗[温泉物语轻漾幻景表情包_对吗]晚安",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 65,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59e6a982-527c-49c1-aef2-40c3cfe1b5d4",
+    "next_uuid": "5ddd293f-b787-40ff-8154-5ae10e5c3571"
+  }
+}

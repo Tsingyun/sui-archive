@@ -1,0 +1,28 @@
+{
+  "uuid": "2e7a293e-1f0a-4071-bac4-eae17d2082b2",
+  "platform_post_id": "1208005512459714564",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-30T07:58:21+08:00",
+  "source_url": "https://t.bilibili.com/1208005512459714564",
+  "plain_text": "早上好！画好妆在出门了 你呢你呢",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c380d07-460e-48d0-a9f0-5e3ac24b18cf",
+    "next_uuid": "c70ce464-4315-4f10-89f2-e7c2f4ea3643"
+  }
+}

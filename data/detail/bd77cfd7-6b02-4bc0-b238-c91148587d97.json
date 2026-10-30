@@ -1,0 +1,28 @@
+{
+  "uuid": "bd77cfd7-6b02-4bc0-b238-c91148587d97",
+  "platform_post_id": "799883198951587840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-26T12:35:20+08:00",
+  "source_url": "https://t.bilibili.com/799883198951587840",
+  "plain_text": "刚才手机欠费了，我不管不顾地跑啊跑啊，我捡瓶子啊我捡纸盒啊，我跑啊我捡啊，鞋跑掉了我也跑跑跑啊，终于凑够10块话费能给你发早安动态了宝，555我的宝",
+  "images": [],
+  "stats": {
+    "likes": 547,
+    "comments": 57,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b8f45581-0566-4b84-a18a-d8224aa2dbf8",
+    "next_uuid": "61c31f3c-4eb4-46de-903f-621b0f6406e1"
+  }
+}

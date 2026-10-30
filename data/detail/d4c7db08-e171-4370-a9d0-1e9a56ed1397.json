@@ -1,0 +1,28 @@
+{
+  "uuid": "d4c7db08-e171-4370-a9d0-1e9a56ed1397",
+  "platform_post_id": "1211229113063309336",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-08T00:27:34+08:00",
+  "source_url": "https://t.bilibili.com/1211229113063309336",
+  "plain_text": "不要露出这样的表情，我们还会见面的…！找到属于自己的安宁和归宿吧 饼干君 晚安💤",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "66267f3b-c369-409d-b900-7a6385d4af78",
+    "next_uuid": "9582c8b1-29b1-4bfa-b1e4-8ed58df715d1"
+  }
+}

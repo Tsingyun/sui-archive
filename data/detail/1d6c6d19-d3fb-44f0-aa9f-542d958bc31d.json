@@ -1,0 +1,38 @@
+{
+  "uuid": "1d6c6d19-d3fb-44f0-aa9f-542d958bc31d",
+  "platform_post_id": "859429647505424391",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-11-02T23:45:58+08:00",
+  "source_url": "https://t.bilibili.com/859429647505424391",
+  "plain_text": "睡前再用可爱袭击你一下",
+  "images": [
+    {
+      "filename": "859429647505424391_100@repost.png",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2206065,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 310,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "啪叽P",
+    "author_url": "https://space.bilibili.com/28961139",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2afbf7d3-6a68-4771-86da-2521e61c2177",
+    "next_uuid": "9f253cd1-6008-413a-a4e9-9126624be30c"
+  }
+}

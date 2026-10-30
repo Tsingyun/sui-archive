@@ -1,0 +1,28 @@
+{
+  "uuid": "d5445c49-d006-4151-a83a-ab330ba2816d",
+  "platform_post_id": "1247896700596518912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-14T19:56:32+08:00",
+  "source_url": "https://t.bilibili.com/1247896700596518912",
+  "plain_text": "[疼]朕为何如此之困 8:05来！唱聊法环环 今天是不是要不新地图要不那个什么骑士 来着",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1812480b-4850-47c9-b539-0b1d24e1db0b",
+    "next_uuid": "f639508c-dd80-4118-9cc5-66e8bcd9402d"
+  }
+}

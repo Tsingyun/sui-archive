@@ -1,0 +1,28 @@
+{
+  "uuid": "ccccb58f-c7e1-47c6-80b7-e49caf6fc95a",
+  "platform_post_id": "838450008120360999",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-07T10:54:15+08:00",
+  "source_url": "https://t.bilibili.com/838450008120360999",
+  "plain_text": "早 我醒了！你在干嘛",
+  "images": [],
+  "stats": {
+    "likes": 322,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f469cdc6-90df-4c74-a9bc-1ba11b8348a1",
+    "next_uuid": "72984fa9-7244-4a14-ba3a-8027f8a08796"
+  }
+}

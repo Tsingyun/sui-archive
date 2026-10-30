@@ -1,0 +1,28 @@
+{
+  "uuid": "b08bce2a-9dc8-4d31-bf64-f71e0ca0589c",
+  "platform_post_id": "1239803298544877606",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-24T00:30:00+08:00",
+  "source_url": "https://t.bilibili.com/1239803298544877606",
+  "plain_text": "晚安晚安哟大家，今天和饼干岁一起被大树守卫打了",
+  "images": [],
+  "stats": {
+    "likes": 209,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88fc0301-136b-420d-8577-5d677c27fe60",
+    "next_uuid": "a6fc3816-49d8-4439-919a-c4df6b86f5f7"
+  }
+}

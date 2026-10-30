@@ -1,0 +1,28 @@
+{
+  "uuid": "6e6b5231-ce5c-4183-b4cb-291101f502b2",
+  "platform_post_id": "781812338777915401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-07T19:51:10+08:00",
+  "source_url": "https://t.bilibili.com/781812338777915401",
+  "plain_text": "8:40 干什么？我还没想好 等着瞧吧！",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b11d2e8c-762f-434f-82e8-db05739a3e70",
+    "next_uuid": "33cd84c8-f273-4435-82b3-21b912351e18"
+  }
+}

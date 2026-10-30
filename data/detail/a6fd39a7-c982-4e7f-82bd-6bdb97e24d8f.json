@@ -1,0 +1,28 @@
+{
+  "uuid": "a6fd39a7-c982-4e7f-82bd-6bdb97e24d8f",
+  "platform_post_id": "1227929337499484185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-23T00:32:58+08:00",
+  "source_url": "https://t.bilibili.com/1227929337499484185",
+  "plain_text": "你睡吧，神枪手小岁会在这个充满危险的夜晚护你周全的，安了",
+  "images": [],
+  "stats": {
+    "likes": 215,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3108d5ea-9962-47a5-a2d0-92a67a2ca534",
+    "next_uuid": "914da149-90d7-44cd-a7bc-c46414d378d6"
+  }
+}

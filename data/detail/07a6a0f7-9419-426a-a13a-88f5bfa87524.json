@@ -1,0 +1,28 @@
+{
+  "uuid": "07a6a0f7-9419-426a-a13a-88f5bfa87524",
+  "platform_post_id": "1226074212281614361",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-18T00:34:08+08:00",
+  "source_url": "https://t.bilibili.com/1226074212281614361",
+  "plain_text": "晚安大家 明天久违地早上见",
+  "images": [],
+  "stats": {
+    "likes": 137,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2d632750-16b6-48af-b157-d90638d32959",
+    "next_uuid": "ea3a85e6-22c2-4350-8d3f-9759ab13880f"
+  }
+}

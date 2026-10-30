@@ -1,0 +1,28 @@
+{
+  "uuid": "06bb2068-1158-4e83-8b80-f3cc67e14365",
+  "platform_post_id": "1235647509671444499",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-12T19:43:25+08:00",
+  "source_url": "https://t.bilibili.com/1235647509671444499",
+  "plain_text": "[轻漾幻景动态表情_对吗]我还在看显卡 头好大 8:20来好吗！然后9点联动躲猫猫！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee9633b5-6dcc-4e2f-aea1-544645b1f0df",
+    "next_uuid": "d7f6f0b8-5732-4cd9-ba7e-2ee52a00a9e5"
+  }
+}

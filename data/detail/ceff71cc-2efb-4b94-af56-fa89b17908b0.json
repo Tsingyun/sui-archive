@@ -1,0 +1,47 @@
+{
+  "uuid": "ceff71cc-2efb-4b94-af56-fa89b17908b0",
+  "platform_post_id": "899797903372976149",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-19T18:35:25+08:00",
+  "source_url": "https://t.bilibili.com/899797903372976149",
+  "plain_text": "前面有个胖胖圆圆跑不太动的饼之巨人 我去解决",
+  "images": [
+    {
+      "filename": "899797903372976149_100@repost.png",
+      "width": 2379,
+      "height": 3000,
+      "file_size": 3394343,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "899797903372976149_101@repost.png",
+      "width": 2379,
+      "height": 3000,
+      "file_size": 2843954,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 249,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb2e8cf3-21e2-498f-9a96-0973ae0f883a",
+    "next_uuid": "d0690277-11af-4d8b-b177-19ae80cfab83"
+  }
+}

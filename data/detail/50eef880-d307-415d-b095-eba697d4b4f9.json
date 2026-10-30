@@ -1,0 +1,28 @@
+{
+  "uuid": "50eef880-d307-415d-b095-eba697d4b4f9",
+  "platform_post_id": "716849369230344231",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-14T18:21:40+08:00",
+  "source_url": "https://t.bilibili.com/716849369230344231",
+  "plain_text": "今晚9.10来见见可爱滴饼干岁 嘻嘻(>ω^)  颜文字找了十来秒 很辛苦 回一下消息谢谢",
+  "images": [],
+  "stats": {
+    "likes": 523,
+    "comments": 93,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afd68bb2-05f7-4377-9084-7e59d77d6942",
+    "next_uuid": "dfe60fbf-0570-4f11-8f01-998365183beb"
+  }
+}

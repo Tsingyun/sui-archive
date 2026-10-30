@@ -1,0 +1,28 @@
+{
+  "uuid": "3fb93efd-358b-4cb3-a455-7332b872f73d",
+  "platform_post_id": "1115410553073827845",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-22T19:22:37+08:00",
+  "source_url": "https://t.bilibili.com/1115410553073827845",
+  "plain_text": "我回来了！我们7:45见喏！",
+  "images": [],
+  "stats": {
+    "likes": 221,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "05d77059-e876-40c7-9304-d95bbe6f17db",
+    "next_uuid": "2e74cdba-8470-446f-af9f-eeeed6d97494"
+  }
+}

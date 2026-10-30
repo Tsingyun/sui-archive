@@ -1,0 +1,28 @@
+{
+  "uuid": "0951c1d5-f317-4342-8255-9d2e57247fce",
+  "platform_post_id": "875378042186235921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-15T23:13:53+08:00",
+  "source_url": "https://t.bilibili.com/875378042186235921",
+  "plain_text": "明天终于可以让大家看到新的岁己了！现在在选明天要唱的歌\n古德古德古德奈特，先晚安喽。明天记得准时来见我",
+  "images": [],
+  "stats": {
+    "likes": 607,
+    "comments": 86,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "842167d5-bf97-47f3-b0b1-30c5b1f4127a",
+    "next_uuid": "027ae742-1947-4dd6-90e6-87340fb531af"
+  }
+}

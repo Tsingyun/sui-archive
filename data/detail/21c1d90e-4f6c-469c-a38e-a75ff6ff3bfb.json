@@ -1,0 +1,38 @@
+{
+  "uuid": "21c1d90e-4f6c-469c-a38e-a75ff6ff3bfb",
+  "platform_post_id": "1123658844507996166",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-15T00:50:12+08:00",
+  "source_url": "https://t.bilibili.com/1123658844507996166",
+  "plain_text": "哼 不想说你了 哼 你一点都不好 哼 晚安 哼\n",
+  "images": [
+    {
+      "filename": "1123658844507996166_00@original.png",
+      "width": 1024,
+      "height": 1361,
+      "file_size": 1166270,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 343,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8b2bc225-a47b-4ada-9cdf-4116fc17765f",
+    "next_uuid": "ef83072a-a488-49f1-8f5e-160ad14bf1ba"
+  }
+}

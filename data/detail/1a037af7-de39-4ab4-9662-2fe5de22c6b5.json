@@ -1,0 +1,38 @@
+{
+  "uuid": "1a037af7-de39-4ab4-9662-2fe5de22c6b5",
+  "platform_post_id": "908025076448755729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-12T22:41:03+08:00",
+  "source_url": "https://t.bilibili.com/908025076448755729",
+  "plain_text": "天，嘉宾居然是我​//@弥希Miki:震撼！没想到吧【Cat!_calledme】",
+  "images": [
+    {
+      "filename": "908025076448755729_100@repost.jpg",
+      "width": 1200,
+      "height": 1600,
+      "file_size": 1275597,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 373,
+    "comments": 54,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "悠亚Yua",
+    "author_url": "https://space.bilibili.com/666726799",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "673119d9-9e0e-4524-8579-6cd587e017e0",
+    "next_uuid": "dec460bd-0c9f-474e-9322-f5d01b9c9a37"
+  }
+}

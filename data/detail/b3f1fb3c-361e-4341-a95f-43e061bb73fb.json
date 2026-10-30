@@ -1,0 +1,28 @@
+{
+  "uuid": "b3f1fb3c-361e-4341-a95f-43e061bb73fb",
+  "platform_post_id": "707899503490891792",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-20T15:31:37+08:00",
+  "source_url": "https://t.bilibili.com/707899503490891792",
+  "plain_text": "#岁便看看#\n昨天聊到房间就想了解下大家房间的样子（脏乱程度），于是在这个话题中征集一下大家的房间之后直播看看！不要悄悄收拾了再拍好吗",
+  "images": [],
+  "stats": {
+    "likes": 444,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "65ba96a5-721a-487f-8401-47888bfbd586",
+    "next_uuid": "62068c6b-ed1e-4128-95a2-49b5e46d9304"
+  }
+}

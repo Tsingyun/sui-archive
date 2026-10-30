@@ -1,0 +1,28 @@
+{
+  "uuid": "4f1a1acd-51e5-41d9-a6f2-42eb03f26965",
+  "platform_post_id": "951014443749212182",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-06T19:01:45+08:00",
+  "source_url": "https://t.bilibili.com/951014443749212182",
+  "plain_text": "今天的直播预定是7:20唱唱聊聊，然后小潜一会",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "416b6e0e-8a18-4458-822d-f66cf16d918d",
+    "next_uuid": "666cea29-ef12-4918-95d3-ebc39a259d12"
+  }
+}

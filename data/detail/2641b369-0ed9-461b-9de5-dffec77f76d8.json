@@ -1,0 +1,38 @@
+{
+  "uuid": "2641b369-0ed9-461b-9de5-dffec77f76d8",
+  "platform_post_id": "834451015373684743",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-27T16:16:07+08:00",
+  "source_url": "https://t.bilibili.com/834451015373684743",
+  "plain_text": "귀 여운捏\n好喜欢这种剧情画啊谁懂呀",
+  "images": [
+    {
+      "filename": "834451015373684743_100@repost.jpg",
+      "width": 1080,
+      "height": 2839,
+      "file_size": 698904,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 287,
+    "comments": 26,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "爪哇莫斯",
+    "author_url": "https://space.bilibili.com/1223185756",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6294b37d-f49e-41cf-b192-dbb82b9a3690",
+    "next_uuid": "66a4cf27-e3cc-49f0-905b-35523c71845a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "5b5ddc01-76b9-4b39-a56d-409afe6819f1",
+  "platform_post_id": "1002690184352890900",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-23T01:10:01+08:00",
+  "source_url": "https://t.bilibili.com/1002690184352890900",
+  "plain_text": "[微笑][喜极而泣][笑哭][捂脸][再见][傲娇]晚安wanan",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "57f1107e-da66-4d87-8c21-39acfdafb321",
+    "next_uuid": "41b6a234-4b04-4527-90db-392dd74895ca"
+  }
+}

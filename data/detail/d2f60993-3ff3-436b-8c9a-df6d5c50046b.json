@@ -1,0 +1,28 @@
+{
+  "uuid": "d2f60993-3ff3-436b-8c9a-df6d5c50046b",
+  "platform_post_id": "1213836282762887176",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-15T01:04:43+08:00",
+  "source_url": "https://t.bilibili.com/1213836282762887176",
+  "plain_text": "晚安观众们💤",
+  "images": [],
+  "stats": {
+    "likes": 243,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c30439b0-d6e4-4183-b319-700235cc264f",
+    "next_uuid": "12e738cc-b89c-491d-9aec-706694637336"
+  }
+}

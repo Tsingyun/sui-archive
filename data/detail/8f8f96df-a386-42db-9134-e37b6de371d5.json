@@ -1,0 +1,28 @@
+{
+  "uuid": "8f8f96df-a386-42db-9134-e37b6de371d5",
+  "platform_post_id": "747644220348563463",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-05T18:01:25+08:00",
+  "source_url": "https://t.bilibili.com/747644220348563463",
+  "plain_text": "八点见哦哦哦噢噢噢噢，接着暴雨",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ae21f852-dea1-4d94-b815-42863a7b3202",
+    "next_uuid": "d1cefd23-8ce4-47c2-b13c-43249850bb3e"
+  }
+}

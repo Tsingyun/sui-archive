@@ -1,0 +1,28 @@
+{
+  "uuid": "b70d0b02-9cbb-4224-b292-ce0c2d2c1787",
+  "platform_post_id": "1161804703879659527",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-25T19:55:37+08:00",
+  "source_url": "https://t.bilibili.com/1161804703879659527",
+  "plain_text": "门锁修好了，我进门了，我去热饭然后我们10分钟后见直接石头门，边吃边看你说好吗。看完再唱唱聊聊",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27db12a3-de3c-4f3a-b3be-ff6b52d049a4",
+    "next_uuid": "d9a3cea7-5763-4bbd-8bef-50fccb4495d7"
+  }
+}

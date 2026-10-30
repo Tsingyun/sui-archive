@@ -1,0 +1,28 @@
+{
+  "uuid": "ebf07a8c-bfc4-4baa-9a9a-55a23118ddfe",
+  "platform_post_id": "737376113156685828",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-09T01:55:55+08:00",
+  "source_url": "https://t.bilibili.com/737376113156685828",
+  "plain_text": "晚安！祝大家睡香香，明早见捏！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5c73975b-a240-466a-8c25-35cec4faa17f",
+    "next_uuid": "50c69188-f301-4b84-90cd-e6a6e09f865e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "382d1122-8865-4427-a82a-69f70dc26ae2",
+  "platform_post_id": "873527289261850674",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-10T23:32:01+08:00",
+  "source_url": "https://t.bilibili.com/873527289261850674",
+  "plain_text": "哈哈哈哈一不小心那个那个 在某个地方 不小心上了一个东西  有人找到了吗\n晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 458,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "85edef33-e4db-4510-a8f3-2c9f286141bf",
+    "next_uuid": "cb6dde13-18e4-403f-9050-ba597c43049c"
+  }
+}

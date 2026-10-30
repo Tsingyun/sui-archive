@@ -1,0 +1,28 @@
+{
+  "uuid": "360ec5e0-ffcf-4485-ae41-377e3171a62b",
+  "platform_post_id": "1183613388175966229",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-25T14:24:27+08:00",
+  "source_url": "https://t.bilibili.com/1183613388175966229",
+  "plain_text": "2:45来继续生化危机，挑战让你见到你老公",
+  "images": [],
+  "stats": {
+    "likes": 190,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "621c2c8e-511a-4687-b87c-a3bdcebdac62",
+    "next_uuid": "3ebb711b-f415-42cf-a2fc-6c27a9d768cc"
+  }
+}

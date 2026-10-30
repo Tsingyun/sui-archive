@@ -1,0 +1,28 @@
+{
+  "uuid": "c7df4a6e-4b42-4876-8538-7b29529ecdb1",
+  "platform_post_id": "1049424045591756832",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-28T23:41:16+08:00",
+  "source_url": "https://t.bilibili.com/1049424045591756832",
+  "plain_text": "今晚好冷啊！瑟缩地跟你说晚安晚安",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f780deba-c977-40da-a36e-dba3cca763e8",
+    "next_uuid": "b0fa0f45-7503-4677-a88b-0d81ff5aa373"
+  }
+}

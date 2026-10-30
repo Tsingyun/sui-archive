@@ -1,0 +1,38 @@
+{
+  "uuid": "77beb4bc-ea7e-4dbb-8d15-055f3a753ae6",
+  "platform_post_id": "1136511104629866502",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-11-18T16:03:32+08:00",
+  "source_url": "https://t.bilibili.com/1136511104629866502",
+  "plain_text": "哇哦是岁里奥和她的好搭档饼干帽",
+  "images": [
+    {
+      "filename": "1136511104629866502_100@repost.png",
+      "width": 3200,
+      "height": 3200,
+      "file_size": 3631619,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 206,
+    "comments": 14,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "88d41f3c-0758-4468-8904-69caafbb1353",
+    "next_uuid": "84ff5b6e-4171-489a-9e16-62217e26b313"
+  }
+}

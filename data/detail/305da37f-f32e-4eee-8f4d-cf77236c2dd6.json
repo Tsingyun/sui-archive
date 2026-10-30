@@ -1,0 +1,28 @@
+{
+  "uuid": "305da37f-f32e-4eee-8f4d-cf77236c2dd6",
+  "platform_post_id": "791693310449156099",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-04T10:54:23+08:00",
+  "source_url": "https://t.bilibili.com/791693310449156099",
+  "plain_text": "早 工作加油哦",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4182c3cf-b213-4118-a666-76b340ea1a58",
+    "next_uuid": "673013d3-393f-4e05-a14d-b4ac5b7159fd"
+  }
+}

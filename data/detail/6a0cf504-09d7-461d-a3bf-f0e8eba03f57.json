@@ -1,0 +1,28 @@
+{
+  "uuid": "6a0cf504-09d7-461d-a3bf-f0e8eba03f57",
+  "platform_post_id": "1027091173475352596",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-27T19:18:19+08:00",
+  "source_url": "https://t.bilibili.com/1027091173475352596",
+  "plain_text": "靠在床头就这么坐着睡着了我去，我怎么了，7:30来哦哦！",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "485cda87-64cf-41cf-8b1b-add3232f69c0",
+    "next_uuid": "dcd4c73e-4d41-43cb-bf4f-1d5036127c7f"
+  }
+}

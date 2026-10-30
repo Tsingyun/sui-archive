@@ -1,0 +1,28 @@
+{
+  "uuid": "55047eea-75b5-472f-90c8-06c219d5d9c3",
+  "platform_post_id": "1164026580669825026",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-31T19:37:38+08:00",
+  "source_url": "https://t.bilibili.com/1164026580669825026",
+  "plain_text": "8点来！咋办 超时空辉夜姬 无了 谁能找到的说\n实在不行就继续狼了",
+  "images": [],
+  "stats": {
+    "likes": 218,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5455022e-38df-410a-970e-b89b9b03cb29",
+    "next_uuid": "a837fc9b-7e96-4026-a62d-f372ad8f35d3"
+  }
+}

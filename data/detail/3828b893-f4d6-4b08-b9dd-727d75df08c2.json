@@ -1,0 +1,28 @@
+{
+  "uuid": "3828b893-f4d6-4b08-b9dd-727d75df08c2",
+  "platform_post_id": "800395884646891591",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-27T21:44:49+08:00",
+  "source_url": "https://t.bilibili.com/800395884646891591",
+  "plain_text": "估计7分钟后开播",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2348d1d0-cd5c-41be-86be-d3b5e992d993",
+    "next_uuid": "06be5b3b-afa9-474b-a9ec-faaa1dbf71c2"
+  }
+}

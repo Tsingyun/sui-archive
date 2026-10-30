@@ -1,0 +1,28 @@
+{
+  "uuid": "7203ecbf-00c8-4dd9-ab4c-08f3e06485ec",
+  "platform_post_id": "940692498960875539",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-08T23:27:20+08:00",
+  "source_url": "https://t.bilibili.com/940692498960875539",
+  "plain_text": "晚安  累累困困的今天也要早点睡了",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "664b859a-7ad9-49ba-926e-75cf220ac1e0",
+    "next_uuid": "697e766f-6236-4c82-9d05-ab267ef71f6f"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "24f346fd-7608-40cd-9261-b0c147e9c16f",
+  "platform_post_id": "857066436247420966",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-10-27T14:55:30+08:00",
+  "source_url": "https://t.bilibili.com/857066436247420966",
+  "plain_text": "床单都给你说睡绿了！",
+  "images": [
+    {
+      "filename": "857066436247420966_100@repost.jpg",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 960984,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 309,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "济物忘机",
+    "author_url": "https://space.bilibili.com/94892628",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d5618962-a19c-4c6a-a4a8-408b84ac75b0",
+    "next_uuid": "39a8168b-5b99-4098-aebf-48d6dd803d49"
+  }
+}

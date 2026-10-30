@@ -1,0 +1,28 @@
+{
+  "uuid": "29c7b6b7-f4b0-46e0-825c-8d5d5ad7e0e8",
+  "platform_post_id": "902410235640020992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-26T19:32:36+08:00",
+  "source_url": "https://t.bilibili.com/902410235640020992",
+  "plain_text": "7:50！懂？不要让我说第二遍！",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a3771641-db56-4138-a93e-74b64efe5db7",
+    "next_uuid": "0cc4a891-ed05-43c7-8f19-812741b9a3c4"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6e300bd8-c7ca-4bff-8358-8cb6df6b1fd4",
+  "platform_post_id": "1229781396082393108",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-28T00:19:54+08:00",
+  "source_url": "https://t.bilibili.com/1229781396082393108",
+  "plain_text": "晚安。（os饼干岁怎么还没催我发晚安他到底需不需要我的我晚安啊",
+  "images": [],
+  "stats": {
+    "likes": 152,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea92d333-28a5-4646-b576-415c3f9d4f4b",
+    "next_uuid": "0e3f4cca-ce9f-4b7b-bf7e-ef0abb92c51d"
+  }
+}

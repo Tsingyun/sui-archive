@@ -1,0 +1,28 @@
+{
+  "uuid": "f1250a87-99eb-4891-876b-6592749ba27c",
+  "platform_post_id": "1140275445892120592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-28T19:31:06+08:00",
+  "source_url": "https://t.bilibili.com/1140275445892120592",
+  "plain_text": "今天吃饭晚了点 8:10来嗷",
+  "images": [],
+  "stats": {
+    "likes": 179,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f2048a9-ba21-4844-b83b-8328bde3b8b0",
+    "next_uuid": "481e5c05-eb77-45f3-b32a-695f254655ef"
+  }
+}

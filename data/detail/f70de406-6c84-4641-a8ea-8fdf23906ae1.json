@@ -1,0 +1,28 @@
+{
+  "uuid": "f70de406-6c84-4641-a8ea-8fdf23906ae1",
+  "platform_post_id": "1106130322713477161",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-28T19:10:35+08:00",
+  "source_url": "https://t.bilibili.com/1106130322713477161",
+  "plain_text": "7:40见喔[岁己收藏集表情包_那很好了][岁己收藏集表情包_那很好了]",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f8a7c91-59a7-43fc-9467-05a28d88e569",
+    "next_uuid": "d97e7e80-6223-43c2-9009-2d8a409b4b68"
+  }
+}

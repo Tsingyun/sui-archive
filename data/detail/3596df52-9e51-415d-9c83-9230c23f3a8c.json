@@ -1,0 +1,28 @@
+{
+  "uuid": "3596df52-9e51-415d-9c83-9230c23f3a8c",
+  "platform_post_id": "817721078360047652",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-13T14:15:25+08:00",
+  "source_url": "https://t.bilibili.com/817721078360047652",
+  "plain_text": "啊？！睡了11个小时！救命啊 下雨天害人啊 雨声有催眠术啊大家 [UP_1954091502_想岁了] 下午好呜呜呜咕咕咕",
+  "images": [],
+  "stats": {
+    "likes": 418,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "58031cba-d32a-4435-a52d-086bf7d4c6ca",
+    "next_uuid": "1052387e-1ed2-4c86-97bf-37e26bfb3d1e"
+  }
+}

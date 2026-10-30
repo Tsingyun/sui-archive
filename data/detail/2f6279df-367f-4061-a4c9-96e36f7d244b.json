@@ -1,0 +1,28 @@
+{
+  "uuid": "2f6279df-367f-4061-a4c9-96e36f7d244b",
+  "platform_post_id": "1188065516924698626",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-06T14:20:59+08:00",
+  "source_url": "https://t.bilibili.com/1188065516924698626",
+  "plain_text": "2:40继续生化危机 去准备条裤子先",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5148e6c-024d-487e-8fc2-d699d14173e9",
+    "next_uuid": "ad901a04-f1cd-4d18-875e-1013eac34704"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0f4c91e9-2599-447a-aa0e-ceafba8a288e",
+  "platform_post_id": "926531253027471379",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-01T19:34:28+08:00",
+  "source_url": "https://t.bilibili.com/926531253027471379",
+  "plain_text": "7:50就来就来就来就来就来",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ddfb52d7-ac3f-4554-9640-a4ec6cc0be55",
+    "next_uuid": "a7a2f5b6-7893-4899-8833-37ae06d4e816"
+  }
+}

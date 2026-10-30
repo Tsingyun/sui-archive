@@ -1,0 +1,28 @@
+{
+  "uuid": "ee288fc9-ffeb-43ba-8ed8-c5bbfdb679c2",
+  "platform_post_id": "989980293801705475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-19T19:09:09+08:00",
+  "source_url": "https://t.bilibili.com/989980293801705475",
+  "plain_text": "好懒啊又在床上躺尸，7:40孱弱阴暗地爬起来播播",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c80f8169-2d8a-4620-bd95-6cc11e57d778",
+    "next_uuid": "fb69ec26-f112-4d97-bb58-d342af050e6a"
+  }
+}

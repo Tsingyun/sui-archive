@@ -1,0 +1,28 @@
+{
+  "uuid": "0cb59693-ca2e-4450-8985-8ec0bafa5194",
+  "platform_post_id": "839331128991023121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-09T19:53:27+08:00",
+  "source_url": "https://t.bilibili.com/839331128991023121",
+  "plain_text": "吃得好撑 休息一下8:20来 来干嘛！随便这这那那一下",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "02bbb5b9-edc1-4cbb-a781-a66fb0d2be38",
+    "next_uuid": "26b41fc4-da3f-45ae-aacb-df1d674bf256"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "da21bac5-8cf9-43c3-a07d-c8be7d15829c",
+  "platform_post_id": "953259869634297880",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-07-12T20:15:09+08:00",
+  "source_url": "https://t.bilibili.com/953259869634297880",
+  "plain_text": "啦啦🎵🎵",
+  "images": [
+    {
+      "filename": "953259869634297880_100@repost.png",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 12382825,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 249,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d4d773cb-48f4-41cc-af8e-82d201c5c275",
+    "next_uuid": "2c66ff0b-1eb9-4116-8920-3c62f76c0468"
+  }
+}

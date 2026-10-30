@@ -1,0 +1,28 @@
+{
+  "uuid": "e1269f42-6796-4c04-8c39-8f35596fd7a7",
+  "platform_post_id": "758666128634413096",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-04T10:52:03+08:00",
+  "source_url": "https://t.bilibili.com/758666128634413096",
+  "plain_text": "早，久违失眠了，困困的",
+  "images": [],
+  "stats": {
+    "likes": 342,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "060f8ce6-64c7-452f-9583-8462e22897a3",
+    "next_uuid": "0a6b237b-a82a-4e93-a288-36dd7ef381a6"
+  }
+}

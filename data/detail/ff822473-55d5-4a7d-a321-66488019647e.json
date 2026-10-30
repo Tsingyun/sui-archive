@@ -1,0 +1,28 @@
+{
+  "uuid": "ff822473-55d5-4a7d-a321-66488019647e",
+  "platform_post_id": "1259039847211859969",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-14T20:37:38+08:00",
+  "source_url": "https://t.bilibili.com/1259039847211859969",
+  "plain_text": "报告，已收工！在棚子睡了半小时 要吃晚饭啦 好期待🤤",
+  "images": [],
+  "stats": {
+    "likes": 396,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f32e082d-9f8e-4342-be51-2b852e4414e7",
+    "next_uuid": "1e703c43-4239-4291-a793-7e840d2ac860"
+  }
+}

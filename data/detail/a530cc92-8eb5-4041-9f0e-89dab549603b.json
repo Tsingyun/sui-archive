@@ -1,0 +1,28 @@
+{
+  "uuid": "a530cc92-8eb5-4041-9f0e-89dab549603b",
+  "platform_post_id": "935133136242606114",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-24T23:54:10+08:00",
+  "source_url": "https://t.bilibili.com/935133136242606114",
+  "plain_text": "明天再见吧！今天真的好累喔\n晚安啾啾啾",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c8902e3b-f2ac-42cd-91ed-41c7b0c78060",
+    "next_uuid": "085305f1-9b3c-42b9-a9cb-86f9ac66a600"
+  }
+}

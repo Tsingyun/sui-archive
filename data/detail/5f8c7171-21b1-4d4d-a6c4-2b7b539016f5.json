@@ -1,0 +1,28 @@
+{
+  "uuid": "5f8c7171-21b1-4d4d-a6c4-2b7b539016f5",
+  "platform_post_id": "758869181799071943",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-05T00:00:00+08:00",
+  "source_url": "https://t.bilibili.com/758869181799071943",
+  "plain_text": "0点了！有没有什么要跟我说的呀！",
+  "images": [],
+  "stats": {
+    "likes": 537,
+    "comments": 220,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a6b237b-a82a-4e93-a288-36dd7ef381a6",
+    "next_uuid": "00fe967a-7a21-4cbe-8f36-1a73554f8478"
+  }
+}

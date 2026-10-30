@@ -1,0 +1,28 @@
+{
+  "uuid": "bf17dcc7-2b56-4640-b789-47c8f387ff29",
+  "platform_post_id": "821580776477818944",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-23T23:53:01+08:00",
+  "source_url": "https://t.bilibili.com/821580776477818944",
+  "plain_text": "歌录了 舞跳了 被小狗粘了 充实的一天🥰🥰🥰\n晚安",
+  "images": [],
+  "stats": {
+    "likes": 444,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "717672e9-5d13-4170-bdbe-40026c7097dc",
+    "next_uuid": "60724157-d1d7-4a1a-aaf3-4759a339e463"
+  }
+}

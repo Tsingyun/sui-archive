@@ -1,0 +1,28 @@
+{
+  "uuid": "69ab00db-108c-4dcb-87bc-d18bc405a1d1",
+  "platform_post_id": "1258280879257550873",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-12T19:32:27+08:00",
+  "source_url": "https://t.bilibili.com/1258280879257550873",
+  "plain_text": "8点见 唱唱聊聊然后我们接着看看之前大家评论里投的视频！",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "32a5862a-cbd2-4c55-a382-aee1e0f10d6f",
+    "next_uuid": "cb6975fc-971a-481b-b8fb-b0bdc6f552aa"
+  }
+}

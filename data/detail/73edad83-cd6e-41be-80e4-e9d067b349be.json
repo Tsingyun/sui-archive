@@ -1,0 +1,28 @@
+{
+  "uuid": "73edad83-cd6e-41be-80e4-e9d067b349be",
+  "platform_post_id": "1068345936360505348",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-18T23:27:52+08:00",
+  "source_url": "https://t.bilibili.com/1068345936360505348",
+  "plain_text": "[岁己收藏集表情包_呼]晚安全世界",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1bdf3e93-5a97-482d-870a-7dcaafb03c1a",
+    "next_uuid": "6094692a-e21c-47a4-8d93-c4efabff6237"
+  }
+}

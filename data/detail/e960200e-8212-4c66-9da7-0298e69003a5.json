@@ -1,0 +1,28 @@
+{
+  "uuid": "e960200e-8212-4c66-9da7-0298e69003a5",
+  "platform_post_id": "776120162787000324",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-23T11:42:37+08:00",
+  "source_url": "https://t.bilibili.com/776120162787000324",
+  "plain_text": "早！起了！如何？嗯？嗯嗯嗯？夸吧。赞美吧。",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 65,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "185acff5-0c5d-416d-91e0-7b1e71f3485e",
+    "next_uuid": "13f5aa8e-a93f-43c5-b437-0e916bdf7bd9"
+  }
+}

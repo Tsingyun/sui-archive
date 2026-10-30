@@ -1,0 +1,28 @@
+{
+  "uuid": "8c26739f-00cc-4d5d-b520-b0bafd779aa9",
+  "platform_post_id": "1263479460427988992",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-26T19:45:36+08:00",
+  "source_url": "https://t.bilibili.com/1263479460427988992",
+  "plain_text": "8点来！唱聊法环 不跟你开玩笑！今天打谁",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "56f26e51-f144-4993-921a-72e4909a8251",
+    "next_uuid": "ed2ca5a9-b85b-43d8-8b25-c9c77ee08bf9"
+  }
+}

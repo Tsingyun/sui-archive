@@ -1,0 +1,28 @@
+{
+  "uuid": "62b04322-f4fe-4ddd-bde6-0632d5cf503f",
+  "platform_post_id": "986368496848863252",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-10T01:33:32+08:00",
+  "source_url": "https://t.bilibili.com/986368496848863252",
+  "plain_text": "晚安捏晚安捏，我要在三分钟内解决好一切然后光速躺下",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e32917a-efde-436f-a8fa-0f6bac1e0c5f",
+    "next_uuid": "eabc695c-1619-45bb-a236-e9a3df1b695a"
+  }
+}

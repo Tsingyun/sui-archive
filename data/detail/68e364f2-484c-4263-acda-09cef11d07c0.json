@@ -1,0 +1,28 @@
+{
+  "uuid": "68e364f2-484c-4263-acda-09cef11d07c0",
+  "platform_post_id": "881249898131881988",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-31T18:59:41+08:00",
+  "source_url": "https://t.bilibili.com/881249898131881988",
+  "plain_text": "9:50见！要一起跨年的说\n2023最后一天，同时也是岁己新衣礼物最后一天！眨眼眨眼😉",
+  "images": [],
+  "stats": {
+    "likes": 320,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4264c218-0099-446a-9984-73c0972494d2",
+    "next_uuid": "369f6b2a-7c09-4462-90f9-d67de2ef17f2"
+  }
+}

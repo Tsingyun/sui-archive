@@ -1,0 +1,28 @@
+{
+  "uuid": "07ec444d-2597-45b7-a154-c279195cc403",
+  "platform_post_id": "1171886413799489553",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-21T23:57:48+08:00",
+  "source_url": "https://t.bilibili.com/1171886413799489553",
+  "plain_text": "猪大饼晚安[岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "631a3892-2c4e-4dd7-b1ab-23bcf173f8bf",
+    "next_uuid": "bb3ed311-e5d3-4fe3-a38e-9a145c18eb47"
+  }
+}

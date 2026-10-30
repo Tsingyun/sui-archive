@@ -1,0 +1,28 @@
+{
+  "uuid": "79c947d7-ff64-4ae4-8144-9ea6cb070ba4",
+  "platform_post_id": "725791637163212851",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-07T20:42:14+08:00",
+  "source_url": "https://t.bilibili.com/725791637163212851",
+  "plain_text": "9点小播一下呢",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06ba2bfc-24c7-440a-ae91-ac3569dc3fed",
+    "next_uuid": "79063923-9805-447a-80fd-79e204ac1be2"
+  }
+}

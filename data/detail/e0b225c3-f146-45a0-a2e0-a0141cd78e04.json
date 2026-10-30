@@ -1,0 +1,28 @@
+{
+  "uuid": "e0b225c3-f146-45a0-a2e0-a0141cd78e04",
+  "platform_post_id": "1194461388945227809",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-23T20:00:14+08:00",
+  "source_url": "https://t.bilibili.com/1194461388945227809",
+  "plain_text": "晚一点点！8:20来！",
+  "images": [],
+  "stats": {
+    "likes": 157,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b42ef81d-8257-4429-8439-6092f7070434",
+    "next_uuid": "9d2badc9-b168-487f-9159-18c1160a4190"
+  }
+}

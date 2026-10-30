@@ -1,0 +1,28 @@
+{
+  "uuid": "45ae2a31-0cc0-47c0-8456-c5d8401cf51d",
+  "platform_post_id": "1057896590156496913",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-20T19:39:04+08:00",
+  "source_url": "https://t.bilibili.com/1057896590156496913",
+  "plain_text": "晚安 没错我现在就发晚安 就是今天第一个说晚安的人了[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d54949f1-3f15-46c3-9d12-6a28db71c50a",
+    "next_uuid": "0d0d92c1-4174-4787-951a-566006b384a0"
+  }
+}

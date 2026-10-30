@@ -1,0 +1,28 @@
+{
+  "uuid": "61312d44-a4d9-4ccd-bab5-2a094bdc73c4",
+  "platform_post_id": "892833884499083269",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-01T00:11:28+08:00",
+  "source_url": "https://t.bilibili.com/892833884499083269",
+  "plain_text": "晚安啦 2月了 祝你开心健康！",
+  "images": [],
+  "stats": {
+    "likes": 428,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "003ba27e-9375-43e5-a5e8-703e8d832abe",
+    "next_uuid": "cd40acf6-de72-440e-8e57-1b05cbe5593d"
+  }
+}

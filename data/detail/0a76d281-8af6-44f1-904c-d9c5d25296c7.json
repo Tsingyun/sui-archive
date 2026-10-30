@@ -1,0 +1,47 @@
+{
+  "uuid": "0a76d281-8af6-44f1-904c-d9c5d25296c7",
+  "platform_post_id": "1010735925113651202",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-12-14T17:31:36+08:00",
+  "source_url": "https://t.bilibili.com/1010735925113651202",
+  "plain_text": "✨ 9月提督卫衣尺码征集！\nhttps://docs.qq.com/form/page/DRm1iQ2FGeWdnSGlY \n✨ 岁己出道至今12个吧唧集齐征集！\nhttps://docs.qq.com/form/page/DRm13c3lhaEtkWGJ6 \n集齐了如图↓12个吧唧的，可以获得一个赠送的毛绒吧唧！如图2\n",
+  "images": [
+    {
+      "filename": "1010735925113651202_00@original.jpg",
+      "width": 1434,
+      "height": 1080,
+      "file_size": 1571908,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1010735925113651202_01@original.png",
+      "width": 745,
+      "height": 746,
+      "file_size": 328644,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 183,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0f8fbf6b-660c-49b3-a1b1-cee9b4b14eea",
+    "next_uuid": "0566fd78-9878-4de9-bb5a-45d4fe01073d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "4ed7d743-6ff1-4273-9865-ed0ddce1930b",
+  "platform_post_id": "927989218323464198",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-05T17:52:07+08:00",
+  "source_url": "https://t.bilibili.com/927989218323464198",
+  "plain_text": "我出门啦",
+  "images": [],
+  "stats": {
+    "likes": 357,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "507c48b3-4675-40ca-b81d-0cc79a44fe18",
+    "next_uuid": "35c48b8d-6a59-42d6-9d6f-420097cc5b72"
+  }
+}

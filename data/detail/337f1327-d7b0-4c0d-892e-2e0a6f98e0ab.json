@@ -1,0 +1,28 @@
+{
+  "uuid": "337f1327-d7b0-4c0d-892e-2e0a6f98e0ab",
+  "platform_post_id": "1260215547269742613",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-18T00:39:57+08:00",
+  "source_url": "https://t.bilibili.com/1260215547269742613",
+  "plain_text": "晚安饼干岁，明天也要开心度过哦。周一见",
+  "images": [],
+  "stats": {
+    "likes": 548,
+    "comments": 106,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2c615e6-3138-4ae1-a238-a1409ab8d78b",
+    "next_uuid": "ed23066e-80c5-44f6-a648-e1ae04bbc592"
+  }
+}

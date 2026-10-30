@@ -1,0 +1,28 @@
+{
+  "uuid": "3a034d59-ed4a-41d3-afac-1b990b036c47",
+  "platform_post_id": "800254275546513541",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-27T12:35:18+08:00",
+  "source_url": "https://t.bilibili.com/800254275546513541",
+  "plain_text": "12:50岁己SUI的塞尔达来也 晚上有事估计晚点播一小会之类类类的 再通知！\n音频问题已解决（自己花2分钟解决的 请夸",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ca149cd-607f-4330-9298-b9e28b6c9023",
+    "next_uuid": "c710373b-c824-4b89-a843-56e35133023d"
+  }
+}

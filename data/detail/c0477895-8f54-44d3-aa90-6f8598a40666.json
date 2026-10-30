@@ -1,0 +1,28 @@
+{
+  "uuid": "c0477895-8f54-44d3-aa90-6f8598a40666",
+  "platform_post_id": "1085064483111436342",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-03T00:44:22+08:00",
+  "source_url": "https://t.bilibili.com/1085064483111436342",
+  "plain_text": "哈欠哈欠哈欠 据说有的人光是看到哈欠就会想打哈欠哈欠\n传染给你哈欠 希望你早点休息 晚安哈欠",
+  "images": [],
+  "stats": {
+    "likes": 289,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06d2fff0-e1df-450e-9544-ed95e83484c3",
+    "next_uuid": "e6d8690d-833f-434c-9e7d-d520e1a77304"
+  }
+}

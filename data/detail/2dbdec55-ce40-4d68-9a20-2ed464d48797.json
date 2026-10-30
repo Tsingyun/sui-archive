@@ -1,0 +1,38 @@
+{
+  "uuid": "2dbdec55-ce40-4d68-9a20-2ed464d48797",
+  "platform_post_id": "1129167294672404486",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-10-29T21:05:48+08:00",
+  "source_url": "https://t.bilibili.com/1129167294672404486",
+  "plain_text": "今年万圣节也要和大家一起度过！这次来征集一些恐怖故事┌(。Д。)┐\n可以是小时候听说过的鬼故事/自己或身边人经历过的灵异事件 什么类型都可以！\n麻烦字数最好限制在500以内！\n届时请自备额外内裤！\n\n投稿方式：https://pome.vip/Gz75k7hF\n截止时间：10月31日下午7点 \n\n",
+  "images": [
+    {
+      "filename": "1129167294672404486_00@original.png",
+      "width": 2048,
+      "height": 1361,
+      "file_size": 1259139,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 257,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e68a18e1-98f0-427e-9920-8d8f40bb4c93",
+    "next_uuid": "f82f1c87-a8d5-42df-aa46-22ec115a225b"
+  }
+}

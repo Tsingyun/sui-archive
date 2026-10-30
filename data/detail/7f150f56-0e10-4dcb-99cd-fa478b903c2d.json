@@ -1,0 +1,28 @@
+{
+  "uuid": "7f150f56-0e10-4dcb-99cd-fa478b903c2d",
+  "platform_post_id": "740238764718161920",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-16T19:04:28+08:00",
+  "source_url": "https://t.bilibili.com/740238764718161920",
+  "plain_text": "完蛋啊没时间玩游戏了今天 要么明儿见要么还是学歌回 怎么办捏",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "12c4e535-e0ed-400f-bcc2-5184741e22e8",
+    "next_uuid": "db90a1fc-7387-4528-8751-957aa730dc5d"
+  }
+}

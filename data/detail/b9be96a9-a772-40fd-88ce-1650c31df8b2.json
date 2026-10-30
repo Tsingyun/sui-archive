@@ -1,0 +1,28 @@
+{
+  "uuid": "b9be96a9-a772-40fd-88ce-1650c31df8b2",
+  "platform_post_id": "949982135259758646",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-04T00:15:52+08:00",
+  "source_url": "https://t.bilibili.com/949982135259758646",
+  "plain_text": "发给你看的晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6793c72f-4fff-404d-a6f8-db717c22830b",
+    "next_uuid": "beab1694-a7e9-42f2-b275-707c5ba74db3"
+  }
+}

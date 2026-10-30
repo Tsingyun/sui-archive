@@ -1,0 +1,28 @@
+{
+  "uuid": "117a49a1-205e-44d2-a1a4-b2a3a195bac0",
+  "platform_post_id": "878711602555125799",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-24T22:49:48+08:00",
+  "source_url": "https://t.bilibili.com/878711602555125799",
+  "plain_text": "2023年12月24日是值得被每个饼记得的一天，不是因为平安夜。\n而是因为这是岁己最伟大的一天，因为饼干岁的猜忌，不顾自己的头痛，坚持上播。每个饼都应该铭记。岁门",
+  "images": [],
+  "stats": {
+    "likes": 506,
+    "comments": 95,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b92880f6-6e32-45a0-91ac-465431aea827",
+    "next_uuid": "79f32b2d-074f-4a93-a901-378efb618ffe"
+  }
+}

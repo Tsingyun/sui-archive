@@ -1,0 +1,38 @@
+{
+  "uuid": "11a60ecc-1977-46b5-9165-47d5ef59146e",
+  "platform_post_id": "963581758346887192",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-09T15:49:21+08:00",
+  "source_url": "https://t.bilibili.com/963581758346887192",
+  "plain_text": "嗯？（很优雅很神秘",
+  "images": [
+    {
+      "filename": "963581758346887192_100@repost.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 827631,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 276,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "追风小梓bvb",
+    "author_url": "https://space.bilibili.com/21367425",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "18bfe05a-25ba-4041-b607-edfe8c86d3e7",
+    "next_uuid": "36e5c1e5-c974-44bf-89a0-d5e65c5d2536"
+  }
+}

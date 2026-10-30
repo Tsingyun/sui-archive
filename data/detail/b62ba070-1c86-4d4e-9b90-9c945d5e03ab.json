@@ -1,0 +1,38 @@
+{
+  "uuid": "b62ba070-1c86-4d4e-9b90-9c945d5e03ab",
+  "platform_post_id": "1196364398738800648",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-04-28T23:04:53+08:00",
+  "source_url": "https://t.bilibili.com/1196364398738800648",
+  "plain_text": "风景真不错，那位于风景里的岁己呢？",
+  "images": [
+    {
+      "filename": "1196364398738800648_100@repost.jpg",
+      "width": 2160,
+      "height": 3840,
+      "file_size": 4516439,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 208,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "49c33e27-fc20-405e-920c-81e956e40a38",
+    "next_uuid": "3ec29014-1854-49bc-9c90-bfecb5f77bbd"
+  }
+}

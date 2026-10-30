@@ -1,0 +1,28 @@
+{
+  "uuid": "05d8fa55-c02d-4c4e-976d-f023188f732d",
+  "platform_post_id": "789492981565489223",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-28T12:35:59+08:00",
+  "source_url": "https://t.bilibili.com/789492981565489223",
+  "plain_text": "刚吃完饭啦！你们吃了吗？什么？我怎么这么早就吃完了？哈哈，这都被你知道我八点过就起床啦",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4fcb267b-c040-4b42-a89b-af121d28143c",
+    "next_uuid": "62d46c9a-c3d1-414f-9bbf-3936d440c97b"
+  }
+}

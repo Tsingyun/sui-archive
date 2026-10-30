@@ -1,0 +1,28 @@
+{
+  "uuid": "85d9db67-b6f2-496f-aa23-b488a02cd4a8",
+  "platform_post_id": "1222368918227648519",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-08T00:55:42+08:00",
+  "source_url": "https://t.bilibili.com/1222368918227648519",
+  "plain_text": "我需要一个那个",
+  "images": [],
+  "stats": {
+    "likes": 156,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "200160d2-f929-414a-80ea-bbcc71ee30cf",
+    "next_uuid": "e7c9a22a-47f0-42e8-b8eb-ae7ce32f73ca"
+  }
+}

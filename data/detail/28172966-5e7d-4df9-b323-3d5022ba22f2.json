@@ -1,0 +1,28 @@
+{
+  "uuid": "28172966-5e7d-4df9-b323-3d5022ba22f2",
+  "platform_post_id": "1200036879268839432",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-08T20:35:59+08:00",
+  "source_url": "https://t.bilibili.com/1200036879268839432",
+  "plain_text": "8:44来吧我好累要累死了待会跟你说 今天来看点东西吧！你说说",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f17716cc-6da9-4219-8818-a5458dc9f196",
+    "next_uuid": "044809e3-b9a1-4adc-9c98-c8496a222b18"
+  }
+}

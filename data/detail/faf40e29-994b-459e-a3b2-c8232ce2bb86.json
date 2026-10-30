@@ -1,0 +1,28 @@
+{
+  "uuid": "faf40e29-994b-459e-a3b2-c8232ce2bb86",
+  "platform_post_id": "1029330354649956377",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-02T20:07:29+08:00",
+  "source_url": "https://t.bilibili.com/1029330354649956377",
+  "plain_text": "很充实的直播，提前晚安大家，明天见哦[温泉物语轻漾幻景表情包_小岁]",
+  "images": [],
+  "stats": {
+    "likes": 290,
+    "comments": 60,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5f419a7-a91b-4f15-9013-ac58f7a6edb0",
+    "next_uuid": "88f76699-7a6a-4dd1-8666-9de3c3db5ca4"
+  }
+}

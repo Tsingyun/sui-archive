@@ -1,0 +1,27 @@
+{
+  "total_images": 2,
+  "images": [
+    {
+      "filename": "1210001435340570626_00@original.png",
+      "width": 4042,
+      "height": 2560,
+      "variants": [
+        "w300",
+        "w600",
+        "w1200"
+      ],
+      "is_gif": false
+    },
+    {
+      "filename": "1210001435340570626_01@original.png",
+      "width": 2028,
+      "height": 1500,
+      "variants": [
+        "w300",
+        "w600",
+        "w1200"
+      ],
+      "is_gif": false
+    }
+  ]
+}

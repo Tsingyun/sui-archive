@@ -1,0 +1,28 @@
+{
+  "uuid": "4ad748d5-30a2-4474-b29e-dba30d46fdbb",
+  "platform_post_id": "1215237459986612247",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-18T19:42:00+08:00",
+  "source_url": "https://t.bilibili.com/1215237459986612247",
+  "plain_text": "7:50见！[岁己收藏集表情包_好听]",
+  "images": [],
+  "stats": {
+    "likes": 168,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a4887367-24cc-4299-b04b-43b5414bdaaf",
+    "next_uuid": "ff6897fe-e21e-4bc4-aa5b-f53583ae2a1e"
+  }
+}

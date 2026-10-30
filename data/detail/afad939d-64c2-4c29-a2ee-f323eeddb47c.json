@@ -1,0 +1,28 @@
+{
+  "uuid": "afad939d-64c2-4c29-a2ee-f323eeddb47c",
+  "platform_post_id": "1256880453611159561",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-09T00:58:05+08:00",
+  "source_url": "https://t.bilibili.com/1256880453611159561",
+  "plain_text": "饼小干啊晚安了，周五小岁休息，你照顾好自己，饭在米桶菜在超市水在水管马桶在厕所，千万要好好的。",
+  "images": [],
+  "stats": {
+    "likes": 411,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "03d4b4ba-2500-4463-ad10-21e90ef0f312",
+    "next_uuid": "56aa37be-49c8-4ff7-9621-893548421a7b"
+  }
+}

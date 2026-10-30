@@ -1,0 +1,28 @@
+{
+  "uuid": "f42c25f4-5781-4fff-9d2e-cefd3c0dea8c",
+  "platform_post_id": "1025648000010027016",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-23T21:58:04+08:00",
+  "source_url": "https://t.bilibili.com/1025648000010027016",
+  "plain_text": "10:30吧！岁己夜行电台？！",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9fb6c78e-259d-495e-a579-9f12c54a9704",
+    "next_uuid": "b205faac-b005-4541-8e44-8f398fca8c9a"
+  }
+}

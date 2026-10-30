@@ -1,0 +1,28 @@
+{
+  "uuid": "8eba8937-b118-4c88-b9c0-92caf3b54b80",
+  "platform_post_id": "992577984510558229",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-26T19:09:31+08:00",
+  "source_url": "https://t.bilibili.com/992577984510558229",
+  "plain_text": "7:40臭饼们",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "97347dfa-76e9-49fb-b1ff-15118da1e7cb",
+    "next_uuid": "bc50daa2-fb7a-4344-a2c4-fd2ea727cda7"
+  }
+}

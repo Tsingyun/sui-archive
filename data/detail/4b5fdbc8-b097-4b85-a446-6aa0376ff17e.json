@@ -1,0 +1,28 @@
+{
+  "uuid": "4b5fdbc8-b097-4b85-a446-6aa0376ff17e",
+  "platform_post_id": "1099072544723435524",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-09T18:42:48+08:00",
+  "source_url": "https://t.bilibili.com/1099072544723435524",
+  "plain_text": "7:10来直播 然后今天真的会看星际穿越了应该！",
+  "images": [],
+  "stats": {
+    "likes": 224,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "36723426-3dcd-4ef8-b1fd-33b3897e8f60",
+    "next_uuid": "4a015ef1-3da9-4d5d-911e-e67df463583d"
+  }
+}

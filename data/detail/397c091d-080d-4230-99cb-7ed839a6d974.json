@@ -1,0 +1,28 @@
+{
+  "uuid": "397c091d-080d-4230-99cb-7ed839a6d974",
+  "platform_post_id": "921701871536570392",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-18T19:14:00+08:00",
+  "source_url": "https://t.bilibili.com/921701871536570392",
+  "plain_text": "小鸟休眠中，请你明天再来找她吧Zzz",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a51d9641-e904-49d1-af72-3c864321af10",
+    "next_uuid": "daa22a0d-7e1a-4b49-b6b8-5caf03629d41"
+  }
+}

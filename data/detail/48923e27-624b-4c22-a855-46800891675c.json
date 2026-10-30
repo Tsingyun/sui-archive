@@ -1,0 +1,28 @@
+{
+  "uuid": "48923e27-624b-4c22-a855-46800891675c",
+  "platform_post_id": "1120248335497691169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-05T20:15:41+08:00",
+  "source_url": "https://t.bilibili.com/1120248335497691169",
+  "plain_text": "还在吃饭！8:30来可好",
+  "images": [],
+  "stats": {
+    "likes": 205,
+    "comments": 18,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef1f4d19-756f-44ff-a905-7b72773777db",
+    "next_uuid": "ad3f95dc-5104-4ef6-b385-eba8fe7434d1"
+  }
+}

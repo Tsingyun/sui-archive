@@ -1,0 +1,28 @@
+{
+  "uuid": "ee6720af-2ed2-48e3-905e-fc5ce3e41956",
+  "platform_post_id": "911316498885115912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-21T19:33:27+08:00",
+  "source_url": "https://t.bilibili.com/911316498885115912",
+  "plain_text": "​今天过得怎么样 辛苦吗 8:20来见你",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59eed793-2161-417d-b83a-0229acb290ea",
+    "next_uuid": "463120b8-facc-4b50-b551-d30c159e23aa"
+  }
+}

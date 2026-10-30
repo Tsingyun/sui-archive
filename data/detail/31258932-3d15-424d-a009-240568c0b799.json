@@ -1,0 +1,28 @@
+{
+  "uuid": "31258932-3d15-424d-a009-240568c0b799",
+  "platform_post_id": "804683009338900498",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-08T11:01:03+08:00",
+  "source_url": "https://t.bilibili.com/804683009338900498",
+  "plain_text": "你这家伙，早 👊",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f72b41a1-fe1c-4a2d-a2f6-b1885bab7157",
+    "next_uuid": "892bba60-f4ab-4c7b-b8c0-f80edbeb0333"
+  }
+}

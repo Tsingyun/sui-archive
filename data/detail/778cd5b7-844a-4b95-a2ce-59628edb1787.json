@@ -1,0 +1,28 @@
+{
+  "uuid": "778cd5b7-844a-4b95-a2ce-59628edb1787",
+  "platform_post_id": "815478246443319321",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-07T13:12:05+08:00",
+  "source_url": "https://t.bilibili.com/815478246443319321",
+  "plain_text": "！忘记发了 午 周五加油加油",
+  "images": [],
+  "stats": {
+    "likes": 392,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb166437-2617-402b-ad63-709d5c67f0f3",
+    "next_uuid": "86767343-bfd8-4aba-8a5a-9afe7bf68a56"
+  }
+}

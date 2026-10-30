@@ -1,0 +1,28 @@
+{
+  "uuid": "e004a979-e2b4-4737-9609-974ed8864329",
+  "platform_post_id": "754423053133283381",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-24T00:26:45+08:00",
+  "source_url": "https://t.bilibili.com/754423053133283381",
+  "plain_text": "本来觉得懒得发了还是发一下 晚安[UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 390,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7d14b8ac-053d-459f-a80e-a6944c2f98e3",
+    "next_uuid": "ce7e09c3-b94e-404e-9696-36dfa46008a4"
+  }
+}

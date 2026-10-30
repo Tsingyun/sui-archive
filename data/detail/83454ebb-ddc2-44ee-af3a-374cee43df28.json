@@ -1,0 +1,28 @@
+{
+  "uuid": "83454ebb-ddc2-44ee-af3a-374cee43df28",
+  "platform_post_id": "905081894294519860",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-05T00:20:00+08:00",
+  "source_url": "https://t.bilibili.com/905081894294519860",
+  "plain_text": "🤖晚安bot",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be97eecf-9240-4e6f-bb58-52419dc6ff2e",
+    "next_uuid": "a62cb96f-fcf2-458c-a87c-91d5bb2960be"
+  }
+}

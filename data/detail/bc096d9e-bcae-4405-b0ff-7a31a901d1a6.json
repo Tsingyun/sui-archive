@@ -1,0 +1,28 @@
+{
+  "uuid": "bc096d9e-bcae-4405-b0ff-7a31a901d1a6",
+  "platform_post_id": "1119581460210122752",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-04T01:07:52+08:00",
+  "source_url": "https://t.bilibili.com/1119581460210122752",
+  "plain_text": "晚安晚安。民谣岁己又怎么样呢（甩头[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7149315e-ecd6-4181-9014-125c92283a70",
+    "next_uuid": "b8ab02dd-e535-4a57-8e21-48fac414ada2"
+  }
+}

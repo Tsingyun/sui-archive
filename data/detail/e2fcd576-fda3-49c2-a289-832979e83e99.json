@@ -1,0 +1,28 @@
+{
+  "uuid": "e2fcd576-fda3-49c2-a289-832979e83e99",
+  "platform_post_id": "1187778647475355649",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-05T19:47:47+08:00",
+  "source_url": "https://t.bilibili.com/1187778647475355649",
+  "plain_text": "8点来～[岁己收藏集表情包_好耶]",
+  "images": [],
+  "stats": {
+    "likes": 181,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d9d15c99-e32f-45d1-9283-d2ec8b3c2b22",
+    "next_uuid": "e5148e6c-024d-487e-8fc2-d699d14173e9"
+  }
+}

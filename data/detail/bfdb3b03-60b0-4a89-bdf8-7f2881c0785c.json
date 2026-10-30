@@ -1,0 +1,28 @@
+{
+  "uuid": "bfdb3b03-60b0-4a89-bdf8-7f2881c0785c",
+  "platform_post_id": "1044466463670272003",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-15T15:03:19+08:00",
+  "source_url": "https://t.bilibili.com/1044466463670272003",
+  "plain_text": "大家！听我说 3:30来看小岁直播",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be78c2a6-d728-4267-8447-5f727bb5a7d6",
+    "next_uuid": "7fa6636c-b811-472c-bda7-eb009e509f72"
+  }
+}

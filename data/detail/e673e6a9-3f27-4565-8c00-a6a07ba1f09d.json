@@ -1,0 +1,28 @@
+{
+  "uuid": "e673e6a9-3f27-4565-8c00-a6a07ba1f09d",
+  "platform_post_id": "1004545378303868931",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-28T01:09:07+08:00",
+  "source_url": "https://t.bilibili.com/1004545378303868931",
+  "plain_text": "幸好和bgs一起逃出实验室了；；快哉快哉，终于可以一起在江湖悠悠了，晚安",
+  "images": [],
+  "stats": {
+    "likes": 300,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0054b088-a3d3-485f-91a9-5b69417ad3c8",
+    "next_uuid": "91038801-e211-4213-b608-995da7b7b0bc"
+  }
+}

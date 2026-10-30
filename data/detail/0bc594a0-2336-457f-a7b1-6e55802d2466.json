@@ -1,0 +1,28 @@
+{
+  "uuid": "0bc594a0-2336-457f-a7b1-6e55802d2466",
+  "platform_post_id": "1170785214203428872",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-19T00:44:35+08:00",
+  "source_url": "https://t.bilibili.com/1170785214203428872",
+  "plain_text": "今天是初三，十分不一般\n和小饼聊天，一起笑欢颜\n愿你快入眠，梦中把你盼",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c69f282-e586-48a9-8f5c-42a591654327",
+    "next_uuid": "132718eb-161f-4fde-ac6b-24669dde5463"
+  }
+}

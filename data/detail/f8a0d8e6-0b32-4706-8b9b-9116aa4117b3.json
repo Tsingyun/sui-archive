@@ -1,0 +1,38 @@
+{
+  "uuid": "f8a0d8e6-0b32-4706-8b9b-9116aa4117b3",
+  "platform_post_id": "1116511774074470408",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-09-25T18:35:55+08:00",
+  "source_url": "https://t.bilibili.com/1116511774074470408",
+  "plain_text": "哼",
+  "images": [
+    {
+      "filename": "1116511774074470408_100@repost.png",
+      "width": 6284,
+      "height": 3535,
+      "file_size": 15594884,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 224,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Iro4s",
+    "author_url": "https://space.bilibili.com/2955509",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e1c1f49f-6a89-406e-ba73-59c602d89e9f",
+    "next_uuid": "160fff31-71e9-4700-bba6-d2d8b5a87641"
+  }
+}

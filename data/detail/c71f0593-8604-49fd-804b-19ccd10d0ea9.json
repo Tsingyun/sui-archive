@@ -1,0 +1,28 @@
+{
+  "uuid": "c71f0593-8604-49fd-804b-19ccd10d0ea9",
+  "platform_post_id": "1203055871888719875",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-16T23:51:13+08:00",
+  "source_url": "https://t.bilibili.com/1203055871888719875",
+  "plain_text": "这有一份神秘无署名的晚安包裹你签收一下！",
+  "images": [],
+  "stats": {
+    "likes": 235,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c34491e9-7275-4acb-a0cd-cc20f5350f44",
+    "next_uuid": "f0f8fa85-2df6-4174-94a3-bac555d07193"
+  }
+}

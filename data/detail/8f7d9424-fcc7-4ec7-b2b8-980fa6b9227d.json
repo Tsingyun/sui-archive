@@ -1,0 +1,28 @@
+{
+  "uuid": "8f7d9424-fcc7-4ec7-b2b8-980fa6b9227d",
+  "platform_post_id": "1001540640653180932",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-19T22:49:12+08:00",
+  "source_url": "https://t.bilibili.com/1001540640653180932",
+  "plain_text": "​晚安呀。真没想到饼干岁这么多彩多艺还幽默！这下岁箱也是出道了4个人了，希望他们能帮岁箱带来满满的收获呀。",
+  "images": [],
+  "stats": {
+    "likes": 364,
+    "comments": 87,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e403c8b-dcc3-484b-8e22-f0675d71ed48",
+    "next_uuid": "214c3cce-0a66-40b9-9f91-6cb52def3b5b"
+  }
+}

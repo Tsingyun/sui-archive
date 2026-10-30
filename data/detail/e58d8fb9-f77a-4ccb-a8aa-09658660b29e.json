@@ -1,0 +1,28 @@
+{
+  "uuid": "e58d8fb9-f77a-4ccb-a8aa-09658660b29e",
+  "platform_post_id": "744642635211210777",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-28T15:53:44+08:00",
+  "source_url": "https://t.bilibili.com/744642635211210777",
+  "plain_text": "还有几天就是2023年了！准备31号跨年的时候看看大家的新年愿望，大家可以往这里⬇️（链接在评论）投稿哦，也可以在最后写一下id。\n",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07a2adeb-8555-4d42-9f35-62d8c134dd93",
+    "next_uuid": "4330fc48-efec-431c-8685-ce5174a6c7ce"
+  }
+}

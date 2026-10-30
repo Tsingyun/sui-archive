@@ -1,0 +1,28 @@
+{
+  "uuid": "637a811d-1653-437b-bd70-6a5efdb36069",
+  "platform_post_id": "897958553597247511",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-14T19:37:48+08:00",
+  "source_url": "https://t.bilibili.com/897958553597247511",
+  "plain_text": "情人节要跟最最可爱的饼干岁一起过 7:55见捏\n唱唱歌什么的",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0c0fda8-bb36-4caf-879e-df4fe757aaa2",
+    "next_uuid": "3ac74304-4974-4987-8728-bf98e7d6f62a"
+  }
+}

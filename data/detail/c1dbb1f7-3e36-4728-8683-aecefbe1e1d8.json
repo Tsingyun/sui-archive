@@ -1,0 +1,28 @@
+{
+  "uuid": "c1dbb1f7-3e36-4728-8683-aecefbe1e1d8",
+  "platform_post_id": "926156697498550321",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-30T19:21:00+08:00",
+  "source_url": "https://t.bilibili.com/926156697498550321",
+  "plain_text": "小饼啊岁己7:55来，因为要洗头洗澡。你几天没洗了，记得也洗洗。\n今天是唱点聊点jo点！",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e140b2b9-423a-4941-ab4c-633fed9d8a54",
+    "next_uuid": "980c8cc8-724f-4b82-805e-585bb4a42f31"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "d4d773cb-48f4-41cc-af8e-82d201c5c275",
+  "platform_post_id": "953202042129612840",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-12T16:30:45+08:00",
+  "source_url": "https://t.bilibili.com/953202042129612840",
+  "plain_text": "闪现！给我累的 向你报告平安 天阴阴的幸好没下雨 我没带伞",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "15dc8367-133c-4358-a14d-84e04989bda2",
+    "next_uuid": "da21bac5-8cf9-43c3-a07d-c8be7d15829c"
+  }
+}

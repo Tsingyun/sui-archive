@@ -1,0 +1,28 @@
+{
+  "uuid": "afc8f5bf-faf0-4ab6-be82-0b585363c74f",
+  "platform_post_id": "771066949054496786",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-09T20:53:34+08:00",
+  "source_url": "https://t.bilibili.com/771066949054496786",
+  "plain_text": "不好意思哦，延迟20分钟。9:20见",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "006def00-8456-4b58-a483-a00d7f004e75",
+    "next_uuid": "88ced9bf-db3b-47c0-9711-c77a3075b836"
+  }
+}

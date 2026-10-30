@@ -1,0 +1,28 @@
+{
+  "uuid": "5fa3b1b5-6b1d-4b4f-8554-c92449af08d3",
+  "platform_post_id": "876428367840149504",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-18T19:09:41+08:00",
+  "source_url": "https://t.bilibili.com/876428367840149504",
+  "plain_text": "今天是7:40点唱歌聊天 然后晚一点煮煮面！",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "43e65bcb-7f44-4fb6-a570-f505cf1c7256",
+    "next_uuid": "dfcef04c-3cb7-44ff-b981-df5acf0c526f"
+  }
+}

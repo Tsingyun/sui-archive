@@ -1,0 +1,28 @@
+{
+  "uuid": "a2cfc718-5131-41ce-b135-dd7a2f09c13f",
+  "platform_post_id": "1156230240063717395",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-10T19:23:51+08:00",
+  "source_url": "https://t.bilibili.com/1156230240063717395",
+  "plain_text": "7:40来 光速洗个澡先",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9e14e19d-57e8-4f1c-b107-190ffcd281a3",
+    "next_uuid": "4ad7b969-8650-4394-aaa3-26f1401785ad"
+  }
+}

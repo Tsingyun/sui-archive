@@ -1,0 +1,28 @@
+{
+  "uuid": "5784cdb5-cd9d-437b-b778-15aabb2ea566",
+  "platform_post_id": "945456334946435091",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-21T19:33:27+08:00",
+  "source_url": "https://t.bilibili.com/945456334946435091",
+  "plain_text": "直播我在十分钟后",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6326af2d-36ac-4b37-b0c7-816254a20c0b",
+    "next_uuid": "61e879cb-60e8-4bdb-8fed-3357d8b392ae"
+  }
+}

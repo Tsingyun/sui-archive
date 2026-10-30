@@ -1,0 +1,28 @@
+{
+  "uuid": "26853a94-f1f2-452c-8de1-7b77b984e14a",
+  "platform_post_id": "936176315058356226",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-27T19:22:14+08:00",
+  "source_url": "https://t.bilibili.com/936176315058356226",
+  "plain_text": "到家了，累累的，但还是播吧，可能不会很久！\n7:40捏",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d4f2b67d-779a-4ac7-b822-672ef877c256",
+    "next_uuid": "b83da6cf-eb38-498f-a576-d66567c8792c"
+  }
+}

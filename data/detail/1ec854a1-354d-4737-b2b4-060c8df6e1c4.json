@@ -1,0 +1,38 @@
+{
+  "uuid": "1ec854a1-354d-4737-b2b4-060c8df6e1c4",
+  "platform_post_id": "808835740463005705",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-06-19T15:35:46+08:00",
+  "source_url": "https://t.bilibili.com/808835740463005705",
+  "plain_text": "带嘎吼啊，投稿标题格式调整为：穿搭鉴赏回投稿+b站id（不会在直播中公布，仅用来筛选无效投稿）",
+  "images": [
+    {
+      "filename": "808835740463005705_100@repost.png",
+      "width": 1146,
+      "height": 717,
+      "file_size": 1064235,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 252,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "☀️为增强饼干活力，丰富饼干课余时间，拯救饼干岁日益僵化的脑袋及身体☀️\n🌈特开展本次饼干岁穿搭鉴赏回！💅\n可以是通勤/居家/运动/女装穿搭？等等，风格不限！\n投稿邮箱：suiji11@qq.com\n邮件标题：请以“穿搭鉴赏回投稿”开头\n小tips：图片1-3张即可 半身/全身都ok\n愿意的话也可以写一写自己的搭配理念\n❗️截止日期：6月30日\n不会暴露id的，请踊跃投稿吧！🎉\n",
+    "source_url": "https://t.bilibili.com/808131949677772818"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0019e91d-c10c-4ad7-8df7-a1b37e08f4f8",
+    "next_uuid": "625e8021-c11d-469a-85e9-15af27b813fb"
+  }
+}

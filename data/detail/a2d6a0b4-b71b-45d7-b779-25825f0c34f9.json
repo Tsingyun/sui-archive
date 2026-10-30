@@ -1,0 +1,28 @@
+{
+  "uuid": "a2d6a0b4-b71b-45d7-b779-25825f0c34f9",
+  "platform_post_id": "743963184265691161",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-26T19:57:07+08:00",
+  "source_url": "https://t.bilibili.com/743963184265691161",
+  "plain_text": "有点特殊情况不能电脑直播，今晚九点电台一下吧。想一起看电影还是聊天呢",
+  "images": [],
+  "stats": {
+    "likes": 358,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1fba657-9f89-4394-a1c2-4ca7053036fa",
+    "next_uuid": "f783b527-12d2-43fa-a65f-41c5c6f32977"
+  }
+}

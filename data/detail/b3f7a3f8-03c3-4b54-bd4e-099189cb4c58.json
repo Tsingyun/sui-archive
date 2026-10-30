@@ -1,0 +1,28 @@
+{
+  "uuid": "b3f7a3f8-03c3-4b54-bd4e-099189cb4c58",
+  "platform_post_id": "1244922723495313412",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-06T19:35:59+08:00",
+  "source_url": "https://t.bilibili.com/1244922723495313412",
+  "plain_text": "7:50来！总之先唱唱聊聊噢然后法环\n如何！",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dff3d4b4-8371-401b-9645-e367c5229dd8",
+    "next_uuid": "816ffd4f-1a16-4f18-95c3-519c1347b427"
+  }
+}

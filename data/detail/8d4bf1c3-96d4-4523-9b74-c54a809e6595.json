@@ -1,0 +1,28 @@
+{
+  "uuid": "8d4bf1c3-96d4-4523-9b74-c54a809e6595",
+  "platform_post_id": "731352464473718873",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-22T20:21:05+08:00",
+  "source_url": "https://t.bilibili.com/731352464473718873",
+  "plain_text": "五分钟！来了来了来了来了٩(๛ ˘ ³˘)۶❤",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6670151d-2e16-408f-8c15-d0c2941c46d7",
+    "next_uuid": "bb4f32ec-5a60-4681-8a07-c82d5ff8d6a8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "77780d7c-04c6-4a8e-8f75-4f7df06d1310",
+  "platform_post_id": "845283275073126435",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-25T20:50:49+08:00",
+  "source_url": "https://t.bilibili.com/845283275073126435",
+  "plain_text": "一个赞运动1秒钟 来！",
+  "images": [],
+  "stats": {
+    "likes": 913,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8f1754a5-a915-4b24-a892-3e660ff45f40",
+    "next_uuid": "2f7d9776-05d3-425a-a499-47efd5644cf1"
+  }
+}

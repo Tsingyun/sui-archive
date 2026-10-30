@@ -1,0 +1,28 @@
+{
+  "uuid": "17583301-7b94-4988-9c3d-bb07099cd39c",
+  "platform_post_id": "898778604578537472",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-17T00:40:01+08:00",
+  "source_url": "https://t.bilibili.com/898778604578537472",
+  "plain_text": "你是不是要对我说点什么呢！",
+  "images": [],
+  "stats": {
+    "likes": 454,
+    "comments": 100,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bcae1a08-7621-4d68-8e67-d1a2921a961e",
+    "next_uuid": "a15930fe-96e4-4d39-b89b-d9b848e9e8b7"
+  }
+}

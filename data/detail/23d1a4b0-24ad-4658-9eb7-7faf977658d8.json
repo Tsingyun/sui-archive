@@ -1,0 +1,28 @@
+{
+  "uuid": "23d1a4b0-24ad-4658-9eb7-7faf977658d8",
+  "platform_post_id": "1263930620924395527",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-28T00:56:20+08:00",
+  "source_url": "https://t.bilibili.com/1263930620924395527",
+  "plain_text": "碎饼干，这是离开你的第一秒。哞啊————\n没有我也照顾好自己，晚安。我离开了，归期不定。",
+  "images": [],
+  "stats": {
+    "likes": 389,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1a074a26-c12e-442a-a5c1-1cee8f79c281",
+    "next_uuid": "e0164d8d-3d0d-4215-aaa7-f53a9e8361f7"
+  }
+}

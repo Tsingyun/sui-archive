@@ -1,0 +1,110 @@
+{
+  "uuid": "4cf61a57-a936-4a49-b489-e719298964f4",
+  "platform_post_id": "1112889853961306148",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-16T00:21:01+08:00",
+  "source_url": "https://t.bilibili.com/1112889853961306148",
+  "plain_text": "携小动物们跟你说晚安～\n",
+  "images": [
+    {
+      "filename": "1112889853961306148_00@original.jpg",
+      "width": 1169,
+      "height": 642,
+      "file_size": 232095,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_01@original.jpg",
+      "width": 2597,
+      "height": 1677,
+      "file_size": 4683373,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_02@original.jpg",
+      "width": 5712,
+      "height": 4284,
+      "file_size": 1919390,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_03@original.jpg",
+      "width": 1155,
+      "height": 884,
+      "file_size": 165183,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_04@original.jpg",
+      "width": 4032,
+      "height": 3024,
+      "file_size": 1977564,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_05@original.jpg",
+      "width": 4034,
+      "height": 2689,
+      "file_size": 3798252,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_06@original.jpg",
+      "width": 4032,
+      "height": 3024,
+      "file_size": 775589,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_07@original.jpg",
+      "width": 4032,
+      "height": 3024,
+      "file_size": 1484187,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1112889853961306148_08@original.jpg",
+      "width": 3023,
+      "height": 3110,
+      "file_size": 961480,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 400,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "232fec39-8296-4f49-ad47-dcd219b5dde1",
+    "next_uuid": "83908532-3ce0-4f0e-811f-29b29f1a7415"
+  }
+}

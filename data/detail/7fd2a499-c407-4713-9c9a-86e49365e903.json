@@ -1,0 +1,28 @@
+{
+  "uuid": "7fd2a499-c407-4713-9c9a-86e49365e903",
+  "platform_post_id": "880144339203784704",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-28T19:29:33+08:00",
+  "source_url": "https://t.bilibili.com/880144339203784704",
+  "plain_text": "今天再努力赶赶进度，明天见好吗[UP_1954091502_抱抱]",
+  "images": [],
+  "stats": {
+    "likes": 356,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0b3c476e-26e3-4ad0-9cef-7fe581ae222e",
+    "next_uuid": "73999075-46fc-4ed6-baa0-84037820d39e"
+  }
+}

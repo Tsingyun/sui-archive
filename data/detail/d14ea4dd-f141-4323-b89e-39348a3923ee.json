@@ -1,0 +1,28 @@
+{
+  "uuid": "d14ea4dd-f141-4323-b89e-39348a3923ee",
+  "platform_post_id": "1141094818254946313",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-01T00:30:41+08:00",
+  "source_url": "https://t.bilibili.com/1141094818254946313",
+  "plain_text": "[岁己收藏集表情包_好脆弱]晚安 希望大家的12月是快乐中度过的",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c858f5f2-5580-4475-9025-00c6e1a4ad09",
+    "next_uuid": "b39d021c-2773-4c69-b4f5-7205b9aa7904"
+  }
+}

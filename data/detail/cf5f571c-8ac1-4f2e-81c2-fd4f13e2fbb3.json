@@ -1,0 +1,28 @@
+{
+  "uuid": "cf5f571c-8ac1-4f2e-81c2-fd4f13e2fbb3",
+  "platform_post_id": "803554296226381828",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-05T10:01:04+08:00",
+  "source_url": "https://t.bilibili.com/803554296226381828",
+  "plain_text": "注意看，这个女孩叫小岁，小岁现在起床了",
+  "images": [],
+  "stats": {
+    "likes": 496,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9268ba8a-6949-465e-bd6b-42859a40081b",
+    "next_uuid": "40b0cbe5-5555-4765-86ea-2e83c447d1fd"
+  }
+}

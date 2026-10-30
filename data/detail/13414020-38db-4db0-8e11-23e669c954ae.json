@@ -1,0 +1,28 @@
+{
+  "uuid": "13414020-38db-4db0-8e11-23e669c954ae",
+  "platform_post_id": "1075023575435444247",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-05T23:20:31+08:00",
+  "source_url": "https://t.bilibili.com/1075023575435444247",
+  "plain_text": "[岁己收藏集表情包_倒了]好累哦 大家我们明天见吧 晚安",
+  "images": [],
+  "stats": {
+    "likes": 300,
+    "comments": 72,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "74c32136-547e-406e-8bda-52dffcfed009",
+    "next_uuid": "32738ae6-168a-415a-a72d-556c13b8e15f"
+  }
+}

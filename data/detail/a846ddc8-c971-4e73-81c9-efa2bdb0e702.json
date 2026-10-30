@@ -1,0 +1,28 @@
+{
+  "uuid": "a846ddc8-c971-4e73-81c9-efa2bdb0e702",
+  "platform_post_id": "1233426191234367511",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-06T20:03:34+08:00",
+  "source_url": "https://t.bilibili.com/1233426191234367511",
+  "plain_text": "8:40来和这个臭栞栞shiori继续玩那个自行车rosalie！[岁己收藏集表情包_好耶]",
+  "images": [],
+  "stats": {
+    "likes": 295,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e02b9c34-0850-4824-9205-8960fae2b9da",
+    "next_uuid": "27df593a-bbe1-417f-b91c-b87dbc49b9f2"
+  }
+}

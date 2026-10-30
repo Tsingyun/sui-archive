@@ -1,0 +1,28 @@
+{
+  "uuid": "9236bafb-c000-44f3-8aae-669455a8b59d",
+  "platform_post_id": "1079123190407495687",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-17T00:29:07+08:00",
+  "source_url": "https://t.bilibili.com/1079123190407495687",
+  "plain_text": "晚安大家[岁己收藏集表情包_呼][岁己收藏集表情包_啊啊啊][岁己收藏集表情包_晚安][岁己收藏集表情包_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5d23eca6-f675-4bff-a6e5-0d09804331da",
+    "next_uuid": "67cdc1dd-317e-45c2-b9f9-d4eb2e5e2014"
+  }
+}

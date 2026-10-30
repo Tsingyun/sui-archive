@@ -1,0 +1,28 @@
+{
+  "uuid": "be037cc2-c188-4141-addb-6733c3b80ce4",
+  "platform_post_id": "1245636525576683524",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-09-08T17:45:54+08:00",
+  "source_url": "https://t.bilibili.com/1245636525576683524",
+  "plain_text": "哇是小黑帽",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "人活着是为了02",
+    "author_url": "https://space.bilibili.com/8481710",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc39464b-430b-45ab-9459-7060b7086b31",
+    "next_uuid": "4e285f3e-e1db-4adb-bcb9-f88dcce186f7"
+  }
+}

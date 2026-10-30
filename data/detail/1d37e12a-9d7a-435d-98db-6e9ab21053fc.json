@@ -1,0 +1,28 @@
+{
+  "uuid": "1d37e12a-9d7a-435d-98db-6e9ab21053fc",
+  "platform_post_id": "891647670390620162",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-28T19:28:21+08:00",
+  "source_url": "https://t.bilibili.com/891647670390620162",
+  "plain_text": "好困，进入冬眠期了。7:40小唱小聊，然后",
+  "images": [],
+  "stats": {
+    "likes": 318,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "64035d5d-4d5b-4dfd-9c81-c55ecd278498",
+    "next_uuid": "bf6d766e-02f2-472c-8f0c-80bcc8e1658c"
+  }
+}

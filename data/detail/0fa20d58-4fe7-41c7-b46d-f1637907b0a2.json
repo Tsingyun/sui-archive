@@ -1,0 +1,28 @@
+{
+  "uuid": "0fa20d58-4fe7-41c7-b46d-f1637907b0a2",
+  "platform_post_id": "923931354678165552",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-24T19:25:32+08:00",
+  "source_url": "https://t.bilibili.com/923931354678165552",
+  "plain_text": "大人们，小人今天休息一天。请您批准[小A和小B_喝茶]",
+  "images": [],
+  "stats": {
+    "likes": 386,
+    "comments": 84,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9492e32f-b0bf-4972-a870-5ab9e510e3d6",
+    "next_uuid": "6cccc2da-aa32-4bc6-bc52-332c92b37674"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "18199b11-938f-4786-9e30-dfe9ab9c50e7",
+  "platform_post_id": "897274386781831185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-12T23:22:53+08:00",
+  "source_url": "https://t.bilibili.com/897274386781831185",
+  "plain_text": "吹风机买粉色还是银色？ 感觉粉色很可爱但总觉得粉色看起来很快就会坏 而银色就给人可靠的感觉 \n晚安",
+  "images": [],
+  "stats": {
+    "likes": 418,
+    "comments": 78,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a26fb714-b8a1-48a4-ae77-b24c69997e8b",
+    "next_uuid": "ec143b19-5f89-4df8-854d-827158da0dd4"
+  }
+}

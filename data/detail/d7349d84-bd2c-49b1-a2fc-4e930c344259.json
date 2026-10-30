@@ -1,0 +1,38 @@
+{
+  "uuid": "d7349d84-bd2c-49b1-a2fc-4e930c344259",
+  "platform_post_id": "1212290493949411348",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2026-06-10T21:06:16+08:00",
+  "source_url": "https://t.bilibili.com/1212290493949411348",
+  "plain_text": "征集！你做过最蠢的事情\n平时看小岁说些笨笨的话有没有一点生气呢[岁己收藏集表情包_哈哈]\n这次也发点你做过的蠢事让大家一起品尝鉴赏吧！[岁己收藏集表情包_凝视]\n1-2条即可 字数大概300以内~\n投稿方式：suiji11@qq.com\n截止时间：6月13日晚5点 \n\n",
+  "images": [
+    {
+      "filename": "1212290493949411348_00@original.png",
+      "width": 2560,
+      "height": 1440,
+      "file_size": 1877003,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 263,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d14599e6-6980-49ea-897f-a81e901f48a5",
+    "next_uuid": "c206ada0-6e75-4df2-9437-43917fe355b0"
+  }
+}

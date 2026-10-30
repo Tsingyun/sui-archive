@@ -1,0 +1,28 @@
+{
+  "uuid": "8e54e780-0b60-4a9f-a08c-0881a99e3347",
+  "platform_post_id": "906932952154243088",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-10T00:03:03+08:00",
+  "source_url": "https://t.bilibili.com/906932952154243088",
+  "plain_text": "真​晚安 岁己你真是太",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9f072b14-68d2-472c-9e3b-0fb3d12c611c",
+    "next_uuid": "4b8880bd-8c45-4ed6-9a37-90a8b201a5c8"
+  }
+}

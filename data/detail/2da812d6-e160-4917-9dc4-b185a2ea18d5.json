@@ -1,0 +1,28 @@
+{
+  "uuid": "2da812d6-e160-4917-9dc4-b185a2ea18d5",
+  "platform_post_id": "886082354845581366",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-13T19:32:05+08:00",
+  "source_url": "https://t.bilibili.com/886082354845581366",
+  "plain_text": "八点聊聊3d的各种事情，然后谢谢大家的礼物哦[UPOWER_1954091502_小肥鸟]",
+  "images": [],
+  "stats": {
+    "likes": 501,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6232911a-3398-4b67-b12e-d014d34c0de2",
+    "next_uuid": "b58a6139-73cb-491d-9edb-628ef8a3c566"
+  }
+}

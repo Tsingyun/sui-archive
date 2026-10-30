@@ -1,0 +1,28 @@
+{
+  "uuid": "4a1b9502-6dfb-4cf4-9e5b-c60e96199035",
+  "platform_post_id": "953700438751838230",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-14T00:44:47+08:00",
+  "source_url": "https://t.bilibili.com/953700438751838230",
+  "plain_text": "晚安大家！！今天好开心，想再一起度过像今天这样的日子很多次很多次很多次",
+  "images": [],
+  "stats": {
+    "likes": 375,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6afb868a-8fc9-4b95-abcc-5621d5415858",
+    "next_uuid": "95d806e1-6fdf-422e-b1de-928eed88a3ac"
+  }
+}

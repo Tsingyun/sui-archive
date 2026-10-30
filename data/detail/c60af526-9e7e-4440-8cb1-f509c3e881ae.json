@@ -1,0 +1,38 @@
+{
+  "uuid": "c60af526-9e7e-4440-8cb1-f509c3e881ae",
+  "platform_post_id": "1135532672428277765",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-11-16T00:46:43+08:00",
+  "source_url": "https://t.bilibili.com/1135532672428277765",
+  "plain_text": "身上还有没有晚安存货，把你拎起来抖抖\np了好久！\n",
+  "images": [
+    {
+      "filename": "1135532672428277765_00@original.png",
+      "width": 922,
+      "height": 1361,
+      "file_size": 1063110,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 297,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e0b902af-0615-4af1-9b88-8373a6b03f9a",
+    "next_uuid": "acb51049-91f6-4a4f-97d0-cca851abf14f"
+  }
+}

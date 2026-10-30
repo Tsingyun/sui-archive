@@ -1,0 +1,28 @@
+{
+  "uuid": "a7515f60-78f8-4e6e-b42d-90f5a23f147b",
+  "platform_post_id": "919921109374074933",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-14T00:03:44+08:00",
+  "source_url": "https://t.bilibili.com/919921109374074933",
+  "plain_text": "结束得有点晚 现在还在聚餐 头好痛 等我回去播个十分钟报平安？暂定一点二十",
+  "images": [],
+  "stats": {
+    "likes": 429,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca4bd36c-037c-469f-9d9a-83af07f40af4",
+    "next_uuid": "b489f002-307a-47f4-bd3d-c4c6d4ec192c"
+  }
+}

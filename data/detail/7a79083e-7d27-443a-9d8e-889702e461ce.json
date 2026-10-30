@@ -1,0 +1,28 @@
+{
+  "uuid": "7a79083e-7d27-443a-9d8e-889702e461ce",
+  "platform_post_id": "918360696206393351",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-09T19:08:32+08:00",
+  "source_url": "https://t.bilibili.com/918360696206393351",
+  "plain_text": "7:30就来！聊聊先 荒野荒野后",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fedccce-9a9e-4472-b566-416b98b3eaec",
+    "next_uuid": "1feb2fee-2c51-4754-a4b3-92d5fa82d020"
+  }
+}

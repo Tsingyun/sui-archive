@@ -1,0 +1,28 @@
+{
+  "uuid": "0e4b2903-7bb7-4ee0-9f3d-60689a7b047e",
+  "platform_post_id": "801375601310040086",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-30T13:06:37+08:00",
+  "source_url": "https://t.bilibili.com/801375601310040086",
+  "plain_text": "刚tin 鹿(6)点ji播啦 开三轮luai接雷回嘎哦！",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fabde1a4-e672-4f55-ad0a-55fa6de55d37",
+    "next_uuid": "32ae99eb-328b-4a30-912b-6d06b449412c"
+  }
+}

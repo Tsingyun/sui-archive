@@ -1,0 +1,38 @@
+{
+  "uuid": "c356caff-39d6-44b5-b8a4-4e84a0156be8",
+  "platform_post_id": "876735316295155713",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-12-19T15:00:48+08:00",
+  "source_url": "https://t.bilibili.com/876735316295155713",
+  "plain_text": "耶咦～！",
+  "images": [
+    {
+      "filename": "876735316295155713_100@repost.jpg",
+      "width": 2199,
+      "height": 3115,
+      "file_size": 2429861,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 385,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "cosm万子",
+    "author_url": "https://space.bilibili.com/1205983176",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dfcef04c-3cb7-44ff-b981-df5acf0c526f",
+    "next_uuid": "841b79ec-14e4-43c1-ae1f-210e5d00ea9c"
+  }
+}

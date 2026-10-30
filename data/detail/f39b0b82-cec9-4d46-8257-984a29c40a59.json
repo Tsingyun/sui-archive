@@ -1,0 +1,28 @@
+{
+  "uuid": "f39b0b82-cec9-4d46-8257-984a29c40a59",
+  "platform_post_id": "1084239492877910039",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-30T19:22:59+08:00",
+  "source_url": "https://t.bilibili.com/1084239492877910039",
+  "plain_text": "7:40来见面 先唱聊一下然后送快递[岁己收藏集表情包_好耶]",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1a659d40-d3f9-4689-ba7d-08d7bd91a481",
+    "next_uuid": "71810e7c-1251-45a3-9567-d1e4a05f4bef"
+  }
+}

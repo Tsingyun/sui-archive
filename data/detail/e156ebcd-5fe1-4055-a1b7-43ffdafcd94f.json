@@ -1,0 +1,28 @@
+{
+  "uuid": "e156ebcd-5fe1-4055-a1b7-43ffdafcd94f",
+  "platform_post_id": "1111786717327654921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-13T01:00:17+08:00",
+  "source_url": "https://t.bilibili.com/1111786717327654921",
+  "plain_text": "我们来小小电台后日谈一下？嗯！五分钟后",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ddfc6aa7-3e23-4124-a1cf-093d90038b15",
+    "next_uuid": "11eff6dc-6e81-4e0b-ae43-180f0221ac7f"
+  }
+}

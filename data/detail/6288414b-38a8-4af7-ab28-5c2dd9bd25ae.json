@@ -1,0 +1,28 @@
+{
+  "uuid": "6288414b-38a8-4af7-ab28-5c2dd9bd25ae",
+  "platform_post_id": "1234537458182389767",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-09T19:55:51+08:00",
+  "source_url": "https://t.bilibili.com/1234537458182389767",
+  "plain_text": "8:10来哦 9点参加三理的连麦 然后可能继续玩战神4",
+  "images": [],
+  "stats": {
+    "likes": 233,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27698cdb-1a5c-42e7-b296-c0766fa89975",
+    "next_uuid": "2b28545f-5e0d-4298-896c-6ad95aa36180"
+  }
+}

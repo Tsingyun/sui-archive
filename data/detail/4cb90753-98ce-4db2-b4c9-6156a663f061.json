@@ -1,0 +1,28 @@
+{
+  "uuid": "4cb90753-98ce-4db2-b4c9-6156a663f061",
+  "platform_post_id": "1086183773027958792",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-06T01:07:47+08:00",
+  "source_url": "https://t.bilibili.com/1086183773027958792",
+  "plain_text": "晚安吧[岁己收藏集表情包_倒了]",
+  "images": [],
+  "stats": {
+    "likes": 228,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "558d4e10-7fa0-4521-a5ae-e65e815e5e55",
+    "next_uuid": "33beadfa-110d-4fc4-b753-09db5db0984e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "69b763a2-0c2a-4c35-9f45-f90280a5b264",
+  "platform_post_id": "787681123840819221",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-23T15:25:03+08:00",
+  "source_url": "https://t.bilibili.com/787681123840819221",
+  "plain_text": "要不要一起工作？可能不怎么说话，可能一个小时左右",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3f2db09-71cc-4419-badc-22a302329a2a",
+    "next_uuid": "bafdcdfd-2210-429a-a430-633947e7de75"
+  }
+}

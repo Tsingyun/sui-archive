@@ -1,0 +1,47 @@
+{
+  "uuid": "4b8b9a71-e4a0-4cc4-9178-2c8ace2fd86d",
+  "platform_post_id": "1130700314544963584",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-11-03T00:14:42+08:00",
+  "source_url": "https://t.bilibili.com/1130700314544963584",
+  "plain_text": "一个不注意怎么12点了..你跟不跟我说晚安都  可  以  的  呀  饼  干  岁\n",
+  "images": [
+    {
+      "filename": "1130700314544963584_00@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1425774,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "1130700314544963584_01@original.png",
+      "width": 2560,
+      "height": 1361,
+      "file_size": 1384905,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 311,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d87f8e97-e612-49e2-80fc-d552e2701d82",
+    "next_uuid": "0de3a758-753d-4f15-b518-dee485ce9289"
+  }
+}

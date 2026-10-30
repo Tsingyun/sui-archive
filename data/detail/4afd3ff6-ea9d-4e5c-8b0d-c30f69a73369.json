@@ -1,0 +1,28 @@
+{
+  "uuid": "4afd3ff6-ea9d-4e5c-8b0d-c30f69a73369",
+  "platform_post_id": "909908277888811016",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-18T00:28:50+08:00",
+  "source_url": "https://t.bilibili.com/909908277888811016",
+  "plain_text": "岁能量补充得怎么样了呢？我饼能量今天终于补充得差不多了，晚安",
+  "images": [],
+  "stats": {
+    "likes": 386,
+    "comments": 100,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2294c50-9920-4be9-a0d3-eb8b3fe91b9e",
+    "next_uuid": "fd5ebf25-a72b-4783-9712-f01c055d8822"
+  }
+}

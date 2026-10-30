@@ -1,0 +1,28 @@
+{
+  "uuid": "68b53dc5-15d3-43ec-aba8-708c79d36e8c",
+  "platform_post_id": "969280106217340930",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-25T00:21:51+08:00",
+  "source_url": "https://t.bilibili.com/969280106217340930",
+  "plain_text": "下播后还记得我吗，还回我晚安动态吗，明天还来看我直播吗，出去了还回家吃饭吗",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 89,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f2ab1add-3b19-48db-97ce-1f98b455b60f",
+    "next_uuid": "d0853372-ebad-485d-929b-a3fdc68a2a26"
+  }
+}

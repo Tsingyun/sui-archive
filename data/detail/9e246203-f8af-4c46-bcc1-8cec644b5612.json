@@ -1,0 +1,28 @@
+{
+  "uuid": "9e246203-f8af-4c46-bcc1-8cec644b5612",
+  "platform_post_id": "1237125489515036729",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-16T19:18:44+08:00",
+  "source_url": "https://t.bilibili.com/1237125489515036729",
+  "plain_text": "8点来可以咩！今天也唱唱聊聊我还想玩锈湖 看看能不能完结 天才岁之己再上线",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9c97cc97-6e68-4709-8713-7f4fb21030c7",
+    "next_uuid": "57797cf3-1ebd-4974-b809-d3318c70acdf"
+  }
+}

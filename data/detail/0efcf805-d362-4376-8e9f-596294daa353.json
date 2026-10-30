@@ -1,0 +1,28 @@
+{
+  "uuid": "0efcf805-d362-4376-8e9f-596294daa353",
+  "platform_post_id": "1133595899868479491",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-10T19:31:03+08:00",
+  "source_url": "https://t.bilibili.com/1133595899868479491",
+  "plain_text": "剪剪刘海先，7:45来~",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef34324e-d9e7-4b3e-86c6-2649ab0a2d00",
+    "next_uuid": "a60b0b4d-d85d-4085-93f3-6aa4017fc0fd"
+  }
+}

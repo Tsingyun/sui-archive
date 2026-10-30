@@ -1,0 +1,28 @@
+{
+  "uuid": "ca46a21f-f1a5-45b8-a64c-3698551f0758",
+  "platform_post_id": "927648000343277585",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-04T19:48:01+08:00",
+  "source_url": "https://t.bilibili.com/927648000343277585",
+  "plain_text": "我也不知道干嘛！总之先来唱点歌再说啊啊啊啊啊啊啊啊啊啊",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed3f29e9-292d-4d81-a6e5-b9f8c13e054e",
+    "next_uuid": "e57a03e5-b686-4b48-a1fa-63b01bbbfdb6"
+  }
+}

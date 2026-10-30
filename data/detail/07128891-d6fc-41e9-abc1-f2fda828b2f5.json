@@ -1,0 +1,28 @@
+{
+  "uuid": "07128891-d6fc-41e9-abc1-f2fda828b2f5",
+  "platform_post_id": "1231568708097277956",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-01T19:55:35+08:00",
+  "source_url": "https://t.bilibili.com/1231568708097277956",
+  "plain_text": "我动态怎么没发出啊！奇怪，7:56播的说",
+  "images": [],
+  "stats": {
+    "likes": 186,
+    "comments": 10,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1968675-bc5f-4f0e-98b1-bdfc71c9ac8f",
+    "next_uuid": "0f44ce36-007e-408f-a0cc-25bbb58335f3"
+  }
+}

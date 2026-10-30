@@ -1,0 +1,28 @@
+{
+  "uuid": "7f713c64-3101-4203-a4bd-04098c6310c8",
+  "platform_post_id": "1055662210723872803",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-14T19:08:32+08:00",
+  "source_url": "https://t.bilibili.com/1055662210723872803",
+  "plain_text": "7:30唱歌+试玩一下选的新游戏行尸走肉",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a88ca54e-532d-495a-8be1-2bbc4aaa467d",
+    "next_uuid": "fba7d5dc-780f-40d0-8b2b-2837e6312c9d"
+  }
+}

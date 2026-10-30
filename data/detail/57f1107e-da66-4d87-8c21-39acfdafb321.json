@@ -1,0 +1,28 @@
+{
+  "uuid": "57f1107e-da66-4d87-8c21-39acfdafb321",
+  "platform_post_id": "1002572523708088339",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-22T17:33:26+08:00",
+  "source_url": "https://t.bilibili.com/1002572523708088339",
+  "plain_text": "[吃瓜]丫头啊[滑稽]叔还是放卟下伱[笑哭]今天7:30来找伱[歪嘴]咋样是不是开心死了[墨镜]",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7e851c53-55c6-456c-9884-d83c9de6f09b",
+    "next_uuid": "5b5ddc01-76b9-4b39-a56d-409afe6819f1"
+  }
+}

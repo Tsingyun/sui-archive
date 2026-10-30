@@ -1,0 +1,28 @@
+{
+  "uuid": "8510fb55-6f9f-4e3c-8396-ecc99b0fa141",
+  "platform_post_id": "894187464938225668",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-02-04T15:44:03+08:00",
+  "source_url": "https://t.bilibili.com/894187464938225668",
+  "plain_text": "好可爱捏！",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ec52aa6c-58a8-4518-8f96-e0cdd781a1a8",
+    "next_uuid": "c74641b8-2eb2-4f4e-8083-f84f09202c2b"
+  }
+}

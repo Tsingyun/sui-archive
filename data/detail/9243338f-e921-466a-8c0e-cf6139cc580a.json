@@ -1,0 +1,28 @@
+{
+  "uuid": "9243338f-e921-466a-8c0e-cf6139cc580a",
+  "platform_post_id": "793281499210186772",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-08T17:37:22+08:00",
+  "source_url": "https://t.bilibili.com/793281499210186772",
+  "plain_text": "曲奇碎们 今天岁己不播哦 明天见！",
+  "images": [],
+  "stats": {
+    "likes": 345,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7da0e4d6-619d-42d6-88b3-763482079153",
+    "next_uuid": "08ac8c35-58f9-42dc-a575-795265be4aaf"
+  }
+}

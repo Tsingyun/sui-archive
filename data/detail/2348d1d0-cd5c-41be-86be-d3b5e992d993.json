@@ -1,0 +1,38 @@
+{
+  "uuid": "2348d1d0-cd5c-41be-86be-d3b5e992d993",
+  "platform_post_id": "800366679117791271",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-05-27T19:51:29+08:00",
+  "source_url": "https://t.bilibili.com/800366679117791271",
+  "plain_text": "非常q特q特的说 能看出是一个聪明机智的冒险家",
+  "images": [
+    {
+      "filename": "800366679117791271_100@repost.jpg",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 270298,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 280,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c710373b-c824-4b89-a843-56e35133023d",
+    "next_uuid": "3828b893-f4d6-4b08-b9dd-727d75df08c2"
+  }
+}

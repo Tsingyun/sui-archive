@@ -1,0 +1,28 @@
+{
+  "uuid": "c2b7f89f-b38e-47a1-bc1f-8618ca0f5b07",
+  "platform_post_id": "1187100265996615736",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-03T23:55:19+08:00",
+  "source_url": "https://t.bilibili.com/1187100265996615736",
+  "plain_text": "大家😴今天忙吗，周末了，祝你开开心心(*^▽^*)",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "497b3998-a291-423c-8198-4bed1d7e7435",
+    "next_uuid": "e17b3f70-ac98-4d54-91ee-42b8c7a4b479"
+  }
+}

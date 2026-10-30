@@ -1,0 +1,38 @@
+{
+  "uuid": "ad27883a-1fbd-44fa-8c6e-7202af8f84c7",
+  "platform_post_id": "765833827780132984",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-23T18:26:23+08:00",
+  "source_url": "https://t.bilibili.com/765833827780132984",
+  "plain_text": "晚八点，岁己老师教你鉴渣男之初始篇——探讨与反驳围脖小测试的题目！\n",
+  "images": [
+    {
+      "filename": "765833827780132984_00@original.jpg",
+      "width": 746,
+      "height": 1000,
+      "file_size": 155187,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 396,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9828556d-d09c-4c33-bc38-394ff61984a8",
+    "next_uuid": "a10db6cc-0200-4553-9415-f54f4c338b4a"
+  }
+}

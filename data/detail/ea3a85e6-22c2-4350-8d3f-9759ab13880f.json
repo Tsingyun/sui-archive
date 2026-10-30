@@ -1,0 +1,28 @@
+{
+  "uuid": "ea3a85e6-22c2-4350-8d3f-9759ab13880f",
+  "platform_post_id": "1226232812512739350",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-18T10:49:35+08:00",
+  "source_url": "https://t.bilibili.com/1226232812512739350",
+  "plain_text": "早上好~已严肃待机，最热情大方的萤火虫云逛漫展11点来",
+  "images": [],
+  "stats": {
+    "likes": 163,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07a6a0f7-9419-426a-a13a-88f5bfa87524",
+    "next_uuid": "664c10c9-3a2a-434e-b0a4-c9d376ee5cae"
+  }
+}
