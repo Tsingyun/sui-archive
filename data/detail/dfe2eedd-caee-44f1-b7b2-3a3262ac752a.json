@@ -1,0 +1,38 @@
+{
+  "uuid": "dfe2eedd-caee-44f1-b7b2-3a3262ac752a",
+  "platform_post_id": "1095823092725317639",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-01T00:33:16+08:00",
+  "source_url": "https://t.bilibili.com/1095823092725317639",
+  "plain_text": "哇哦这是什么，原来是岁己8月2日新衣碎片！晚安内\n",
+  "images": [
+    {
+      "filename": "1095823092725317639_00@original.png",
+      "width": 435,
+      "height": 452,
+      "file_size": 95472,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 400,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a772eb5d-b189-4583-8a34-ed1887c121bf",
+    "next_uuid": "52d72202-a138-45ff-ab53-2b7827a61239"
+  }
+}

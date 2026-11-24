@@ -1,0 +1,28 @@
+{
+  "uuid": "71257cb6-e23d-4b16-802d-1fc27224444c",
+  "platform_post_id": "1137045420013256704",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-20T02:36:57+08:00",
+  "source_url": "https://t.bilibili.com/1137045420013256704",
+  "plain_text": "所有人拿起智能手机回岁己晚安",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a4714264-3071-4b69-ad77-c15106f7d0d9",
+    "next_uuid": "202bd115-b4ca-4cd8-82f5-2b89cba02719"
+  }
+}

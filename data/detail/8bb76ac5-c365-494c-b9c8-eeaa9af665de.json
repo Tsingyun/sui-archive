@@ -1,0 +1,28 @@
+{
+  "uuid": "8bb76ac5-c365-494c-b9c8-eeaa9af665de",
+  "platform_post_id": "746999193559629890",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-04T00:18:23+08:00",
+  "source_url": "https://t.bilibili.com/746999193559629890",
+  "plain_text": "晚安，明晚见。又说一遍晚安但我其实还是不睡(・ω< )★",
+  "images": [],
+  "stats": {
+    "likes": 511,
+    "comments": 62,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a101838c-e79e-4b5b-b9c5-d4742eb3a22a",
+    "next_uuid": "9dd9971d-e114-4724-97a7-1cbd1b86148d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "31d5d7e4-1e7d-41f5-8671-76287bc99825",
+  "platform_post_id": "1260572974403026983",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-18T23:46:57+08:00",
+  "source_url": "https://t.bilibili.com/1260572974403026983",
+  "plain_text": "晚安晚安大家。照镜子发现黑眼圈好严重！看着有点阴暗了。今晚要早睡多睡会再补下觉了。night喔",
+  "images": [],
+  "stats": {
+    "likes": 475,
+    "comments": 79,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed23066e-80c5-44f6-a648-e1ae04bbc592",
+    "next_uuid": "b4bca3de-ed25-4124-948a-242627c82f00"
+  }
+}

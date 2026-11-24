@@ -1,0 +1,28 @@
+{
+  "uuid": "04c76c5e-1f04-46e8-928a-dbc113cf4db0",
+  "platform_post_id": "1177098949315526659",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-08T01:05:06+08:00",
+  "source_url": "https://t.bilibili.com/1177098949315526659",
+  "plain_text": "我们都不要变成泡沫，晚安",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a70428d-862b-48a9-adbd-50d82ae57a46",
+    "next_uuid": "19ea6753-a9d6-43d7-9b7d-ccd0611f09aa"
+  }
+}

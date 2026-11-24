@@ -1,0 +1,28 @@
+{
+  "uuid": "1812480b-4850-47c9-b539-0b1d24e1db0b",
+  "platform_post_id": "1247603551859900436",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-14T00:58:58+08:00",
+  "source_url": "https://t.bilibili.com/1247603551859900436",
+  "plain_text": "晚安晚安 感觉饼干岁刚才好像有点温柔的说[岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "74b6f3df-c7bb-4797-99d2-a8433b46dccd",
+    "next_uuid": "d5445c49-d006-4151-a83a-ab330ba2816d"
+  }
+}

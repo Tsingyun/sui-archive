@@ -1,0 +1,28 @@
+{
+  "uuid": "08348057-b240-4233-b07a-546de50c8997",
+  "platform_post_id": "1077642861222035457",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-13T00:44:41+08:00",
+  "source_url": "https://t.bilibili.com/1077642861222035457",
+  "plain_text": "好困好困[岁己收藏集表情包_晚安]晚安了",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bee02288-bc00-4cfc-b713-99f74ddf3839",
+    "next_uuid": "89f4bbaf-34af-487a-a0f1-371786e836b0"
+  }
+}

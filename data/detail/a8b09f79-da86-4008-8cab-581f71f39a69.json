@@ -1,0 +1,38 @@
+{
+  "uuid": "a8b09f79-da86-4008-8cab-581f71f39a69",
+  "platform_post_id": "832582451190562836",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-22T15:25:08+08:00",
+  "source_url": "https://t.bilibili.com/832582451190562836",
+  "plain_text": "【观众互投诉苦回】 岁己x@666726799 \n时间：8.26日 8点\n\n时光荏苒，岁月如梭。\n转眼悠亚yua已经陪伴uuq度过了1000多天，岁己SUI也陪饼干岁度过了快一年的时光。\n想必大家都对两位有着这样那样的怨言，那么就借着此次“观众诉苦回”勇敢说出主播平时对自己的恶行吧！\n本次联动规则：uuq给岁己投稿对yua的梁木以及原因，岁己悠亚对此进行伐木。bgs同理，投稿给悠亚yua~\n\nuuq投稿至岁己邮箱：suiji11@qq. com\n饼干岁投稿至yua邮箱：yua@vrp.live \n投稿形式：全文+图片\n截止时间：8月26日（本周六）下午5点\n\n",
+  "images": [
+    {
+      "filename": "832582451190562836_00@original.png",
+      "width": 1146,
+      "height": 717,
+      "file_size": 680167,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 485,
+    "comments": 56,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fb56c26-ca49-4497-bc4c-6c45addee797",
+    "next_uuid": "7fa12b5d-4636-4580-85dc-8c9c6b32bf48"
+  }
+}

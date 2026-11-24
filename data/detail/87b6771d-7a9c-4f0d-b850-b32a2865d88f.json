@@ -1,0 +1,28 @@
+{
+  "uuid": "87b6771d-7a9c-4f0d-b850-b32a2865d88f",
+  "platform_post_id": "935698147759358034",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-26T12:26:42+08:00",
+  "source_url": "https://t.bilibili.com/935698147759358034",
+  "plain_text": "早，醒了一小时了才想起来发动态，好亏！本来可以发个很早的动态。早啊早，感觉胳膊腿被拆下来重装了一遍一样酸痛。",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd131a0a-72ef-43dc-9852-8bf28363ab32",
+    "next_uuid": "d2ba6081-4fe6-4a60-8e32-2268aaebf12b"
+  }
+}

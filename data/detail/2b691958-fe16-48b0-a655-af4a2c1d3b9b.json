@@ -1,0 +1,28 @@
+{
+  "uuid": "2b691958-fe16-48b0-a655-af4a2c1d3b9b",
+  "platform_post_id": "1165578618640793600",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-05T00:00:20+08:00",
+  "source_url": "https://t.bilibili.com/1165578618640793600",
+  "plain_text": "哇岁己的生日到啦！谁想跟我说生日快乐呀[岁己收藏集表情包_啵啵][岁己收藏集表情包_啵啵]",
+  "images": [],
+  "stats": {
+    "likes": 425,
+    "comments": 158,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c3c22848-3426-447b-b88d-8ba5ee0c8173",
+    "next_uuid": "d0f7cf09-f033-487d-b309-23b4613b3027"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "dbdf2612-50c1-4a2b-93c4-926fbfc94a1c",
+  "platform_post_id": "1178125205938110482",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-10T19:27:30+08:00",
+  "source_url": "https://t.bilibili.com/1178125205938110482",
+  "plain_text": "7:50岁己降临！你想怎样度过今天～",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0d514d9d-def6-4ed3-b41a-f255d667eee9",
+    "next_uuid": "86b50da9-5276-4d40-b9b1-ad4f99ccd4d4"
+  }
+}

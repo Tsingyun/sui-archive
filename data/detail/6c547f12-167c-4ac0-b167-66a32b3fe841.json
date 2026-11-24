@@ -1,0 +1,28 @@
+{
+  "uuid": "6c547f12-167c-4ac0-b167-66a32b3fe841",
+  "platform_post_id": "1061616384050462753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-30T20:13:46+08:00",
+  "source_url": "https://t.bilibili.com/1061616384050462753",
+  "plain_text": "其实岁己现在一个人在酒店没事做  要不9点来小播一会？",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c120c72a-1ff2-4c01-92fb-4b6ed7a749a5",
+    "next_uuid": "6331c07a-7ea6-41be-ba4d-fe0d7724ca6d"
+  }
+}

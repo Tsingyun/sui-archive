@@ -1,0 +1,28 @@
+{
+  "uuid": "aab3b381-f2b0-4d59-a905-19dd099402be",
+  "platform_post_id": "1137759703167664165",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-22T00:48:44+08:00",
+  "source_url": "https://t.bilibili.com/1137759703167664165",
+  "plain_text": "晚安你你你你还有你还有你",
+  "images": [],
+  "stats": {
+    "likes": 237,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7af024a1-fbca-4cce-8e79-1053503896c5",
+    "next_uuid": "3699f27d-de9a-4de7-a7fb-a22e9feab3c2"
+  }
+}

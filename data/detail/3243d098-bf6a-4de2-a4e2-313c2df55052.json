@@ -1,0 +1,28 @@
+{
+  "uuid": "3243d098-bf6a-4de2-a4e2-313c2df55052",
+  "platform_post_id": "1122455888577167393",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-11T19:02:07+08:00",
+  "source_url": "https://t.bilibili.com/1122455888577167393",
+  "plain_text": "7:40  7：40 大家晚上吃什么啊！",
+  "images": [],
+  "stats": {
+    "likes": 189,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "052b2169-2975-4635-a733-aca9a03f5987",
+    "next_uuid": "f12f8422-a73c-40be-af87-b3c078f2c70b"
+  }
+}

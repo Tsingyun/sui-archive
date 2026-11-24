@@ -1,0 +1,38 @@
+{
+  "uuid": "3781768c-8b19-451e-ad87-51503f090610",
+  "platform_post_id": "803023580003565588",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-06-03T23:41:37+08:00",
+  "source_url": "https://t.bilibili.com/803023580003565588",
+  "plain_text": "你喵喵的 拳打脚踢拳打脚踢我打打打我踢踢踢\n",
+  "images": [
+    {
+      "filename": "803023580003565588_00@original.png",
+      "width": 1080,
+      "height": 1248,
+      "file_size": 336259,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 504,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "090e03b2-5e37-4cec-8cbd-bcf4c3f591b5",
+    "next_uuid": "b0380958-2f19-4397-a1bc-a9955b574c34"
+  }
+}

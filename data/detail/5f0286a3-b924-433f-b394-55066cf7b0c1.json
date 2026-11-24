@@ -1,0 +1,28 @@
+{
+  "uuid": "5f0286a3-b924-433f-b394-55066cf7b0c1",
+  "platform_post_id": "861646902902390787",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-08T23:10:03+08:00",
+  "source_url": "https://t.bilibili.com/861646902902390787",
+  "plain_text": "晚安！明天征集桌面/房间，房间乱的饼干岁现在就可以开始收拾了！",
+  "images": [],
+  "stats": {
+    "likes": 315,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f10dc7c8-d8d8-4414-8909-ac9dff600c67",
+    "next_uuid": "8840c357-1b7d-47d0-8876-3d5901453fff"
+  }
+}

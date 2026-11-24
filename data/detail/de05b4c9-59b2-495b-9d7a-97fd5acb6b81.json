@@ -1,0 +1,28 @@
+{
+  "uuid": "de05b4c9-59b2-495b-9d7a-97fd5acb6b81",
+  "platform_post_id": "846640411733655605",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-29T12:37:12+08:00",
+  "source_url": "https://t.bilibili.com/846640411733655605",
+  "plain_text": "为什么打开bilibili？迫不及待想跟我说话？想跟我说早上好？想跟我说中秋节快乐！？\n好吧 就发个动态给你这个机会吧！[UP_1954091502_牛]",
+  "images": [],
+  "stats": {
+    "likes": 486,
+    "comments": 119,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cfeb79a5-802e-4c10-a644-de86587e2b4f",
+    "next_uuid": "c5ddc2da-9108-4697-a5be-fea7152a0235"
+  }
+}

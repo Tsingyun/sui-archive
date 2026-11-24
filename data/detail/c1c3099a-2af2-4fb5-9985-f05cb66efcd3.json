@@ -1,0 +1,28 @@
+{
+  "uuid": "c1c3099a-2af2-4fb5-9985-f05cb66efcd3",
+  "platform_post_id": "981517266915950600",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-26T23:48:17+08:00",
+  "source_url": "https://t.bilibili.com/981517266915950600",
+  "plain_text": "感谢今天的陪伴，晚安，不知道明天还有没有这个荣幸见到您",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "557aca70-2675-46c2-84dc-f40346f12c4c",
+    "next_uuid": "e75db436-d76e-49f8-915d-f2cebecfdba8"
+  }
+}

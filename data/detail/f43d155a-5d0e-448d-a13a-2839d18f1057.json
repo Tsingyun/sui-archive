@@ -1,0 +1,28 @@
+{
+  "uuid": "f43d155a-5d0e-448d-a13a-2839d18f1057",
+  "platform_post_id": "1119936967574814791",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-05T00:07:25+08:00",
+  "source_url": "https://t.bilibili.com/1119936967574814791",
+  "plain_text": "请给我一杯请给我一杯晚安谢谢[岁己收藏集表情包_好耶]",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b8ab02dd-e535-4a57-8e21-48fac414ada2",
+    "next_uuid": "21d73159-5e4f-4515-b4cf-3874af6b7a65"
+  }
+}

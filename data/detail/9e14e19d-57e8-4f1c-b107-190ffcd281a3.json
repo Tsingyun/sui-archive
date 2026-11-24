@@ -1,0 +1,28 @@
+{
+  "uuid": "9e14e19d-57e8-4f1c-b107-190ffcd281a3",
+  "platform_post_id": "1155920697482018821",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-09T23:22:40+08:00",
+  "source_url": "https://t.bilibili.com/1155920697482018821",
+  "plain_text": "d-mail01\n1月9日的饼干岁，记得一定要回岁己晚安。不然世界会陷入黑暗…",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 101,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a6738bc-fd8a-4d7d-8b9c-018e5febad87",
+    "next_uuid": "a2cfc718-5131-41ce-b135-dd7a2f09c13f"
+  }
+}

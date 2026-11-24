@@ -1,0 +1,28 @@
+{
+  "uuid": "1b4483b7-6a84-4c7f-899a-5b804b68873c",
+  "platform_post_id": "795160130740027443",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-13T19:07:25+08:00",
+  "source_url": "https://t.bilibili.com/795160130740027443",
+  "plain_text": "8:15来接着哎哟哎哟地画头像，感觉今天声音特别难听，请大家带好滤镜多多mmr",
+  "images": [],
+  "stats": {
+    "likes": 296,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8a60ea52-89ba-4b31-853a-0bc8d0f46768",
+    "next_uuid": "3fb3a727-b35d-4162-a12a-3c64bbbddd77"
+  }
+}

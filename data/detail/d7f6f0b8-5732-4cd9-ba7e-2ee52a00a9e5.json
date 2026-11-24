@@ -1,0 +1,28 @@
+{
+  "uuid": "d7f6f0b8-5732-4cd9-ba7e-2ee52a00a9e5",
+  "platform_post_id": "1235717745310433312",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-13T00:15:58+08:00",
+  "source_url": "https://t.bilibili.com/1235717745310433312",
+  "plain_text": "😴岁己躲在你生活中支持着你 但藏得太好了你无法发现",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "06bb2068-1158-4e83-8b80-f3cc67e14365",
+    "next_uuid": "8efa37e4-d710-4543-8c29-9d7b54d2e52c"
+  }
+}

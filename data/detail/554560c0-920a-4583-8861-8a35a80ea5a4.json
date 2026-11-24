@@ -1,0 +1,28 @@
+{
+  "uuid": "554560c0-920a-4583-8861-8a35a80ea5a4",
+  "platform_post_id": "812494781752016918",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-29T12:14:43+08:00",
+  "source_url": "https://t.bilibili.com/812494781752016918",
+  "plain_text": "中午好！在吃饭了吧，要多吃点哦\n喂你一口，张嘴，啊——————",
+  "images": [],
+  "stats": {
+    "likes": 419,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0a203223-f16e-4968-bd4f-c97da192a6c4",
+    "next_uuid": "2439cf9c-55b9-47e0-8f79-21b9b1c7898e"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "702a4825-a613-49f4-baf6-8538dbcb3d2b",
+  "platform_post_id": "1051482103772872712",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-04-03T12:47:35+08:00",
+  "source_url": "https://t.bilibili.com/1051482103772872712",
+  "plain_text": "哇哇VirtuaReal六周年～敲锣打鼓🥁🥁🥁\n很开心在这里遇见大家，希望一起度过接下来的旅程(๑>؂<๑）\n",
+  "images": [
+    {
+      "filename": "1051482103772872712_00@original.png",
+      "width": 1129,
+      "height": 756,
+      "file_size": 647141,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 454,
+    "comments": 58,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59e7583f-5299-48c5-8b35-b1d9cf2e6fb7",
+    "next_uuid": "050e79d8-e749-4338-9cd9-7b9d33af46ea"
+  }
+}

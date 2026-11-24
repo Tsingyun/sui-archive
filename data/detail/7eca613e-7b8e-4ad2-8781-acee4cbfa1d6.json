@@ -1,0 +1,38 @@
+{
+  "uuid": "7eca613e-7b8e-4ad2-8781-acee4cbfa1d6",
+  "platform_post_id": "893471618446131203",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-02-02T17:26:12+08:00",
+  "source_url": "https://t.bilibili.com/893471618446131203",
+  "plain_text": "🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴\n岁己1月大航海地址收集表已经发到大家私信了哦！\n1）本次只收集1月的地址，11.12月的地址已经通过b站后台大航海回馈收集了\n2）发货时间约为3月初，11.12.1月多月上舰的会以本次填写的地址为准\n3）没有收到私信的可以在此条动态评论，会再次发送！\n",
+  "images": [
+    {
+      "filename": "893471618446131203_00@original.jpg",
+      "width": 1167,
+      "height": 2122,
+      "file_size": 781667,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 297,
+    "comments": 37,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "054c711d-cd99-4685-819f-6486786acf25",
+    "next_uuid": "6d46751a-13d7-42e1-8d0b-0278e3ac67cf"
+  }
+}

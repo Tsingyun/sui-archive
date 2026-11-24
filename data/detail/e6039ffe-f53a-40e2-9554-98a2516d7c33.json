@@ -1,0 +1,28 @@
+{
+  "uuid": "e6039ffe-f53a-40e2-9554-98a2516d7c33",
+  "platform_post_id": "854167088491659287",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-19T19:24:33+08:00",
+  "source_url": "https://t.bilibili.com/854167088491659287",
+  "plain_text": "刚冬眠醒来。7:35来试着玩下赛博朋克酒保行动",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d19013ca-aa46-4cca-96cb-8b24d3629077",
+    "next_uuid": "681b3423-62ea-412b-88f0-ba6049121f7b"
+  }
+}

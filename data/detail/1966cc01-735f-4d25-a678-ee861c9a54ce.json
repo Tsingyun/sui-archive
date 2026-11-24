@@ -1,0 +1,28 @@
+{
+  "uuid": "1966cc01-735f-4d25-a678-ee861c9a54ce",
+  "platform_post_id": "1036781379905388545",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-22T22:01:16+08:00",
+  "source_url": "https://t.bilibili.com/1036781379905388545",
+  "plain_text": "晚安大家[UP_1954091502_地雷][UP_1954091502_投降]",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dc80fb6d-7b99-4682-820d-8d5ac8b751cd",
+    "next_uuid": "9999ab3d-3fef-47fd-885f-c5071e9c58f8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b355c15e-cbc1-469f-825e-3803e899d537",
+  "platform_post_id": "781443426858041426",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-06T19:59:36+08:00",
+  "source_url": "https://t.bilibili.com/781443426858041426",
+  "plain_text": "8:40 应该是唱歌和干什么的 不造哇",
+  "images": [],
+  "stats": {
+    "likes": 249,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fc7f64d-dd11-44be-a82e-e657a0f5c0e7",
+    "next_uuid": "68a79f77-2ac8-4f9f-a80f-170d5d6d82ed"
+  }
+}

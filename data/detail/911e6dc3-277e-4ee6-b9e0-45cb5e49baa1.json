@@ -1,0 +1,28 @@
+{
+  "uuid": "911e6dc3-277e-4ee6-b9e0-45cb5e49baa1",
+  "platform_post_id": "1021464736221364224",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-12T15:24:52+08:00",
+  "source_url": "https://t.bilibili.com/1021464736221364224",
+  "plain_text": "3:45来直播直播！各就各位",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7fb08c3-2fd9-472d-93c2-9444d4c5488c",
+    "next_uuid": "a67bab12-8bdb-4840-b3a0-04ea53d0466f"
+  }
+}

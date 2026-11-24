@@ -1,0 +1,28 @@
+{
+  "uuid": "01324707-e6e7-4fac-a98a-81c15fa65e6f",
+  "platform_post_id": "1221083219727745045",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-07-04T13:46:32+08:00",
+  "source_url": "https://t.bilibili.com/1221083219727745045",
+  "plain_text": "美美 火速支持鼠鼠",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86b1bba4-6338-493d-adab-eccb71fd2082",
+    "next_uuid": "0e09ebb9-5ea9-41d0-bdd5-7dda3948ad03"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "30b2fdb0-b69b-4ca7-b030-7b3c9b3bdbda",
+  "platform_post_id": "1162991068366503937",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-29T00:39:19+08:00",
+  "source_url": "https://t.bilibili.com/1162991068366503937",
+  "plain_text": "晚安！\n你准备跟我说晚安吗，不说的话我将撤回上一条消息",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5a003777-6a8b-4331-ad97-51a8fb56f33e",
+    "next_uuid": "6e8ad9bd-b277-40a4-ad85-61e03aed1831"
+  }
+}

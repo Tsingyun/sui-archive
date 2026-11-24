@@ -1,0 +1,38 @@
+{
+  "uuid": "840bd88c-a4a7-4d26-b3ab-b8b920f2f422",
+  "platform_post_id": "998445734453837848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-11-11T14:39:23+08:00",
+  "source_url": "https://t.bilibili.com/998445734453837848",
+  "plain_text": "谢谢分享给我这么多天 饼干岁也八百天快乐\n[UPOWER_1954091502_爱你]",
+  "images": [
+    {
+      "filename": "998445734453837848_100@repost.jpg",
+      "width": 2578,
+      "height": 4664,
+      "file_size": 2260983,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 259,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "真的才八点点点点点点",
+    "author_url": "https://space.bilibili.com/284764204",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a6a8288b-207a-4ee2-872c-d88030760717",
+    "next_uuid": "93daef1b-077b-404d-a741-27e39f3aca2e"
+  }
+}

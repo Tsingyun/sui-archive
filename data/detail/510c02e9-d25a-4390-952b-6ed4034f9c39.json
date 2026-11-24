@@ -1,0 +1,28 @@
+{
+  "uuid": "510c02e9-d25a-4390-952b-6ed4034f9c39",
+  "platform_post_id": "908348826790658080",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-13T19:37:22+08:00",
+  "source_url": "https://t.bilibili.com/908348826790658080",
+  "plain_text": "胃痛了一天我的部分结束就先回来了 休息一会8:20来电台一下吧",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd05c6ac-beea-4572-8865-d0603832fb0c",
+    "next_uuid": "aff85fcc-9d47-451e-8678-198f66704044"
+  }
+}

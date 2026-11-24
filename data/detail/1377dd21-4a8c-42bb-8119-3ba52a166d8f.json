@@ -1,0 +1,28 @@
+{
+  "uuid": "1377dd21-4a8c-42bb-8119-3ba52a166d8f",
+  "platform_post_id": "860099602524667909",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-04T19:05:44+08:00",
+  "source_url": "https://t.bilibili.com/860099602524667909",
+  "plain_text": "7:15 集合！饼家军",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "449a724b-2d65-41b2-9abf-00f0b94d3e3b",
+    "next_uuid": "d762a289-a57e-45e2-b481-59bed27c6518"
+  }
+}

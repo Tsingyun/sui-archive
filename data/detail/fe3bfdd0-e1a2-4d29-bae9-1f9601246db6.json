@@ -1,0 +1,28 @@
+{
+  "uuid": "fe3bfdd0-e1a2-4d29-bae9-1f9601246db6",
+  "platform_post_id": "705640024251564049",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-14T13:23:41+08:00",
+  "source_url": "https://t.bilibili.com/705640024251564049",
+  "plain_text": "是穿泳装的我诶",
+  "images": [],
+  "stats": {
+    "likes": 489,
+    "comments": 50,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc3bd34e-e50d-4140-94fe-e140a1b954f8",
+    "next_uuid": "cb36798f-ba36-41c3-a8df-a9b75220703f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "838116a0-2521-40ce-a0d8-2c4f60642bc9",
+  "platform_post_id": "984832290156707859",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-05T22:12:16+08:00",
+  "source_url": "https://t.bilibili.com/984832290156707859",
+  "plain_text": "五分钟后 小播一会",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9a34552b-4263-4f20-b6d1-0781a431aeb4",
+    "next_uuid": "02eca34b-5e3e-4986-8424-bcbc94c81469"
+  }
+}

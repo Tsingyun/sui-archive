@@ -1,0 +1,38 @@
+{
+  "uuid": "543871d2-c462-4500-ae84-de241e32053b",
+  "platform_post_id": "1066391142124224531",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-05-13T17:02:16+08:00",
+  "source_url": "https://t.bilibili.com/1066391142124224531",
+  "plain_text": "🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴🫳🫴 \n现在在【征集】❗️ 11/12月/4月舰长地址！11-4月间忘记填地址的舰长也快来进行补填哦！\n✨截止日期:5月17日\n❗️ 重要！12月-4月间，只要在后台填写过【一次】地址，就不需要补填啦。\n 填写地址：\nhttps://docs.qq.com/form/page/DRmNQU2NpamJmc1Fu \n✨请各位舰长尽快进行填写哦！感谢你的支持！\n🌹收到请回复\n",
+  "images": [
+    {
+      "filename": "1066391142124224531_00@original.png",
+      "width": 2000,
+      "height": 2000,
+      "file_size": 1823926,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 207,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d11af2b8-b4da-4ef9-ab69-002fd8a1622b",
+    "next_uuid": "e5f21d07-f53e-4302-ad29-0ef9193e9feb"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "5156137d-25db-4631-9880-5bcec8f350f0",
+  "platform_post_id": "1220143416501862401",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-02T00:59:37+08:00",
+  "source_url": "https://t.bilibili.com/1220143416501862401",
+  "plain_text": "[岁己收藏集表情包_妈呀]晚安哈 （os：呵呵…",
+  "images": [],
+  "stats": {
+    "likes": 160,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11f99c46-c8f1-4f8d-9a23-d296529f2819",
+    "next_uuid": "0d2402e6-792b-48b1-9755-93937a5d8eda"
+  }
+}

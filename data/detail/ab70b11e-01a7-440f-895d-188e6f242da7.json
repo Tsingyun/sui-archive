@@ -1,0 +1,28 @@
+{
+  "uuid": "ab70b11e-01a7-440f-895d-188e6f242da7",
+  "platform_post_id": "778825863296712720",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-30T18:42:07+08:00",
+  "source_url": "https://t.bilibili.com/778825863296712720",
+  "plain_text": "晚八点！先😐😃🫤🤣😮😑😠😄说话 再        😲🎵🎵😲😲😲🎶 唱歌 然后悄悄地🫣🖥",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "30aeb9ce-bd94-4b78-a4d5-aaffc3f31c68",
+    "next_uuid": "9b5d07c6-293c-451c-9165-bf25b52b5c4c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "59e7583f-5299-48c5-8b35-b1d9cf2e6fb7",
+  "platform_post_id": "1051297278399086609",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-03T00:50:22+08:00",
+  "source_url": "https://t.bilibili.com/1051297278399086609",
+  "plain_text": "谢谢饼干岁的晚安呀，太破费啦。虽然还没有收到，但总不可能真没有吧",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 71,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9a102fb3-6498-42d2-b9ca-7467e061d2e2",
+    "next_uuid": "702a4825-a613-49f4-baf6-8538dbcb3d2b"
+  }
+}

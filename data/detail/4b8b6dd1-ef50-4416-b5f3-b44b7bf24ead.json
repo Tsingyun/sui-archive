@@ -1,0 +1,28 @@
+{
+  "uuid": "4b8b6dd1-ef50-4416-b5f3-b44b7bf24ead",
+  "platform_post_id": "871231423054348326",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-04T19:02:53+08:00",
+  "source_url": "https://t.bilibili.com/871231423054348326",
+  "plain_text": "还在啃汉堡 7:25试试玩千爵史诗 出老千的游戏😯",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ab618ca-4137-48b8-a284-fd192dd64893",
+    "next_uuid": "8222952d-0017-41d5-a12a-d5793563cc0d"
+  }
+}

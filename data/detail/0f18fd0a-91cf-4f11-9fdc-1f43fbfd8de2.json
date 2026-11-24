@@ -1,0 +1,28 @@
+{
+  "uuid": "0f18fd0a-91cf-4f11-9fdc-1f43fbfd8de2",
+  "platform_post_id": "982178567273054209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-28T18:34:28+08:00",
+  "source_url": "https://t.bilibili.com/982178567273054209",
+  "plain_text": "7:40你懂吧 今天有点渴啊 懂我意思吧",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "401d0415-f4f4-4981-8674-d4cb8aa14c00",
+    "next_uuid": "6b72b694-4eba-4eae-8e40-96b4c1e7f937"
+  }
+}

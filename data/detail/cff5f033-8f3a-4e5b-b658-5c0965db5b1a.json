@@ -1,0 +1,28 @@
+{
+  "uuid": "cff5f033-8f3a-4e5b-b658-5c0965db5b1a",
+  "platform_post_id": "1221193072147169315",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-07-04T20:52:49+08:00",
+  "source_url": "https://t.bilibili.com/1221193072147169315",
+  "plain_text": "来支持了",
+  "images": [],
+  "stats": {
+    "likes": 187,
+    "comments": 8,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "哈哈那日OvO",
+    "author_url": "https://space.bilibili.com/20094643",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e09ebb9-5ea9-41d0-bdd5-7dda3948ad03",
+    "next_uuid": "9b2cc48b-199f-4508-9e31-7d258c8dee21"
+  }
+}

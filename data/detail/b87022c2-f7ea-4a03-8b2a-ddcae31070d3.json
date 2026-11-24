@@ -1,0 +1,28 @@
+{
+  "uuid": "b87022c2-f7ea-4a03-8b2a-ddcae31070d3",
+  "platform_post_id": "777080517448171540",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-26T01:49:17+08:00",
+  "source_url": "https://t.bilibili.com/777080517448171540",
+  "plain_text": "感受如何！是不是非常上手！晚安！",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "084e225e-3b14-4ada-8449-ddd6548cd3ab",
+    "next_uuid": "b810de99-15ba-4727-aade-aeebc38cc76a"
+  }
+}

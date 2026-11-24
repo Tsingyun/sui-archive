@@ -1,0 +1,28 @@
+{
+  "uuid": "a46b1c60-ccad-46e1-aabd-993202216896",
+  "platform_post_id": "705007951075606548",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-12T20:30:55+08:00",
+  "source_url": "https://t.bilibili.com/705007951075606548",
+  "plain_text": "9:30:300 今天是真的随便玩玩游戏就早早下了大家",
+  "images": [],
+  "stats": {
+    "likes": 512,
+    "comments": 40,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75fc3ecb-c19c-4db1-9877-19bd6d79f3d5",
+    "next_uuid": "cc3bd34e-e50d-4140-94fe-e140a1b954f8"
+  }
+}

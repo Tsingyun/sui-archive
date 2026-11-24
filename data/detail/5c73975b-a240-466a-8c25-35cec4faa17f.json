@@ -1,0 +1,28 @@
+{
+  "uuid": "5c73975b-a240-466a-8c25-35cec4faa17f",
+  "platform_post_id": "737276929490550808",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-08T19:31:02+08:00",
+  "source_url": "https://t.bilibili.com/737276929490550808",
+  "plain_text": "hello民那桑 今は八点来美好世界です　",
+  "images": [],
+  "stats": {
+    "likes": 270,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a2d30f5b-b992-426c-8499-d35e937f6b21",
+    "next_uuid": "ebf07a8c-bfc4-4baa-9a9a-55a23118ddfe"
+  }
+}

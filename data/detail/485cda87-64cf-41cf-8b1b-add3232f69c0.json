@@ -1,0 +1,28 @@
+{
+  "uuid": "485cda87-64cf-41cf-8b1b-add3232f69c0",
+  "platform_post_id": "1026778091805999129",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-26T23:03:24+08:00",
+  "source_url": "https://t.bilibili.com/1026778091805999129",
+  "plain_text": "岁己再次降临你身边😇晚安哟，接下来会正常直播的，明晚见～",
+  "images": [],
+  "stats": {
+    "likes": 307,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee0529db-9e83-4d19-8e5b-e42d98994f87",
+    "next_uuid": "6a0cf504-09d7-461d-a3bf-f0e8eba03f57"
+  }
+}

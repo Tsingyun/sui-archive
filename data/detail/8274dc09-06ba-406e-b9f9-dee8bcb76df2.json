@@ -1,0 +1,28 @@
+{
+  "uuid": "8274dc09-06ba-406e-b9f9-dee8bcb76df2",
+  "platform_post_id": "868993989920948240",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-28T18:20:30+08:00",
+  "source_url": "https://t.bilibili.com/868993989920948240",
+  "plain_text": "10点人头人头麦麦麦",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1499a4f8-902c-4173-b9aa-d5dc278c7667",
+    "next_uuid": "a91e7545-65d4-453f-909f-457a3deacdf3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c33dfeb0-412c-43a7-840c-480353c38e54",
+  "platform_post_id": "873886692111548417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-11T22:46:41+08:00",
+  "source_url": "https://t.bilibili.com/873886692111548417",
+  "plain_text": "今天也很开心 晚安晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 408,
+    "comments": 110,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb6dde13-18e4-403f-9050-ba597c43049c",
+    "next_uuid": "2e129ed1-d320-410a-8670-5043389b6401"
+  }
+}

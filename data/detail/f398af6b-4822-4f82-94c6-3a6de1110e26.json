@@ -1,0 +1,28 @@
+{
+  "uuid": "f398af6b-4822-4f82-94c6-3a6de1110e26",
+  "platform_post_id": "948119141624053762",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-28T23:46:30+08:00",
+  "source_url": "https://t.bilibili.com/948119141624053762",
+  "plain_text": "晚安，周日再见哦。我会一直注视着你的眼睛眼睛",
+  "images": [],
+  "stats": {
+    "likes": 329,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "47afff36-334e-4679-a2c7-876d910648d8",
+    "next_uuid": "570eb489-521f-49fc-b64a-414bfcb96226"
+  }
+}

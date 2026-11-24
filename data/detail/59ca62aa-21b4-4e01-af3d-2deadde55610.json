@@ -1,0 +1,28 @@
+{
+  "uuid": "59ca62aa-21b4-4e01-af3d-2deadde55610",
+  "platform_post_id": "962958631584661509",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-07T23:31:18+08:00",
+  "source_url": "https://t.bilibili.com/962958631584661509",
+  "plain_text": "晚安啊啊啊胃痛赶紧给猫放完罐头就躺下版",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 85,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f718fdbc-ce79-4c68-b6f4-7a28be36f9ad",
+    "next_uuid": "7b564f3b-af1f-414e-93b7-c7357595d50c"
+  }
+}

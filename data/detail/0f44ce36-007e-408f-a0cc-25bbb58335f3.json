@@ -1,0 +1,28 @@
+{
+  "uuid": "0f44ce36-007e-408f-a0cc-25bbb58335f3",
+  "platform_post_id": "1231649483540922371",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-02T01:09:02+08:00",
+  "source_url": "https://t.bilibili.com/1231649483540922371",
+  "plain_text": "我是小鸟侠，我将扑扇扑扇翅膀让饼干岁进入甜蜜梦乡的说",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07128891-d6fc-41e9-abc1-f2fda828b2f5",
+    "next_uuid": "e9b134e8-9593-4110-b229-6f915a55cbab"
+  }
+}

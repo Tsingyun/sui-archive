@@ -1,0 +1,28 @@
+{
+  "uuid": "0e3f4cca-ce9f-4b7b-bf7e-ef0abb92c51d",
+  "platform_post_id": "1230081567088443392",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-28T19:44:43+08:00",
+  "source_url": "https://t.bilibili.com/1230081567088443392",
+  "plain_text": "十分钟后！今天是唱唱聊聊参加犬绒连麦然后然后",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e300bd8-c7ca-4bff-8358-8cb6df6b1fd4",
+    "next_uuid": "77df666f-2a94-4a64-be0f-aade30e8a62b"
+  }
+}

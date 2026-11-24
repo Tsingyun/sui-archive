@@ -1,0 +1,28 @@
+{
+  "uuid": "8c678712-c590-446f-9372-8c31bb0a5728",
+  "platform_post_id": "953558683344699393",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-13T15:34:42+08:00",
+  "source_url": "https://t.bilibili.com/953558683344699393",
+  "plain_text": "啊啊啊好谢谢大家来！表现得怎么样！线上线下的大家看得还开心吗！",
+  "images": [],
+  "stats": {
+    "likes": 393,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e67347e3-aff2-432c-9afa-251655a1ea6f",
+    "next_uuid": "6afb868a-8fc9-4b95-abcc-5621d5415858"
+  }
+}

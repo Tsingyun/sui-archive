@@ -1,0 +1,28 @@
+{
+  "uuid": "3108d5ea-9962-47a5-a2d0-92a67a2ca534",
+  "platform_post_id": "1227859050369122341",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-22T20:00:13+08:00",
+  "source_url": "https://t.bilibili.com/1227859050369122341",
+  "plain_text": "10点来轻语小煮如何如何",
+  "images": [],
+  "stats": {
+    "likes": 67,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "79375c45-a664-4a75-bfe8-302b765f9d48",
+    "next_uuid": "a6fd39a7-c982-4e7f-82bd-6bdb97e24d8f"
+  }
+}

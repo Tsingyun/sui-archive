@@ -1,0 +1,28 @@
+{
+  "uuid": "61dfd474-e204-4c30-915f-31f2989b1663",
+  "platform_post_id": "1112638314877288488",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-15T08:04:55+08:00",
+  "source_url": "https://t.bilibili.com/1112638314877288488",
+  "plain_text": "早上好！早上好！早上好！咕咕咕！咕咕咕！\n你不会还没起床吧 隔壁家的小岁可是已经准备上车出门了喔",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3dc54bfc-c366-418a-98d3-8536a2f1d160",
+    "next_uuid": "232fec39-8296-4f49-ad47-dcd219b5dde1"
+  }
+}

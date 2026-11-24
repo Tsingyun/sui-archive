@@ -1,0 +1,28 @@
+{
+  "uuid": "9cce6eab-f3d8-4f52-a751-a1ae8e1f0795",
+  "platform_post_id": "946273340755017746",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-24T00:23:51+08:00",
+  "source_url": "https://t.bilibili.com/946273340755017746",
+  "plain_text": "饼干岁饼干岁我跟你说饼干岁饼干岁饼干岁啊我跟你说就是饼干岁饼干岁我跟你说那个那个就是就是晚安的说！",
+  "images": [],
+  "stats": {
+    "likes": 426,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a70c94fb-b9ad-4636-9de0-ce0c50c18004",
+    "next_uuid": "661adc21-7b0f-4534-8bc7-e8c371ad830c"
+  }
+}

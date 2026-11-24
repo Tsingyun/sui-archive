@@ -1,0 +1,38 @@
+{
+  "uuid": "4eae71d9-c823-4dfc-bda2-1844c2c7a625",
+  "platform_post_id": "961744719218475043",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-08-04T17:00:42+08:00",
+  "source_url": "https://t.bilibili.com/961744719218475043",
+  "plain_text": "直播话题征集！\n小时候做过的有点坏坏的事情\n字数请限制在800以内~\n投稿至：https://pome.vip/Gz75k7hF\n截止时间：8月8日下午5点\n\n",
+  "images": [
+    {
+      "filename": "961744719218475043_00@original.png",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 925419,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 319,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb93f2e3-9274-4e60-a228-c4ef91dd5d21",
+    "next_uuid": "90a3698d-263b-4fc0-b61e-27113c183c8b"
+  }
+}

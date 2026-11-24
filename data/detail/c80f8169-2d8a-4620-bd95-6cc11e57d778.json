@@ -1,0 +1,38 @@
+{
+  "uuid": "c80f8169-2d8a-4620-bd95-6cc11e57d778",
+  "platform_post_id": "989952724373078017",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-19T17:22:10+08:00",
+  "source_url": "https://t.bilibili.com/989952724373078017",
+  "plain_text": "qq特特",
+  "images": [
+    {
+      "filename": "989952724373078017_100@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 635131,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 200,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "52708762-8086-4dd2-8d62-85ad364116bf",
+    "next_uuid": "ee288fc9-ffeb-43ba-8ed8-c5bbfdb679c2"
+  }
+}

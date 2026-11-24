@@ -1,0 +1,28 @@
+{
+  "uuid": "eb42f7d1-9849-4f37-9e58-bbcfd209cf66",
+  "platform_post_id": "750348215795056659",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-13T00:54:18+08:00",
+  "source_url": "https://t.bilibili.com/750348215795056659",
+  "plain_text": "明早八点早台！周五了送送大家上班上学捏。",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5e3927ef-23f3-4f95-b5af-25cef8c24959",
+    "next_uuid": "9fe5b884-22d6-4405-b70b-355be1c88a1b"
+  }
+}

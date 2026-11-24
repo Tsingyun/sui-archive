@@ -1,0 +1,28 @@
+{
+  "uuid": "37f0ba00-0e2e-41f0-8fea-474ab8e01705",
+  "platform_post_id": "967028731610660903",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-18T22:45:22+08:00",
+  "source_url": "https://t.bilibili.com/967028731610660903",
+  "plain_text": "11:10\n电台1\n 人头麦2",
+  "images": [],
+  "stats": {
+    "likes": 294,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7a4f0b29-d033-43c1-a6c4-789eb32272ec",
+    "next_uuid": "71af9dcd-e020-4f3b-a779-0f62ff8313b2"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6f0b4f38-0a9e-4e3f-b28e-4479083ce314",
+  "platform_post_id": "863436572826009601",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-13T18:54:53+08:00",
+  "source_url": "https://t.bilibili.com/863436572826009601",
+  "plain_text": "小鸟洗澡中 7:35见！唱唱聊聊开jo",
+  "images": [],
+  "stats": {
+    "likes": 226,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aed842df-abb2-4111-b9b2-0959af16a826",
+    "next_uuid": "84c4b90d-2d35-409b-9a81-ed62dd079a6e"
+  }
+}

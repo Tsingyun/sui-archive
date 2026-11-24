@@ -1,0 +1,28 @@
+{
+  "uuid": "47afff36-334e-4679-a2c7-876d910648d8",
+  "platform_post_id": "948053398596354068",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-28T19:31:23+08:00",
+  "source_url": "https://t.bilibili.com/948053398596354068",
+  "plain_text": "7:45来 老师 请问今天我播什么",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0600373e-7450-4706-8885-44ac35f1e3f0",
+    "next_uuid": "f398af6b-4822-4f82-94c6-3a6de1110e26"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "608703ec-d236-4964-bdb4-15fd6cd81590",
+  "platform_post_id": "753582029805715479",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-21T18:03:09+08:00",
+  "source_url": "https://t.bilibili.com/753582029805715479",
+  "plain_text": "都吃饭了没！快拍给我看看！然而主播自己却一个人在家选外卖，呜呜呜",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2f5cfbf-c44c-4472-8dbe-45e0cc2555b8",
+    "next_uuid": "90bbb9e5-7f64-4bdf-ace4-708906349d0c"
+  }
+}

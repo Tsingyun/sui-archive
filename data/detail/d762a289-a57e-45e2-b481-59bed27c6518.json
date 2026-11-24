@@ -1,0 +1,28 @@
+{
+  "uuid": "d762a289-a57e-45e2-b481-59bed27c6518",
+  "platform_post_id": "860148534854287365",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-04T22:15:37+08:00",
+  "source_url": "https://t.bilibili.com/860148534854287365",
+  "plain_text": "帮我看看我手机是不是坏了，不然怎么收不到你的晚安",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 78,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1377dd21-4a8c-42bb-8119-3ba52a166d8f",
+    "next_uuid": "9a5461c1-84ae-47fd-a48c-a75124427156"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "5b99b65b-b538-45b3-a52f-332bdbb6f5ad",
+  "platform_post_id": "912134312183201811",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-24T00:26:59+08:00",
+  "source_url": "https://t.bilibili.com/912134312183201811",
+  "plain_text": "我现在在思考发什么样的晚安动态，饼干岁现在在思考发什么样的评论回复我、！omg有点暧昧了",
+  "images": [],
+  "stats": {
+    "likes": 465,
+    "comments": 88,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75a73d5d-fd7d-43fd-abc9-48836bd77d41",
+    "next_uuid": "8f788f41-b6b6-4c01-9c57-5c459e083ab6"
+  }
+}

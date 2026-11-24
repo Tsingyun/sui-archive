@@ -1,0 +1,28 @@
+{
+  "uuid": "c92e7b47-1d1a-470a-a514-7937db5cd3f3",
+  "platform_post_id": "1249006378406641673",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-17T19:42:39+08:00",
+  "source_url": "https://t.bilibili.com/1249006378406641673",
+  "plain_text": "散步ing！马上到家 8点开播[轻漾幻景动态表情_喜欢]",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77de6529-e069-4786-9602-99d0f1ac2d40",
+    "next_uuid": "811308fe-323a-4e54-85cc-a52f683af6d7"
+  }
+}

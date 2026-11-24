@@ -1,0 +1,28 @@
+{
+  "uuid": "48f1d4f5-71b6-4a8f-be69-1db15a62a15f",
+  "platform_post_id": "1108821605047336963",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-05T01:14:08+08:00",
+  "source_url": "https://t.bilibili.com/1108821605047336963",
+  "plain_text": "谢谢你给予我的一切，晚安。虽然岁己记性不是很好，但是会记住今晚的。是氛围平淡的一晚，但是跟大家相处的时间总是这么安心，今天我过得很开心哦，三周年啦～\n我们继续走下去吧",
+  "images": [],
+  "stats": {
+    "likes": 326,
+    "comments": 65,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "68c20c15-cb0d-4f11-93e3-4ad60141bd46",
+    "next_uuid": "7b0bb764-57fc-4760-8d26-dc4cc4653332"
+  }
+}

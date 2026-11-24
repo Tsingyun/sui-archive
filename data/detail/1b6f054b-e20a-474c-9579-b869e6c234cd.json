@@ -1,0 +1,38 @@
+{
+  "uuid": "1b6f054b-e20a-474c-9579-b869e6c234cd",
+  "platform_post_id": "963934568436465670",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-10T14:38:26+08:00",
+  "source_url": "https://t.bilibili.com/963934568436465670",
+  "plain_text": "哇啊 好美啊！我说海边",
+  "images": [
+    {
+      "filename": "963934568436465670_100@repost.png",
+      "width": 4961,
+      "height": 3307,
+      "file_size": 9697587,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 381,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "啪叽P",
+    "author_url": "https://space.bilibili.com/28961139",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a5f8ec34-8512-4d3c-8d69-5512182aae6d",
+    "next_uuid": "6e74dcfa-8621-468f-b99d-474ee3359bcb"
+  }
+}

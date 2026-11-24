@@ -1,0 +1,28 @@
+{
+  "uuid": "defc65c2-2a03-40b2-854d-ceb5c39d2ce4",
+  "platform_post_id": "895327993508921350",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-07T17:29:53+08:00",
+  "source_url": "https://t.bilibili.com/895327993508921350",
+  "plain_text": "小饼你听我说👂 7点半我来直播😏\n聊聊天看看jiojio😋我们一起笑呵呵😆\n\n",
+  "images": [],
+  "stats": {
+    "likes": 378,
+    "comments": 57,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0262a94-99eb-4142-a3ff-7fc514146f5e",
+    "next_uuid": "290092c6-0bb4-4ed9-b1dd-f06838abbe2f"
+  }
+}

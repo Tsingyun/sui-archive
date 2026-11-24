@@ -1,0 +1,38 @@
+{
+  "uuid": "e2d80402-1746-4279-bb6e-57bbe070dd3d",
+  "platform_post_id": "864093629801562117",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-11-15T13:24:36+08:00",
+  "source_url": "https://t.bilibili.com/864093629801562117",
+  "plain_text": "早啾。把岁己得像动画里的一样可爱！",
+  "images": [
+    {
+      "filename": "864093629801562117_100@repost.png",
+      "width": 1200,
+      "height": 1600,
+      "file_size": 2183555,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 314,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "59837c69-fa3c-4554-a2ce-68684491b4b1",
+    "next_uuid": "0e9f93f0-1612-4c4d-859e-e91f3350df83"
+  }
+}

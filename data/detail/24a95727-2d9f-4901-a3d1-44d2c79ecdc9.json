@@ -1,0 +1,28 @@
+{
+  "uuid": "24a95727-2d9f-4901-a3d1-44d2c79ecdc9",
+  "platform_post_id": "916136414245027909",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-03T19:17:11+08:00",
+  "source_url": "https://t.bilibili.com/916136414245027909",
+  "plain_text": "7:40 本来以为今天是荒野大镖客试玩 但是申请成功又可以jo了 先jo一下",
+  "images": [],
+  "stats": {
+    "likes": 274,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f44c12ce-ca50-4eb5-879f-b2b8ae0f52b1",
+    "next_uuid": "c15b6c8b-2504-4463-aef9-2957fb1aaa96"
+  }
+}

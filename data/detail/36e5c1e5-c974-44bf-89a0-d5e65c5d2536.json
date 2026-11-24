@@ -1,0 +1,74 @@
+{
+  "uuid": "36e5c1e5-c974-44bf-89a0-d5e65c5d2536",
+  "platform_post_id": "963695467569348633",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-08-09T23:10:36+08:00",
+  "source_url": "https://t.bilibili.com/963695467569348633",
+  "plain_text": "可爱 这个裸体是有必要的吗",
+  "images": [
+    {
+      "filename": "963695467569348633_100@repost.jpg",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 262474,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "963695467569348633_101@repost.jpg",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 204145,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "963695467569348633_102@repost.png",
+      "width": 1080,
+      "height": 810,
+      "file_size": 337036,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "963695467569348633_103@repost.jpg",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 218283,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "963695467569348633_104@repost.jpg",
+      "width": 1080,
+      "height": 1080,
+      "file_size": 143896,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 358,
+    "comments": 52,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "庸医密汤",
+    "author_url": "https://space.bilibili.com/3096889",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11a60ecc-1977-46b5-9165-47d5ef59146e",
+    "next_uuid": "a5f8ec34-8512-4d3c-8d69-5512182aae6d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "680a5f3e-9791-40ed-8f2a-9e08c1ed0f83",
+  "platform_post_id": "738022153547415584",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-10T19:42:53+08:00",
+  "source_url": "https://t.bilibili.com/738022153547415584",
+  "plain_text": "八点，我小聊我小唱✿",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "661af3a3-9a4e-48a3-a258-0a5e9e4198a3",
+    "next_uuid": "0a997422-2b8c-4ec1-b8d5-3c8dfce7c2c2"
+  }
+}

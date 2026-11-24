@@ -1,0 +1,28 @@
+{
+  "uuid": "cd93586e-a853-4492-8c16-1904b7710e63",
+  "platform_post_id": "1115784137919168534",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-23T19:32:19+08:00",
+  "source_url": "https://t.bilibili.com/1115784137919168534",
+  "plain_text": "7:45来———好困啊谁能让我揍几拳让我清醒一下的",
+  "images": [],
+  "stats": {
+    "likes": 213,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2e74cdba-8470-446f-af9f-eeeed6d97494",
+    "next_uuid": "8d98509e-195a-4369-bc1c-e25692968658"
+  }
+}

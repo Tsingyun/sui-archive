@@ -1,0 +1,28 @@
+{
+  "uuid": "15dc8367-133c-4358-a14d-84e04989bda2",
+  "platform_post_id": "952925983128682530",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-11T22:39:30+08:00",
+  "source_url": "https://t.bilibili.com/952925983128682530",
+  "plain_text": "remember me好吗 晚安啊啊啊啊",
+  "images": [],
+  "stats": {
+    "likes": 325,
+    "comments": 82,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c083584d-c8e0-4fcc-945a-9f488f5c0998",
+    "next_uuid": "d4d773cb-48f4-41cc-af8e-82d201c5c275"
+  }
+}

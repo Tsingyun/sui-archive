@@ -1,0 +1,28 @@
+{
+  "uuid": "a1b3be59-d957-4b77-85b8-00cad8bbb304",
+  "platform_post_id": "1263104892027797507",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-25T19:32:05+08:00",
+  "source_url": "https://t.bilibili.com/1263104892027797507",
+  "plain_text": "本鸟7:50来直播，学了两首新歌牛不牛待会给你唱一下。然后看不看黑衣人2或者法环。投票吧！",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cbec85b4-a6df-409f-bd48-12bf9bdc73d6",
+    "next_uuid": "56f26e51-f144-4993-921a-72e4909a8251"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e60c4b14-698b-49fc-aa2e-203c4807eda5",
+  "platform_post_id": "883102605292601346",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-05T18:49:08+08:00",
+  "source_url": "https://t.bilibili.com/883102605292601346",
+  "plain_text": "不直播不直播，晚点我来电台的说",
+  "images": [],
+  "stats": {
+    "likes": 368,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f30def29-782b-45d0-ac56-eb48d3810b4c",
+    "next_uuid": "9b1553fc-535e-411f-be68-708d1df4caaf"
+  }
+}

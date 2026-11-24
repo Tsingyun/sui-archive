@@ -1,0 +1,28 @@
+{
+  "uuid": "3bc497b9-1b7d-4e75-abb7-a147395976c6",
+  "platform_post_id": "803971711212978210",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-06T13:00:51+08:00",
+  "source_url": "https://t.bilibili.com/803971711212978210",
+  "plain_text": "在进行5分钟的电台直播",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2755e3a1-b9ca-4373-9340-e24249a31623",
+    "next_uuid": "812352ed-5307-4e37-984e-4ca7e6dd77fb"
+  }
+}

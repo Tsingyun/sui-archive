@@ -1,0 +1,28 @@
+{
+  "uuid": "5dba476b-00be-40e4-bf3d-8282a97efeaa",
+  "platform_post_id": "1058997282922299394",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-23T18:50:19+08:00",
+  "source_url": "https://t.bilibili.com/1058997282922299394",
+  "plain_text": "助眠助眠助眠助眠助眠助眠助眠助眠十点来助眠",
+  "images": [],
+  "stats": {
+    "likes": 276,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ce56a36f-4d1c-4af1-9667-a80ca82e286c",
+    "next_uuid": "c53d7e7c-b23b-4ad7-adda-cbe7bdff732b"
+  }
+}

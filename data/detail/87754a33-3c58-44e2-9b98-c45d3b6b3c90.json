@@ -1,0 +1,28 @@
+{
+  "uuid": "87754a33-3c58-44e2-9b98-c45d3b6b3c90",
+  "platform_post_id": "872019502321106981",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-06T22:01:02+08:00",
+  "source_url": "https://t.bilibili.com/872019502321106981",
+  "plain_text": "晚安 感谢您对岁己的支持和喜欢 请五星好评哦",
+  "images": [],
+  "stats": {
+    "likes": 469,
+    "comments": 76,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "43f75468-6372-47ec-8e65-1786ca9e3d6a",
+    "next_uuid": "d5468f0b-d1ce-4060-910f-ac914de5cfa9"
+  }
+}

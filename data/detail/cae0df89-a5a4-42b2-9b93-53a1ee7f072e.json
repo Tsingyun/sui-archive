@@ -1,0 +1,28 @@
+{
+  "uuid": "cae0df89-a5a4-42b2-9b93-53a1ee7f072e",
+  "platform_post_id": "870111780927438849",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-01T18:38:06+08:00",
+  "source_url": "https://t.bilibili.com/870111780927438849",
+  "plain_text": "seven o’clock! Sing dance talk 😉",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e45458e-5e6c-43e2-9f59-520beb31cfde",
+    "next_uuid": "4d0fe717-9650-42cb-b4de-760853e08b9f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "fc5ca77d-95c7-4485-a6a7-00868652dcba",
+  "platform_post_id": "712329946952892516",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-10-02T14:04:00+08:00",
+  "source_url": "https://t.bilibili.com/712329946952892516",
+  "plain_text": "这下治愈系温柔知心大姐姐了，还有人敢反驳吗",
+  "images": [],
+  "stats": {
+    "likes": 699,
+    "comments": 41,
+    "forwards": 5,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "542c174f-8e82-41fe-b8f2-608c2c4e767f",
+    "next_uuid": "54b59fee-f472-43b4-8e7a-603c99685264"
+  }
+}

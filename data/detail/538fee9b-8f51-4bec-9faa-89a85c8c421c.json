@@ -1,0 +1,28 @@
+{
+  "uuid": "538fee9b-8f51-4bec-9faa-89a85c8c421c",
+  "platform_post_id": "786506630629949460",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-20T11:27:25+08:00",
+  "source_url": "https://t.bilibili.com/786506630629949460",
+  "plain_text": "周四周四，麦辣鸡翅！嗯嗯，想不出了。\n梦见天上有三颗流星划过，正准备许愿呢，结果是陨石撞地球呀！正好砸到我前面，我跑跑跑，身上着火啦，我打滚滚滚滚， 我在想躲在室内更好还是室外，然后醒了，早！好大的雨啊，也太大了吧！",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fa40de71-444a-476d-809b-3b6e16271468",
+    "next_uuid": "5aa8008d-2468-44bb-beaa-d4a2295e65ef"
+  }
+}

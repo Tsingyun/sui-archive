@@ -1,0 +1,38 @@
+{
+  "uuid": "6232911a-3398-4b67-b12e-d014d34c0de2",
+  "platform_post_id": "885777592555143185",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-01-12T23:49:27+08:00",
+  "source_url": "https://t.bilibili.com/885777592555143185",
+  "plain_text": "晚安。谢谢大家今天也来了\n期待了好久的3D就这么结束了，希望岁己有一瞬间是发过光的\n",
+  "images": [
+    {
+      "filename": "885777592555143185_00@original.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 1752375,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 1407,
+    "comments": 254,
+    "forwards": 6,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "261bf6bf-4163-45d1-8cce-688f515cf47c",
+    "next_uuid": "2da812d6-e160-4917-9dc4-b185a2ea18d5"
+  }
+}

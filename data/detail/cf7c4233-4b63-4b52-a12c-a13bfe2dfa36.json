@@ -1,0 +1,28 @@
+{
+  "uuid": "cf7c4233-4b63-4b52-a12c-a13bfe2dfa36",
+  "platform_post_id": "959136419944595475",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-28T16:19:10+08:00",
+  "source_url": "https://t.bilibili.com/959136419944595475",
+  "plain_text": "晚十分钟！弄一下路由器！",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be657642-264f-458f-81cf-644024711b0e",
+    "next_uuid": "bd18ac43-5522-42d5-b089-bba42879f17d"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "fd8ccea1-604a-4109-9790-7eb4a1f8730f",
+  "platform_post_id": "983596026736672775",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-10-02T14:14:56+08:00",
+  "source_url": "https://t.bilibili.com/983596026736672775",
+  "plain_text": "我很可爱对吧 我也知道哼哼",
+  "images": [
+    {
+      "filename": "983596026736672775_100@repost.jpg",
+      "width": 3000,
+      "height": 2000,
+      "file_size": 1887470,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 299,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29491891-15fa-4e09-87d8-aa9f2a67af10",
+    "next_uuid": "8e86879b-3011-4580-8d35-061d3481fe47"
+  }
+}

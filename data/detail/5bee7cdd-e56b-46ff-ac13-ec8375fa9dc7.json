@@ -1,0 +1,28 @@
+{
+  "uuid": "5bee7cdd-e56b-46ff-ac13-ec8375fa9dc7",
+  "platform_post_id": "976616606106910727",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-13T18:51:13+08:00",
+  "source_url": "https://t.bilibili.com/976616606106910727",
+  "plain_text": "岁己指名你7:30陪她玩3小时 你准备一下吧",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c2887859-7ba5-4269-a7f0-7e4fc99fa871",
+    "next_uuid": "fa95f9a7-5f70-4a48-827d-b5ceda3c29f3"
+  }
+}

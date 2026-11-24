@@ -1,0 +1,28 @@
+{
+  "uuid": "4330fc48-efec-431c-8685-ce5174a6c7ce",
+  "platform_post_id": "744706247958200388",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-28T20:00:35+08:00",
+  "source_url": "https://t.bilibili.com/744706247958200388",
+  "plain_text": "8:20来！整体都昏昏沉沉困困的，今天就只小播一小时[UP_1954091502_跳恰恰]",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 29,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e58d8fb9-f77a-4ccb-a8aa-09658660b29e",
+    "next_uuid": "bba5581b-94f2-4c5b-9efd-a6dc419cfca5"
+  }
+}

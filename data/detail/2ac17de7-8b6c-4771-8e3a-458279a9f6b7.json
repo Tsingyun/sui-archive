@@ -1,0 +1,28 @@
+{
+  "uuid": "2ac17de7-8b6c-4771-8e3a-458279a9f6b7",
+  "platform_post_id": "858314652511109168",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-30T23:39:13+08:00",
+  "source_url": "https://t.bilibili.com/858314652511109168",
+  "plain_text": "晚安 回我",
+  "images": [],
+  "stats": {
+    "likes": 331,
+    "comments": 130,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96f83c2b-f78d-4642-b8a9-125f51dff5a9",
+    "next_uuid": "965152f7-ea97-4bb4-a328-573ec21bb554"
+  }
+}

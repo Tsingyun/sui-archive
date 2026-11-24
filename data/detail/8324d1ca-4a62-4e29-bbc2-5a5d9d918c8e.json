@@ -1,0 +1,28 @@
+{
+  "uuid": "8324d1ca-4a62-4e29-bbc2-5a5d9d918c8e",
+  "platform_post_id": "848878742502637570",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-05T13:23:04+08:00",
+  "source_url": "https://t.bilibili.com/848878742502637570",
+  "plain_text": "偶买噶！！！睡过头啦！\n下午好🫥",
+  "images": [],
+  "stats": {
+    "likes": 294,
+    "comments": 46,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f838e213-9150-427d-9bcf-227776baf00a",
+    "next_uuid": "59018887-e74f-4492-a523-66b984bc7227"
+  }
+}

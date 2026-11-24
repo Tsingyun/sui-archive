@@ -1,0 +1,28 @@
+{
+  "uuid": "e4f91663-c5fe-418c-b259-0276316104e2",
+  "platform_post_id": "1182281948302671889",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-22T00:17:47+08:00",
+  "source_url": "https://t.bilibili.com/1182281948302671889",
+  "plain_text": "想跟岁己说晚安的人有福了，现在正好是晚上🌃",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "022defc6-7f4a-4b52-b8e3-bffabb7ed729",
+    "next_uuid": "63316fcc-7211-4427-801a-8c97e57e9a95"
+  }
+}

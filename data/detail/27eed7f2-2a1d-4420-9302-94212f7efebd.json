@@ -1,0 +1,28 @@
+{
+  "uuid": "27eed7f2-2a1d-4420-9302-94212f7efebd",
+  "platform_post_id": "1258643855520038951",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-10-13T19:00:59+08:00",
+  "source_url": "https://t.bilibili.com/1258643855520038951",
+  "plain_text": "走吧！穿饼干岁最喜欢的小红帽套装",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "啪叽P",
+    "author_url": "https://space.bilibili.com/28961139",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb6975fc-971a-481b-b8fb-b0bdc6f552aa",
+    "next_uuid": "613ed528-0970-4398-9a83-1a01214c43fb"
+  }
+}

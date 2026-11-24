@@ -1,0 +1,110 @@
+{
+  "uuid": "2c5856cc-412c-48b6-baba-91e42ffce88b",
+  "platform_post_id": "1165874511810134039",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-02-05T19:08:33+08:00",
+  "source_url": "https://t.bilibili.com/1165874511810134039",
+  "plain_text": "小岁的生日派对8点开始啦，邀请你来一起玩！",
+  "images": [
+    {
+      "filename": "1165874511810134039_100@repost.jpg",
+      "width": 667,
+      "height": 667,
+      "file_size": 415765,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_101@repost.jpg",
+      "width": 666,
+      "height": 667,
+      "file_size": 60593,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_102@repost.jpg",
+      "width": 667,
+      "height": 667,
+      "file_size": 248555,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_103@repost.jpg",
+      "width": 667,
+      "height": 666,
+      "file_size": 167265,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_104@repost.jpg",
+      "width": 666,
+      "height": 666,
+      "file_size": 89059,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_105@repost.png",
+      "width": 1200,
+      "height": 7432,
+      "file_size": 10919426,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_106@repost.jpg",
+      "width": 667,
+      "height": 667,
+      "file_size": 212906,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_107@repost.jpg",
+      "width": 666,
+      "height": 667,
+      "file_size": 228069,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1165874511810134039_108@repost.jpg",
+      "width": 667,
+      "height": 667,
+      "file_size": 219248,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 209,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "大家大家！\n小岁生日要到了的说，虽然已经是和大家一起的第四个生日了，今年也能来陪我度过吗\n\n内容：\n搁浅的岁己形态披露\n聊聊/唱歌/天选/凸待/看大家的生贺\n然后温情地度过这一天\n这次也准备了一些大航海礼物 时间：2.1-2.28\n\n一定要来哦\n",
+    "source_url": "https://t.bilibili.com/1165453166954676224"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "695de57a-055c-4228-a627-a214f6b7f967",
+    "next_uuid": "3759731d-1623-4605-b7c4-ef68c3d543a6"
+  }
+}

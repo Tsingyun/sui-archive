@@ -1,0 +1,38 @@
+{
+  "uuid": "14da63c7-6fd4-48e2-a4ea-0203bfff5c5a",
+  "platform_post_id": "769477484761579591",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-03-05T14:05:38+08:00",
+  "source_url": "https://t.bilibili.com/769477484761579591",
+  "plain_text": "今晚7点是岁己半周年纪念直播哦！先唱唱聊聊，然后八点开始凸待！\r全体饼干岁非必要情况不得缺席！全体集合！\r3.5日-3.19日限定上舰礼物为：本月常规（给你一拳吧唧）+拍照式透卡+ 饼干岁钥匙扣‼️\r提督礼物为：以上+亚克力画报+对你的印象信\r总督礼物为：您说\r请多多支持吧~~\n",
+  "images": [
+    {
+      "filename": "769477484761579591_00@original.png",
+      "width": 2300,
+      "height": 1330,
+      "file_size": 1665183,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 378,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4b860ed9-799e-4e05-97e0-247359cbee28",
+    "next_uuid": "ceeba7c7-5142-4572-a577-d59c22ef31bb"
+  }
+}

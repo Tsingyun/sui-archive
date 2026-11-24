@@ -1,0 +1,28 @@
+{
+  "uuid": "74c32136-547e-406e-8bda-52dffcfed009",
+  "platform_post_id": "1074812774128812057",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-05T09:42:30+08:00",
+  "source_url": "https://t.bilibili.com/1074812774128812057",
+  "plain_text": "早呀早呀早早早[岁己收藏集表情包_诶嘿]友友们都在干嘛呢",
+  "images": [],
+  "stats": {
+    "likes": 301,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a5c4f6e6-e50e-4207-97d9-07c09281bb74",
+    "next_uuid": "13414020-38db-4db0-8e11-23e669c954ae"
+  }
+}

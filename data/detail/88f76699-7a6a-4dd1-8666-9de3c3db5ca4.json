@@ -1,0 +1,28 @@
+{
+  "uuid": "88f76699-7a6a-4dd1-8666-9de3c3db5ca4",
+  "platform_post_id": "1029693017393463300",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-02-03T19:34:48+08:00",
+  "source_url": "https://t.bilibili.com/1029693017393463300",
+  "plain_text": "十分钟就来，洗完澡有点昏昏欲睡的( - . - )",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "faf40e29-994b-459e-a3b2-c8232ce2bb86",
+    "next_uuid": "b28d23c5-c811-4a96-92b4-b0fb30f09bcd"
+  }
+}

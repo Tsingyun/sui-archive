@@ -1,0 +1,28 @@
+{
+  "uuid": "18463629-2e16-4c0d-beba-945664b81122",
+  "platform_post_id": "1079852046353432596",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-18T23:37:27+08:00",
+  "source_url": "https://t.bilibili.com/1079852046353432596",
+  "plain_text": "你今天过得怎样 晚安喏",
+  "images": [],
+  "stats": {
+    "likes": 289,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "908794a5-0021-4ccd-aac1-10be35a0d58c",
+    "next_uuid": "7b5a6f5b-1eee-4ded-b9b0-b8f92559d8f3"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "3121a860-3c0a-4412-bd8f-9534a6e5b09a",
+  "platform_post_id": "752564659461029929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-19T00:15:14+08:00",
+  "source_url": "https://t.bilibili.com/752564659461029929",
+  "plain_text": "晚安大家！\n明天早上起不来，我现在提前吃个粽子喝点饮料当早饭，不吃早饭对身体不好，大家也要记得吃早饭哦！",
+  "images": [],
+  "stats": {
+    "likes": 416,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e07eecb7-ff59-4db7-a6a8-13533baa550c",
+    "next_uuid": "3004a3ce-e379-4e49-9137-b8bc9d0106d4"
+  }
+}

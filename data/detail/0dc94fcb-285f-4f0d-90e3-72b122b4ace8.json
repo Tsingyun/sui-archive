@@ -1,0 +1,28 @@
+{
+  "uuid": "0dc94fcb-285f-4f0d-90e3-72b122b4ace8",
+  "platform_post_id": "919556754424987713",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-13T00:29:51+08:00",
+  "source_url": "https://t.bilibili.com/919556754424987713",
+  "plain_text": "晚安小饼饼儿",
+  "images": [],
+  "stats": {
+    "likes": 352,
+    "comments": 84,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dec77040-948f-4ea2-8b3f-8cccb002efe2",
+    "next_uuid": "ca4bd36c-037c-469f-9d9a-83af07f40af4"
+  }
+}

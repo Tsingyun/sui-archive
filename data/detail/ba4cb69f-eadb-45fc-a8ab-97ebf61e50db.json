@@ -1,0 +1,28 @@
+{
+  "uuid": "ba4cb69f-eadb-45fc-a8ab-97ebf61e50db",
+  "platform_post_id": "860886655032098919",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-06T21:59:54+08:00",
+  "source_url": "https://t.bilibili.com/860886655032098919",
+  "plain_text": "很内向，发晚安动态都要鼓足勇气。啊！！不知道会不会被回复，好好好好紧！张张张\n晚…晚……安…！",
+  "images": [],
+  "stats": {
+    "likes": 482,
+    "comments": 95,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef646b1c-5120-4806-84ad-917b3646bee5",
+    "next_uuid": "69dd500d-205a-444d-8339-7ef2a4dfd328"
+  }
+}

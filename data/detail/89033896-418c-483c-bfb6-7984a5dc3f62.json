@@ -1,0 +1,28 @@
+{
+  "uuid": "89033896-418c-483c-bfb6-7984a5dc3f62",
+  "platform_post_id": "1052423174016204824",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-06T01:39:25+08:00",
+  "source_url": "https://t.bilibili.com/1052423174016204824",
+  "plain_text": "今天是会被岁己记下来的一天，大概一年后也会想起吧。晚安大家\n然后明天会来代抽收藏集哟，需要的大家到时候准备好抽数然后来扫码登录，10抽起抽捏",
+  "images": [],
+  "stats": {
+    "likes": 369,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d0dee90b-9645-41d8-9c1a-6f0a3ef04585",
+    "next_uuid": "4bf16241-ad08-4bf7-b1d8-7ea8d7764408"
+  }
+}

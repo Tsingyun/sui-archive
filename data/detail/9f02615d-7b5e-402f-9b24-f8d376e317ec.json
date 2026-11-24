@@ -1,0 +1,28 @@
+{
+  "uuid": "9f02615d-7b5e-402f-9b24-f8d376e317ec",
+  "platform_post_id": "1167815772591882261",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-11T00:41:38+08:00",
+  "source_url": "https://t.bilibili.com/1167815772591882261",
+  "plain_text": "腾出了10分钟，谁想跟我说晚安，先到先得！",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c84677e-7995-4776-a567-1f32940cdf99",
+    "next_uuid": "666d0c3d-bf0f-43d2-8196-e962c47eb32f"
+  }
+}

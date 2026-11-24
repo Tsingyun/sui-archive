@@ -1,0 +1,28 @@
+{
+  "uuid": "387ab7ce-006a-4476-b70b-775291ee8308",
+  "platform_post_id": "828551293657153625",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-11T18:42:11+08:00",
+  "source_url": "https://t.bilibili.com/828551293657153625",
+  "plain_text": "胃痛啊，八点见吧，可以的话就早点",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8e3c657-fdf4-44c2-807e-157b1c2db725",
+    "next_uuid": "d72cdf42-98f0-4e0c-8bf7-e14762dec34a"
+  }
+}

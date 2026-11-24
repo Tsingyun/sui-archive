@@ -1,0 +1,28 @@
+{
+  "uuid": "a3a15348-9733-4a55-a629-242d3aa20802",
+  "platform_post_id": "1127946140973531189",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-26T14:07:06+08:00",
+  "source_url": "https://t.bilibili.com/1127946140973531189",
+  "plain_text": "报！2:40准备唱唱聊聊",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aa1d6ff3-a703-45a2-80a1-10325891ea1e",
+    "next_uuid": "c85ebc69-1dce-4345-8c0b-044e431ee9f4"
+  }
+}

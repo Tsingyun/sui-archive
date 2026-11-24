@@ -1,0 +1,28 @@
+{
+  "uuid": "1be55659-e91f-4e5f-a3ed-e7b767368160",
+  "platform_post_id": "1074296978603507732",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-04T00:20:57+08:00",
+  "source_url": "https://t.bilibili.com/1074296978603507732",
+  "plain_text": "晚安捏大家 今天播得挺开心[岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5977fb9c-9aff-46d6-82df-b18c654a646a",
+    "next_uuid": "a5c4f6e6-e50e-4207-97d9-07c09281bb74"
+  }
+}

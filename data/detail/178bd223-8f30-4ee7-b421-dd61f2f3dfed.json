@@ -1,0 +1,28 @@
+{
+  "uuid": "178bd223-8f30-4ee7-b421-dd61f2f3dfed",
+  "platform_post_id": "1242776330776346644",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-01T00:46:53+08:00",
+  "source_url": "https://t.bilibili.com/1242776330776346644",
+  "plain_text": "饼干岁晚安哟我好紧张的说[岁己收藏集表情包_啊啊啊]有时候也想问问自己怎么就这么怂怂的",
+  "images": [],
+  "stats": {
+    "likes": 340,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fb5eeaa0-cbda-486b-b29f-c2d9188d1a73",
+    "next_uuid": "ff6799de-182b-4e55-a4a6-aeff6cfa3b5a"
+  }
+}

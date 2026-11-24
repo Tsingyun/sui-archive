@@ -1,0 +1,28 @@
+{
+  "uuid": "c01c3079-7ef8-4c28-a74c-34bed71e2d9f",
+  "platform_post_id": "713905933665697799",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-10-06T19:59:38+08:00",
+  "source_url": "https://t.bilibili.com/713905933665697799",
+  "plain_text": "小朋友们大家好，以下三个选项中有一个是今晚正确的直播时间：\n（1）9:14\n（2）9:62\n（3）哈哈嗯\n赶紧拿起手机回答吧！",
+  "images": [],
+  "stats": {
+    "likes": 572,
+    "comments": 94,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fb7511c-3e73-4994-bdc1-cf755a8584e3",
+    "next_uuid": "6cccedab-8423-49b2-936d-beb9b85c3aa6"
+  }
+}

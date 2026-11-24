@@ -1,0 +1,28 @@
+{
+  "uuid": "8908437a-ce71-44c1-b3ad-d64890da8ab5",
+  "platform_post_id": "1224887259417804820",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-14T19:48:09+08:00",
+  "source_url": "https://t.bilibili.com/1224887259417804820",
+  "plain_text": "我来安排一下啊 小岁现在去拿快递 然后你7:58准时点进直播间待机 呼唤小岁小岁～ 然后小岁开播 你就跟小岁说话 小岁唱歌你打call 知豆吗",
+  "images": [],
+  "stats": {
+    "likes": 158,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a3a64d64-c4d6-4596-9274-01088ae02902",
+    "next_uuid": "7cc98a53-c988-407c-a313-c5fe89c114cf"
+  }
+}

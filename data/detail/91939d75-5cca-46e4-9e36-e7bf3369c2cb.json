@@ -1,0 +1,28 @@
+{
+  "uuid": "91939d75-5cca-46e4-9e36-e7bf3369c2cb",
+  "platform_post_id": "1142554140759556119",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-04T22:53:36+08:00",
+  "source_url": "https://t.bilibili.com/1142554140759556119",
+  "plain_text": "为你献上一份安心温情的晚安 明早9点见 应该!!",
+  "images": [],
+  "stats": {
+    "likes": 257,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1f7d023-b4b9-48ae-aa3f-dc6d88b89ac1",
+    "next_uuid": "54075415-5dbc-485c-ad62-f5c27b665d26"
+  }
+}

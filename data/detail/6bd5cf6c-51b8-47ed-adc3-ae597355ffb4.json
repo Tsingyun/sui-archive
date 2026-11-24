@@ -1,0 +1,28 @@
+{
+  "uuid": "6bd5cf6c-51b8-47ed-adc3-ae597355ffb4",
+  "platform_post_id": "961416149964161030",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-03T19:45:41+08:00",
+  "source_url": "https://t.bilibili.com/961416149964161030",
+  "plain_text": "8:40播。没什么要干的怎么办",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "63983926-d5a2-410e-be22-5f222ed9f43e",
+    "next_uuid": "0acfaca2-37a4-4c31-bcec-ff0dce6b22e8"
+  }
+}

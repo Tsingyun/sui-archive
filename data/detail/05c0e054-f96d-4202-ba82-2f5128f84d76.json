@@ -1,0 +1,28 @@
+{
+  "uuid": "05c0e054-f96d-4202-ba82-2f5128f84d76",
+  "platform_post_id": "732919745276280852",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-27T01:42:56+08:00",
+  "source_url": "https://t.bilibili.com/732919745276280852",
+  "plain_text": "感谢大家今天也来看我直播了！今天也很开心！晚安，祝大家做个好梦，最好没有流口水",
+  "images": [],
+  "stats": {
+    "likes": 403,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "de19bab8-4199-43ac-83f8-107ee74ac3de",
+    "next_uuid": "6f14aa67-d180-49dc-8eaf-d8acb25ead08"
+  }
+}

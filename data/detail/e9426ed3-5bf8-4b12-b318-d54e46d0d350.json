@@ -1,0 +1,28 @@
+{
+  "uuid": "e9426ed3-5bf8-4b12-b318-d54e46d0d350",
+  "platform_post_id": "999632210573131863",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-14T19:23:31+08:00",
+  "source_url": "https://t.bilibili.com/999632210573131863",
+  "plain_text": "八点来！我光速去洗头洗澡，今天是唱唱聊聊+试玩一下犯罪香肠清理",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b20bb336-02ab-4fe7-8374-3728e9ad3703",
+    "next_uuid": "d94170f0-cdee-49ef-aabb-e0f19f4e508d"
+  }
+}

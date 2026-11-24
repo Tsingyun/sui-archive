@@ -1,0 +1,28 @@
+{
+  "uuid": "5b1c4cb2-6a12-4154-9b77-0db82b127522",
+  "platform_post_id": "708231190929211417",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-21T12:58:44+08:00",
+  "source_url": "https://t.bilibili.com/708231190929211417",
+  "plain_text": "在这里收集一下大家想让我说的台词！\nhttps://pome.ink/Gz75k7hF",
+  "images": [],
+  "stats": {
+    "likes": 416,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "29b58c17-0d95-4b62-a573-4da6d5397476",
+    "next_uuid": "d1baa72a-c5e7-4819-9a85-e8996513e441"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "9b85d340-6f19-435c-a4cf-4587e59519b4",
+  "platform_post_id": "990790741226684441",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-10-21T23:34:06+08:00",
+  "source_url": "https://t.bilibili.com/990790741226684441",
+  "plain_text": "幸好在最后几抽抽到了小隐藏，还不算太脸黑！大家多多支持悠亚yua的美美收藏集[悠亚收藏集表情包_赢]\n",
+  "images": [
+    {
+      "filename": "990790741226684441_00@original.jpg",
+      "width": 828,
+      "height": 1583,
+      "file_size": 508580,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 261,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4dcc367-a106-4f22-a671-41303eb97fd4",
+    "next_uuid": "97b2912b-8928-4f00-8d5d-51b613537880"
+  }
+}

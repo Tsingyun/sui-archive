@@ -1,0 +1,28 @@
+{
+  "uuid": "7751b970-d5a1-4f1f-93cf-727a21043749",
+  "platform_post_id": "864930637329465350",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-17T19:32:37+08:00",
+  "source_url": "https://t.bilibili.com/864930637329465350",
+  "plain_text": "[小A和小B_无语]7:40",
+  "images": [],
+  "stats": {
+    "likes": 225,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d2ff94bc-f905-434f-9bd4-a6347a73234a",
+    "next_uuid": "59655d60-3e8f-480f-9c11-b9c99dd7e4be"
+  }
+}

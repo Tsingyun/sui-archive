@@ -1,0 +1,28 @@
+{
+  "uuid": "2587921f-1844-4ca3-bf35-cacd10421edb",
+  "platform_post_id": "822894533964464214",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-27T12:51:04+08:00",
+  "source_url": "https://t.bilibili.com/822894533964464214",
+  "plain_text": "9点醒了想发早安的，怕大家太忙打扰到大家555\n憋到现在才敢发：早安🥺",
+  "images": [],
+  "stats": {
+    "likes": 435,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75580ba3-31a5-4c9e-b5ea-276ecb5e0290",
+    "next_uuid": "82ef4b91-9b98-4fe8-ad47-0146bd9d3120"
+  }
+}

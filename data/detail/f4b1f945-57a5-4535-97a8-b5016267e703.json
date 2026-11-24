@@ -1,0 +1,28 @@
+{
+  "uuid": "f4b1f945-57a5-4535-97a8-b5016267e703",
+  "platform_post_id": "941441756005662724",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-10T23:54:50+08:00",
+  "source_url": "https://t.bilibili.com/941441756005662724",
+  "plain_text": "注意看！这个小鸟发布了一条晚安动态",
+  "images": [],
+  "stats": {
+    "likes": 388,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb906779-e54f-4d84-b0c5-9d16b4ecb514",
+    "next_uuid": "2ec5201c-36da-4b77-acea-1ac9f76bdc6a"
+  }
+}

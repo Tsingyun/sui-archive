@@ -1,0 +1,28 @@
+{
+  "uuid": "d9320881-7e5a-453b-b235-c58795bd0c33",
+  "platform_post_id": "1273034980926160897",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-11-21T13:45:54+08:00",
+  "source_url": "https://t.bilibili.com/1273034980926160897",
+  "plain_text": "哇是全家福🧑‍🧑‍🧒",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "啪叽P",
+    "author_url": "https://space.bilibili.com/28961139",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1f3c5ba-e45c-4798-bbdb-52020ad75073",
+    "next_uuid": "8df800a5-0aaa-442e-933f-7eb17789f76d"
+  }
+}

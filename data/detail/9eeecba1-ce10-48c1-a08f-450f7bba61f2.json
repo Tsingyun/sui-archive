@@ -1,0 +1,28 @@
+{
+  "uuid": "9eeecba1-ce10-48c1-a08f-450f7bba61f2",
+  "platform_post_id": "1205594189018955779",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-23T20:01:11+08:00",
+  "source_url": "https://t.bilibili.com/1205594189018955779",
+  "plain_text": "8:15来叭！你来不来",
+  "images": [],
+  "stats": {
+    "likes": 174,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6538452b-e746-4b77-88be-1b501155827c",
+    "next_uuid": "fd974af9-d229-4c6d-8ddb-5fb37a5eb6e5"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "67e5807b-6894-45b2-8256-959d152fa89a",
+  "platform_post_id": "1173371162495811634",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-25T23:59:23+08:00",
+  "source_url": "https://t.bilibili.com/1173371162495811634",
+  "plain_text": "谁想跟我说晚安，时间有限，来！",
+  "images": [],
+  "stats": {
+    "likes": 259,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cdab1c00-e1ea-4dab-9012-81d5ed8aee63",
+    "next_uuid": "79cb37ba-69c4-42b2-abfe-2c7590c642cf"
+  }
+}

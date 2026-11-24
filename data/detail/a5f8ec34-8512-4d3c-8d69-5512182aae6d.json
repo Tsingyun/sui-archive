@@ -1,0 +1,28 @@
+{
+  "uuid": "a5f8ec34-8512-4d3c-8d69-5512182aae6d",
+  "platform_post_id": "963706986688413720",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-09T23:55:18+08:00",
+  "source_url": "https://t.bilibili.com/963706986688413720",
+  "plain_text": "晚安嗯咳咳呃哼哼咳咳额 （打量的眼神）",
+  "images": [],
+  "stats": {
+    "likes": 303,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "36e5c1e5-c974-44bf-89a0-d5e65c5d2536",
+    "next_uuid": "1b6f054b-e20a-474c-9579-b869e6c234cd"
+  }
+}

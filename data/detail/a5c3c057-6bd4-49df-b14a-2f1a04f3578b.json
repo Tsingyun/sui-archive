@@ -1,0 +1,28 @@
+{
+  "uuid": "a5c3c057-6bd4-49df-b14a-2f1a04f3578b",
+  "platform_post_id": "1039044045938098194",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-01T00:21:34+08:00",
+  "source_url": "https://t.bilibili.com/1039044045938098194",
+  "plain_text": "希望今天也向大家传递了快乐和爱[UP_1954091502_抱抱]\n晚安",
+  "images": [],
+  "stats": {
+    "likes": 289,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "98327a0b-6a9a-4cfd-91ce-4806ce6f86eb",
+    "next_uuid": "51b7c7e2-5d56-474b-84f7-fb24a30cc049"
+  }
+}

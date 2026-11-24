@@ -1,0 +1,28 @@
+{
+  "uuid": "546fcdeb-059a-4922-8a4e-cf1e3f107ce4",
+  "platform_post_id": "766324132621058050",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-25T02:09:01+08:00",
+  "source_url": "https://t.bilibili.com/766324132621058050",
+  "plain_text": "晚安！玩到好游戏了！以及非常温情的下播！完美的一天！",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c3a81152-16f5-4567-a9d4-aa5901e6ad69",
+    "next_uuid": "24c53de8-c4c6-469f-a769-2820640ce940"
+  }
+}

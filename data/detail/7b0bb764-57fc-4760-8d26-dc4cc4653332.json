@@ -1,0 +1,38 @@
+{
+  "uuid": "7b0bb764-57fc-4760-8d26-dc4cc4653332",
+  "platform_post_id": "1109015608783011856",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-09-05T13:46:58+08:00",
+  "source_url": "https://t.bilibili.com/1109015608783011856",
+  "plain_text": "视频更新预告\n",
+  "images": [
+    {
+      "filename": "1109015608783011856_00@original.jpg",
+      "width": 2069,
+      "height": 1163,
+      "file_size": 586324,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 218,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "48f1d4f5-71b6-4a8f-be69-1db15a62a15f",
+    "next_uuid": "dd2bbd8e-a5a3-4e51-b125-296eab1d41f2"
+  }
+}

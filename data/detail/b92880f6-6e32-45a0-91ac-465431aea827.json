@@ -1,0 +1,28 @@
+{
+  "uuid": "b92880f6-6e32-45a0-91ac-465431aea827",
+  "platform_post_id": "878668335050391558",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-24T20:01:54+08:00",
+  "source_url": "https://t.bilibili.com/878668335050391558",
+  "plain_text": "🫥你们好夸张啊！那乖乖等我吃个饭 8:30来随便唱点聊点 但是如果头很痛就会稍微早点下",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6614f354-bf8d-4879-a69a-20c14379442d",
+    "next_uuid": "117a49a1-205e-44d2-a1a4-b2a3a195bac0"
+  }
+}

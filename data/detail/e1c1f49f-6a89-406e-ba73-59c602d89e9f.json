@@ -1,0 +1,28 @@
+{
+  "uuid": "e1c1f49f-6a89-406e-ba73-59c602d89e9f",
+  "platform_post_id": "1116242080182566947",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-25T01:09:22+08:00",
+  "source_url": "https://t.bilibili.com/1116242080182566947",
+  "plain_text": "晚安呢。好困快回我，握着手机等不住了再不回yao昏睡过去了",
+  "images": [],
+  "stats": {
+    "likes": 252,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2672f4ef-4629-4f78-8ee1-1a51adffc4b4",
+    "next_uuid": "f8a0d8e6-0b32-4706-8b9b-9116aa4117b3"
+  }
+}

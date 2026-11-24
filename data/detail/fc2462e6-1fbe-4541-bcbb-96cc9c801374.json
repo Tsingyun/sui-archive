@@ -1,0 +1,28 @@
+{
+  "uuid": "fc2462e6-1fbe-4541-bcbb-96cc9c801374",
+  "platform_post_id": "914355248369238018",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-30T00:05:21+08:00",
+  "source_url": "https://t.bilibili.com/914355248369238018",
+  "plain_text": "恭喜你明天周末啦！我在听ChiliChill的丑马，晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "26908ee9-bd06-41c7-b9b3-208f17c7509d",
+    "next_uuid": "ecdbb120-0c1b-46c6-851a-afe15846d247"
+  }
+}

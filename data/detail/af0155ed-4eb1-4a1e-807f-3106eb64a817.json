@@ -1,0 +1,28 @@
+{
+  "uuid": "af0155ed-4eb1-4a1e-807f-3106eb64a817",
+  "platform_post_id": "753306378839261187",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-21T00:13:29+08:00",
+  "source_url": "https://t.bilibili.com/753306378839261187",
+  "plain_text": "哇！明天就过年了，晚安，今晚一起跨年哦",
+  "images": [],
+  "stats": {
+    "likes": 372,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ee5c10a-9407-4154-bf8a-448995e78b96",
+    "next_uuid": "cbfc2328-982e-47e7-b718-7c873f0aa065"
+  }
+}

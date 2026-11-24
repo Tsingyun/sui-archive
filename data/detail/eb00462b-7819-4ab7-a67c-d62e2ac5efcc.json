@@ -1,0 +1,28 @@
+{
+  "uuid": "eb00462b-7819-4ab7-a67c-d62e2ac5efcc",
+  "platform_post_id": "965488118251651074",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-14T19:07:00+08:00",
+  "source_url": "https://t.bilibili.com/965488118251651074",
+  "plain_text": "我去，才14号这个月都播了49小时了，沉淀一下，明天见[UP_1954091502_吃我一拳]",
+  "images": [],
+  "stats": {
+    "likes": 327,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e2625e6-da4a-4c2e-aa78-4d61a070bd9f",
+    "next_uuid": "f3ec96b8-d10e-42eb-a910-6e6741758269"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8cbfe220-e570-4fa8-a245-24ec83e6b2ea",
+  "platform_post_id": "775191573647327251",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-20T23:39:13+08:00",
+  "source_url": "https://t.bilibili.com/775191573647327251",
+  "plain_text": "唱得好畅快好开心！谢谢大家的夸奖和打call哦，以后也会学更多歌唱给大家听。晚安",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0dc954d0-0c73-4742-b5e1-f9c3867feede",
+    "next_uuid": "4190f385-1621-4de0-88e0-ae4f0ddb354d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "96725a37-f14c-4ed4-9e46-e633cef909d4",
+  "platform_post_id": "1261325096185757715",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-21T00:25:34+08:00",
+  "source_url": "https://t.bilibili.com/1261325096185757715",
+  "plain_text": "晚安喏大家，我觉得5天前的蛋糕真的还能吃就是奶油有点干巴了，亲测没问题的呀。",
+  "images": [],
+  "stats": {
+    "likes": 373,
+    "comments": 75,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fc06fe4d-540a-486b-bec4-a68b3199dc8a",
+    "next_uuid": "3ba8a95d-f380-4972-bda6-fb414a9ae25f"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "83661a5e-6f20-4cd4-aeac-50b3a58514fd",
+  "platform_post_id": "797034613409054790",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-18T20:21:22+08:00",
+  "source_url": "https://t.bilibili.com/797034613409054790",
+  "plain_text": "（扯领带）小美女，想叔了？（看金表）今天就为了你腾点时间出来吧，8:40见🌹 趁还有点时间把自己打扮打扮哦",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7968346-fa71-4569-bc03-720b8cc00d27",
+    "next_uuid": "5ef4bcb8-c7d8-49b6-bd8d-94cb65be5c4c"
+  }
+}

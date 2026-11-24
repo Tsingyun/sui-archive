@@ -1,0 +1,28 @@
+{
+  "uuid": "841b79ec-14e4-43c1-ae1f-210e5d00ea9c",
+  "platform_post_id": "876797760828866560",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-19T19:03:07+08:00",
+  "source_url": "https://t.bilibili.com/876797760828866560",
+  "plain_text": "好冷啊，鼻子结冰了要。\n7:20岁己又酬勤！唱唱聊聊",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c356caff-39d6-44b5-b8a4-4e84a0156be8",
+    "next_uuid": "2828dd5a-efd1-428f-9546-3b9f50d7cbe1"
+  }
+}

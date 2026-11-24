@@ -1,0 +1,28 @@
+{
+  "uuid": "5d6ef658-991b-4e02-ac9f-ab221f92ed83",
+  "platform_post_id": "911692188253945881",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-22T19:51:19+08:00",
+  "source_url": "https://t.bilibili.com/911692188253945881",
+  "plain_text": "2x4点2x5分",
+  "images": [],
+  "stats": {
+    "likes": 241,
+    "comments": 37,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f475acef-14f8-4348-9d53-479438b6e75d",
+    "next_uuid": "8dcf7b17-8ab3-41a0-a133-13821f7b8b56"
+  }
+}

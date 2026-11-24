@@ -1,0 +1,28 @@
+{
+  "uuid": "ca01e6b9-b60b-4b0f-be79-8a5520d93756",
+  "platform_post_id": "874627518120853591",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-12-13T22:41:28+08:00",
+  "source_url": "https://t.bilibili.com/874627518120853591",
+  "plain_text": "哎哎又是高质量的一天，饼干岁都要消化不良了吧\n晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 522,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e4295429-2f77-4c62-83eb-aa399137efdd",
+    "next_uuid": "334c258a-9f32-45f1-9243-012a1a4adb5e"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f0f10807-d662-4883-986e-0b1a0a1acd9a",
+  "platform_post_id": "807783361804238912",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-16T19:32:00+08:00",
+  "source_url": "https://t.bilibili.com/807783361804238912",
+  "plain_text": "在跟ps打架，8:30来合唱歌回",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ffc79158-89ef-41f7-acb5-310a59ec524f",
+    "next_uuid": "5c8e3162-2d9b-4a48-b753-3ccfacdc1674"
+  }
+}

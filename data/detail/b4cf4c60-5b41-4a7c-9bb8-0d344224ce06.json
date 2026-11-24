@@ -1,0 +1,28 @@
+{
+  "uuid": "b4cf4c60-5b41-4a7c-9bb8-0d344224ce06",
+  "platform_post_id": "899077847834951681",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-17T20:01:14+08:00",
+  "source_url": "https://t.bilibili.com/899077847834951681",
+  "plain_text": "排队排晕 感觉得9点过了 等我通知 今天小播",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 49,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a15930fe-96e4-4d39-b89b-d9b848e9e8b7",
+    "next_uuid": "ab6a0c87-54d5-4633-9fe9-841604e528ad"
+  }
+}

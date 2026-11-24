@@ -1,0 +1,28 @@
+{
+  "uuid": "701e43ed-04c7-471a-be39-125696628c1a",
+  "platform_post_id": "786249237535916055",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-19T18:48:36+08:00",
+  "source_url": "https://t.bilibili.com/786249237535916055",
+  "plain_text": "感觉今天嗓子不是很good ，吃了四个冰淇淋冰敷（叫什么奶提子其实还挺小一个的）。其实不想吃这么多，一切都为了给大家呈现更好的直播。嗯！只要大家看得开心那付出的一切都值得。今晚8点见啦",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 40,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0ef917d9-5c93-4d42-92ad-a74061ce2cb8",
+    "next_uuid": "fa40de71-444a-476d-809b-3b6e16271468"
+  }
+}

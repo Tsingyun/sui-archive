@@ -1,0 +1,28 @@
+{
+  "uuid": "ce59eabf-1ecf-4c0d-8fe2-e5d7191a8464",
+  "platform_post_id": "786979077035655200",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-21T18:00:45+08:00",
+  "source_url": "https://t.bilibili.com/786979077035655200",
+  "plain_text": "8点直播双声道麦试营业 随便播一播调一调 还没学习什么技术 随便看看 不要期待",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e233368f-263f-44e0-b4ef-16fba0dfa18f",
+    "next_uuid": "69ad058a-24b3-4028-a1a0-79d85715b2fc"
+  }
+}

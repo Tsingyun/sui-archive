@@ -1,0 +1,28 @@
+{
+  "uuid": "7fa12b5d-4636-4580-85dc-8c9c6b32bf48",
+  "platform_post_id": "832628742333399088",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-22T18:24:46+08:00",
+  "source_url": "https://t.bilibili.com/832628742333399088",
+  "plain_text": "I’m going to 直播 at 18:40",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8b09f79-da86-4008-8cab-581f71f39a69",
+    "next_uuid": "8df7cc7f-9462-4872-86fd-b4d19d1e0960"
+  }
+}

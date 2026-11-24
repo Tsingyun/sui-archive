@@ -1,0 +1,28 @@
+{
+  "uuid": "4cbec5f1-6f61-4766-a693-9ab6e4cab485",
+  "platform_post_id": "1240177695177834497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-25T00:42:51+08:00",
+  "source_url": "https://t.bilibili.com/1240177695177834497",
+  "plain_text": "[岁己收藏集表情包_哈哈]晚安大家，别到处传岁己初见大树守卫了啊（还有两瓶药，血量满血",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77ce4f53-5e36-4db7-8b52-1832a6e1f5e0",
+    "next_uuid": "e9a734bb-055e-4808-b42f-f3bf40aa11c8"
+  }
+}

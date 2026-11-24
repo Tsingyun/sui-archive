@@ -1,0 +1,28 @@
+{
+  "uuid": "5b1977d0-882d-4453-8b79-25e1e673c40b",
+  "platform_post_id": "1065312933547868169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-10T19:18:16+08:00",
+  "source_url": "https://t.bilibili.com/1065312933547868169",
+  "plain_text": "没错没错 今晚是和yuayua的玩耍时间 玩游戏加bingo游戏",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "悠亚Yua",
+    "author_url": "https://space.bilibili.com/666726799",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d1656705-4306-44f2-a849-527d3fee3754",
+    "next_uuid": "6b215ac0-750a-4618-92c9-1a5f5f159532"
+  }
+}

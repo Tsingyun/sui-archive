@@ -1,0 +1,28 @@
+{
+  "uuid": "89160ff9-de89-4cbe-a178-fa9d5b949ac0",
+  "platform_post_id": "1255767743565660177",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-06T01:00:12+08:00",
+  "source_url": "https://t.bilibili.com/1255767743565660177",
+  "plain_text": "这都被你知道岁己几局就打败碎星了。魂系天才小鸟跟你说晚安的说！",
+  "images": [],
+  "stats": {
+    "likes": 431,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c105e0b3-f144-43df-8186-9d0d6cf60768",
+    "next_uuid": "f642efc2-d4ed-4596-8174-328be2e56c40"
+  }
+}

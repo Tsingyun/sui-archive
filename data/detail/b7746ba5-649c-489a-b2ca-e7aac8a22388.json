@@ -1,0 +1,28 @@
+{
+  "uuid": "b7746ba5-649c-489a-b2ca-e7aac8a22388",
+  "platform_post_id": "1114305659849932821",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-19T19:55:04+08:00",
+  "source_url": "https://t.bilibili.com/1114305659849932821",
+  "plain_text": "开始洗澡！8:20见！",
+  "images": [],
+  "stats": {
+    "likes": 188,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3585c7d-5cb6-4a27-b8da-def7225cc779",
+    "next_uuid": "c7a0a6a8-f49e-41c1-a6de-c2c93da5dbab"
+  }
+}

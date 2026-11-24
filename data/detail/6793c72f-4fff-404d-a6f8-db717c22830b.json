@@ -1,0 +1,28 @@
+{
+  "uuid": "6793c72f-4fff-404d-a6f8-db717c22830b",
+  "platform_post_id": "949914175976505361",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-03T19:52:09+08:00",
+  "source_url": "https://t.bilibili.com/949914175976505361",
+  "plain_text": "8:10来(●´З｀●) 我想起来要试下新衣服",
+  "images": [],
+  "stats": {
+    "likes": 271,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a87c3897-1fb6-4b53-9511-86fd09ba8ff1",
+    "next_uuid": "b9be96a9-a772-40fd-88ce-1650c31df8b2"
+  }
+}

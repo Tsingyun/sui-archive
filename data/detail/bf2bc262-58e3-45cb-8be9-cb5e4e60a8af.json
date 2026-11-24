@@ -1,0 +1,28 @@
+{
+  "uuid": "bf2bc262-58e3-45cb-8be9-cb5e4e60a8af",
+  "platform_post_id": "1021590136384651264",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-01-12T23:31:29+08:00",
+  "source_url": "https://t.bilibili.com/1021590136384651264",
+  "plain_text": "[温泉物语轻漾幻景表情包_对吗][温泉物语轻漾幻景表情包_对吗]什么情况",
+  "images": [],
+  "stats": {
+    "likes": 332,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a67bab12-8bdb-4840-b3a0-04ea53d0466f",
+    "next_uuid": "ae85e2da-f488-4257-8cf1-3ab98e147dc1"
+  }
+}

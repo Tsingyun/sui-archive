@@ -1,0 +1,38 @@
+{
+  "uuid": "b3355afb-110b-4974-a565-904960e53fc8",
+  "platform_post_id": "1106941088040484903",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-08-30T23:36:46+08:00",
+  "source_url": "https://t.bilibili.com/1106941088040484903",
+  "plain_text": "我们来玩个小游戏吧！就是我闭眼然后睁眼就能看到你跟我说晚安\n好我闭眼了\n",
+  "images": [
+    {
+      "filename": "1106941088040484903_00@original.png",
+      "width": 768,
+      "height": 1361,
+      "file_size": 946436,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 512,
+    "comments": 74,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "689b30dd-f27f-456d-b117-86308fa3dc29",
+    "next_uuid": "0158d8ba-be2b-4213-9e64-d4862785184c"
+  }
+}

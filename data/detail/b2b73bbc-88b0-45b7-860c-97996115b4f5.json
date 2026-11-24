@@ -1,0 +1,28 @@
+{
+  "uuid": "b2b73bbc-88b0-45b7-860c-97996115b4f5",
+  "platform_post_id": "1090212551135854597",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-16T21:41:30+08:00",
+  "source_url": "https://t.bilibili.com/1090212551135854597",
+  "plain_text": "10点见嗯嗯",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "66ea80a2-de26-433b-858f-26a7bc11deb6",
+    "next_uuid": "7b38cdfd-65b6-433d-b260-5a83bc90aa7b"
+  }
+}

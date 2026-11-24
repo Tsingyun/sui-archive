@@ -1,0 +1,28 @@
+{
+  "uuid": "2ffc94e2-e547-481b-be95-e5d12ad469a3",
+  "platform_post_id": "774286379252187205",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-18T13:06:36+08:00",
+  "source_url": "https://t.bilibili.com/774286379252187205",
+  "plain_text": "醒了一会了！我最先醒，朋友后醒，而猫还在睡，谁最自律已经不用说了吧。早！",
+  "images": [],
+  "stats": {
+    "likes": 365,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bfcc8c75-2939-468c-ba29-a4f2fa8161e1",
+    "next_uuid": "675cf1d3-88a0-4c70-9f21-6e1544d24fbd"
+  }
+}

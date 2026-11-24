@@ -1,0 +1,28 @@
+{
+  "uuid": "09b56b8c-f531-4d22-8fba-92c02434a688",
+  "platform_post_id": "1059372967998259239",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-24T19:08:10+08:00",
+  "source_url": "https://t.bilibili.com/1059372967998259239",
+  "plain_text": "7:40开播开播开播开播开播[岁己收藏集表情包_昂？]",
+  "images": [],
+  "stats": {
+    "likes": 203,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c53d7e7c-b23b-4ad7-adda-cbe7bdff732b",
+    "next_uuid": "1c7f8042-62e7-483c-bfd7-8ff60171822a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "21da4b30-066b-46b9-911c-69694e36d422",
+  "platform_post_id": "795925356528795651",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-15T20:36:53+08:00",
+  "source_url": "https://t.bilibili.com/795925356528795651",
+  "plain_text": "好感人…..；； 十分钟 马上来 很随意地听听歌吸着鼻涕画头像",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "222190b0-dab1-4c5c-a744-d6887e047159",
+    "next_uuid": "d5e71a75-8168-4eb8-a5e7-ad0777718783"
+  }
+}

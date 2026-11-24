@@ -1,0 +1,28 @@
+{
+  "uuid": "93cfe18d-97e2-4273-a3ea-9dcf922e183c",
+  "platform_post_id": "915260494322860137",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-01T10:38:10+08:00",
+  "source_url": "https://t.bilibili.com/915260494322860137",
+  "plain_text": "谢谢大家来看，好久没播早台了！今天工作也加油喔🥳",
+  "images": [],
+  "stats": {
+    "likes": 407,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "08b4c37e-d3c9-4e71-abbf-5272b6b14789",
+    "next_uuid": "f9d43b2e-97ef-42ad-beb4-a253b4f45062"
+  }
+}

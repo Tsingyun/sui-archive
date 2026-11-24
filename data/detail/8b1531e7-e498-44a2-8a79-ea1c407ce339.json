@@ -1,0 +1,28 @@
+{
+  "uuid": "8b1531e7-e498-44a2-8a79-ea1c407ce339",
+  "platform_post_id": "771713633714438169",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-11T14:43:02+08:00",
+  "source_url": "https://t.bilibili.com/771713633714438169",
+  "plain_text": "阳光好好啊！心情特别好，晚上八点来唱点治愈又安抚的歌曲～",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a301dd1-c6f4-4a6c-a6af-86e9cda2e62e",
+    "next_uuid": "fc36cce4-b8eb-4d3e-9231-a9b50011b90e"
+  }
+}

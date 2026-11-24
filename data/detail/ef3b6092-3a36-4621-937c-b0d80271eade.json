@@ -1,0 +1,28 @@
+{
+  "uuid": "ef3b6092-3a36-4621-937c-b0d80271eade",
+  "platform_post_id": "780952108369182740",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-05T12:13:02+08:00",
+  "source_url": "https://t.bilibili.com/780952108369182740",
+  "plain_text": "[UP_1954091502_委屈][UP_1954091502_委屈]早早早的说",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f9e1f30c-0d77-4399-9fab-cdd7b2ce8f3a",
+    "next_uuid": "72a45f12-811e-47f3-92af-9c257f457041"
+  }
+}

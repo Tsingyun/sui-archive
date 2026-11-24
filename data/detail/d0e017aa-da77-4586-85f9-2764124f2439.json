@@ -1,0 +1,38 @@
+{
+  "uuid": "d0e017aa-da77-4586-85f9-2764124f2439",
+  "platform_post_id": "1062355148489097219",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-02T20:00:33+08:00",
+  "source_url": "https://t.bilibili.com/1062355148489097219",
+  "plain_text": "恭喜@下水道飞鼠中奖，已私信通知，详情请点击抽奖查看。",
+  "images": [
+    {
+      "filename": "1062355148489097219_100@repost.jpg",
+      "width": 3827,
+      "height": 5669,
+      "file_size": 11220267,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 153,
+    "comments": 10,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "[抽奖]<VirtuaReal 2025 Music Mixup!! 演唱会>  \n用双眼见证舞台上的岁己吧！\n\n◖ 购票链接              \n线下票：网页链接\n线上票：网页链接",
+    "source_url": "https://t.bilibili.com/1057960709751570441"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5020fab2-eac3-4841-a77b-2e9d7d4daf34",
+    "next_uuid": "c5a4340d-39f5-4cc5-a87a-40cb421b76d4"
+  }
+}

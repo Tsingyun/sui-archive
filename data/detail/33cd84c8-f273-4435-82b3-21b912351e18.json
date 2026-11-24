@@ -1,0 +1,28 @@
+{
+  "uuid": "33cd84c8-f273-4435-82b3-21b912351e18",
+  "platform_post_id": "781890644621656085",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-08T00:55:02+08:00",
+  "source_url": "https://t.bilibili.com/781890644621656085",
+  "plain_text": "哎 听着以前的歌感觉真好诶 晚安",
+  "images": [],
+  "stats": {
+    "likes": 328,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6e6b5231-ce5c-4183-b4cb-291101f502b2",
+    "next_uuid": "267b8b71-4756-42ca-9e69-43cce02e3ac5"
+  }
+}

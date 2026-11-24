@@ -1,0 +1,28 @@
+{
+  "uuid": "961475e1-02e9-4200-9134-115b0e669234",
+  "platform_post_id": "831605298866159616",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-20T00:13:17+08:00",
+  "source_url": "https://t.bilibili.com/831605298866159616",
+  "plain_text": "晚安[想去海边_给你一拳]",
+  "images": [],
+  "stats": {
+    "likes": 312,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4c3dbe30-735a-456e-a590-7b0eb54e4e35",
+    "next_uuid": "bd595797-24f7-4a00-bf49-69c531cb5dd4"
+  }
+}

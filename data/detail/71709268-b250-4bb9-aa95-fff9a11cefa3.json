@@ -1,0 +1,28 @@
+{
+  "uuid": "71709268-b250-4bb9-aa95-fff9a11cefa3",
+  "platform_post_id": "1259687244791283714",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-16T14:29:52+08:00",
+  "source_url": "https://t.bilibili.com/1259687244791283714",
+  "plain_text": "哈喽呀，下午好，一起来来公司办大事儿了！\n",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b71b635d-feb8-4bf3-8a0c-c27e2d762c9e",
+    "next_uuid": "2ea00069-f407-4bbf-bbe9-1709a9356ee9"
+  }
+}

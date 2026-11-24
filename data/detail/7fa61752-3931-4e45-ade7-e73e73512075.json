@@ -1,0 +1,28 @@
+{
+  "uuid": "7fa61752-3931-4e45-ade7-e73e73512075",
+  "platform_post_id": "766963532999688201",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-26T19:30:13+08:00",
+  "source_url": "https://t.bilibili.com/766963532999688201",
+  "plain_text": "答辩隐犯了，b站还有没有大便电影可以看的啊大家，要答辩到可笑至极的那种！",
+  "images": [],
+  "stats": {
+    "likes": 359,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6f3f9dd5-3b2f-4405-b96c-e383d6b23cc0",
+    "next_uuid": "ddd18316-e833-43b0-82c5-dd353235805e"
+  }
+}

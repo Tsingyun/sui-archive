@@ -1,0 +1,28 @@
+{
+  "uuid": "1bdf3e93-5a97-482d-870a-7dcaafb03c1a",
+  "platform_post_id": "1068202063532392448",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-18T14:09:34+08:00",
+  "source_url": "https://t.bilibili.com/1068202063532392448",
+  "plain_text": "吃饭中！2:30来播播 岁己的大下午台",
+  "images": [],
+  "stats": {
+    "likes": 216,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9113b436-c29e-46f1-87fb-17dd6793e446",
+    "next_uuid": "73edad83-cd6e-41be-80e4-e9d067b349be"
+  }
+}

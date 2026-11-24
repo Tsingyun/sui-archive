@@ -1,0 +1,28 @@
+{
+  "uuid": "a36eb79a-f681-4658-ba4a-175c81c0b50b",
+  "platform_post_id": "1233777450825023495",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-07T18:46:38+08:00",
+  "source_url": "https://t.bilibili.com/1233777450825023495",
+  "plain_text": "今天是七点和这个栞栞看新后辈们的出道回\n(｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 16,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27df593a-bbe1-417f-b91c-b87dbc49b9f2",
+    "next_uuid": "034df22e-c111-4df2-8cd7-a7e48e4dea55"
+  }
+}

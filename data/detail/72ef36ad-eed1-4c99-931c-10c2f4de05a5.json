@@ -1,0 +1,28 @@
+{
+  "uuid": "72ef36ad-eed1-4c99-931c-10c2f4de05a5",
+  "platform_post_id": "1241281892621221911",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-28T00:07:42+08:00",
+  "source_url": "https://t.bilibili.com/1241281892621221911",
+  "plain_text": "大家呀！晚安哟😴 今天也过去了",
+  "images": [],
+  "stats": {
+    "likes": 260,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "531685eb-234d-4a0c-a542-c8073fa8487e",
+    "next_uuid": "e6380b75-721a-4612-aeb5-7f8e208dcb65"
+  }
+}

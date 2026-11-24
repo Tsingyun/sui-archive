@@ -1,0 +1,28 @@
+{
+  "uuid": "3d7c3155-1533-4428-9754-a0d92b9ebeb4",
+  "platform_post_id": "916881384946008069",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-05T19:28:03+08:00",
+  "source_url": "https://t.bilibili.com/916881384946008069",
+  "plain_text": "7:59来 加油加油快洗快洗",
+  "images": [],
+  "stats": {
+    "likes": 287,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7eaa8522-722d-4452-84e4-e00fec77d4d2",
+    "next_uuid": "576848aa-8d2c-4a2b-a5a3-e4b4d10f3b73"
+  }
+}

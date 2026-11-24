@@ -1,0 +1,28 @@
+{
+  "uuid": "7d5bb7d0-74d8-451c-9f89-9c9ba7fc81c7",
+  "platform_post_id": "1190744799098961927",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-13T19:37:58+08:00",
+  "source_url": "https://t.bilibili.com/1190744799098961927",
+  "plain_text": "吃个饭饭 8:10见叭！",
+  "images": [],
+  "stats": {
+    "likes": 180,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fb6977d8-b0fe-45e6-ac1d-316ee96c2d68",
+    "next_uuid": "98bd4dee-b124-474e-bacf-06467497881d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "cacc9226-6903-44be-a3c3-ed5735d86b36",
+  "platform_post_id": "917992488681078785",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-08T19:19:42+08:00",
+  "source_url": "https://t.bilibili.com/917992488681078785",
+  "plain_text": "跳舞好累 今天8:30再来 卸妆吃饭收拾桌子上换猫砂躺一会[UPOWER_1954091502_小肥鸟]",
+  "images": [],
+  "stats": {
+    "likes": 314,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2e6b626-f847-445c-8c3c-28e6ada8bf8f",
+    "next_uuid": "b9fe3db5-aee4-450c-bed5-7009adfc6c62"
+  }
+}

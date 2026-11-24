@@ -1,0 +1,28 @@
+{
+  "uuid": "ba50d1ba-bfa3-4686-8851-e94dae768ddc",
+  "platform_post_id": "1152903616120487991",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-01T20:14:51+08:00",
+  "source_url": "https://t.bilibili.com/1152903616120487991",
+  "plain_text": "刚徒步到家！好咳嗽！走路上一直痒痒的然后咳嗽到底为何 8:25来播～ 今晚干嘛你说",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8d38d5e3-5dec-4f16-9a0e-baeaac3db08f",
+    "next_uuid": "302ad616-da74-4815-a105-20b74a37069d"
+  }
+}

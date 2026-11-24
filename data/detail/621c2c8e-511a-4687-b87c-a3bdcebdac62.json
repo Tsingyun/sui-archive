@@ -1,0 +1,28 @@
+{
+  "uuid": "621c2c8e-511a-4687-b87c-a3bdcebdac62",
+  "platform_post_id": "1183396346298630145",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-25T00:22:13+08:00",
+  "source_url": "https://t.bilibili.com/1183396346298630145",
+  "plain_text": "我命令你立刻给我一份晚安，但不给也不会有什么后果",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7962c46e-0dc8-4035-9671-577bed34989e",
+    "next_uuid": "360ec5e0-ffcf-4485-ae41-377e3171a62b"
+  }
+}

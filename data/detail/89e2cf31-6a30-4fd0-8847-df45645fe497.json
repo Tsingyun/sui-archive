@@ -1,0 +1,28 @@
+{
+  "uuid": "89e2cf31-6a30-4fd0-8847-df45645fe497",
+  "platform_post_id": "836171815473643526",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-01T07:33:42+08:00",
+  "source_url": "https://t.bilibili.com/836171815473643526",
+  "plain_text": "早啊 醒了 但我还要接着睡的 晚安 但还是早安！",
+  "images": [],
+  "stats": {
+    "likes": 394,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b496c692-6666-40de-8900-d0690e90b77d",
+    "next_uuid": "e6bc4718-09ac-4253-b9a9-f0ff836a19af"
+  }
+}

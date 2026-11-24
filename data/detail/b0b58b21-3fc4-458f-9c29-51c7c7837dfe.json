@@ -1,0 +1,28 @@
+{
+  "uuid": "b0b58b21-3fc4-458f-9c29-51c7c7837dfe",
+  "platform_post_id": "1138114866859474962",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-22T23:46:57+08:00",
+  "source_url": "https://t.bilibili.com/1138114866859474962",
+  "plain_text": "你越过三八线了我要告老师，除非你给我一个那个，你知道的=᳐⩌ ˰ ⩌=᳐",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 53,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6b1505eb-644f-42cd-9151-b1c45fb7b1f7",
+    "next_uuid": "1101df87-736e-4b1b-baee-c2f4e7bf8941"
+  }
+}

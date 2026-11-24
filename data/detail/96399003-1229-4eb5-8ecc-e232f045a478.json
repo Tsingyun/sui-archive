@@ -1,0 +1,28 @@
+{
+  "uuid": "96399003-1229-4eb5-8ecc-e232f045a478",
+  "platform_post_id": "1259827329446707220",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-16T23:33:28+08:00",
+  "source_url": "https://t.bilibili.com/1259827329446707220",
+  "plain_text": "提前晚安啦，还没吃饭呢，你觉得咋样！这几天和栞栞小弥小绒呆在一起好开心的说。晚安哟[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 556,
+    "comments": 109,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2ea00069-f407-4bbf-bbe9-1709a9356ee9",
+    "next_uuid": "e2c615e6-3138-4ae1-a238-a1409ab8d78b"
+  }
+}

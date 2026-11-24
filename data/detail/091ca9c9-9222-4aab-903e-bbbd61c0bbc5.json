@@ -1,0 +1,28 @@
+{
+  "uuid": "091ca9c9-9222-4aab-903e-bbbd61c0bbc5",
+  "platform_post_id": "970773324577636377",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-29T00:56:18+08:00",
+  "source_url": "https://t.bilibili.com/970773324577636377",
+  "plain_text": "好难过 本来还想再播39个小时的TUT 遗憾离场 晚安大家",
+  "images": [],
+  "stats": {
+    "likes": 311,
+    "comments": 60,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "10b2c270-bc35-48d5-bd05-c0c1da8add3d",
+    "next_uuid": "7a12a339-d247-4858-a065-fa0c8eb31360"
+  }
+}

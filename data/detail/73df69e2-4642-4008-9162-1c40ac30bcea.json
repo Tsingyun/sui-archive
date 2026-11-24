@@ -1,0 +1,28 @@
+{
+  "uuid": "73df69e2-4642-4008-9162-1c40ac30bcea",
+  "platform_post_id": "1188606910420484101",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-08T01:21:52+08:00",
+  "source_url": "https://t.bilibili.com/1188606910420484101",
+  "plain_text": "晚安大家，裹紧被子睡个好觉喔",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6d41d6b4-1223-4093-ad33-b73428856cb9",
+    "next_uuid": "37e5dfc2-46de-401f-883b-88eeb0b6d753"
+  }
+}

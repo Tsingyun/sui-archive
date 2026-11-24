@@ -1,0 +1,28 @@
+{
+  "uuid": "2d0cbaa5-0715-408d-8c87-d0dc3a49bf40",
+  "platform_post_id": "1211597045767340051",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-09T00:15:20+08:00",
+  "source_url": "https://t.bilibili.com/1211597045767340051",
+  "plain_text": "晚安 明天是没有岁己的地球 周三见\n高冷神秘冷脸萌中",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9582c8b1-29b1-4bfa-b1e4-8ed58df715d1",
+    "next_uuid": "d044e8ed-e125-4217-bc3a-638ec54581b2"
+  }
+}

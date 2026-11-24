@@ -1,0 +1,28 @@
+{
+  "uuid": "065b294c-30b3-4dab-a1cb-35a6f6c6eb54",
+  "platform_post_id": "793662716213460994",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-09T18:16:41+08:00",
+  "source_url": "https://t.bilibili.com/793662716213460994",
+  "plain_text": "6:35  哎 累累的提不起劲",
+  "images": [],
+  "stats": {
+    "likes": 284,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5c5edcb-d9ea-4c59-9197-e6bd2f8ec369",
+    "next_uuid": "1f6cb5a7-f3a2-4ca8-8b99-969edbd761dd"
+  }
+}

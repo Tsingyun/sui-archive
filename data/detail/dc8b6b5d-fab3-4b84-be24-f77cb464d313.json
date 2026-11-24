@@ -1,0 +1,28 @@
+{
+  "uuid": "dc8b6b5d-fab3-4b84-be24-f77cb464d313",
+  "platform_post_id": "909166227807535107",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-16T00:29:18+08:00",
+  "source_url": "https://t.bilibili.com/909166227807535107",
+  "plain_text": "今天过得怎么样呢？晚安的说？的说的说！",
+  "images": [],
+  "stats": {
+    "likes": 546,
+    "comments": 106,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "831c7e78-8ed3-4cd1-bd1f-af195094de07",
+    "next_uuid": "64a358cb-e012-4078-bffd-5e5347a0b555"
+  }
+}

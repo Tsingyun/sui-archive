@@ -1,0 +1,28 @@
+{
+  "uuid": "c94a9c46-68fc-4666-9605-ea3ab3d0a149",
+  "platform_post_id": "930673770442522633",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-12T23:29:33+08:00",
+  "source_url": "https://t.bilibili.com/930673770442522633",
+  "plain_text": "你回不回我啊 你不回我我就不发晚安动态了 你回我我才发",
+  "images": [],
+  "stats": {
+    "likes": 428,
+    "comments": 106,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0e408ca3-3146-45ac-931f-71637b5df6e4",
+    "next_uuid": "996fe027-1485-490b-b434-c64b6f5608bc"
+  }
+}

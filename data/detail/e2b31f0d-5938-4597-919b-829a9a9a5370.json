@@ -1,0 +1,28 @@
+{
+  "uuid": "e2b31f0d-5938-4597-919b-829a9a9a5370",
+  "platform_post_id": "788490892635799619",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-25T19:47:22+08:00",
+  "source_url": "https://t.bilibili.com/788490892635799619",
+  "plain_text": "8:30安静忧伤地唱唱歌🥺",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8e00691-cc9f-4a8f-abd9-e08bc27dd9c9",
+    "next_uuid": "5e2f251a-9347-4f33-ba97-00a649b758a2"
+  }
+}

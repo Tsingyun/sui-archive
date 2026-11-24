@@ -1,0 +1,28 @@
+{
+  "uuid": "29befc29-4df7-47d2-bbd2-5eab17a20728",
+  "platform_post_id": "1159276467127844868",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-19T00:24:46+08:00",
+  "source_url": "https://t.bilibili.com/1159276467127844868",
+  "plain_text": "晚安晚安晚安晚安[岁己收藏集表情包_啵啵]",
+  "images": [],
+  "stats": {
+    "likes": 230,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ba5008eb-0d4f-4984-a52e-e665acf2040f",
+    "next_uuid": "62703b71-34bf-4ce5-8e69-54c889b6bf05"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0c040b97-15ab-4ea8-9745-16e3bbb24adf",
+  "platform_post_id": "883901761521188886",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-07T22:30:16+08:00",
+  "source_url": "https://t.bilibili.com/883901761521188886",
+  "plain_text": "打劫！我要劫走一个晚安回复",
+  "images": [],
+  "stats": {
+    "likes": 416,
+    "comments": 118,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bbbcaed7-6cac-4faf-820d-ae544bfc96a7",
+    "next_uuid": "f5b71dff-57cf-487b-849f-b6940a8eb553"
+  }
+}

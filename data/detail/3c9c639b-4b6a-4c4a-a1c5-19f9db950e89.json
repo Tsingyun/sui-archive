@@ -1,0 +1,28 @@
+{
+  "uuid": "3c9c639b-4b6a-4c4a-a1c5-19f9db950e89",
+  "platform_post_id": "1146646845164879895",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-15T23:35:23+08:00",
+  "source_url": "https://t.bilibili.com/1146646845164879895",
+  "plain_text": "神也好魔也好不管怎样都要把你留在这个世界！\n岁己以巨大翅膀的形态从天而降（bgm播放ひかりふる ）",
+  "images": [],
+  "stats": {
+    "likes": 248,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3730b395-7440-4652-9991-cb2848c8d42b",
+    "next_uuid": "5a6f6dde-5749-4658-b59d-bc8ecf6fe805"
+  }
+}

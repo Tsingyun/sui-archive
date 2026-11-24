@@ -1,0 +1,28 @@
+{
+  "uuid": "995ea96c-524a-4a65-afcd-c2625394ac8b",
+  "platform_post_id": "994897485919944704",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-02T01:10:22+08:00",
+  "source_url": "https://t.bilibili.com/994897485919944704",
+  "plain_text": "岁己在此，所有鬼怪不准接近饼干岁！晚安",
+  "images": [],
+  "stats": {
+    "likes": 360,
+    "comments": 74,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a087d25b-d1fc-4b13-8c56-5064cd3a016d",
+    "next_uuid": "4fcec73a-a246-43c6-8cd6-ecec89368fae"
+  }
+}

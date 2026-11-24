@@ -1,0 +1,38 @@
+{
+  "uuid": "0ee9361f-c881-4d26-9cd0-769448442f82",
+  "platform_post_id": "1201110930342019112",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-11T18:03:51+08:00",
+  "source_url": "https://t.bilibili.com/1201110930342019112",
+  "plain_text": "有在闪闪发光吗 小岁",
+  "images": [
+    {
+      "filename": "1201110930342019112_100@repost.png",
+      "width": 1428,
+      "height": 2115,
+      "file_size": 3066084,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 248,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "哈哈那日OvO",
+    "author_url": "https://space.bilibili.com/20094643",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1e7b1f5c-8598-456f-b177-85a4d211437a",
+    "next_uuid": "dc509df0-8246-4c1f-b23f-6c93f0f70c6f"
+  }
+}

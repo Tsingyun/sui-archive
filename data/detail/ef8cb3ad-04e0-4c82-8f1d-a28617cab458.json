@@ -1,0 +1,28 @@
+{
+  "uuid": "ef8cb3ad-04e0-4c82-8f1d-a28617cab458",
+  "platform_post_id": "1024912349414293509",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-21T22:23:22+08:00",
+  "source_url": "https://t.bilibili.com/1024912349414293509",
+  "plain_text": "外出几天，乖乖等我回来，记得关好门窗别让别人进来（双重意思\n晚安呜呜",
+  "images": [],
+  "stats": {
+    "likes": 343,
+    "comments": 62,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "395fd029-b424-43d8-b341-e62b39ae7c1b",
+    "next_uuid": "79397191-3319-45cf-aa9b-a5f0163f9e66"
+  }
+}

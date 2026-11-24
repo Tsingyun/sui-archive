@@ -1,0 +1,28 @@
+{
+  "uuid": "15f5daf5-74a3-450b-898b-c250420b3afc",
+  "platform_post_id": "1125499053292912677",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-19T23:51:09+08:00",
+  "source_url": "https://t.bilibili.com/1125499053292912677",
+  "plain_text": "您好，睡了么为您服务，你点的一份晚安已经给您挂门把手了，请尽快取餐[UPOWER_1954091502_右扭扭]",
+  "images": [],
+  "stats": {
+    "likes": 279,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1c9c7f21-0927-4ad0-a151-9fc273088156",
+    "next_uuid": "48beed88-ae94-4080-8495-4adf0f72fe87"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b81a32c3-c4f4-4256-88c4-f564bbabb9fa",
+  "platform_post_id": "920666002721603607",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-04-16T00:14:18+08:00",
+  "source_url": "https://t.bilibili.com/920666002721603607",
+  "plain_text": "但是我觉得跟你说晚安确实是一个很开心的事情哦 \n特别是在等待你的回复的时候和确信今天也收到了你的回复的时候",
+  "images": [],
+  "stats": {
+    "likes": 485,
+    "comments": 110,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d85876f0-280f-487d-8aa1-8023cceda8be",
+    "next_uuid": "ae22ce84-903b-4473-a270-28ab833e4e93"
+  }
+}

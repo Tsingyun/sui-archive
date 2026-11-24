@@ -1,0 +1,28 @@
+{
+  "uuid": "c8ad17e6-ce95-4992-8bb1-77442738de1a",
+  "platform_post_id": "792973859291660329",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-07T21:43:34+08:00",
+  "source_url": "https://t.bilibili.com/792973859291660329",
+  "plain_text": "10点见吧 其实我也不知道来干嘛 沉默对视吧  我要早睡的 11:40准时拉闸！",
+  "images": [],
+  "stats": {
+    "likes": 277,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "defda3c2-eb00-43b4-8bde-916364f6b2f3",
+    "next_uuid": "4762dd28-d0e0-4c94-b487-a86685268e73"
+  }
+}

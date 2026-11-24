@@ -1,0 +1,28 @@
+{
+  "uuid": "4b68ebd7-183d-47dd-9d80-9ca81689fa91",
+  "platform_post_id": "1153642260250755077",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-03T20:01:10+08:00",
+  "source_url": "https://t.bilibili.com/1153642260250755077",
+  "plain_text": "十分钟后见喔！",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8b3c7eb4-2c2f-48ff-9757-cc1c7615447e",
+    "next_uuid": "356280e9-a584-4712-9c65-3a5c7c6ebb8a"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "55004791-28d2-4d94-b986-2153224c44a1",
+  "platform_post_id": "884791614061412352",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-10T08:03:21+08:00",
+  "source_url": "https://t.bilibili.com/884791614061412352",
+  "plain_text": "这下小鸟说早早早了！\n早哦！",
+  "images": [],
+  "stats": {
+    "likes": 554,
+    "comments": 116,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ea203534-f793-48c8-b831-20e76f32cbb0",
+    "next_uuid": "683c0c68-f4a9-4487-b9d9-6cedf7d5b8b9"
+  }
+}

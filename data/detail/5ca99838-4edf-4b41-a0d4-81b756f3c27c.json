@@ -1,0 +1,28 @@
+{
+  "uuid": "5ca99838-4edf-4b41-a0d4-81b756f3c27c",
+  "platform_post_id": "1060873745516724228",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-28T20:11:57+08:00",
+  "source_url": "https://t.bilibili.com/1060873745516724228",
+  "plain_text": "[岁己收藏集表情包_我在]是的我在上海了已经 今天没播啦应该 \n为什么有点紧张[岁己收藏集表情包_倒了]",
+  "images": [],
+  "stats": {
+    "likes": 367,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "db76e2d5-28e9-492d-a868-09ea0689d9b8",
+    "next_uuid": "fd65acc1-139a-4d5e-ae7c-de3058cb4da9"
+  }
+}

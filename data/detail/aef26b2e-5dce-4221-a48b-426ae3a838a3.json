@@ -1,0 +1,28 @@
+{
+  "uuid": "aef26b2e-5dce-4221-a48b-426ae3a838a3",
+  "platform_post_id": "1014920120895537237",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-26T00:08:25+08:00",
+  "source_url": "https://t.bilibili.com/1014920120895537237",
+  "plain_text": "孩子们 晚安[UP_1954091502_岁觉鸟]明晚11点05分51秒见",
+  "images": [],
+  "stats": {
+    "likes": 305,
+    "comments": 102,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fba4a4d5-953a-4f48-b433-4fd6072cb2b3",
+    "next_uuid": "0074f8fe-166c-4a81-970e-3c4e982b08c5"
+  }
+}

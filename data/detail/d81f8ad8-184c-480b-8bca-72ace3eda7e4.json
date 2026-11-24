@@ -1,0 +1,28 @@
+{
+  "uuid": "d81f8ad8-184c-480b-8bca-72ace3eda7e4",
+  "platform_post_id": "770746497246429209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-09T00:10:03+08:00",
+  "source_url": "https://t.bilibili.com/770746497246429209",
+  "plain_text": "今天和你聊得很开心，再见，期待下次的见面！",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86d3a5ce-6e2c-46e3-971d-fc7b52016049",
+    "next_uuid": "305eac57-6ef3-4ea7-8472-ec875171642e"
+  }
+}

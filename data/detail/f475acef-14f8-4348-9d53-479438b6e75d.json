@@ -1,0 +1,28 @@
+{
+  "uuid": "f475acef-14f8-4348-9d53-479438b6e75d",
+  "platform_post_id": "911429284710580231",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-03-22T02:51:07+08:00",
+  "source_url": "https://t.bilibili.com/911429284710580231",
+  "plain_text": "祈祷有更多的幸福降临在饼干岁身上",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 39,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "463120b8-facc-4b50-b551-d30c159e23aa",
+    "next_uuid": "5d6ef658-991b-4e02-ac9f-ab221f92ed83"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "0b3293a4-8538-447e-ab1d-77fa5a7fadf4",
+  "platform_post_id": "889430174482825235",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-22T20:03:20+08:00",
+  "source_url": "https://t.bilibili.com/889430174482825235",
+  "plain_text": "最近家里叮铃咣啷的！吵吵的，今天还没法开台词回。要不今天休息，明后天来台词回吧！",
+  "images": [],
+  "stats": {
+    "likes": 381,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "95b279e4-ec1b-4c08-9b49-92826f508d7b",
+    "next_uuid": "42f5f233-f146-4ad9-a137-ca32acb2189f"
+  }
+}

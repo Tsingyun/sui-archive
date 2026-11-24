@@ -1,0 +1,38 @@
+{
+  "uuid": "5d6d7f96-173f-453b-9cad-e0eff96ded8b",
+  "platform_post_id": "1043425990659801106",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-03-12T19:45:45+08:00",
+  "source_url": "https://t.bilibili.com/1043425990659801106",
+  "plain_text": "本月舰长礼物，忧郁文学知性恬静优雅神秘系学姐岁己立牌如下~\n然后今天是10点的煮面\n\n",
+  "images": [
+    {
+      "filename": "1043425990659801106_00@original.png",
+      "width": 5352,
+      "height": 3461,
+      "file_size": 5581511,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 263,
+    "comments": 32,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "214f9dd5-da6d-427d-8128-0f7ad74f15a1",
+    "next_uuid": "1caea91e-8219-4637-b6e5-1da91f13dafb"
+  }
+}

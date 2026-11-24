@@ -1,0 +1,28 @@
+{
+  "uuid": "e86efff3-390c-496a-9a6e-ee558e64424f",
+  "platform_post_id": "1027835078986694661",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-01-29T19:25:03+08:00",
+  "source_url": "https://t.bilibili.com/1027835078986694661",
+  "plain_text": "7:40把！孩子们我们初一干嘛",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e13bc9f3-fc27-4169-94c2-b8601925d726",
+    "next_uuid": "b5664f9d-c931-4aed-a798-93d73aa6f421"
+  }
+}

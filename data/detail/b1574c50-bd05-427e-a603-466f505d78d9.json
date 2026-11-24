@@ -1,0 +1,28 @@
+{
+  "uuid": "b1574c50-bd05-427e-a603-466f505d78d9",
+  "platform_post_id": "866774956409618452",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-22T18:49:31+08:00",
+  "source_url": "https://t.bilibili.com/866774956409618452",
+  "plain_text": "来 我说个事儿7:10分 绝命毒师",
+  "images": [],
+  "stats": {
+    "likes": 238,
+    "comments": 20,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ab047018-eccd-4f51-8ab3-9d6a75e1bebd",
+    "next_uuid": "798d0cc9-a6c8-4119-805a-28951817940b"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "f69753bd-d8b5-4c66-8bf3-49e062d42ce4",
+  "platform_post_id": "1062048427671552006",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-05-02T00:10:19+08:00",
+  "source_url": "https://t.bilibili.com/1062048427671552006",
+  "plain_text": "\nstaff们帮忙拍的花篮花墙实物图 好漂亮好想端回家[岁己收藏集表情包_啊啊啊][岁己收藏集表情包_啊啊啊]\n晚安大家明天见，好期待第一次的mixup好期待让大家看到舞台\n",
+  "images": [
+    {
+      "filename": "1062048427671552006_00@original.jpg",
+      "width": 2832,
+      "height": 11074,
+      "file_size": 6491636,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 394,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f2621641-06a9-4243-b500-1348999c8994",
+    "next_uuid": "9270c8d2-da06-4c37-8e18-17795c800cb1"
+  }
+}

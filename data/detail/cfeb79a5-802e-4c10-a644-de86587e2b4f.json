@@ -1,0 +1,28 @@
+{
+  "uuid": "cfeb79a5-802e-4c10-a644-de86587e2b4f",
+  "platform_post_id": "846443027912196147",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-28T23:51:15+08:00",
+  "source_url": "https://t.bilibili.com/846443027912196147",
+  "plain_text": "我说有的人差不多得了吧？还要闹脾气到什么时候，都多少天没跟我说晚安了，好好好都是我的错，可以了吗，快来说晚安",
+  "images": [],
+  "stats": {
+    "likes": 523,
+    "comments": 126,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e2738dac-f046-420b-b07c-cd80437ab186",
+    "next_uuid": "de05b4c9-59b2-495b-9d7a-97fd5acb6b81"
+  }
+}

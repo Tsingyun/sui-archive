@@ -1,0 +1,28 @@
+{
+  "uuid": "9e726e0b-73c0-48b1-a33c-b4719de1f65a",
+  "platform_post_id": "855913817346932800",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-24T12:22:45+08:00",
+  "source_url": "https://t.bilibili.com/855913817346932800",
+  "plain_text": "[小A和小B_喝茶]早早早哦",
+  "images": [],
+  "stats": {
+    "likes": 281,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f5097322-4e97-4922-ad8a-af282a7583ef",
+    "next_uuid": "5985c753-a51c-4d0a-a0ca-4e1e328e9444"
+  }
+}

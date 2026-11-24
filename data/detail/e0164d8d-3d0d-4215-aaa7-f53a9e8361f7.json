@@ -1,0 +1,28 @@
+{
+  "uuid": "e0164d8d-3d0d-4215-aaa7-f53a9e8361f7",
+  "platform_post_id": "1264124074859167746",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-28T13:27:02+08:00",
+  "source_url": "https://t.bilibili.com/1264124074859167746",
+  "plain_text": "今天的安排是\n下午3点加播和栞栞shiori玩抬棺游戏！\n以及10:00的猪眠",
+  "images": [],
+  "stats": {
+    "likes": 319,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "23d1a4b0-24ad-4658-9eb7-7faf977658d8",
+    "next_uuid": "66b4dd61-e538-4e58-8598-5f979d4c933f"
+  }
+}

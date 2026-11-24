@@ -1,0 +1,38 @@
+{
+  "uuid": "afafa173-abff-4b63-ae57-bf8e21a0a620",
+  "platform_post_id": "1153942985334849560",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-01-04T15:28:08+08:00",
+  "source_url": "https://t.bilibili.com/1153942985334849560",
+  "plain_text": "hi饼民们  下午好～",
+  "images": [
+    {
+      "filename": "1153942985334849560_100@repost.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 2298694,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 217,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "356280e9-a584-4712-9c65-3a5c7c6ebb8a",
+    "next_uuid": "981643a5-013a-4da7-8701-17bf8c4c4505"
+  }
+}

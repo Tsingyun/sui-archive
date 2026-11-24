@@ -1,0 +1,28 @@
+{
+  "uuid": "c4bbbc52-57e9-4d9b-8fd4-70685f43eb8c",
+  "platform_post_id": "762137647619506214",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-13T19:23:19+08:00",
+  "source_url": "https://t.bilibili.com/762137647619506214",
+  "plain_text": "哎不死心又悄悄去玩了一下螃蟹游戏，哎，去洗头洗澡转换一下心情，然后再试几局吧。今晚就8:30来，随便一起看看视频学习学习辱骂音声。",
+  "images": [],
+  "stats": {
+    "likes": 346,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fddeace4-9fc8-4c55-aee4-cc9946695738",
+    "next_uuid": "6a3b754d-4672-40e5-bbbf-6cb38036a09b"
+  }
+}

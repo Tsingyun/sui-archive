@@ -1,0 +1,28 @@
+{
+  "uuid": "b3cd4349-7db1-4e51-ab45-2065dbbfeb5e",
+  "platform_post_id": "1257548484228153350",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-10T20:10:23+08:00",
+  "source_url": "https://t.bilibili.com/1257548484228153350",
+  "plain_text": "饼干岁我的脸好痛…还在回家路上呢我们9点见吧 你说我们干嘛！",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "56aa37be-49c8-4ff7-9621-893548421a7b",
+    "next_uuid": "2c58736c-c613-45b9-9bd3-6e618182a753"
+  }
+}

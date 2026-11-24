@@ -1,0 +1,28 @@
+{
+  "uuid": "95b214ac-07f2-44c5-be27-45e06092e193",
+  "platform_post_id": "1210482548970356739",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-06T00:10:31+08:00",
+  "source_url": "https://t.bilibili.com/1210482548970356739",
+  "plain_text": "我是感染型使徒，不跟岁己说晚安手机会被感染成功爆炸！",
+  "images": [],
+  "stats": {
+    "likes": 270,
+    "comments": 70,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "046a8d17-ec29-4841-b5a1-224f4cf2cbc8",
+    "next_uuid": "e431bbc9-a998-4e18-9707-a011a0334b19"
+  }
+}

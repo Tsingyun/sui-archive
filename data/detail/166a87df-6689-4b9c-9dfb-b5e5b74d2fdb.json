@@ -1,0 +1,28 @@
+{
+  "uuid": "166a87df-6689-4b9c-9dfb-b5e5b74d2fdb",
+  "platform_post_id": "813245593584402481",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-01T12:48:15+08:00",
+  "source_url": "https://t.bilibili.com/813245593584402481",
+  "plain_text": "中午好TAT 揉揉 好好休息哦～ 今天也是想你的一天呜呜",
+  "images": [],
+  "stats": {
+    "likes": 476,
+    "comments": 106,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2747c117-5f3f-48b3-82dc-db48e65b096f",
+    "next_uuid": "cb325ab7-d0eb-48aa-a4df-f735da1c96c8"
+  }
+}

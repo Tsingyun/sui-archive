@@ -1,0 +1,28 @@
+{
+  "uuid": "2672f4ef-4629-4f78-8ee1-1a51adffc4b4",
+  "platform_post_id": "1116155278935457811",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-24T19:32:32+08:00",
+  "source_url": "https://t.bilibili.com/1116155278935457811",
+  "plain_text": "8:20来直播 因为本人是一个要洗澡洗头的爱干净的人[岁己收藏集表情包_凝视]",
+  "images": [],
+  "stats": {
+    "likes": 229,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7aa20ab4-bb0f-4301-ae89-41b2d1d70b23",
+    "next_uuid": "e1c1f49f-6a89-406e-ba73-59c602d89e9f"
+  }
+}

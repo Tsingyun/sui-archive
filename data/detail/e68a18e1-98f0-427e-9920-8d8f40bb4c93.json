@@ -1,0 +1,28 @@
+{
+  "uuid": "e68a18e1-98f0-427e-9920-8d8f40bb4c93",
+  "platform_post_id": "1128842947339485201",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-29T00:07:10+08:00",
+  "source_url": "https://t.bilibili.com/1128842947339485201",
+  "plain_text": "喜欢岁己今天的直播吗，喜欢请留言晚安并五星好评喔，谢谢！[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e749688c-7dca-4ec0-abd9-ac938187f0e5",
+    "next_uuid": "2dbdec55-ce40-4d68-9a20-2ed464d48797"
+  }
+}

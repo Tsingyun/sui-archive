@@ -1,0 +1,28 @@
+{
+  "uuid": "66a4cf27-e3cc-49f0-905b-35523c71845a",
+  "platform_post_id": "834495107744923715",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-27T19:07:13+08:00",
+  "source_url": "https://t.bilibili.com/834495107744923715",
+  "plain_text": "收拾收拾我们7:30见 聊唱然后jojo或者寒颤！\n可能会提前 全体待机！",
+  "images": [],
+  "stats": {
+    "likes": 280,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2641b369-0ed9-461b-9de5-dffec77f76d8",
+    "next_uuid": "fd7e70b8-2670-41fb-aac3-67614e2a439f"
+  }
+}

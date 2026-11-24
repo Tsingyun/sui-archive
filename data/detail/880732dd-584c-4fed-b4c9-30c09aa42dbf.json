@@ -1,0 +1,28 @@
+{
+  "uuid": "880732dd-584c-4fed-b4c9-30c09aa42dbf",
+  "platform_post_id": "1224959045505384489",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-15T00:26:43+08:00",
+  "source_url": "https://t.bilibili.com/1224959045505384489",
+  "plain_text": "我来安排一下，小岁12:25完美下播，饼干岁感到十分满足，好感值+1，小岁发布晚安动态，饼干岁热情留下暖心晚安回复，小岁进行点赞，饼干岁开心地度过周三，直到下次直播再见。",
+  "images": [],
+  "stats": {
+    "likes": 106,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7cc98a53-c988-407c-a313-c5fe89c114cf",
+    "next_uuid": "620af82b-ae5d-48d1-a06f-52d505df5a32"
+  }
+}

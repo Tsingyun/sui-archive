@@ -1,0 +1,28 @@
+{
+  "uuid": "fb901029-45b7-4537-89d0-4e0ab0799d95",
+  "platform_post_id": "1225629137699340309",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-16T19:47:01+08:00",
+  "source_url": "https://t.bilibili.com/1225629137699340309",
+  "plain_text": "来了！十分钟就到，今天是唱唱聊聊，参加花礼连麦，和栞栞玩捣蛋蛙～",
+  "images": [],
+  "stats": {
+    "likes": 210,
+    "comments": 21,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "620af82b-ae5d-48d1-a06f-52d505df5a32",
+    "next_uuid": "afc94a75-eece-4cb3-9043-281d1ba2b939"
+  }
+}

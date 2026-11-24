@@ -1,0 +1,28 @@
+{
+  "uuid": "d0b3781f-f502-45ad-a1d3-286fefefcdc0",
+  "platform_post_id": "966595287756832801",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-17T18:43:23+08:00",
+  "source_url": "https://t.bilibili.com/966595287756832801",
+  "plain_text": "7:20我来我来 高质量一下然后前往西部",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be0f424a-f860-4412-9e26-c66a54cf68ee",
+    "next_uuid": "f48dafd2-2b12-43d5-8ec3-a7ce51076885"
+  }
+}

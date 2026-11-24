@@ -1,0 +1,28 @@
+{
+  "uuid": "e75db436-d76e-49f8-915d-f2cebecfdba8",
+  "platform_post_id": "981815286057402387",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-27T19:04:45+08:00",
+  "source_url": "https://t.bilibili.com/981815286057402387",
+  "plain_text": "老时间 老地方 懂我意思",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c1c3099a-2af2-4fb5-9985-f05cb66efcd3",
+    "next_uuid": "401d0415-f4f4-4981-8674-d4cb8aa14c00"
+  }
+}

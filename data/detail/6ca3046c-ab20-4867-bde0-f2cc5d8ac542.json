@@ -1,0 +1,28 @@
+{
+  "uuid": "6ca3046c-ab20-4867-bde0-f2cc5d8ac542",
+  "platform_post_id": "764737777858248727",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-20T19:33:09+08:00",
+  "source_url": "https://t.bilibili.com/764737777858248727",
+  "plain_text": "‎•᷄ࡇ•᷅ 八点 播什么？我也不知道，其实，有时候人生就是这样充满了未知",
+  "images": [],
+  "stats": {
+    "likes": 309,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "53011303-478e-4f9c-bfd0-b9260292954b",
+    "next_uuid": "b7683ecd-640a-4ab5-a1b5-d9f47d12f373"
+  }
+}

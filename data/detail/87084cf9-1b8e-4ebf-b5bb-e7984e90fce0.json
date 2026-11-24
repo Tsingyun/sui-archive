@@ -1,0 +1,28 @@
+{
+  "uuid": "87084cf9-1b8e-4ebf-b5bb-e7984e90fce0",
+  "platform_post_id": "770377456464953431",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-08T00:17:59+08:00",
+  "source_url": "https://t.bilibili.com/770377456464953431",
+  "plain_text": "晚安晚安晚，玩一会睡觉去喽，明天要吃好吃的！",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6843476c-4b07-4b6b-bfc0-ce84e7ec232c",
+    "next_uuid": "4a5bd7f0-1563-403f-b803-55bd43ae81f2"
+  }
+}

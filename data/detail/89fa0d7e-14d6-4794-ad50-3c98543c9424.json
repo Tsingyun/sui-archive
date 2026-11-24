@@ -1,0 +1,28 @@
+{
+  "uuid": "89fa0d7e-14d6-4794-ad50-3c98543c9424",
+  "platform_post_id": "1161125519255666753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-24T00:00:02+08:00",
+  "source_url": "https://t.bilibili.com/1161125519255666753",
+  "plain_text": "晚安晚安大家~[岁己收藏集表情包_啵啵]感谢今天的你也来看岁己了~",
+  "images": [],
+  "stats": {
+    "likes": 254,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c551a978-6032-48ce-b83e-15e442fe4897",
+    "next_uuid": "e862b8f2-e02e-4291-81cd-6600dd503027"
+  }
+}

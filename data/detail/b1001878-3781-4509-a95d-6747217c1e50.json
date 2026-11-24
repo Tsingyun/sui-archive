@@ -1,0 +1,28 @@
+{
+  "uuid": "b1001878-3781-4509-a95d-6747217c1e50",
+  "platform_post_id": "835591350651977734",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-30T18:01:12+08:00",
+  "source_url": "https://t.bilibili.com/835591350651977734",
+  "plain_text": "昨天唱得嗓子好痛今天休息休息 明儿见！",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 58,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "854c8927-fef0-4905-885e-b93d13b5c7fc",
+    "next_uuid": "25c751d5-061a-443f-953f-700ce422b2aa"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "d6b42223-1607-4965-965d-5fb4a43be51e",
+  "platform_post_id": "901311948106235945",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-02-23T20:30:41+08:00",
+  "source_url": "https://t.bilibili.com/901311948106235945",
+  "plain_text": "头发还没吹干 再给我十分钟[UPOWER_1954091502_分号分号]\n",
+  "images": [
+    {
+      "filename": "901311948106235945_00@original.png",
+      "width": 828,
+      "height": 1792,
+      "file_size": 1182726,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 431,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ef9bb092-6bc5-40cd-b9e7-78502774704a",
+    "next_uuid": "d3b71aa6-db1b-4d5a-9705-e13682f4e34b"
+  }
+}

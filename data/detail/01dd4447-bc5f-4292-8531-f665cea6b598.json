@@ -1,0 +1,28 @@
+{
+  "uuid": "01dd4447-bc5f-4292-8531-f665cea6b598",
+  "platform_post_id": "845979892995588121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-27T17:54:03+08:00",
+  "source_url": "https://t.bilibili.com/845979892995588121",
+  "plain_text": "运动过度小腿酸痛走路一瘸一拐的岁己6:30来接你👩‍🦯",
+  "images": [],
+  "stats": {
+    "likes": 261,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "86590176-b076-49f0-b087-8f2e766ef00a",
+    "next_uuid": "2bd422f5-e344-425f-b1b5-21cb2d131ad5"
+  }
+}

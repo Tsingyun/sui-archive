@@ -1,0 +1,28 @@
+{
+  "uuid": "c54de08a-fd09-4ab8-9762-eb32c9e5fb21",
+  "platform_post_id": "1138869419642978313",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-25T00:35:00+08:00",
+  "source_url": "https://t.bilibili.com/1138869419642978313",
+  "plain_text": "这个晚安是我旅行时带回来的，一直舍不得用，今天它有新主人了（💦香水）",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e9a98166-4ab7-4851-8a70-b391fb63f7c0",
+    "next_uuid": "72fa4d81-b0f7-4f4c-b62e-868bb9d8be0c"
+  }
+}

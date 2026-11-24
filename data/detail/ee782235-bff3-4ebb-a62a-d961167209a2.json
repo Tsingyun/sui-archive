@@ -1,0 +1,38 @@
+{
+  "uuid": "ee782235-bff3-4ebb-a62a-d961167209a2",
+  "platform_post_id": "891236813805453321",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-01-27T16:54:01+08:00",
+  "source_url": "https://t.bilibili.com/891236813805453321",
+  "plain_text": "盯着你",
+  "images": [
+    {
+      "filename": "891236813805453321_100@repost.jpg",
+      "width": 2000,
+      "height": 2000,
+      "file_size": 3094179,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 384,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b18c279-0df8-4130-b37c-a648f27a7b56",
+    "next_uuid": "64035d5d-4d5b-4dfd-9c81-c55ecd278498"
+  }
+}

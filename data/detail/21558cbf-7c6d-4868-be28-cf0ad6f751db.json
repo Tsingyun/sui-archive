@@ -1,0 +1,28 @@
+{
+  "uuid": "21558cbf-7c6d-4868-be28-cf0ad6f751db",
+  "platform_post_id": "1245239142323847170",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-09-07T16:03:51+08:00",
+  "source_url": "https://t.bilibili.com/1245239142323847170",
+  "plain_text": "又是一年秋天啦 一起出门踩枫叶吧",
+  "images": [],
+  "stats": {
+    "likes": 267,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "816ffd4f-1a16-4f18-95c3-519c1347b427",
+    "next_uuid": "3c026871-eb31-4f12-8291-fd46d5e28e6d"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "e39d0c6d-0110-4aa2-83db-87dc14e0676e",
+  "platform_post_id": "828830724243062848",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-08-12T12:46:31+08:00",
+  "source_url": "https://t.bilibili.com/828830724243062848",
+  "plain_text": "眼睛脸蛋都睡肿了 早啊\n",
+  "images": [
+    {
+      "filename": "828830724243062848_00@original.jpg",
+      "width": 1169,
+      "height": 1552,
+      "file_size": 550417,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 522,
+    "comments": 57,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d72cdf42-98f0-4e0c-8bf7-e14762dec34a",
+    "next_uuid": "4cce1c5e-a5ac-486c-bfea-a8682fbfe52e"
+  }
+}

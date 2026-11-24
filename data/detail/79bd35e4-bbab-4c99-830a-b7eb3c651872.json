@@ -1,0 +1,28 @@
+{
+  "uuid": "79bd35e4-bbab-4c99-830a-b7eb3c651872",
+  "platform_post_id": "855345975408984121",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-22T23:39:14+08:00",
+  "source_url": "https://t.bilibili.com/855345975408984121",
+  "plain_text": "滴滴 续一下火花 晚安",
+  "images": [],
+  "stats": {
+    "likes": 339,
+    "comments": 72,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4d5b377c-982d-4ee4-a271-de04ff4e9321",
+    "next_uuid": "bd84d060-5a56-471c-a11b-f67e28a8236d"
+  }
+}

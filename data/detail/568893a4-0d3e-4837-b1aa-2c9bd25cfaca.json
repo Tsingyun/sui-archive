@@ -1,0 +1,28 @@
+{
+  "uuid": "568893a4-0d3e-4837-b1aa-2c9bd25cfaca",
+  "platform_post_id": "759787643375452162",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-07T11:24:06+08:00",
+  "source_url": "https://t.bilibili.com/759787643375452162",
+  "plain_text": "哈哈，直接睡过手术时间。。。[UP_1954091502_流汗]\n而且因为太晚没睡着现在还头晕恶心[UP_1954091502_哭哭]",
+  "images": [],
+  "stats": {
+    "likes": 427,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8fb3d95e-f8b6-4bb0-b1b1-029dadc4d17b",
+    "next_uuid": "f39b5dc7-5bde-421d-adab-fa7e896c7bab"
+  }
+}

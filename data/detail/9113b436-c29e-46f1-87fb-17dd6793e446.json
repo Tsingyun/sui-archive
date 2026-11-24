@@ -1,0 +1,28 @@
+{
+  "uuid": "9113b436-c29e-46f1-87fb-17dd6793e446",
+  "platform_post_id": "1067995316675936273",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-18T00:47:17+08:00",
+  "source_url": "https://t.bilibili.com/1067995316675936273",
+  "plain_text": "今天创造了和大家一起看lalaland的回忆，是我第一次看，好多浪漫桥段，虽然是令人感到怅然遗憾的结尾。希望我们都能一直参与到彼此的每一天中，晚安大家。",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 69,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "753ac0ff-ab36-4523-aff3-813ea3e0673b",
+    "next_uuid": "1bdf3e93-5a97-482d-870a-7dcaafb03c1a"
+  }
+}

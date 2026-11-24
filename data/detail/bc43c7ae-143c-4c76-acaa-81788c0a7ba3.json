@@ -1,0 +1,28 @@
+{
+  "uuid": "bc43c7ae-143c-4c76-acaa-81788c0a7ba3",
+  "platform_post_id": "1160358867565019206",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-01-21T22:25:02+08:00",
+  "source_url": "https://t.bilibili.com/1160358867565019206",
+  "plain_text": "10:35来煮煮喔[UPOWER_1954091502_小肥鸟][UPOWER_1954091502_幻想了]",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2a8627ff-cb26-4b48-a734-23ea7e32f46b",
+    "next_uuid": "a78e5b63-a048-4383-a3b7-828e14538ca6"
+  }
+}

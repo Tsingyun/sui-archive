@@ -1,0 +1,28 @@
+{
+  "uuid": "27cf3c45-2b38-4705-8b91-e73980b8a84f",
+  "platform_post_id": "806523278529134614",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-13T10:02:14+08:00",
+  "source_url": "https://t.bilibili.com/806523278529134614",
+  "plain_text": "波比，波比波，波比波比，波比波比！",
+  "images": [],
+  "stats": {
+    "likes": 496,
+    "comments": 80,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7af8a09b-fc05-4c39-b506-c140c0152d73",
+    "next_uuid": "4d0a2535-4537-480e-b96e-66e606ced2c9"
+  }
+}

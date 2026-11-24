@@ -1,0 +1,28 @@
+{
+  "uuid": "be52fa2b-b444-470f-8df4-50a875f840f1",
+  "platform_post_id": "1060197760606666784",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-27T00:28:47+08:00",
+  "source_url": "https://t.bilibili.com/1060197760606666784",
+  "plain_text": "晚安喔晚安晚安 我还要工作 你先睡吧 盖好被子 留个夜灯给我就行了[岁己收藏集表情包_呼]",
+  "images": [],
+  "stats": {
+    "likes": 278,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "76e94216-356a-43f0-970e-5fa64d5feaf2",
+    "next_uuid": "1e4579bc-bb90-47f9-9ebb-2afa3da4f166"
+  }
+}

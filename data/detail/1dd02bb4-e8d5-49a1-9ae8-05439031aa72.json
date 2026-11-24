@@ -1,0 +1,38 @@
+{
+  "uuid": "1dd02bb4-e8d5-49a1-9ae8-05439031aa72",
+  "platform_post_id": "811139912853094400",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-06-25T20:37:08+08:00",
+  "source_url": "https://t.bilibili.com/811139912853094400",
+  "plain_text": "今晚在这哦//@VirtuaReal:提前前前发起待机 网页链接",
+  "images": [
+    {
+      "filename": "811139912853094400_100@repost.png",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 1591055,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 212,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "VirtuaReal",
+    "author_url": "https://space.bilibili.com/413748120",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7ed54730-b255-4882-b4e5-b69a7b657d3c",
+    "next_uuid": "45d1e806-52fd-4c89-8b81-c8acc67e335d"
+  }
+}

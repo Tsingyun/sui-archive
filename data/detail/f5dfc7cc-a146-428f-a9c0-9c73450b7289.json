@@ -1,0 +1,38 @@
+{
+  "uuid": "f5dfc7cc-a146-428f-a9c0-9c73450b7289",
+  "platform_post_id": "942556922735755299",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-06-14T00:02:15+08:00",
+  "source_url": "https://t.bilibili.com/942556922735755299",
+  "plain_text": "感觉也不肥吧",
+  "images": [
+    {
+      "filename": "942556922735755299_100@repost.png",
+      "width": 810,
+      "height": 810,
+      "file_size": 703651,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 373,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "雨纪家的蓝莓千层布丁",
+    "author_url": "https://space.bilibili.com/94654105",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cd6b5a5f-09f7-49aa-b981-77e2cf71b51d",
+    "next_uuid": "114d65b6-e098-4682-b7d2-bdadb6697b84"
+  }
+}

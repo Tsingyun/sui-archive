@@ -1,0 +1,28 @@
+{
+  "uuid": "6dc2f44d-c553-4a08-9fe5-ed21fb0ddeb9",
+  "platform_post_id": "967343655759118344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-19T19:07:26+08:00",
+  "source_url": "https://t.bilibili.com/967343655759118344",
+  "plain_text": "孩子们今天7:37来",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "71af9dcd-e020-4f3b-a779-0f62ff8313b2",
+    "next_uuid": "616ba97d-28f8-4bab-bcf9-41f40087a134"
+  }
+}

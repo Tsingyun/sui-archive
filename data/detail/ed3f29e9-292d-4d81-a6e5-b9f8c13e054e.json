@@ -1,0 +1,28 @@
+{
+  "uuid": "ed3f29e9-292d-4d81-a6e5-b9f8c13e054e",
+  "platform_post_id": "927345935327952951",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-04T00:15:51+08:00",
+  "source_url": "https://t.bilibili.com/927345935327952951",
+  "plain_text": "晚安啦 还记得是哪三件事情吗？",
+  "images": [],
+  "stats": {
+    "likes": 334,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fb218f5c-d531-4bd9-accc-ed08fb8b270b",
+    "next_uuid": "ca46a21f-f1a5-45b8-a64c-3698551f0758"
+  }
+}

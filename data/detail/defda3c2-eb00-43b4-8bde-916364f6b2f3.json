@@ -1,0 +1,28 @@
+{
+  "uuid": "defda3c2-eb00-43b4-8bde-916364f6b2f3",
+  "platform_post_id": "792966222833516568",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-07T21:13:56+08:00",
+  "source_url": "https://t.bilibili.com/792966222833516568",
+  "plain_text": "刚吃完饭。谁来帮我分析一下今天还播不播。我方认为： 原因是：",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c3188dc6-d852-4972-a0d5-7c36ed148d63",
+    "next_uuid": "c8ad17e6-ce95-4992-8bb1-77442738de1a"
+  }
+}

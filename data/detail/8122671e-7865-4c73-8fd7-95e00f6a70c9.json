@@ -1,0 +1,28 @@
+{
+  "uuid": "8122671e-7865-4c73-8fd7-95e00f6a70c9",
+  "platform_post_id": "1082755573136490528",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-26T19:24:37+08:00",
+  "source_url": "https://t.bilibili.com/1082755573136490528",
+  "plain_text": "来播，7:40 唱歌 然后画头像 怎么样",
+  "images": [],
+  "stats": {
+    "likes": 199,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d652f862-fe9a-4d81-a9dd-d47e3cd399ad",
+    "next_uuid": "47628620-dd75-47f7-96ee-017820cada95"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8852a17e-8cf5-482d-99f6-57b56a02038a",
+  "platform_post_id": "1008489472525860870",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-08T16:14:13+08:00",
+  "source_url": "https://t.bilibili.com/1008489472525860870",
+  "plain_text": "下午好 5点来播播怎么样 很下午吧！\n岁己将进行一个唱歌聊天的直播",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 31,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cccd00f1-f6ee-4aef-93d1-20e5747c83a6",
+    "next_uuid": "a89adb4d-85d4-48a8-9d4d-02910fbb781d"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "c69b6a3e-9fe5-4167-a14c-fc1d887f516b",
+  "platform_post_id": "756903783279099929",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-30T16:53:15+08:00",
+  "source_url": "https://t.bilibili.com/756903783279099929",
+  "plain_text": "呃啊！肥岁他…快控制不住他了…再这样下去的话今晚还是他来直播！请…！请夸夸小岁给小岁战胜他的能量！",
+  "images": [],
+  "stats": {
+    "likes": 414,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "25712003-0243-45cc-9785-8717a03e87c0",
+    "next_uuid": "520c57de-d078-48f7-bd35-219d5ec73e99"
+  }
+}

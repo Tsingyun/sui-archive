@@ -1,0 +1,28 @@
+{
+  "uuid": "2f7d9776-05d3-425a-a499-47efd5644cf1",
+  "platform_post_id": "845308885959966737",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-25T22:30:12+08:00",
+  "source_url": "https://t.bilibili.com/845308885959966737",
+  "plain_text": "断断续续四十分钟应该是有了 困🥱 \n挑战1点就睡觉 晚安",
+  "images": [],
+  "stats": {
+    "likes": 323,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "77780d7c-04c6-4a8e-8f75-4f7df06d1310",
+    "next_uuid": "9164913f-090d-497a-bd41-5d2abc7ea878"
+  }
+}

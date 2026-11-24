@@ -1,0 +1,28 @@
+{
+  "uuid": "5a7b71f0-543f-4220-81bf-557b19be69c2",
+  "platform_post_id": "776304803393306678",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-23T23:39:07+08:00",
+  "source_url": "https://t.bilibili.com/776304803393306678",
+  "plain_text": "这是一条洗澡前专门动手指点开bilibili，打开编辑框，花30秒思考花20秒写下的给你看的晚安动态。",
+  "images": [],
+  "stats": {
+    "likes": 438,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "13f5aa8e-a93f-43c5-b437-0e916bdf7bd9",
+    "next_uuid": "93a276bf-aa1f-41c7-917f-0c2a4aa7c6a0"
+  }
+}

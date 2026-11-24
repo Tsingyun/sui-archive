@@ -1,0 +1,38 @@
+{
+  "uuid": "0fca2c8b-dfb4-43c8-a04d-dfa3b9d90494",
+  "platform_post_id": "876010055232651266",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-12-17T16:06:25+08:00",
+  "source_url": "https://t.bilibili.com/876010055232651266",
+  "plain_text": "清冷美女的说！",
+  "images": [
+    {
+      "filename": "876010055232651266_100@repost.png",
+      "width": 1080,
+      "height": 1594,
+      "file_size": 486288,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 295,
+    "comments": 13,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "烏蛾karasu",
+    "author_url": "https://space.bilibili.com/174531771",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ccd9db53-7d29-4a9a-8ff2-4df33687fa8b",
+    "next_uuid": "bee4810b-bd5b-4652-89c7-c9e0e49317af"
+  }
+}

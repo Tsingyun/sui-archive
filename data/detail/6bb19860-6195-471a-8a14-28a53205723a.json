@@ -1,0 +1,28 @@
+{
+  "uuid": "6bb19860-6195-471a-8a14-28a53205723a",
+  "platform_post_id": "896054676207697921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-09T16:29:47+08:00",
+  "source_url": "https://t.bilibili.com/896054676207697921",
+  "plain_text": "看看你的饭！或者用图片分享春节发生的任何事情🥳\n发在这里 晚上来看！（应该9-10点 大概率10）",
+  "images": [],
+  "stats": {
+    "likes": 380,
+    "comments": 51,
+    "forwards": 20,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "75630681-dab7-4412-87b3-4a88cbbcccfd",
+    "next_uuid": "de5e0589-758b-43d9-b586-657576640150"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ea79331b-4fe7-4021-8b37-176ba71a0950",
+  "platform_post_id": "939594511993012246",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-06T00:26:35+08:00",
+  "source_url": "https://t.bilibili.com/939594511993012246",
+  "plain_text": "希望大家今天也看得变开心了一点，晚安哦",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 77,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cb74a28e-7223-4238-a3fd-a6e879f80658",
+    "next_uuid": "733bc95e-8ee5-4341-b0f1-c0496f35f215"
+  }
+}

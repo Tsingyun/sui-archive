@@ -1,0 +1,38 @@
+{
+  "uuid": "aa194ff4-0994-4a38-b14d-f5847bb8fbd0",
+  "platform_post_id": "1062227025274601479",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2025-05-02T11:43:22+08:00",
+  "source_url": "https://t.bilibili.com/1062227025274601479",
+  "plain_text": "哇！是本次mixup的音声\n今天的对话要保密哦",
+  "images": [
+    {
+      "filename": "1062227025274601479_00@original.png",
+      "width": 846,
+      "height": 1350,
+      "file_size": 1050225,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 281,
+    "comments": 14,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9270c8d2-da06-4c37-8e18-17795c800cb1",
+    "next_uuid": "d66a0eb8-2fa5-43bc-8e4a-0ae4b190686d"
+  }
+}

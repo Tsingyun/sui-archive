@@ -1,0 +1,28 @@
+{
+  "uuid": "5aa8008d-2468-44bb-beaa-d4a2295e65ef",
+  "platform_post_id": "786590240761446451",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-20T16:51:52+08:00",
+  "source_url": "https://t.bilibili.com/786590240761446451",
+  "plain_text": "最近有没有看到什么好笑好玩的视频 评论里发发\n可以的话晚上直播一起看看 \n（发点别的 别全是切片 啾咪啾",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 135,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "538fee9b-8f51-4bec-9faa-89a85c8c421c",
+    "next_uuid": "344d16c8-17de-4885-943f-826490612a37"
+  }
+}

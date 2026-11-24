@@ -1,0 +1,38 @@
+{
+  "uuid": "20e0f14e-be73-453b-a19b-1d070db30e0e",
+  "platform_post_id": "1213379813664882688",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-06-13T19:33:23+08:00",
+  "source_url": "https://t.bilibili.com/1213379813664882688",
+  "plain_text": "7:50先唱唱然后看看这个 👀到底蠢不蠢的",
+  "images": [
+    {
+      "filename": "1213379813664882688_100@repost.png",
+      "width": 2560,
+      "height": 1440,
+      "file_size": 1877003,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 173,
+    "comments": 11,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己SUI",
+    "author_url": "https://space.bilibili.com/1954091502",
+    "text": "征集！你做过最蠢的事情\n平时看小岁说些笨笨的话有没有一点生气呢[岁己收藏集表情包_哈哈]\n这次也发点你做过的蠢事让大家一起品尝鉴赏吧！[岁己收藏集表情包_凝视]\n1-2条即可 字数大概300以内~\n投稿方式：suiji11@qq.com\n截止时间：6月13日晚5点 \n\n",
+    "source_url": "https://t.bilibili.com/1212290493949411348"
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cdd313a5-ece1-4f9b-8e34-0dd45c62f0c4",
+    "next_uuid": "3ca67836-1d48-4fd9-9322-ee7ec94d7ed2"
+  }
+}

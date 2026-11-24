@@ -1,0 +1,28 @@
+{
+  "uuid": "37e5dfc2-46de-401f-883b-88eeb0b6d753",
+  "platform_post_id": "1188891374693384228",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-04-08T19:45:44+08:00",
+  "source_url": "https://t.bilibili.com/1188891374693384228",
+  "plain_text": "8:10来！我想想干嘛\n我下载了杂交版植物大战僵尸 我会玩吗(｀・ω・´)",
+  "images": [],
+  "stats": {
+    "likes": 190,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "73df69e2-4642-4008-9162-1c40ac30bcea",
+    "next_uuid": "4e624495-ffa0-4f5b-b0df-3e85ecc1ab79"
+  }
+}

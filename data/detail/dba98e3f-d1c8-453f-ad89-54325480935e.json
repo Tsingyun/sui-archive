@@ -1,0 +1,28 @@
+{
+  "uuid": "dba98e3f-d1c8-453f-ad89-54325480935e",
+  "platform_post_id": "1050832266600644610",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-01T18:45:53+08:00",
+  "source_url": "https://t.bilibili.com/1050832266600644610",
+  "plain_text": "7:30半不来猜棉花糖真假直播 不要来看我的直播！不允许你来！",
+  "images": [],
+  "stats": {
+    "likes": 184,
+    "comments": 33,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6ff5a7c2-aa19-466a-87ea-6fccb2a681f4",
+    "next_uuid": "2a9aa36c-c326-49fb-89d0-7b589577d0f7"
+  }
+}

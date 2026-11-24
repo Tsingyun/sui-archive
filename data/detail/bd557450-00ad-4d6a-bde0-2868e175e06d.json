@@ -1,0 +1,28 @@
+{
+  "uuid": "bd557450-00ad-4d6a-bde0-2868e175e06d",
+  "platform_post_id": "1048241696979025924",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-25T19:13:09+08:00",
+  "source_url": "https://t.bilibili.com/1048241696979025924",
+  "plain_text": "(´･_･`)今天是7:30的直播 还没想好干什么",
+  "images": [],
+  "stats": {
+    "likes": 198,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9cc9603d-313b-4aed-ab14-603095234c5f",
+    "next_uuid": "e20c73b7-f741-41a2-a045-dfce16948562"
+  }
+}

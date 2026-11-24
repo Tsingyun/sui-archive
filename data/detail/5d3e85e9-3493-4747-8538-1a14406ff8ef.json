@@ -1,0 +1,28 @@
+{
+  "uuid": "5d3e85e9-3493-4747-8538-1a14406ff8ef",
+  "platform_post_id": "1117002800500310025",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-27T02:21:21+08:00",
+  "source_url": "https://t.bilibili.com/1117002800500310025",
+  "plain_text": "晚安大家（五子棋高手如是说道[岁己收藏集表情包_呼]",
+  "images": [],
+  "stats": {
+    "likes": 232,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2191f6ed-05c7-4d15-8490-6910f5edf460",
+    "next_uuid": "97e10d93-1506-4af3-b119-1c0888ca4034"
+  }
+}

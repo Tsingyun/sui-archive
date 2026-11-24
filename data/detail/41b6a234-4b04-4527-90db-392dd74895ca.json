@@ -1,0 +1,28 @@
+{
+  "uuid": "41b6a234-4b04-4527-90db-392dd74895ca",
+  "platform_post_id": "1003323730690048020",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-24T18:08:30+08:00",
+  "source_url": "https://t.bilibili.com/1003323730690048020",
+  "plain_text": "六点半岁来直播！[喜欢][给心心][嘟嘟]",
+  "images": [],
+  "stats": {
+    "likes": 236,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b5ddc01-76b9-4b39-a56d-409afe6819f1",
+    "next_uuid": "ea921ae6-de47-4a83-84e0-609b3a4dc97b"
+  }
+}

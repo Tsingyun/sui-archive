@@ -1,0 +1,28 @@
+{
+  "uuid": "d87b152d-3b0c-4ff0-9367-527eb8e6ebc8",
+  "platform_post_id": "1108395076198858769",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-03T21:38:59+08:00",
+  "source_url": "https://t.bilibili.com/1108395076198858769",
+  "plain_text": "即将登场的是10:00的3d麦一起睡大觉",
+  "images": [],
+  "stats": {
+    "likes": 247,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2025ca57-354e-40de-b8a3-ad1baab76e4d",
+    "next_uuid": "af2678fb-e2ba-4272-8a3d-5e8411c7e43d"
+  }
+}

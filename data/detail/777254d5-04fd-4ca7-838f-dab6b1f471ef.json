@@ -1,0 +1,28 @@
+{
+  "uuid": "777254d5-04fd-4ca7-838f-dab6b1f471ef",
+  "platform_post_id": "1176561489939529748",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-03-06T14:19:29+08:00",
+  "source_url": "https://t.bilibili.com/1176561489939529748",
+  "plain_text": "2:30来 只狼天才再现[岁己收藏集表情包_诶嘿]",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3386832-d534-499d-85f5-3ab7e288de26",
+    "next_uuid": "99d73bf6-ed6d-4af1-bb69-51961b39b87a"
+  }
+}

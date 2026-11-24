@@ -1,0 +1,28 @@
+{
+  "uuid": "477428eb-05b9-428d-aec7-e31d3db60c53",
+  "platform_post_id": "1010028243335512082",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-12T19:45:26+08:00",
+  "source_url": "https://t.bilibili.com/1010028243335512082",
+  "plain_text": "本来想玩一下地铁离去，米塔好玩吗，想试玩一下怎么样？十分钟后",
+  "images": [],
+  "stats": {
+    "likes": 244,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e75d1e75-49b9-4f24-a5c4-4059a1c1880f",
+    "next_uuid": "9b635a88-8b1b-4b94-ac06-bc711ebe2c51"
+  }
+}

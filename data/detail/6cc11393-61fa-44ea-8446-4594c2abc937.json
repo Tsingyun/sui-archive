@@ -1,0 +1,28 @@
+{
+  "uuid": "6cc11393-61fa-44ea-8446-4594c2abc937",
+  "platform_post_id": "751376735932514307",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-15T19:25:29+08:00",
+  "source_url": "https://t.bilibili.com/751376735932514307",
+  "plain_text": "还在吃饭！可能要8:20开播 雪碧喝多了给我煮点醒酒汤",
+  "images": [],
+  "stats": {
+    "likes": 263,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3c9f58f-9a44-48fa-be67-02b0048ac464",
+    "next_uuid": "ebbbcb1b-59ba-4bf7-b289-74bbf4ba470f"
+  }
+}

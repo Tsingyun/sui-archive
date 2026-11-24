@@ -1,0 +1,28 @@
+{
+  "uuid": "8d6854c4-582e-4a8c-b280-38aabfc9feab",
+  "platform_post_id": "818432260770365544",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-15T12:15:10+08:00",
+  "source_url": "https://t.bilibili.com/818432260770365544",
+  "plain_text": "早 脖子睡得好痛😵‍💫",
+  "images": [],
+  "stats": {
+    "likes": 313,
+    "comments": 42,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "376e2352-62e0-46ea-baf0-83569fabc4a6",
+    "next_uuid": "e7a11f54-cb92-4d20-9c4a-30968f7d615c"
+  }
+}

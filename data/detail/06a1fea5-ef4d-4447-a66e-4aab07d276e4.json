@@ -1,0 +1,28 @@
+{
+  "uuid": "06a1fea5-ef4d-4447-a66e-4aab07d276e4",
+  "platform_post_id": "701648440528994361",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-09-03T19:14:18+08:00",
+  "source_url": "https://t.bilibili.com/701648440528994361",
+  "plain_text": "明晚来吗明晚来吗！",
+  "images": [],
+  "stats": {
+    "likes": 915,
+    "comments": 186,
+    "forwards": 4,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1dc52394-ce69-4ba0-aef1-1c6612241505",
+    "next_uuid": "8e2ba280-6ca0-48d1-9ec3-777f902e6649"
+  }
+}

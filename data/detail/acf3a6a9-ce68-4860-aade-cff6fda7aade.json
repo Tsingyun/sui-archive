@@ -1,0 +1,28 @@
+{
+  "uuid": "acf3a6a9-ce68-4860-aade-cff6fda7aade",
+  "platform_post_id": "817818015765626993",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-13T20:31:35+08:00",
+  "source_url": "https://t.bilibili.com/817818015765626993",
+  "plain_text": "非常抱歉地通知大家\n本次直播将推迟到8:44 需要下楼买点零食",
+  "images": [],
+  "stats": {
+    "likes": 399,
+    "comments": 27,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fd96a04e-dc23-4347-a814-ed6938e9d1cf",
+    "next_uuid": "e7cbd4bd-17f2-4cf0-b132-7250f3e04e23"
+  }
+}

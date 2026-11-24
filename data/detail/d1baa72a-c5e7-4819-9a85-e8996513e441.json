@@ -1,0 +1,28 @@
+{
+  "uuid": "d1baa72a-c5e7-4819-9a85-e8996513e441",
+  "platform_post_id": "708321312225886209",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-21T18:48:27+08:00",
+  "source_url": "https://t.bilibili.com/708321312225886209",
+  "plain_text": "今晚9:15:15！还是聊聊唱唱！",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5b1c4cb2-6a12-4154-9b77-0db82b127522",
+    "next_uuid": "6751d290-dba8-4ab0-8c97-01a964abc58d"
+  }
+}

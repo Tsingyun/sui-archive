@@ -1,0 +1,28 @@
+{
+  "uuid": "7da633b2-b1e4-4376-9d24-6dd4ac2ad880",
+  "platform_post_id": "968849119159255062",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-23T20:29:24+08:00",
+  "source_url": "https://t.bilibili.com/968849119159255062",
+  "plain_text": "be啊be啊 十分钟 唱几首荒野大镖客干点农活。",
+  "images": [],
+  "stats": {
+    "likes": 268,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3b75ff3c-477d-4fc6-a266-7e446f1cdae5",
+    "next_uuid": "5bdc98f0-49ae-4ad2-aec8-60326e749060"
+  }
+}

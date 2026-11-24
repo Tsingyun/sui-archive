@@ -1,0 +1,28 @@
+{
+  "uuid": "e5a49f1d-c947-4eb2-833b-99bdf35951b1",
+  "platform_post_id": "886827918183890985",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-15T19:45:15+08:00",
+  "source_url": "https://t.bilibili.com/886827918183890985",
+  "plain_text": "7:55小聊一下然后神秘海域吧！也有可能有变化 岁己的想法是瞬息万变的！",
+  "images": [],
+  "stats": {
+    "likes": 324,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cceaca3b-501c-4c58-baab-0a09c52683cc",
+    "next_uuid": "ec7a3071-14ca-47de-9e20-702056397ee5"
+  }
+}

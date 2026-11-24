@@ -1,0 +1,28 @@
+{
+  "uuid": "6ca149cd-607f-4330-9298-b9e28b6c9023",
+  "platform_post_id": "800232152166826005",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-27T11:09:27+08:00",
+  "source_url": "https://t.bilibili.com/800232152166826005",
+  "plain_text": "醒了 早٩꒰⍢ ꒱۶⁼³₌₃ 开塞！",
+  "images": [],
+  "stats": {
+    "likes": 283,
+    "comments": 47,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0590013c-4f39-4048-b72a-fdbe8b68781d",
+    "next_uuid": "3a034d59-ed4a-41d3-afac-1b990b036c47"
+  }
+}

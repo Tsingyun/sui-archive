@@ -1,0 +1,28 @@
+{
+  "uuid": "a3ddb358-c74e-44d5-abd6-2a0eac2205f6",
+  "platform_post_id": "1014108702801657862",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-23T19:39:42+08:00",
+  "source_url": "https://t.bilibili.com/1014108702801657862",
+  "plain_text": "孩子们 好冷啊 7:50来",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d7d0816e-9503-4f22-bbeb-681f2e164301",
+    "next_uuid": "cff909b9-5889-4128-9087-1b8c8b7e072c"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "56aa37be-49c8-4ff7-9621-893548421a7b",
+  "platform_post_id": "1257238696841707520",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-10T00:08:15+08:00",
+  "source_url": "https://t.bilibili.com/1257238696841707520",
+  "plain_text": "饼芬啊饼芬 晚安晚安的说 因为出门在外面呆了好久所以感觉今天过得格外漫长 明天见哦",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afad939d-64c2-4c29-a2ee-f323eeddb47c",
+    "next_uuid": "b3cd4349-7db1-4e51-ab45-2065dbbfeb5e"
+  }
+}

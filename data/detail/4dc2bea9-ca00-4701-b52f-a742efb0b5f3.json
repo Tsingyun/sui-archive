@@ -1,0 +1,28 @@
+{
+  "uuid": "4dc2bea9-ca00-4701-b52f-a742efb0b5f3",
+  "platform_post_id": "805037524531544087",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-09T09:56:45+08:00",
+  "source_url": "https://t.bilibili.com/805037524531544087",
+  "plain_text": "终于挺到天亮了，终于又能借着说早上好跟你说几句话了，宝 我的宝咕戈咕戈呜呜呜",
+  "images": [],
+  "stats": {
+    "likes": 398,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "d8f734dd-ef78-4dee-834f-465a7f2b7044",
+    "next_uuid": "7d3f64ca-1558-4a06-9460-92831189b0ad"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "be0f424a-f860-4412-9e26-c66a54cf68ee",
+  "platform_post_id": "966301589368209414",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-16T23:43:41+08:00",
+  "source_url": "https://t.bilibili.com/966301589368209414",
+  "plain_text": "我视监你很累，你能自觉告诉我今天和谁说晚上好了吗？给谁发弹幕了，打了几次call，这些我全要知道。除了我还给谁发了晚安？这些我也要知道。",
+  "images": [],
+  "stats": {
+    "likes": 499,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "577bc473-9fb2-4776-ba87-9e86c5d35941",
+    "next_uuid": "d0b3781f-f502-45ad-a1d3-286fefefcdc0"
+  }
+}

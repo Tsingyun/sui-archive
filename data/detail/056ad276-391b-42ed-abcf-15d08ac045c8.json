@@ -1,0 +1,28 @@
+{
+  "uuid": "056ad276-391b-42ed-abcf-15d08ac045c8",
+  "platform_post_id": "781116614204456968",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-05T22:51:24+08:00",
+  "source_url": "https://t.bilibili.com/781116614204456968",
+  "plain_text": "淋了点雨到家了！收拾一下，我们11：10分见",
+  "images": [],
+  "stats": {
+    "likes": 282,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "72a45f12-811e-47f3-92af-9c257f457041",
+    "next_uuid": "c17a3bdd-6198-4598-802a-11b40e8c239e"
+  }
+}

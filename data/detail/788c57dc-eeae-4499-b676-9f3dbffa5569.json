@@ -1,0 +1,28 @@
+{
+  "uuid": "788c57dc-eeae-4499-b676-9f3dbffa5569",
+  "platform_post_id": "772521053176987670",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-13T18:56:14+08:00",
+  "source_url": "https://t.bilibili.com/772521053176987670",
+  "plain_text": "哇 呀 啊？！什么？岁己今天不播！真没想到！！事情就是这样，岁己也很震惊，明天白情见喽",
+  "images": [],
+  "stats": {
+    "likes": 434,
+    "comments": 59,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c19424f2-c1d1-4c44-8d67-8fcb3ec440c5",
+    "next_uuid": "8682777d-8ca1-410b-a377-992773b5b3a8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "5aef8419-a53b-4986-b141-f80802d49111",
+  "platform_post_id": "764274445378388008",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-19T13:35:11+08:00",
+  "source_url": "https://t.bilibili.com/764274445378388008",
+  "plain_text": "今晚八点是！第一届饼干岁合唱回哦！！期待期待[UP_1954091502_打call]",
+  "images": [],
+  "stats": {
+    "likes": 361,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3fa03e9b-4881-4227-bff5-c9fa16ab4425",
+    "next_uuid": "ad859157-049c-4602-a4cf-82b7e03701b5"
+  }
+}

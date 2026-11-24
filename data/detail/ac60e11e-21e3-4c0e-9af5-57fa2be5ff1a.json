@@ -1,0 +1,28 @@
+{
+  "uuid": "ac60e11e-21e3-4c0e-9af5-57fa2be5ff1a",
+  "platform_post_id": "896367577418170470",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-10T12:44:00+08:00",
+  "source_url": "https://t.bilibili.com/896367577418170470",
+  "plain_text": "饼干岁快起床，怎么还关着房间门睡大觉，岁己来找你拜年了，早上好，新年好！[UPOWER_1954091502_爱你]",
+  "images": [],
+  "stats": {
+    "likes": 469,
+    "comments": 92,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "de5e0589-758b-43d9-b586-657576640150",
+    "next_uuid": "e40a58c4-041f-49e8-ac01-4cc80b706382"
+  }
+}

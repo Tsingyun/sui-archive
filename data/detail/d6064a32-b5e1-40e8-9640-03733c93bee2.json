@@ -1,0 +1,28 @@
+{
+  "uuid": "d6064a32-b5e1-40e8-9640-03733c93bee2",
+  "platform_post_id": "1110277418577297432",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-08T23:23:26+08:00",
+  "source_url": "https://t.bilibili.com/1110277418577297432",
+  "plain_text": "晚安大家 评论助力增加屏幕里的女孩的跳舞时长！[岁己收藏集表情包_啊啊啊]",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 67,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "fa02d7e7-db4d-4e0e-acef-aeaea9aaae66",
+    "next_uuid": "9eb025b4-9490-4ccc-a185-9b0f5009884e"
+  }
+}

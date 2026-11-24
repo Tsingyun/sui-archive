@@ -1,0 +1,28 @@
+{
+  "uuid": "b61d5ae9-d852-4985-a295-4037b50e5b79",
+  "platform_post_id": "797723006488018950",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-20T16:52:41+08:00",
+  "source_url": "https://t.bilibili.com/797723006488018950",
+  "plain_text": "小猪，八点见",
+  "images": [],
+  "stats": {
+    "likes": 308,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f3c329e0-6301-44da-bc0c-77fdae50d53b",
+    "next_uuid": "90d73865-c715-48fd-a86e-7a27b58a8e23"
+  }
+}

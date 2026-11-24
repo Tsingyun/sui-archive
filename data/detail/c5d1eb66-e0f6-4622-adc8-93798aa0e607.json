@@ -1,0 +1,28 @@
+{
+  "uuid": "c5d1eb66-e0f6-4622-adc8-93798aa0e607",
+  "platform_post_id": "1228664837742002211",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-25T00:07:05+08:00",
+  "source_url": "https://t.bilibili.com/1228664837742002211",
+  "plain_text": "饼的干的岁晚安😴 今天是投稿了的一天是打不过辐光的一天是跨日了的一天是现在要去练舞的充实一天",
+  "images": [],
+  "stats": {
+    "likes": 192,
+    "comments": 46,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ebb1816f-dfda-432d-a590-5037f1d94e7f",
+    "next_uuid": "de48d956-5018-4216-9237-f81c92a17719"
+  }
+}

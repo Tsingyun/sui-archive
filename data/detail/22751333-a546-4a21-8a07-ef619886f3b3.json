@@ -1,0 +1,38 @@
+{
+  "uuid": "22751333-a546-4a21-8a07-ef619886f3b3",
+  "platform_post_id": "795606562581250068",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-05-14T23:59:48+08:00",
+  "source_url": "https://t.bilibili.com/795606562581250068",
+  "plain_text": "应无数观众要求，就发一下下午画的画吧\n",
+  "images": [
+    {
+      "filename": "795606562581250068_00@original.jpg",
+      "width": 674,
+      "height": 716,
+      "file_size": 62851,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 337,
+    "comments": 48,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8a579be9-8521-458e-9647-06f2411ad8fa",
+    "next_uuid": "a65fcc16-bec5-4c6d-ab10-bee04a783a6f"
+  }
+}

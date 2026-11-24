@@ -1,0 +1,28 @@
+{
+  "uuid": "c5106b90-bde6-4eef-8404-f4bf19a18208",
+  "platform_post_id": "1219240700240986120",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-29T14:36:37+08:00",
+  "source_url": "https://t.bilibili.com/1219240700240986120",
+  "plain_text": "洗个碗！2:50来高手的空洞洞",
+  "images": [],
+  "stats": {
+    "likes": 195,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7dce82a-c444-485e-8bc7-65ac94485f39",
+    "next_uuid": "6c7c6343-2283-41d3-b1c4-1768c2efcca3"
+  }
+}

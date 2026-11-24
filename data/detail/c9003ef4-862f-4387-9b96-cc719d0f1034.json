@@ -1,0 +1,38 @@
+{
+  "uuid": "c9003ef4-862f-4387-9b96-cc719d0f1034",
+  "platform_post_id": "938024538286850065",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2024-06-01T18:54:17+08:00",
+  "source_url": "https://t.bilibili.com/938024538286850065",
+  "plain_text": "儿童节快乐~今天是7:50来唱点现学的儿歌\n6月舰长会有这个可爱的立牌，提督会有空调毯的说 今天好像还能转转盘\n",
+  "images": [
+    {
+      "filename": "938024538286850065_00@original.png",
+      "width": 567,
+      "height": 850,
+      "file_size": 354856,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 449,
+    "comments": 68,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9c3c8657-b61f-465f-b798-82839d19d6da",
+    "next_uuid": "ac73866e-14e3-4382-b92a-56c1c28767a9"
+  }
+}

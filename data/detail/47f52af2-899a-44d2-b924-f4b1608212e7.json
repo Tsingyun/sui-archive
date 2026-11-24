@@ -1,0 +1,28 @@
+{
+  "uuid": "47f52af2-899a-44d2-b924-f4b1608212e7",
+  "platform_post_id": "765026691755016194",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-21T14:14:17+08:00",
+  "source_url": "https://t.bilibili.com/765026691755016194",
+  "plain_text": "本日　不知道なに原因　没聞见闹钟　寝过头了\n本当に　对不起でした　頭都睡麻了でした",
+  "images": [],
+  "stats": {
+    "likes": 385,
+    "comments": 43,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b7683ecd-640a-4ab5-a1b5-d9f47d12f373",
+    "next_uuid": "d7e281c7-23e2-4bf7-a999-e08b46656a6f"
+  }
+}

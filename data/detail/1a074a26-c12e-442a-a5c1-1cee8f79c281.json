@@ -1,0 +1,28 @@
+{
+  "uuid": "1a074a26-c12e-442a-a5c1-1cee8f79c281",
+  "platform_post_id": "1263850210562408451",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-27T19:44:18+08:00",
+  "source_url": "https://t.bilibili.com/1263850210562408451",
+  "plain_text": "来嘛播起嘛 8点来 唱聊然后看起",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed2ca5a9-b85b-43d8-8b25-c9c77ee08bf9",
+    "next_uuid": "23d1a4b0-24ad-4658-9eb7-7faf977658d8"
+  }
+}

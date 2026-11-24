@@ -1,0 +1,28 @@
+{
+  "uuid": "8f53f59a-de36-4399-9cc8-692376a9504c",
+  "platform_post_id": "786717084016967714",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-21T01:04:05+08:00",
+  "source_url": "https://t.bilibili.com/786717084016967714",
+  "plain_text": "晚安饼干岁。夸夸我呢",
+  "images": [],
+  "stats": {
+    "likes": 358,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f09511de-0dac-4eb4-9c02-2f8aef606e4e",
+    "next_uuid": "e233368f-263f-44e0-b4ef-16fba0dfa18f"
+  }
+}

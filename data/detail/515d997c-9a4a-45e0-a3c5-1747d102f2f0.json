@@ -1,0 +1,28 @@
+{
+  "uuid": "515d997c-9a4a-45e0-a3c5-1747d102f2f0",
+  "platform_post_id": "971799727522709520",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-08-31T19:19:16+08:00",
+  "source_url": "https://t.bilibili.com/971799727522709520",
+  "plain_text": "我怎么发不出动态 7:43 今天什么节奏",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 38,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1f2efb9c-fb1d-421d-b0db-41a786d778c6",
+    "next_uuid": "3008cdf1-1609-4d78-aabc-72e0dcd13549"
+  }
+}

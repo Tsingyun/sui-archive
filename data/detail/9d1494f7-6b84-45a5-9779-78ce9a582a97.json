@@ -1,0 +1,28 @@
+{
+  "uuid": "9d1494f7-6b84-45a5-9779-78ce9a582a97",
+  "platform_post_id": "729577895662452775",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-18T01:34:51+08:00",
+  "source_url": "https://t.bilibili.com/729577895662452775",
+  "plain_text": "晚安🍪 觉得今天的岁己怎么样",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 29,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1064cac8-2c9f-40ed-aae3-bfcd30631e8a",
+    "next_uuid": "565a196c-56d1-46d3-a4dc-04ad80821d85"
+  }
+}

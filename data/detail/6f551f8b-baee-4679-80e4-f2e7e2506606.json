@@ -1,0 +1,28 @@
+{
+  "uuid": "6f551f8b-baee-4679-80e4-f2e7e2506606",
+  "platform_post_id": "810384432654450712",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-23T19:45:29+08:00",
+  "source_url": "https://t.bilibili.com/810384432654450712",
+  "plain_text": "哎哎 那今天就休息吧",
+  "images": [],
+  "stats": {
+    "likes": 251,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b8eb3d5-0a0f-41b2-913c-fe157fda1cd7",
+    "next_uuid": "bc6c8abc-c2f3-4b0d-b3d3-7f987fd3862d"
+  }
+}

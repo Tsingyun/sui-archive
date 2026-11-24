@@ -1,0 +1,28 @@
+{
+  "uuid": "bb3ed311-e5d3-4fe3-a38e-9a145c18eb47",
+  "platform_post_id": "1172183801574457344",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-02-22T19:11:49+08:00",
+  "source_url": "https://t.bilibili.com/1172183801574457344",
+  "plain_text": "今天安排！7:20参加犬绒的凸待，7:40开播~~~~",
+  "images": [],
+  "stats": {
+    "likes": 194,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "07ec444d-2597-45b7-a154-c279195cc403",
+    "next_uuid": "1b37e9bf-b4dc-434c-9e0b-ea3ba8c3cf90"
+  }
+}

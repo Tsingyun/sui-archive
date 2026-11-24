@@ -1,0 +1,28 @@
+{
+  "uuid": "27c823c1-aa54-41b9-bde6-74a4f2095a95",
+  "platform_post_id": "943586916286070790",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-06-16T18:39:09+08:00",
+  "source_url": "https://t.bilibili.com/943586916286070790",
+  "plain_text": "7:10来直播，今天是唱唱然后那个那个幽灵公主来着，请自备零食饮料，别偷吃我的",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 44,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2e0248fb-a7a7-4593-8716-955a80659d27",
+    "next_uuid": "9ced8544-ab15-44ec-bcc4-c4105f88b856"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "6d9aa2ea-043d-4118-98c7-e4eff47465a8",
+  "platform_post_id": "1221921223687012361",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-07-06T19:58:25+08:00",
+  "source_url": "https://t.bilibili.com/1221921223687012361",
+  "plain_text": "孩子们刚到家 洗个澡澡香香地来 8:27见可好呀",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b2646541-98f9-4f41-b495-2487a679b55c",
+    "next_uuid": "1d3bf4cc-4491-40e4-8fb1-88d769964911"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "b25191b2-e65b-4b9e-ad4f-780f3f7518b6",
+  "platform_post_id": "743592837817303042",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-25T19:59:59+08:00",
+  "source_url": "https://t.bilibili.com/743592837817303042",
+  "plain_text": "非常非常非常困，让我小睡一下，九点见吧大家。[tv_委屈]都别迟到！",
+  "images": [],
+  "stats": {
+    "likes": 302,
+    "comments": 29,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "82ba7535-d2d6-49e3-9e28-eff890d55028",
+    "next_uuid": "818c09c7-96b8-4906-a1e4-36eafed7e2d8"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "42f5f233-f146-4ad9-a137-ca32acb2189f",
+  "platform_post_id": "889480004653547592",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-22T23:16:42+08:00",
+  "source_url": "https://t.bilibili.com/889480004653547592",
+  "plain_text": "[UPOWER_1954091502_分号分号][UP_1954091502_晚安]",
+  "images": [],
+  "stats": {
+    "likes": 347,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0b3293a4-8538-447e-ab1d-77fa5a7fadf4",
+    "next_uuid": "0271d46c-dd68-44f7-b4ea-5e3934d1c667"
+  }
+}

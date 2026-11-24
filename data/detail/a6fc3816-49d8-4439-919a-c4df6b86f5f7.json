@@ -1,0 +1,28 @@
+{
+  "uuid": "a6fc3816-49d8-4439-919a-c4df6b86f5f7",
+  "platform_post_id": "1240073971678838854",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-08-24T18:00:21+08:00",
+  "source_url": "https://t.bilibili.com/1240073971678838854",
+  "plain_text": "原来小岁在饼干岁眼里是像天使一样吗",
+  "images": [],
+  "stats": {
+    "likes": 223,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "岁己家的维斯",
+    "author_url": "https://space.bilibili.com/12052692",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b08bce2a-9dc8-4d31-bf64-f71e0ca0589c",
+    "next_uuid": "77ce4f53-5e36-4db7-8b52-1832a6e1f5e0"
+  }
+}

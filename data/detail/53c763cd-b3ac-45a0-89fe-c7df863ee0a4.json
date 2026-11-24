@@ -1,0 +1,28 @@
+{
+  "uuid": "53c763cd-b3ac-45a0-89fe-c7df863ee0a4",
+  "platform_post_id": "773269618732040212",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-15T19:21:03+08:00",
+  "source_url": "https://t.bilibili.com/773269618732040212",
+  "plain_text": "八点半！[UP_1954091502_收米]",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c7dd536c-1ffb-45c1-9bd8-b13e0ee9d686",
+    "next_uuid": "f9c018ea-68af-4397-ae77-b64e83a22c30"
+  }
+}

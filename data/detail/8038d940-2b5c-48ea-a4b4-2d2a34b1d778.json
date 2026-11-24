@@ -1,0 +1,28 @@
+{
+  "uuid": "8038d940-2b5c-48ea-a4b4-2d2a34b1d778",
+  "platform_post_id": "1066045899772264452",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-05-12T18:42:33+08:00",
+  "source_url": "https://t.bilibili.com/1066045899772264452",
+  "plain_text": "7:30唱唱然后一起看疯狂的赛车 怎么样",
+  "images": [],
+  "stats": {
+    "likes": 222,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e3c27eb3-3290-4c1d-9f0a-ecf031f69320",
+    "next_uuid": "d11af2b8-b4da-4ef9-ab69-002fd8a1622b"
+  }
+}

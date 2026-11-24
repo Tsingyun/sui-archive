@@ -1,0 +1,28 @@
+{
+  "uuid": "a4887367-24cc-4299-b04b-43b5414bdaaf",
+  "platform_post_id": "1214947846085672969",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-06-18T00:58:09+08:00",
+  "source_url": "https://t.bilibili.com/1214947846085672969",
+  "plain_text": "晚安今天的温柔型饼干岁",
+  "images": [],
+  "stats": {
+    "likes": 262,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "67670f0a-1402-4a3e-a642-08c33d6d92d1",
+    "next_uuid": "4ad748d5-30a2-4474-b29e-dba30d46fdbb"
+  }
+}

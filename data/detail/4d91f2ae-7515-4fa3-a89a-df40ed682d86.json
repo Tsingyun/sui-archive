@@ -1,0 +1,28 @@
+{
+  "uuid": "4d91f2ae-7515-4fa3-a89a-df40ed682d86",
+  "platform_post_id": "1260965143585488921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-20T01:08:46+08:00",
+  "source_url": "https://t.bilibili.com/1260965143585488921",
+  "plain_text": "晚安晚安。聊了好多！嗓子哑掉了，又更了解岁己更觉得岁己可爱了吧哼哼",
+  "images": [],
+  "stats": {
+    "likes": 387,
+    "comments": 70,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b4bca3de-ed25-4124-948a-242627c82f00",
+    "next_uuid": "fc06fe4d-540a-486b-bec4-a68b3199dc8a"
+  }
+}

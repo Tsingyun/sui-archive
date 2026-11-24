@@ -1,0 +1,28 @@
+{
+  "uuid": "3730b395-7440-4652-9991-cb2848c8d42b",
+  "platform_post_id": "1146588794403684359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-15T19:50:07+08:00",
+  "source_url": "https://t.bilibili.com/1146588794403684359",
+  "plain_text": "8:15来看小圆！",
+  "images": [],
+  "stats": {
+    "likes": 185,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "0c590223-df31-4c7b-8b57-b624877e7724",
+    "next_uuid": "3c9c639b-4b6a-4c4a-a1c5-19f9db950e89"
+  }
+}

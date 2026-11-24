@@ -1,0 +1,28 @@
+{
+  "uuid": "9d73cab2-f36c-4277-9801-a926eed8e151",
+  "platform_post_id": "753248650156572679",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-01-20T20:29:28+08:00",
+  "source_url": "https://t.bilibili.com/753248650156572679",
+  "plain_text": "我错了 再等我15分钟 还没吹好头[UP_1954091502_对不起][UP_1954091502_对不起]",
+  "images": [],
+  "stats": {
+    "likes": 288,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4dfddbb7-7276-44bf-8cae-b7817239a578",
+    "next_uuid": "4ee5c10a-9407-4154-bf8a-448995e78b96"
+  }
+}

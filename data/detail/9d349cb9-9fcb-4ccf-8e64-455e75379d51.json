@@ -1,0 +1,28 @@
+{
+  "uuid": "9d349cb9-9fcb-4ccf-8e64-455e75379d51",
+  "platform_post_id": "1015589384189116424",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-27T19:25:30+08:00",
+  "source_url": "https://t.bilibili.com/1015589384189116424",
+  "plain_text": "7:40见宝宝们",
+  "images": [],
+  "stats": {
+    "likes": 205,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "eec82b79-e080-4614-aee7-caa038045775",
+    "next_uuid": "723a160d-411c-4a48-a974-a76f90bcaf97"
+  }
+}

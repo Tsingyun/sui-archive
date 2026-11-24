@@ -1,0 +1,28 @@
+{
+  "uuid": "698ed354-f80c-4e78-9f0f-248a3bd872e3",
+  "platform_post_id": "1095095546729725976",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-07-30T01:30:01+08:00",
+  "source_url": "https://t.bilibili.com/1095095546729725976",
+  "plain_text": "[岁己收藏集表情包_哈哈]手机掉床缝听了半小时 我有说过这么多种语气的波比吗",
+  "images": [],
+  "stats": {
+    "likes": 256,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "人活着是为了02",
+    "author_url": "https://space.bilibili.com/8481710",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7b8f7d9b-f4a1-4e44-baac-c83ea1c2191c",
+    "next_uuid": "2dbbcd3c-8f73-44c4-8e21-307340a66276"
+  }
+}

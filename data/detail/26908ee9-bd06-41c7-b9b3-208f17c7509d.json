@@ -1,0 +1,28 @@
+{
+  "uuid": "26908ee9-bd06-41c7-b9b3-208f17c7509d",
+  "platform_post_id": "914282732134072360",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-03-29T19:23:57+08:00",
+  "source_url": "https://t.bilibili.com/914282732134072360",
+  "plain_text": "今天休息呢！明天见啦",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 57,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "14876900-a96d-4758-8bd6-f9aeccf77b8d",
+    "next_uuid": "fc2462e6-1fbe-4541-bcbb-96cc9c801374"
+  }
+}

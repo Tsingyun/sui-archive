@@ -1,0 +1,28 @@
+{
+  "uuid": "4556be73-d1c1-4ce5-8d56-735039dd9657",
+  "platform_post_id": "1242395753729490962",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-08-31T00:10:03+08:00",
+  "source_url": "https://t.bilibili.com/1242395753729490962",
+  "plain_text": "饼干岁我要跟你说晚安的说",
+  "images": [],
+  "stats": {
+    "likes": 385,
+    "comments": 80,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "372b4057-96fe-4866-a83d-037e4c67dee5",
+    "next_uuid": "fb5eeaa0-cbda-486b-b29f-c2d9188d1a73"
+  }
+}

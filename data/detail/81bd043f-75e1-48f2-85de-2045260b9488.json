@@ -1,0 +1,28 @@
+{
+  "uuid": "81bd043f-75e1-48f2-85de-2045260b9488",
+  "platform_post_id": "1000444938667687975",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-11-16T23:57:19+08:00",
+  "source_url": "https://t.bilibili.com/1000444938667687975",
+  "plain_text": "床单丑丑的，岁己也会包容你的... 晚安",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 73,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e5bd6948-2311-46c2-b5ad-5f2e9b41c7b9",
+    "next_uuid": "0eda4b81-c8b6-4232-8b45-af7dadaf9563"
+  }
+}

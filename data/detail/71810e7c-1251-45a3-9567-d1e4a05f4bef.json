@@ -1,0 +1,28 @@
+{
+  "uuid": "71810e7c-1251-45a3-9567-d1e4a05f4bef",
+  "platform_post_id": "1084327058720423944",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-01T01:02:47+08:00",
+  "source_url": "https://t.bilibili.com/1084327058720423944",
+  "plain_text": "七月又到了 晚安大家",
+  "images": [],
+  "stats": {
+    "likes": 272,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f39b0b82-cec9-4d46-8257-984a29c40a59",
+    "next_uuid": "b5c160f6-0c96-4f5b-b030-11bd5935743a"
+  }
+}

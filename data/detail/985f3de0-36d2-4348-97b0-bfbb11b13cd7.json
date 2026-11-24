@@ -1,0 +1,28 @@
+{
+  "uuid": "985f3de0-36d2-4348-97b0-bfbb11b13cd7",
+  "platform_post_id": "1077493602545827860",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-06-12T15:05:29+08:00",
+  "source_url": "https://t.bilibili.com/1077493602545827860",
+  "plain_text": "大酬宾 买二送一",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "658f498f-e98a-48f5-977a-c4f8d07492a5",
+    "next_uuid": "b5e69b8e-477b-4a67-a54f-014c21b47cfc"
+  }
+}

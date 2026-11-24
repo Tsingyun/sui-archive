@@ -1,0 +1,28 @@
+{
+  "uuid": "f6eec3c0-72e1-4b0d-af9a-7c2135f37f92",
+  "platform_post_id": "742065573227135001",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-21T17:13:25+08:00",
+  "source_url": "https://t.bilibili.com/742065573227135001",
+  "plain_text": "nyanya nyanyanya   nyanya nyanya nyanya",
+  "images": [],
+  "stats": {
+    "likes": 286,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "65d23521-3012-4685-bca4-efd6eb0f5c28",
+    "next_uuid": "df768b56-5498-4a80-a83f-defa94871cbe"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "f838e213-9150-427d-9bcf-227776baf00a",
+  "platform_post_id": "848661425749491753",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-04T23:19:46+08:00",
+  "source_url": "https://t.bilibili.com/848661425749491753",
+  "plain_text": "一个朴素的晚安动态，但你应该不会不回吧(〜￣△￣)〜",
+  "images": [],
+  "stats": {
+    "likes": 354,
+    "comments": 83,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7d10be32-041c-459f-bcab-a16e5954ff7c",
+    "next_uuid": "8324d1ca-4a62-4e29-bbc2-5a5d9d918c8e"
+  }
+}

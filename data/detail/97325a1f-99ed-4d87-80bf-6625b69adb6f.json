@@ -1,0 +1,28 @@
+{
+  "uuid": "97325a1f-99ed-4d87-80bf-6625b69adb6f",
+  "platform_post_id": "1197872744044167171",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-03T00:38:02+08:00",
+  "source_url": "https://t.bilibili.com/1197872744044167171",
+  "plain_text": "高行动力！准备洗澡了，晚安嘟嘟滴滴滴",
+  "images": [],
+  "stats": {
+    "likes": 220,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "5141a620-b208-47a0-a8a1-cd94d2ea0376",
+    "next_uuid": "6696f53b-00ad-4a64-9c2f-c42f909ed112"
+  }
+}

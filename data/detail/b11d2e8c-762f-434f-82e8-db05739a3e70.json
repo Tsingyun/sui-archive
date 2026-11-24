@@ -1,0 +1,28 @@
+{
+  "uuid": "b11d2e8c-762f-434f-82e8-db05739a3e70",
+  "platform_post_id": "781733831046594595",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-07T14:46:31+08:00",
+  "source_url": "https://t.bilibili.com/781733831046594595",
+  "plain_text": "今天比较忙，趁现在把一天的天聊完吧\n睡醒没？\n起床没？\n吃早饭没？\n上午忙不忙呀？\n下午有时间午休吗？好快呀\n又要下班了\n晚上吃的啥\n洗漱了早点休息\n晚安😴\n明天再联系",
+  "images": [],
+  "stats": {
+    "likes": 299,
+    "comments": 40,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a337f1cb-f55a-4597-9b6e-1d3e548337c7",
+    "next_uuid": "6e6b5231-ce5c-4183-b4cb-291101f502b2"
+  }
+}

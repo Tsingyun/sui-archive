@@ -1,0 +1,28 @@
+{
+  "uuid": "0158d8ba-be2b-4213-9e64-d4862785184c",
+  "platform_post_id": "1107171663336701955",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-08-31T14:31:31+08:00",
+  "source_url": "https://t.bilibili.com/1107171663336701955",
+  "plain_text": "我们3:25见吧！如何如何！怎么说",
+  "images": [],
+  "stats": {
+    "likes": 217,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b3355afb-110b-4974-a565-904960e53fc8",
+    "next_uuid": "2672ed61-6444-4859-85d1-205e99b27a40"
+  }
+}

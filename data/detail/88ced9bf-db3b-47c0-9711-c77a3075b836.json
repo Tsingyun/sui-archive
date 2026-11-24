@@ -1,0 +1,28 @@
+{
+  "uuid": "88ced9bf-db3b-47c0-9711-c77a3075b836",
+  "platform_post_id": "771125029920309270",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-10T00:38:57+08:00",
+  "source_url": "https://t.bilibili.com/771125029920309270",
+  "plain_text": "嘿！我想\n在你的眼波之间游游啊游来游去～～",
+  "images": [],
+  "stats": {
+    "likes": 335,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "afc8f5bf-faf0-4ab6-be82-0b585363c74f",
+    "next_uuid": "77e28e15-6c80-4402-8bc1-5b15add436d9"
+  }
+}

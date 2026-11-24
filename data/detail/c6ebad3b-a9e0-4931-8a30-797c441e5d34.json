@@ -1,0 +1,28 @@
+{
+  "uuid": "c6ebad3b-a9e0-4931-8a30-797c441e5d34",
+  "platform_post_id": "839011407331590168",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-08T23:12:46+08:00",
+  "source_url": "https://t.bilibili.com/839011407331590168",
+  "plain_text": "晚安。[UP_1954091502_流汗] 差不多得了别演了！",
+  "images": [],
+  "stats": {
+    "likes": 418,
+    "comments": 56,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9df4668d-6229-40e8-9c21-894589c0b614",
+    "next_uuid": "02bbb5b9-edc1-4cbb-a781-a66fb0d2be38"
+  }
+}

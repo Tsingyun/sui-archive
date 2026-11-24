@@ -1,0 +1,28 @@
+{
+  "uuid": "d6e21bd8-7030-4a3e-8dff-2b276349d7fe",
+  "platform_post_id": "838191837391880199",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-06T18:12:25+08:00",
+  "source_url": "https://t.bilibili.com/838191837391880199",
+  "plain_text": "昨天说太多话了嗓子有点痛🥺\n今天来看电影或者看jiojio吧 看电影的话大家可以推荐一下！时间就7:30如何！",
+  "images": [],
+  "stats": {
+    "likes": 316,
+    "comments": 39,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e70c28f3-f755-4a58-a58a-8215781f8e16",
+    "next_uuid": "f469cdc6-90df-4c74-a9bc-1ba11b8348a1"
+  }
+}

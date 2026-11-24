@@ -1,0 +1,28 @@
+{
+  "uuid": "5d23eca6-f675-4bff-a6e5-0d09804331da",
+  "platform_post_id": "1079040349082484736",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-06-16T19:07:39+08:00",
+  "source_url": "https://t.bilibili.com/1079040349082484736",
+  "plain_text": "7:40唱唱歌玩游戏[岁己收藏集表情包_流汗了]",
+  "images": [],
+  "stats": {
+    "likes": 211,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed9464d7-e774-4666-9227-aa82160a7012",
+    "next_uuid": "9236bafb-c000-44f3-8aae-669455a8b59d"
+  }
+}

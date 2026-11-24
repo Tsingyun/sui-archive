@@ -1,0 +1,28 @@
+{
+  "uuid": "2f869d2d-fcb9-4071-9f31-eb5fe641e1f8",
+  "platform_post_id": "816944780193824788",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-11T12:02:59+08:00",
+  "source_url": "https://t.bilibili.com/816944780193824788",
+  "plain_text": "三点过出发去徒步的，这会已经走到广东了。中午吼啊dai嘎！",
+  "images": [],
+  "stats": {
+    "likes": 462,
+    "comments": 88,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e8327174-684e-4636-a5c3-67aefd1f6416",
+    "next_uuid": "f28e4b94-2c4b-41a0-8f06-984a8b12324b"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "uuid": "334c258a-9f32-45f1-9243-012a1a4adb5e",
+  "platform_post_id": "874862633253076995",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-12-14T13:53:50+08:00",
+  "source_url": "https://t.bilibili.com/874862633253076995",
+  "plain_text": "新衣小小披露2\n",
+  "images": [
+    {
+      "filename": "874862633253076995_00@original.jpg",
+      "width": 420,
+      "height": 661,
+      "file_size": 51095,
+      "mime_type": "image/jpeg",
+      "is_cover": true,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 735,
+    "comments": 169,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca01e6b9-b60b-4b0f-be79-8a5520d93756",
+    "next_uuid": "d30ca5e2-4099-448b-9e2f-e1654a947626"
+  }
+}

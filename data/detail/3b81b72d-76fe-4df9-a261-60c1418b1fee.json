@@ -1,0 +1,28 @@
+{
+  "uuid": "3b81b72d-76fe-4df9-a261-60c1418b1fee",
+  "platform_post_id": "1151703486245634070",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-12-29T14:37:44+08:00",
+  "source_url": "https://t.bilibili.com/1151703486245634070",
+  "plain_text": "要直播来着！吃着东西差点忘了，该摸鱼了，十分钟后来",
+  "images": [],
+  "stats": {
+    "likes": 207,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "80a7846e-0f28-4971-a16b-47d60f0cf2f9",
+    "next_uuid": "25e2c108-f8ed-4ef0-a039-939467af1fca"
+  }
+}

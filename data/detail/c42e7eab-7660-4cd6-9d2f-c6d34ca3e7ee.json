@@ -1,0 +1,28 @@
+{
+  "uuid": "c42e7eab-7660-4cd6-9d2f-c6d34ca3e7ee",
+  "platform_post_id": "751721067717853237",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-01-16T17:41:40+08:00",
+  "source_url": "https://t.bilibili.com/751721067717853237",
+  "plain_text": "好！明晚八点！看看图 身高这块我还是没输的☝️",
+  "images": [],
+  "stats": {
+    "likes": 341,
+    "comments": 38,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ed5e5245-ce40-4673-b8cf-4813eb91917f",
+    "next_uuid": "4304cfee-8ef3-4c1f-a596-d79a41d3ee8c"
+  }
+}

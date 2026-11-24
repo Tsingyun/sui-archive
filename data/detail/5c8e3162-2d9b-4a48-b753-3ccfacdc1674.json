@@ -1,0 +1,28 @@
+{
+  "uuid": "5c8e3162-2d9b-4a48-b753-3ccfacdc1674",
+  "platform_post_id": "807860851603144755",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-17T00:32:42+08:00",
+  "source_url": "https://t.bilibili.com/807860851603144755",
+  "plain_text": "晚安宝！",
+  "images": [],
+  "stats": {
+    "likes": 355,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f0f10807-d662-4883-986e-0b1a0a1acd9a",
+    "next_uuid": "0f7fe56f-aa2d-4d05-82a7-a767da22fa21"
+  }
+}

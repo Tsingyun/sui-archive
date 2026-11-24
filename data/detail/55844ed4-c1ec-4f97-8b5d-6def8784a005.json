@@ -1,0 +1,28 @@
+{
+  "uuid": "55844ed4-c1ec-4f97-8b5d-6def8784a005",
+  "platform_post_id": "1109768404874559493",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-09-07T14:28:12+08:00",
+  "source_url": "https://t.bilibili.com/1109768404874559493",
+  "plain_text": "呼差点忘了 2:38来！小播小播[岁己收藏集表情包_羞死人了]",
+  "images": [],
+  "stats": {
+    "likes": 193,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b82dffcf-954b-4663-838f-ff0df7779919",
+    "next_uuid": "d7b796c1-7755-4c1e-8f80-adeb469c5d94"
+  }
+}

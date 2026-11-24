@@ -1,0 +1,28 @@
+{
+  "uuid": "0074f8fe-166c-4a81-970e-3c4e982b08c5",
+  "platform_post_id": "1015171196074852359",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2024-12-26T16:22:43+08:00",
+  "source_url": "https://t.bilibili.com/1015171196074852359",
+  "plain_text": "帅帅的呀",
+  "images": [],
+  "stats": {
+    "likes": 226,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "aef26b2e-5dce-4221-a48b-426ae3a838a3",
+    "next_uuid": "25aaa5f2-9864-49f5-ab0c-cfbaa304336e"
+  }
+}

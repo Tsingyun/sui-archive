@@ -1,0 +1,28 @@
+{
+  "uuid": "280cac28-1ecc-44c4-8894-a080b2196c86",
+  "platform_post_id": "931723911460028418",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-15T19:24:38+08:00",
+  "source_url": "https://t.bilibili.com/931723911460028418",
+  "plain_text": "饼子 7:40有空看我直播不",
+  "images": [],
+  "stats": {
+    "likes": 250,
+    "comments": 30,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "21c4b67a-07e3-46db-a41f-811a888b1063",
+    "next_uuid": "0d2567f8-8304-4685-a908-58bb03ccc053"
+  }
+}

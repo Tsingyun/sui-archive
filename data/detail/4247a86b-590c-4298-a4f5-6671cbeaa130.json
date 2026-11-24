@@ -1,0 +1,28 @@
+{
+  "uuid": "4247a86b-590c-4298-a4f5-6671cbeaa130",
+  "platform_post_id": "987381997488832537",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-12T19:06:26+08:00",
+  "source_url": "https://t.bilibili.com/987381997488832537",
+  "plain_text": "7：30 7:30!今天也是唱聊看看互动视频 remake一下昨天的看视频环节",
+  "images": [],
+  "stats": {
+    "likes": 219,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e1a9b02e-f039-4750-a902-7be04b60b51d",
+    "next_uuid": "8f03942f-2d3a-42ae-9a24-a7aa22100199"
+  }
+}

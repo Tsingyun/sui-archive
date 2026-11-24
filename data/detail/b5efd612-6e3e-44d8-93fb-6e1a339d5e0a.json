@@ -1,0 +1,38 @@
+{
+  "uuid": "b5efd612-6e3e-44d8-93fb-6e1a339d5e0a",
+  "platform_post_id": "1031092880392847378",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-02-07T14:06:59+08:00",
+  "source_url": "https://t.bilibili.com/1031092880392847378",
+  "plain_text": "下午茶就吃这个饼味刨冰了",
+  "images": [
+    {
+      "filename": "1031092880392847378_100@repost.jpg",
+      "width": 1920,
+      "height": 1080,
+      "file_size": 1217365,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 187,
+    "comments": 12,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "须泽彩",
+    "author_url": "https://space.bilibili.com/455955778",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bb68b254-22f9-4657-9f02-a53905919bf0",
+    "next_uuid": "c42fe2fb-ec1e-43f4-a5eb-4691193752b6"
+  }
+}

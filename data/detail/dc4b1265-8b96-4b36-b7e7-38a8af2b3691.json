@@ -1,0 +1,110 @@
+{
+  "uuid": "dc4b1265-8b96-4b36-b7e7-38a8af2b3691",
+  "platform_post_id": "825331094688628768",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-08-03T02:26:10+08:00",
+  "source_url": "https://t.bilibili.com/825331094688628768",
+  "plain_text": "好可爱呀[UP_1954091502_可爱捏]//@雪绘Yukie:我好阴暗啊怎么回事？",
+  "images": [
+    {
+      "filename": "825331094688628768_100@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 522625,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_101@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 518763,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_102@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 493306,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_103@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 532205,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_104@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 679315,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_105@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 685867,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_106@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 690177,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_107@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 690153,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "825331094688628768_108@repost.png",
+      "width": 1080,
+      "height": 1440,
+      "file_size": 689068,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 318,
+    "comments": 30,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "给我来打二向箔",
+    "author_url": "https://space.bilibili.com/7929905",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "52cec6f0-e2d7-496c-ac4c-098d397048f0",
+    "next_uuid": "c7876aaa-d75a-402f-bf6e-1886c3a15f00"
+  }
+}

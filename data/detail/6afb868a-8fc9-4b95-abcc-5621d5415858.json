@@ -1,0 +1,28 @@
+{
+  "uuid": "6afb868a-8fc9-4b95-abcc-5621d5415858",
+  "platform_post_id": "953682004756398102",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-13T23:33:15+08:00",
+  "source_url": "https://t.bilibili.com/953682004756398102",
+  "plain_text": "怎么没人祈求我播播！！你还在村口等我吗到底 啊？",
+  "images": [],
+  "stats": {
+    "likes": 367,
+    "comments": 52,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "8c678712-c590-446f-9372-8c31bb0a5728",
+    "next_uuid": "4a1b9502-6dfb-4cf4-9e5b-c60e96199035"
+  }
+}

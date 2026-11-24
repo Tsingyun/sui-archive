@@ -1,0 +1,28 @@
+{
+  "uuid": "ba95cc99-0487-4082-9068-d3d206804a26",
+  "platform_post_id": "789080467135529059",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-04-27T09:55:13+08:00",
+  "source_url": "https://t.bilibili.com/789080467135529059",
+  "plain_text": "震撼吧世界！岁己这个点就起床了！！",
+  "images": [],
+  "stats": {
+    "likes": 423,
+    "comments": 68,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "731f80a3-1707-47b2-90c9-089cb6308e43",
+    "next_uuid": "9a2de34a-499e-4f47-a287-650a43888a24"
+  }
+}

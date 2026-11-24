@@ -1,0 +1,28 @@
+{
+  "uuid": "2c66ff0b-1eb9-4116-8920-3c62f76c0468",
+  "platform_post_id": "953298734740930565",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-12T22:45:58+08:00",
+  "source_url": "https://t.bilibili.com/953298734740930565",
+  "plain_text": "感觉脚已经断成两截了！！！又饿又累我倒",
+  "images": [],
+  "stats": {
+    "likes": 321,
+    "comments": 50,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "da21bac5-8cf9-43c3-a07d-c8be7d15829c",
+    "next_uuid": "b15dea27-c6fb-4b0e-bdda-e09185778474"
+  }
+}

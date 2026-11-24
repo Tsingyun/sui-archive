@@ -1,0 +1,28 @@
+{
+  "uuid": "a26fb714-b8a1-48a4-ae77-b24c69997e8b",
+  "platform_post_id": "897202751028592742",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-12T18:44:54+08:00",
+  "source_url": "https://t.bilibili.com/897202751028592742",
+  "plain_text": "在这里很遗憾地告诉大家 岁己今天不播！明天见哦",
+  "images": [],
+  "stats": {
+    "likes": 477,
+    "comments": 75,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4ddb756b-2bb7-4791-aeac-98f48635d0ca",
+    "next_uuid": "18199b11-938f-4786-9e30-dfe9ab9c50e7"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "8df7cc7f-9462-4872-86fd-b4d19d1e0960",
+  "platform_post_id": "832697831180468226",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-08-22T22:52:52+08:00",
+  "source_url": "https://t.bilibili.com/832697831180468226",
+  "plain_text": "晚安 \n\n\n\n\n\n七夕节你都舍得不回岁己的晚安动态？！！是人吗！",
+  "images": [],
+  "stats": {
+    "likes": 447,
+    "comments": 151,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "7fa12b5d-4636-4580-85dc-8c9c6b32bf48",
+    "next_uuid": "6825ac3c-7b9a-4e0d-8a3c-c8911b7ed73f"
+  }
+}

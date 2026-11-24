@@ -1,0 +1,38 @@
+{
+  "uuid": "3383ab2a-5d0d-49ef-b5bc-217f2169ed75",
+  "platform_post_id": "837434273874051077",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2023-09-04T17:12:41+08:00",
+  "source_url": "https://t.bilibili.com/837434273874051077",
+  "plain_text": "黄昏时分 借那夕阳装点你的笑容",
+  "images": [
+    {
+      "filename": "837434273874051077_100@repost.jpg",
+      "width": 1382,
+      "height": 992,
+      "file_size": 1414913,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 236,
+    "comments": 15,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "--川--",
+    "author_url": "https://space.bilibili.com/2149324",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1507ecf0-8276-48bb-9a26-fe087bc0de16",
+    "next_uuid": "6dea5926-084e-491e-aca6-a92c8782acd5"
+  }
+}

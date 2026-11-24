@@ -1,0 +1,28 @@
+{
+  "uuid": "6f75aaeb-e81e-4a39-b847-edb222290fc5",
+  "platform_post_id": "811553363839680567",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-06-26T23:21:32+08:00",
+  "source_url": "https://t.bilibili.com/811553363839680567",
+  "plain_text": "天啊饼干岁一直求我直播！可怜兮兮的真受不了 但我实在没什么要说的 但是23:30电台十分钟zzzzzz",
+  "images": [],
+  "stats": {
+    "likes": 456,
+    "comments": 28,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "40141b52-67f4-4123-b934-8558c74c6845",
+    "next_uuid": "adf08d04-a6ff-41ef-9456-c39de9957a7b"
+  }
+}

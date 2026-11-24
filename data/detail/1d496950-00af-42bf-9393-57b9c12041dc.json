@@ -1,0 +1,28 @@
+{
+  "uuid": "1d496950-00af-42bf-9393-57b9c12041dc",
+  "platform_post_id": "1132481364454539270",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-11-07T19:26:05+08:00",
+  "source_url": "https://t.bilibili.com/1132481364454539270",
+  "plain_text": "7:45来来来[岁己收藏集表情包_我在]",
+  "images": [],
+  "stats": {
+    "likes": 175,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "1bd080c7-c2ee-40c6-b9be-a94d43133b79",
+    "next_uuid": "aa49eb36-27a8-44f7-a476-2c1077911cde"
+  }
+}

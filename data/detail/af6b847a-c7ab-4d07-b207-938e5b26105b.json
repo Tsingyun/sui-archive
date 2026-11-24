@@ -1,0 +1,28 @@
+{
+  "uuid": "af6b847a-c7ab-4d07-b207-938e5b26105b",
+  "platform_post_id": "956276521479176211",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-07-20T23:21:18+08:00",
+  "source_url": "https://t.bilibili.com/956276521479176211",
+  "plain_text": "说晚安，不说我找人揍你",
+  "images": [],
+  "stats": {
+    "likes": 422,
+    "comments": 128,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6bbf0a15-e818-47d8-8eb4-5857687c6793",
+    "next_uuid": "68dde852-e95d-4c91-8c1f-498682f6f8eb"
+  }
+}

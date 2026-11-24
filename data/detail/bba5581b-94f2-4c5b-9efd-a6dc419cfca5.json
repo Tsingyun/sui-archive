@@ -1,0 +1,28 @@
+{
+  "uuid": "bba5581b-94f2-4c5b-9efd-a6dc419cfca5",
+  "platform_post_id": "744772858614382681",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-12-29T00:19:04+08:00",
+  "source_url": "https://t.bilibili.com/744772858614382681",
+  "plain_text": "test 我还能说话吗？晚安...",
+  "images": [],
+  "stats": {
+    "likes": 699,
+    "comments": 112,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "4330fc48-efec-431c-8685-ce5174a6c7ce",
+    "next_uuid": "68b6e27b-591a-47c8-b294-40893507b5b2"
+  }
+}

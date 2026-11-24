@@ -1,0 +1,28 @@
+{
+  "uuid": "ae88a255-2494-44b3-ba61-3defd1fee0e1",
+  "platform_post_id": "1050074011607760921",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-03-30T17:43:28+08:00",
+  "source_url": "https://t.bilibili.com/1050074011607760921",
+  "plain_text": "玩手机的时候旁边有个可疑的家伙一直盯着我",
+  "images": [],
+  "stats": {
+    "likes": 258,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": "[原动态已删除]",
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "caac8726-6097-49dc-8a09-d144acc5b3ad",
+    "next_uuid": "fd811bff-80be-447d-a199-6bfcee2e86ed"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "914b576b-513b-4489-bd08-6aad47e16382",
+  "platform_post_id": "1090923239415218213",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-18T19:39:20+08:00",
+  "source_url": "https://t.bilibili.com/1090923239415218213",
+  "plain_text": "怎么就这个点了 整装一下十分钟后见",
+  "images": [],
+  "stats": {
+    "likes": 199,
+    "comments": 22,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ac43481c-0748-477d-a84f-b5de54e8110f",
+    "next_uuid": "7228fc80-5675-4353-9b7a-0947b7c0aed1"
+  }
+}

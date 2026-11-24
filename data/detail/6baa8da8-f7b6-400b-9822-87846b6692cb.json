@@ -1,0 +1,28 @@
+{
+  "uuid": "6baa8da8-f7b6-400b-9822-87846b6692cb",
+  "platform_post_id": "854811178995548179",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-10-21T13:03:57+08:00",
+  "source_url": "https://t.bilibili.com/854811178995548179",
+  "plain_text": "为什么每天都是我先跟你说早上好？\n在玩欲擒故纵？呵呵 那今天我也吃点亏先跟你说吧\n早上好🫤",
+  "images": [],
+  "stats": {
+    "likes": 419,
+    "comments": 53,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6641b2ce-31dc-4382-bbf6-bb8c57fce026",
+    "next_uuid": "875800b6-816d-4526-a0a0-d14ee9f9f55d"
+  }
+}

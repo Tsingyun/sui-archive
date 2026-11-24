@@ -1,0 +1,38 @@
+{
+  "uuid": "ca9a5ad8-dde4-4fcc-ad38-2fe0d06ed236",
+  "platform_post_id": "1078679988420476967",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-06-15T19:49:16+08:00",
+  "source_url": "https://t.bilibili.com/1078679988420476967",
+  "plain_text": "看什么看 没看过长发如瀑面容姣好身材曼妙的美少鸟吗",
+  "images": [
+    {
+      "filename": "1078679988420476967_100@repost.jpg",
+      "width": 2480,
+      "height": 3508,
+      "file_size": 2228759,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 326,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "02984dc3-df12-4949-9a6e-99b4cd9beb3b",
+    "next_uuid": "ed9464d7-e774-4666-9227-aa82160a7012"
+  }
+}

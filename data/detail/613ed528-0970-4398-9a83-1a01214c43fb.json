@@ -1,0 +1,28 @@
+{
+  "uuid": "613ed528-0970-4398-9a83-1a01214c43fb",
+  "platform_post_id": "1258654373862440963",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-13T19:41:48+08:00",
+  "source_url": "https://t.bilibili.com/1258654373862440963",
+  "plain_text": "练完舞太热了我去洗头洗澡一下，我们8:30见吧！出发前的小聚～\n注意看 这个主播把时间延后了10分钟",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 34,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "27eed7f2-2a1d-4420-9302-94212f7efebd",
+    "next_uuid": "f5ea2c20-4374-46dd-b4e2-d7d59d5d3a20"
+  }
+}

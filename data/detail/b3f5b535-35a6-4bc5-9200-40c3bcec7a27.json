@@ -1,0 +1,28 @@
+{
+  "uuid": "b3f5b535-35a6-4bc5-9200-40c3bcec7a27",
+  "platform_post_id": "728751720049410056",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-15T20:08:52+08:00",
+  "source_url": "https://t.bilibili.com/728751720049410056",
+  "plain_text": "今天燃尽了，休息一下，明天见 大家😢",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "406b3782-c162-4d40-ba40-e6feb1b84b52",
+    "next_uuid": "77886762-387a-4231-9068-0937cb2a9d5b"
+  }
+}

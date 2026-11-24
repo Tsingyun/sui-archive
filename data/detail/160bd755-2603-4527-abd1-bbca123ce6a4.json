@@ -1,0 +1,56 @@
+{
+  "uuid": "160bd755-2603-4527-abd1-bbca123ce6a4",
+  "platform_post_id": "1208088370985566208",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-30T13:19:53+08:00",
+  "source_url": "https://t.bilibili.com/1208088370985566208",
+  "plain_text": "这次给大家准备了准备了！饼干🍪奶茶的说！\n太破费啦小岁，爱死小岁了。\n饼干岁辛苦啦，下午4点可以在小岁无料处领取！\n要求：18级饼干岁 \n接头暗号：大⬆️家 大家～⬆️\n数量有限先到先得的说",
+  "images": [
+    {
+      "filename": "1208088370985566208_100@repost.jpg",
+      "width": 1080,
+      "height": 1620,
+      "file_size": 1362421,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1208088370985566208_101@repost.jpg",
+      "width": 1080,
+      "height": 1620,
+      "file_size": 1371606,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    },
+    {
+      "filename": "1208088370985566208_102@repost.jpg",
+      "width": 2000,
+      "height": 1500,
+      "file_size": 1814713,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 247,
+    "comments": 36,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c70ce464-4315-4f10-89f2-e7c2f4ea3643",
+    "next_uuid": "58fee5f6-fe98-4ccf-90e3-be3c9c04fd39"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "9c3c8657-b61f-465f-b798-82839d19d6da",
+  "platform_post_id": "937724221290709011",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-31T23:28:54+08:00",
+  "source_url": "https://t.bilibili.com/937724221290709011",
+  "plain_text": "别哭！我们明天六一见 晚安\n不过其实好像也播了快四个小时来着",
+  "images": [],
+  "stats": {
+    "likes": 370,
+    "comments": 81,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "be721e96-3cfe-4b06-b10d-6f744545e08d",
+    "next_uuid": "c9003ef4-862f-4387-9b96-cc719d0f1034"
+  }
+}

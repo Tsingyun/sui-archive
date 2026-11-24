@@ -1,0 +1,28 @@
+{
+  "uuid": "1a86b62e-673a-429d-8e27-e6bcbe9d839b",
+  "platform_post_id": "836994099855753264",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-09-03T12:44:35+08:00",
+  "source_url": "https://t.bilibili.com/836994099855753264",
+  "plain_text": "没睡好 困尿了（一种夸张手法\n早啊民那桑！",
+  "images": [],
+  "stats": {
+    "likes": 384,
+    "comments": 61,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "c83fcd25-9b15-492e-9100-6b36af4da626",
+    "next_uuid": "18ca17a6-2937-4a54-8c55-77d6806f8b2b"
+  }
+}

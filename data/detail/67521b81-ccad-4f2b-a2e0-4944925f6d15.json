@@ -1,0 +1,28 @@
+{
+  "uuid": "67521b81-ccad-4f2b-a2e0-4944925f6d15",
+  "platform_post_id": "985906302570987523",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-10-08T19:39:59+08:00",
+  "source_url": "https://t.bilibili.com/985906302570987523",
+  "plain_text": "十分钟十分钟 时间怎么过得这么快",
+  "images": [],
+  "stats": {
+    "likes": 240,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3da6cd2d-bf15-415e-bdaf-f7a462b851eb",
+    "next_uuid": "13bde8cd-53e1-4b8b-a2db-a5b9fabaf41a"
+  }
+}

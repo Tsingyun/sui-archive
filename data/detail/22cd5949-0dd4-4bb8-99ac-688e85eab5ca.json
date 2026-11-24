@@ -1,0 +1,28 @@
+{
+  "uuid": "22cd5949-0dd4-4bb8-99ac-688e85eab5ca",
+  "platform_post_id": "1245748340750024712",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-09-09T00:59:48+08:00",
+  "source_url": "https://t.bilibili.com/1245748340750024712",
+  "plain_text": "我温情晚安呢 来一份",
+  "images": [],
+  "stats": {
+    "likes": 304,
+    "comments": 63,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b72b5d09-3c9d-41f5-afe0-8530442921f7",
+    "next_uuid": "9e26ae39-224e-499e-8e1a-618867f0fe95"
+  }
+}

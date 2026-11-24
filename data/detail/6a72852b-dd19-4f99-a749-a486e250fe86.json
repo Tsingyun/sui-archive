@@ -1,0 +1,38 @@
+{
+  "uuid": "6a72852b-dd19-4f99-a749-a486e250fe86",
+  "platform_post_id": "1204411539697696776",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-20T15:31:54+08:00",
+  "source_url": "https://t.bilibili.com/1204411539697696776",
+  "plain_text": "岁己有点太优雅可爱了吧！大家！",
+  "images": [
+    {
+      "filename": "1204411539697696776_100@repost.png",
+      "width": 3181,
+      "height": 6215,
+      "file_size": 2620615,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 197,
+    "comments": 16,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "KorokkeSUI-3-",
+    "author_url": "https://space.bilibili.com/1673559",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "b9d0a88c-fbd7-4b5a-ad0c-258c2c4b230d",
+    "next_uuid": "a3550739-60e6-4397-98fd-b65c570bb1a1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "ef085e9d-3445-4452-88c3-9eeb4bda81d1",
+  "platform_post_id": "1047411840581107731",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-03-23T13:32:53+08:00",
+  "source_url": "https://t.bilibili.com/1047411840581107731",
+  "plain_text": "岁己将于2:30来聊天唱歌[星星眼]",
+  "images": [],
+  "stats": {
+    "likes": 239,
+    "comments": 25,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "bc9fed72-a931-4f2d-ba8d-f2e7c86c00a3",
+    "next_uuid": "203cbcaa-1817-44d3-9e39-ef03e1798821"
+  }
+}

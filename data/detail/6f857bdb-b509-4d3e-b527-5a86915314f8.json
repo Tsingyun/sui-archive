@@ -1,0 +1,28 @@
+{
+  "uuid": "6f857bdb-b509-4d3e-b527-5a86915314f8",
+  "platform_post_id": "860473900089212996",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-11-05T19:18:12+08:00",
+  "source_url": "https://t.bilibili.com/860473900089212996",
+  "plain_text": "怎么没人问我几点播！！岁己已经不被需要了吗\n7:30！ 不知道播啥了 要不黑屏同步试听一下撤退的矮人？",
+  "images": [],
+  "stats": {
+    "likes": 336,
+    "comments": 31,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9a5461c1-84ae-47fd-a48c-a75124427156",
+    "next_uuid": "c570c735-d5e1-4571-b2c3-31218fc7d57b"
+  }
+}

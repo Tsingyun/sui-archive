@@ -1,0 +1,28 @@
+{
+  "uuid": "7aee3075-52f9-44f7-adf2-3c7e565d36f2",
+  "platform_post_id": "792590164090159123",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-06T20:54:38+08:00",
+  "source_url": "https://t.bilibili.com/792590164090159123",
+  "plain_text": "9:30来随便唱唱吧 直播一会会",
+  "images": [],
+  "stats": {
+    "likes": 246,
+    "comments": 23,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a633853b-180c-42d5-9f47-18d61bbd65f0",
+    "next_uuid": "704d4cd3-4c3c-4fa1-b253-7a5495b6f722"
+  }
+}

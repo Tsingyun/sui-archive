@@ -1,0 +1,28 @@
+{
+  "uuid": "d231e49f-6fe7-4046-a750-61a94f6dadd3",
+  "platform_post_id": "799274262790668373",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-24T21:12:21+08:00",
+  "source_url": "https://t.bilibili.com/799274262790668373",
+  "plain_text": "今天休息休息 在玩喷射张色待会玩赛尔",
+  "images": [],
+  "stats": {
+    "likes": 366,
+    "comments": 51,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f7c80252-014d-4ea5-b878-23c0504924a5",
+    "next_uuid": "cd820598-a682-4f40-bf8a-925e13b77fd1"
+  }
+}

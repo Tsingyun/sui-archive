@@ -1,0 +1,28 @@
+{
+  "uuid": "0b958e37-2326-4d8a-ab97-918cfc1542c4",
+  "platform_post_id": "798729020972728340",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-05-23T09:56:32+08:00",
+  "source_url": "https://t.bilibili.com/798729020972728340",
+  "plain_text": "早。睡好了吗，最近累吗，起床困难吗，身体还好吗，工作任务多吗",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 45,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "172cd7fc-a455-435d-b339-81582dd8953f",
+    "next_uuid": "13ee8fbf-4c38-494a-88f0-ee2f14e586cb"
+  }
+}

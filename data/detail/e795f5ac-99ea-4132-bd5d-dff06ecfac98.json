@@ -1,0 +1,47 @@
+{
+  "uuid": "e795f5ac-99ea-4132-bd5d-dff06ecfac98",
+  "platform_post_id": "760629637344657410",
+  "platform_name": "哔哩哔哩",
+  "post_type": "image",
+  "published_at": "2023-02-09T17:51:28+08:00",
+  "source_url": "https://t.bilibili.com/760629637344657410",
+  "plain_text": "生日上舰礼物如图！活动期间上舰还可以从岁己已经唱过的歌中点一首现场唱！(・ω< )★\n",
+  "images": [
+    {
+      "filename": "760629637344657410_00@original.png",
+      "width": 1727,
+      "height": 1080,
+      "file_size": 1975029,
+      "mime_type": "image/png",
+      "is_cover": true,
+      "is_repost_media": false
+    },
+    {
+      "filename": "760629637344657410_01@original.png",
+      "width": 1080,
+      "height": 7127,
+      "file_size": 4152653,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": false
+    }
+  ],
+  "stats": {
+    "likes": 241,
+    "comments": 17,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "11dd96fe-418b-474d-b8f0-cae0758bbe43",
+    "next_uuid": "082d714a-fc2f-4219-84aa-0c1b72cf04ed"
+  }
+}

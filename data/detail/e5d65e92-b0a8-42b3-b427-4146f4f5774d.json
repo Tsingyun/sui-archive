@@ -1,0 +1,28 @@
+{
+  "uuid": "e5d65e92-b0a8-42b3-b427-4146f4f5774d",
+  "platform_post_id": "885394270984339497",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-11T23:01:58+08:00",
+  "source_url": "https://t.bilibili.com/885394270984339497",
+  "plain_text": "明天见哦，哎😮‍💨希望能不辜负大家的期待\n心情复杂，总之会用尽全力的\n晚安！",
+  "images": [],
+  "stats": {
+    "likes": 731,
+    "comments": 105,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a32a846b-31fc-428f-a433-8afa22cbb12b",
+    "next_uuid": "40455fbb-2b61-4012-84e4-0dc2993b2b05"
+  }
+}

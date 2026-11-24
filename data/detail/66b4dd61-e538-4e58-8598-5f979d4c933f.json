@@ -1,0 +1,28 @@
+{
+  "uuid": "66b4dd61-e538-4e58-8598-5f979d4c933f",
+  "platform_post_id": "1264290577848991749",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-29T00:13:09+08:00",
+  "source_url": "https://t.bilibili.com/1264290577848991749",
+  "plain_text": "今天煮猪的技术还不赖吧！晚安哟，饼干岁我觉得你晚上开一晚录音绝对会录到打呼声的，不信你试试。",
+  "images": [],
+  "stats": {
+    "likes": 338,
+    "comments": 55,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e0164d8d-3d0d-4215-aaa7-f53a9e8361f7",
+    "next_uuid": "c5205fb8-115d-4b57-85ba-870841ed7f74"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "85102bc7-8aa2-4cd4-90e9-f164739fdecc",
+  "platform_post_id": "738389639550730304",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2022-12-11T19:28:55+08:00",
+  "source_url": "https://t.bilibili.com/738389639550730304",
+  "plain_text": "感谢大家的投票，看了一下电影时长，说不定两坨都能吃上，八点见。家人们刷一下宠粉主播爱了爱了",
+  "images": [],
+  "stats": {
+    "likes": 234,
+    "comments": 32,
+    "forwards": 2,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "58d95dbb-6a58-45ea-a6ed-905f720ac156",
+    "next_uuid": "b9c8f95c-fa9e-4b38-8dc8-d1792338373b"
+  }
+}

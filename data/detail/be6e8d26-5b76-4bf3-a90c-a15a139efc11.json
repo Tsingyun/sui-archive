@@ -1,0 +1,28 @@
+{
+  "uuid": "be6e8d26-5b76-4bf3-a90c-a15a139efc11",
+  "platform_post_id": "1054250403422535701",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-04-10T23:50:00+08:00",
+  "source_url": "https://t.bilibili.com/1054250403422535701",
+  "plain_text": "尊敬的饼干岁客户，至4月10日23时50分，您的账户余额晚安为0个，欠费停机将影响直播畅通，请及时缴纳晚安。",
+  "images": [],
+  "stats": {
+    "likes": 333,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "9ad60eca-46be-4929-8c75-02f5e7ccf2a7",
+    "next_uuid": "433df166-98d3-4fcd-889c-88c337b5d4fa"
+  }
+}

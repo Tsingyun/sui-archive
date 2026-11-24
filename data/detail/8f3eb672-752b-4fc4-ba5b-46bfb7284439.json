@@ -1,0 +1,28 @@
+{
+  "uuid": "8f3eb672-752b-4fc4-ba5b-46bfb7284439",
+  "platform_post_id": "903520398815002645",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-02-29T19:20:36+08:00",
+  "source_url": "https://t.bilibili.com/903520398815002645",
+  "plain_text": "7:40直播捏",
+  "images": [],
+  "stats": {
+    "likes": 242,
+    "comments": 26,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "a8c436fb-40eb-49e7-857e-e7caf75faede",
+    "next_uuid": "bc48208b-ee0a-437a-ba2e-2f8f179da533"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "uuid": "e2c615e6-3138-4ae1-a238-a1409ab8d78b",
+  "platform_post_id": "1260135480435933222",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-10-17T19:29:15+08:00",
+  "source_url": "https://t.bilibili.com/1260135480435933222",
+  "plain_text": "回家啦，补了一小会觉，现在吃个饭待会8点见～",
+  "images": [],
+  "stats": {
+    "likes": 393,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "96399003-1229-4eb5-8ecc-e232f045a478",
+    "next_uuid": "337f1327-d7b0-4c0d-892e-2e0a6f98e0ab"
+  }
+}

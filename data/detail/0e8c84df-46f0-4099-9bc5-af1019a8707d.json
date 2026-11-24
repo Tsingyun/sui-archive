@@ -1,0 +1,28 @@
+{
+  "uuid": "0e8c84df-46f0-4099-9bc5-af1019a8707d",
+  "platform_post_id": "881357903704883252",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-01-01T01:58:48+08:00",
+  "source_url": "https://t.bilibili.com/881357903704883252",
+  "plain_text": "​第一次跨年！晚安",
+  "images": [],
+  "stats": {
+    "likes": 533,
+    "comments": 95,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "2098369f-e9c2-44be-ae8e-be95440c1ff2",
+    "next_uuid": "f0819d71-43fd-4b11-a8e9-6919b9028164"
+  }
+}

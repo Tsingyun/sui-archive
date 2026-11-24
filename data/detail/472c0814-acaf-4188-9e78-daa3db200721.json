@@ -1,0 +1,38 @@
+{
+  "uuid": "472c0814-acaf-4188-9e78-daa3db200721",
+  "platform_post_id": "1072679614192549906",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2025-05-30T15:44:45+08:00",
+  "source_url": "https://t.bilibili.com/1072679614192549906",
+  "plain_text": "将这份奇迹延续下去吧[岁己收藏集表情包_好耶]（想猫了",
+  "images": [
+    {
+      "filename": "1072679614192549906_100@repost.jpg",
+      "width": 9980,
+      "height": 5669,
+      "file_size": 5202802,
+      "mime_type": "image/jpeg",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 218,
+    "comments": 19,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "Vaserkia",
+    "author_url": "https://space.bilibili.com/227618",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ee199851-74b3-4a5d-9ddb-43c1e174e002",
+    "next_uuid": "9c9a1a05-0489-4ce0-9233-8019d0f1606b"
+  }
+}

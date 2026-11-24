@@ -1,0 +1,28 @@
+{
+  "uuid": "d74584ab-2b5c-435a-bf49-f4504acd40c0",
+  "platform_post_id": "727617122837987330",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-11-12T18:46:03+08:00",
+  "source_url": "https://t.bilibili.com/727617122837987330",
+  "plain_text": "blwhsksujshsvdnd总而言之7:10分来18岁强度的健身环，发泄一下。可能会提前一点",
+  "images": [],
+  "stats": {
+    "likes": 377,
+    "comments": 18,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "ca0827bc-33e9-4023-9266-fd7023a9b11e",
+    "next_uuid": "d269c815-79ee-470d-a4fa-b3b85edcc135"
+  }
+}

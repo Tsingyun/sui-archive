@@ -1,0 +1,28 @@
+{
+  "uuid": "4d27964a-c424-44cd-8d0f-8f3d119a023c",
+  "platform_post_id": "974500982515826721",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-09-08T02:01:31+08:00",
+  "source_url": "https://t.bilibili.com/974500982515826721",
+  "plain_text": "晚安大家么么啾啾 回复晚安私信截图后可转我200",
+  "images": [],
+  "stats": {
+    "likes": 344,
+    "comments": 93,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "53fa3f31-c61e-4f6b-a756-84c788521f43",
+    "next_uuid": "b7b0a6da-3614-4998-95f9-3976c070926c"
+  }
+}

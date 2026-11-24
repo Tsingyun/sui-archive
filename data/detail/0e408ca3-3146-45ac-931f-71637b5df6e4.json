@@ -1,0 +1,28 @@
+{
+  "uuid": "0e408ca3-3146-45ac-931f-71637b5df6e4",
+  "platform_post_id": "930331508789477378",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-05-12T01:21:24+08:00",
+  "source_url": "https://t.bilibili.com/930331508789477378",
+  "plain_text": "赶着喂猫罐头铲屎洗漱没时间想有趣文案了，朴素晚安",
+  "images": [],
+  "stats": {
+    "likes": 357,
+    "comments": 64,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "93b3cd45-e2d1-4227-91cf-220dc8b1afc6",
+    "next_uuid": "c94a9c46-68fc-4666-9605-ea3ab3d0a149"
+  }
+}

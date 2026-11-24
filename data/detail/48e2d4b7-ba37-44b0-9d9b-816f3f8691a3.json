@@ -1,0 +1,28 @@
+{
+  "uuid": "48e2d4b7-ba37-44b0-9d9b-816f3f8691a3",
+  "platform_post_id": "706475382503637040",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2022-09-16T19:25:18+08:00",
+  "source_url": "https://t.bilibili.com/706475382503637040",
+  "plain_text": "21:10:19紧急学歌中中中",
+  "images": [],
+  "stats": {
+    "likes": 473,
+    "comments": 32,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc0bd3e9-8933-4a20-bbee-a96382ccfc96",
+    "next_uuid": "e6a3d598-e521-4143-b9a5-3240f66e2cc1"
+  }
+}

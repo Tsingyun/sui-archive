@@ -1,0 +1,28 @@
+{
+  "uuid": "e975474e-c2b9-49a2-8788-0a3f3aba49c1",
+  "platform_post_id": "1005652272980426759",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2024-12-01T00:44:26+08:00",
+  "source_url": "https://t.bilibili.com/1005652272980426759",
+  "plain_text": "怎么样，被我这种人缠上是不是很幸福？是不是很无奈，是不是很享受，是不是后悔没有早点开口和我说话！嗯？晚安",
+  "images": [],
+  "stats": {
+    "likes": 379,
+    "comments": 75,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "f641abca-2586-4653-b548-7da3314dd921",
+    "next_uuid": "9cd94710-72b8-469b-860b-ecfccb6852e0"
+  }
+}

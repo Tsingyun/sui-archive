@@ -1,0 +1,28 @@
+{
+  "uuid": "6e8ae082-8b8c-4f02-9e45-191775a73295",
+  "platform_post_id": "1124390977473085478",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-10-17T00:11:15+08:00",
+  "source_url": "https://t.bilibili.com/1124390977473085478",
+  "plain_text": "​晚安哟大家，谢谢你的晚安回复呀。先谢了你就不好意思不说了吧",
+  "images": [],
+  "stats": {
+    "likes": 264,
+    "comments": 66,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "e7a66091-d306-4844-b385-c8f59a63708d",
+    "next_uuid": "41c9fa53-bb12-4e62-94bd-10f952ea02b3"
+  }
+}

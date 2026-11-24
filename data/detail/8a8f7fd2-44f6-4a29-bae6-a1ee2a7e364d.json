@@ -1,0 +1,28 @@
+{
+  "uuid": "8a8f7fd2-44f6-4a29-bae6-a1ee2a7e364d",
+  "platform_post_id": "813723232854081573",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-07-02T19:41:44+08:00",
+  "source_url": "https://t.bilibili.com/813723232854081573",
+  "plain_text": "哦哦！我们聊一会然后看之前看的电影的第二部好吗！八点！",
+  "images": [],
+  "stats": {
+    "likes": 363,
+    "comments": 35,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "cc5570df-aac3-4a12-b781-fa3682ecd488",
+    "next_uuid": "75c88002-76df-4957-8bb5-97973717beb8"
+  }
+}

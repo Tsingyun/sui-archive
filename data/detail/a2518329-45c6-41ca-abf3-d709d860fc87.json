@@ -1,0 +1,28 @@
+{
+  "uuid": "a2518329-45c6-41ca-abf3-d709d860fc87",
+  "platform_post_id": "774754560717619219",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-03-19T19:23:23+08:00",
+  "source_url": "https://t.bilibili.com/774754560717619219",
+  "plain_text": "被抓出门吃饭现在在回家路上。就9点来播一下，播啥呀！！我脑袋好空啊！！！",
+  "images": [],
+  "stats": {
+    "likes": 306,
+    "comments": 24,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "3e5f6517-ea40-486e-ac68-382c1965d6d3",
+    "next_uuid": "09edc9c9-543b-48d3-b603-01158d1a8e31"
+  }
+}

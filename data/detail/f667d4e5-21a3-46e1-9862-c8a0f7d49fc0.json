@@ -1,0 +1,28 @@
+{
+  "uuid": "f667d4e5-21a3-46e1-9862-c8a0f7d49fc0",
+  "platform_post_id": "1198250323211190274",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-04T01:03:14+08:00",
+  "source_url": "https://t.bilibili.com/1198250323211190274",
+  "plain_text": "晚安晚安嗓子好累了[岁己收藏集表情包_倒了]会不会我们的人生也有另一个世界线呢",
+  "images": [],
+  "stats": {
+    "likes": 212,
+    "comments": 41,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "6696f53b-00ad-4a64-9c2f-c42f909ed112",
+    "next_uuid": "79013c85-fab6-4f44-9135-5e7a68a7452d"
+  }
+}

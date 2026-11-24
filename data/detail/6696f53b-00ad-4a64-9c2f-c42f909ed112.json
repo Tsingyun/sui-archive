@@ -1,0 +1,28 @@
+{
+  "uuid": "6696f53b-00ad-4a64-9c2f-c42f909ed112",
+  "platform_post_id": "1198172807644577809",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2026-05-03T20:02:26+08:00",
+  "source_url": "https://t.bilibili.com/1198172807644577809",
+  "plain_text": "刚到家！为什么游泳之后眼睛一直很想闭上[岁己收藏集表情包_呼]8:15来！",
+  "images": [],
+  "stats": {
+    "likes": 204,
+    "comments": 15,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "97325a1f-99ed-4d87-80bf-6625b69adb6f",
+    "next_uuid": "f667d4e5-21a3-46e1-9862-c8a0f7d49fc0"
+  }
+}

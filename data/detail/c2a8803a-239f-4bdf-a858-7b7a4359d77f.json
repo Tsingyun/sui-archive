@@ -1,0 +1,28 @@
+{
+  "uuid": "c2a8803a-239f-4bdf-a858-7b7a4359d77f",
+  "platform_post_id": "763704254108008456",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2023-02-18T00:42:33+08:00",
+  "source_url": "https://t.bilibili.com/763704254108008456",
+  "plain_text": "wanan",
+  "images": [],
+  "stats": {
+    "likes": 293,
+    "comments": 54,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "751ad32d-2eb3-4d17-a52a-2b8c17d0cc99",
+    "next_uuid": "5f0786a6-0a22-4a18-828a-1bd3bce0aab6"
+  }
+}

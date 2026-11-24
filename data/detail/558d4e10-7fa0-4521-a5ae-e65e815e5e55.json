@@ -1,0 +1,28 @@
+{
+  "uuid": "558d4e10-7fa0-4521-a5ae-e65e815e5e55",
+  "platform_post_id": "1086100373358247974",
+  "platform_name": "哔哩哔哩",
+  "post_type": "text",
+  "published_at": "2025-07-05T19:44:09+08:00",
+  "source_url": "https://t.bilibili.com/1086100373358247974",
+  "plain_text": "刚到家 卸个妆就来 8:10捏",
+  "images": [],
+  "stats": {
+    "likes": 231,
+    "comments": 49,
+    "forwards": 0,
+    "views": null
+  },
+  "is_repost": false,
+  "repost": {
+    "author_name": null,
+    "author_url": null,
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "22c4d6f4-364a-44d4-ac7c-52c24112d933",
+    "next_uuid": "4cb90753-98ce-4db2-b4c9-6156a663f061"
+  }
+}

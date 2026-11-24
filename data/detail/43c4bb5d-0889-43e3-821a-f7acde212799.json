@@ -1,0 +1,38 @@
+{
+  "uuid": "43c4bb5d-0889-43e3-821a-f7acde212799",
+  "platform_post_id": "1201474129937563673",
+  "platform_name": "哔哩哔哩",
+  "post_type": "repost",
+  "published_at": "2026-05-12T17:33:15+08:00",
+  "source_url": "https://t.bilibili.com/1201474129937563673",
+  "plain_text": "属于你和我的夏天又到来了",
+  "images": [
+    {
+      "filename": "1201474129937563673_100@repost.png",
+      "width": 2048,
+      "height": 2048,
+      "file_size": 2628385,
+      "mime_type": "image/png",
+      "is_cover": false,
+      "is_repost_media": true
+    }
+  ],
+  "stats": {
+    "likes": 234,
+    "comments": 19,
+    "forwards": 1,
+    "views": null
+  },
+  "is_repost": true,
+  "repost": {
+    "author_name": "siu笨这样_",
+    "author_url": "https://space.bilibili.com/89479870",
+    "text": null,
+    "source_url": null
+  },
+  "tags": [],
+  "related": {
+    "prev_uuid": "dc509df0-8246-4c1f-b23f-6c93f0f70c6f",
+    "next_uuid": "f6403263-60dd-40b1-a89b-b01305fe7240"
+  }
+}
